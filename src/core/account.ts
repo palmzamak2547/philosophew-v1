@@ -25,7 +25,7 @@ const KEY = 'pw.acct';
 // comes back when its own reader signs in here again. A reader once signed out, signed in with a new account and found
 // the old account's whole notebook merged into it.
 const OWNER = 'pw.owner', LEFT = 'pw.left';
-const PULL_EVERY = 10 * 60e3, PUSH_AFTER = 10e3, PUSH_GAP = 60e3, KEEPALIVE_MAX = 60 * 1024;
+const PULL_EVERY = 30e3, PUSH_AFTER = 10e3, PUSH_GAP = 60e3, KEEPALIVE_MAX = 60 * 1024;
 
 /** A refusal from the account API, by its code: the page says it in the reader's language (src/ui/signin.ts). */
 export class AcctError extends Error {

@@ -77,6 +77,7 @@ export function merge(local: unknown, remote: unknown): State {
     finish: union(a.finish, b.finish, (x, y) => (RANK[x] >= RANK[y] ? x : y)),
     authors: union(a.authors, b.authors, Math.min), // when each thinker was first met
     notes,
+    reflected: union(a.reflected, b.reflected, Math.min),
     pushes: Math.max(a.pushes, b.pushes),
     milestones: [...new Set([...a.milestones, ...b.milestones])].sort((x, y) => x - y),
     oil: same ? Math.min(a.oil, b.oil) : late.oil,

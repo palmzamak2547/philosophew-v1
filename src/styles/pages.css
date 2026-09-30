@@ -63,7 +63,7 @@ html.has-ritual #app { opacity: 0; pointer-events: none; }
 .ritual.is-lit .today__line .w { opacity: 1; transform: none; filter: none; }
 .today__sub { max-width: 46ch; padding: 2px 0; font: italic 400 clamp(15px, 3.7vw, 18px)/1.55 var(--f-quote); color: var(--ink-2); }
 .today__by { display: flex; align-items: center; gap: 12px; padding: 2px 0; font: 650 15px/1.4 var(--f-ui); }
-.today__face { width: 46px; height: 46px; flex: none; border-radius: 50%; }
+.today__face { width: 46px; height: 46px; flex: none; border-radius: 50%; --c-paper: #EFE4D2; } /* printed on paper in any theme: a dark page multiplied the face to black */
 .today__acts { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 4px; }
 .today__keep[disabled] { opacity: 0.6; }
 .today__same { font: 500 13px/1.5 var(--f-ui); color: var(--ink-3); }
@@ -110,7 +110,7 @@ html.has-ritual #app { opacity: 0; pointer-events: none; }
   .ritual *, .ritual *::before { transition-duration: 0.01s !important; transition-delay: 0s !important; animation: none !important; }
 }
 
-.toast--lamp { background: linear-gradient(120deg, #2a1608, #4a2410); }
+.toast--lamp { background: linear-gradient(120deg, #2a1608, #4a2410); color: #FFF3E3; } /* its own ink: the room's paper is dark in the dark rooms, and it read dark on brown there */
 .toast--lamp svg { color: #FFB25A; }
 .toast__undo { margin-left: auto; min-height: 36px; font: 700 14px/1 var(--f-ui); color: #FFD27A; padding: 8px 12px; border-radius: 8px; }
 
@@ -194,6 +194,13 @@ html.has-ritual #app { opacity: 0; pointer-events: none; }
 .cal__dot--lit { background: #FF8A2A; }
 .cal__dot--oil { border: 2px solid color-mix(in oklab, var(--ember) 55%, var(--card)); }
 .me__card { margin: 0 0 12px; }
+/* a wide screen: the lamp's calendar, reminder and breath on the left, the level, stats and account on the right (in one
+   column they left most of the page empty beside a 420 px calendar) */
+@media (min-width: 980px) {
+  .me__top { display: grid; grid-template-columns: minmax(0, 420px) minmax(0, 1fr); gap: 0 36px; align-items: start; }
+  .me__a > .cal { margin-top: 0; }
+  .me__b .stats { grid-template-columns: repeat(2, 1fr); }
+}
 .stats { display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; margin: 0 0 26px; }
 @media (min-width: 720px) { .stats { grid-template-columns: repeat(4, 1fr); } }
 .stats > div { padding: 14px 16px; border-radius: var(--r); background: var(--card); border: 1px solid var(--line); }
@@ -371,6 +378,8 @@ html.has-ritual #app { opacity: 0; pointer-events: none; }
 .about__social a { display: inline-block; font: 700 16px/1.4 var(--f-ui); color: var(--ink); text-decoration: none; padding: 11px 0; } /* 44 px to a finger */
 .about__social a:hover { text-decoration: underline; text-underline-offset: 4px; text-decoration-thickness: 1.5px; }
 .about__handle { font-weight: 500; color: var(--ink-3); }
+/* a page to read: one measure, centred (left in the 980 px frame, its right third stood empty) */
+.page.privacy { max-width: calc(68ch + 36px); }
 .about__more, .privacy .about__sec a, .privacy__head a { color: var(--ember-ink); font-weight: 600; text-decoration: none; border-bottom: 1.5px solid color-mix(in oklab, currentColor 40%, transparent); }
 .about__more:hover, .privacy .about__sec a:hover { border-bottom-color: currentColor; }
 .privacy__head { display: grid; gap: 10px; margin: 10px 0 8px; max-width: 70ch; }

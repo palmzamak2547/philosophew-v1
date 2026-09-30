@@ -429,6 +429,7 @@ function noFlames() {
         <a class="btn btn--ember" href="/notes" data-close>${raw(ICON.pen)}${t('ไปที่สมุด', 'Open notebook')}</a>
         <a class="btn btn--ghost" href="/library" data-close>${t('เดินเล่นในหอสมุด', 'Browse the library')}</a>
       </div>
+      <p class="nofire__or">${t('หรือ', 'or')}</p>
       <button class="breathe-cta" data-breathe>${raw(ICON.flame)}<span><b>${t('หายใจกับตะเกียงหนึ่งนาที', 'A minute with the lamp')}</b>${phrases(t('ห้ารอบ ทำตามเปลวไฟ แล้วรับประโยคหนึ่งติดตัวไป', 'Five slow breaths with the flame, then one line to take with you'))}</span></button>
     </div>`, { label: t('ไฟหมด', 'Out of flames') });
   fitPhrases(s.el);

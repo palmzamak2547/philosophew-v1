@@ -1,11 +1,11 @@
 // Draws a quote card to a canvas for sharing (IG post 4:5 or story 9:16). No DOM screenshots,
 // so fonts, Thai line breaks and the duotone portrait come out the same on every phone.
-import type { Author, Quote } from './data';
+import type { Author, Quote, Verify } from './data';
 import type { Finish } from './store';
-import { CARD_TONE, sourceLine, authorName, quoteLines } from '../ui/card';
+import { CARD_TONE, sourceParts, authorName, quoteLines } from '../ui/card';
 import { SCHOOL, L } from '../content/schools';
 import { verifyLabel } from './data';
-import { mark, DHARMA_WHEEL } from '../ui/icons';
+import { mark, DHARMA_WHEEL, ICON } from '../ui/icons';
 import { lifespan } from './time';
 import { t, isEn } from './i18n';
 import { wordsOf } from './thai';
@@ -62,6 +62,31 @@ function wrapAt(ctx: CanvasRenderingContext2D, text: string, maxW: number, lang:
   }
   if (line) out.push(line);
   return out;
+}
+
+const srcFont = (size: number) => `500 ${size}px "Bricolage Grotesque", Anuphan, sans-serif`;
+
+/**
+ * The verify label as the app draws it (card.ts verifyBadge): a pill in the school's accent with its seal, or the info
+ * mark for a line only attributed. The path is drawn by hand: Safari before 16 has no roundRect.
+ */
+async function verifyPill(ctx: CanvasRenderingContext2D, v: Verify, cx: number, top: number, tone: { ink: string; accent: string; dark: boolean }) {
+  const label = verifyLabel(v).th;
+  ctx.font = '600 20px "Bricolage Grotesque", Anuphan, sans-serif';
+  const h = 36, icon = 20, w = ctx.measureText(label).width + icon + 8 + 32, x = cx - w / 2, rr = h / 2;
+  ctx.beginPath();
+  ctx.moveTo(x + rr, top);
+  ctx.arc(x + w - rr, top + rr, rr, -Math.PI / 2, Math.PI / 2);
+  ctx.arc(x + rr, top + rr, rr, Math.PI / 2, Math.PI * 1.5);
+  ctx.closePath();
+  ctx.globalAlpha = tone.dark ? 0.2 : 0.13;
+  ctx.fillStyle = tone.accent;
+  ctx.fill();
+  ctx.globalAlpha = 1;
+  const img = await svgImage(v === 'attributed' ? ICON.info : ICON.seal, tone.accent).catch(() => null);
+  if (img) ctx.drawImage(img, x + 16, top + (h - icon) / 2, icon, icon);
+  ctx.fillStyle = tone.ink;
+  fillAt(ctx, label, x + 16 + icon + 8, top + h / 2 + 7, 'left');
 }
 
 export function svgImage(svg: string, color: string) {
@@ -255,10 +280,23 @@ export async function renderShareCard(q: Quote, a: Author | undefined, finish: F
     fillAt(ctx, line, W / 2, py + ph + 40);
   }
 
+  // the source first, since its rows decide how high the author block sits: the work and its place (two lines at most),
+  // who put it into English on a line of its own, and the verify label as the app shows it, a pill with its seal. As
+  // one run-on line ("... Absurd Walls แปลอังกฤษโดย Justin O'Brien (1955) มีแหล่งอ้างอิง") a reader could not tell
+  // where the title ended
+  const maxW = W - pad * 2;
+  const [where, trans] = sourceParts(q);
+  let srcSize = 22, whereLines: string[] = [];
+  for (; srcSize >= 18; srcSize--) {
+    ctx.font = srcFont(srcSize);
+    whereLines = wrap(ctx, where, maxW, isEn() ? 'en' : 'th');
+    if (whereLines.length <= 2) break;
+  }
+  whereLines = cap(ctx, whereLines, 2, maxW);
+  const srcRows = whereLines.length + (trans ? 1 : 0);
   // the author block is anchored above the brand; its accent rule sits over the name's highest mark (the stacked marks
   // of เล่าจื๊อ reach higher than a Latin capital) and is the floor of the quote's room
-  const by = H - 200 - (story ? 150 : 80);
-  const maxW = W - pad * 2;
+  const by = H - 200 - (story ? 150 : 80) - Math.max(0, srcRows - 1) * 30 - 44; // and the pill's row
   const name = authorName(a, q.author);
   let nameSize = 46;
   ctx.font = nameFont(nameSize);
@@ -285,17 +323,11 @@ export async function renderShareCard(q: Quote, a: Author | undefined, finish: F
   ctx.fillStyle = tone.dark ? 'rgba(240,232,218,.7)' : 'rgba(0,0,0,.6)';
   const years = a ? lifespan(a.born, a.died, a.circa) : '';
   fillAt(ctx, [isEn() ? '' : a?.en, years].filter(Boolean).join('   '), W / 2, by + 70);
-  // the source in two lines (three on a story, which has the room): a long one (a talk, the book it was printed in, its
-  // translator) sets a little smaller before anything is cut, and a cut says so
-  const src = `${sourceLine(q)}   ${verifyLabel(q.verify).th}`;
-  const most = story ? 3 : 2;
-  let srcLines: string[] = [];
-  for (let size = 22; size >= 18; size--) {
-    ctx.font = `500 ${size}px "Bricolage Grotesque", Anuphan, sans-serif`;
-    srcLines = wrap(ctx, src, maxW, isEn() ? 'en' : 'th');
-    if (srcLines.length <= most) break;
-  }
-  cap(ctx, srcLines, most, maxW).forEach((l, i) => fillAt(ctx, l, W / 2, by + 112 + i * 30));
+  ctx.font = srcFont(srcSize);
+  let y = by + 112;
+  for (const l of whereLines) { fillAt(ctx, l, W / 2, y); y += 30; }
+  if (trans) { fillAt(ctx, trans, W / 2, y); y += 30; }
+  await verifyPill(ctx, q.verify, W / 2, y + 2, tone);
 
   // brand
   const m = await svgImage(mark({ size: 64, top: tone.accent, bottom: tone.ink }), tone.ink).catch(() => null);

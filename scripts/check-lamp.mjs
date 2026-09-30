@@ -130,3 +130,20 @@ assert.ok(setThai('จุดแล้ว 23 ดวง').replace(/\u2060/g, '').s
 console.log('number words: all checks passed');
 assert.ok(runs('we reach the\u00a0conclusions\u2060.').filter(([, h]) => h).map(([x]) => x).join('|').includes('the\u00a0conclusions'), 'a no-break space joins its neighbours into the held run');
 console.log('no-break ties: all checks passed');
+
+// a line's reflection earns its 25 XP once, ever: removing the line and keeping it again never earns it twice
+{
+  const { saveNote, removeNote } = await import('../src/core/game.ts');
+  const { store } = await import('../src/core/store.ts');
+  store.reset();
+  const q = { id: 'q-reflect', school: 'stoic', author: 'seneca', th: '', en: '', tags: [] };
+  const words = 'a reflection long enough to count as one, written with care';
+  saveNote(q, words, 'paper');
+  const once = store.s.xp;
+  assert.ok(once >= 25, 'the first reflection earns');
+  removeNote(q.id);
+  saveNote(q, words, 'paper');
+  assert.equal(store.s.xp, once, 'kept again after removing it: nothing more');
+  store.reset();
+}
+console.log('reflections earn once: all checks passed');

@@ -254,8 +254,10 @@ export function saveNote(q: Quote, text: string, finish: Finish) {
       s.rekindle = null;
       rekindled = s.streak;
     }
-    if (note.text.length >= REFLECT_MIN && !note.rewarded) {
+    // once per line, ever: a line removed and kept again earned its 25 XP again (and a flame) each time
+    if (note.text.length >= REFLECT_MIN && !note.rewarded && !s.reflected[q.id]) {
       note.rewarded = true;
+      s.reflected[q.id] = now;
       gainXp(s, 25);
       if (s.reflectToday < REFLECT_DAILY && s.flames < FLAME_CAP) {
         s.reflectToday += 1;
@@ -275,7 +277,11 @@ export function saveNote(q: Quote, text: string, finish: Finish) {
 
 /** Out of the notebook, on every device: the removal is remembered, so a copy elsewhere does not bring the line back. */
 export function removeNote(quoteId: string) {
-  store.update((s) => { delete s.notes[quoteId]; s.removed[quoteId] = Date.now(); });
+  store.update((s) => {
+    if (s.notes[quoteId]?.rewarded) s.reflected[quoteId] ??= Date.now(); // a line rewarded before this record existed
+    delete s.notes[quoteId];
+    s.removed[quoteId] = Date.now();
+  });
 }
 
 /** Undo a removal: the line as it was, and the removal forgotten. */

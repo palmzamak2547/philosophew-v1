@@ -266,6 +266,7 @@ export async function meView() {
   screen.innerHTML = html`
     <section class="page me">
       ${part('hero')}
+      <div class="me__top"><div class="me__a">
       ${part('cal')}
       <div class="remind">
         <label class="remind__label" for="remind-at">${t('เตือนให้มาจุดตะเกียงทุกวัน', 'A daily nudge to light your lamp')}</label>
@@ -273,10 +274,12 @@ export async function meView() {
         <div class="remind__row"><input id="remind-at" type="time" value="${remindAt}" class="input remind__time" data-remind-at><button class="btn btn--light btn--sm" data-remind>${raw(ICON.download)}${t('เพิ่มลงปฏิทิน', 'Add to calendar')}</button></div>
       </div>
       <button class="breathe-cta" data-breathe>${raw(ICON.flame)}<span><b>${t('หายใจกับตะเกียงหนึ่งนาที', 'A minute with the lamp')}</b>${phrases(t('ห้ารอบ ทำตามเปลวไฟ แล้วรับประโยคหนึ่งติดตัวไป', 'Five slow breaths with the flame, then one line to take with you'))}</span></button>
+      </div><div class="me__b">
       ${part('level')}
       <button class="btn btn--light btn--sm me__card" data-profile>${raw(ICON.share)}${t('การ์ดปรัชญาของฉัน', 'My philosophy card')}</button>
       ${part('stats')}
       ${part('acct')}
+      </div></div>
       ${part('coll')}
       <section class="settings panel">
         <h2 class="h2">${t('ตั้งค่า', 'Settings')}</h2>

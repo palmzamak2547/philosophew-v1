@@ -104,8 +104,10 @@ api.get('/posts', async (c) => {
     `select id, quote_id, school, body, name, phew, created_at from pw.posts
      where status = 'approved' and ($1::text is null or school = $1) and ($2::timestamptz is null or created_at < $2)
      order by created_at desc limit 25`, [s, b]);
-  c.header('Cache-Control', 'public, max-age=30, s-maxage=60, stale-while-revalidate=600');
-  c.header('CDN-Cache-Control', 'max-age=60, stale-while-revalidate=600');
+  // near real time: two seconds at the edge only gathers a burst of readers into one read (a feed up to ten minutes old
+  // showed readers their own phews gone); the browser keeps nothing
+  c.header('Cache-Control', 'public, max-age=0, s-maxage=2, stale-while-revalidate=2');
+  c.header('CDN-Cache-Control', 'max-age=2, stale-while-revalidate=2');
   return c.json({ posts: rows.slice(0, 24), more: rows.length > 24 });
 });
 

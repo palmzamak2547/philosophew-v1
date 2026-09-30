@@ -232,15 +232,25 @@ export function ritual(): Promise<Ritual> {
       phase = 'out';
       stopScene();
       root.classList.add('is-skipped');
+      keepTone();
       dawn();
       void beforeLamp.wait().then(() => finish(checkIn(), 0));
     });
 
     // ---------- breathe out ----------
+    // The colours the light ends in stay with the ritual until it leaves. The hall is built behind it and takes its
+    // room's tone at once: a light room in a dark theme turned today's line dark on dark (and a dark room in a light
+    // theme would turn it light on light).
+    const keepTone = () => {
+      const cs = getComputedStyle(document.documentElement);
+      for (const v of ['--s-bg', '--s-bg2', '--s-ink', '--s-accent', '--paper', '--paper-2', '--card', '--ink', '--ink-2', '--ink-3', '--line', '--line-2', '--ember-ink']) root.style.setProperty(v, cs.getPropertyValue(v).trim());
+      root.style.colorScheme = cs.colorScheme;
+    };
     // the page colour from the token, not from the body: on a lamp day the body is painted dark until dawn()
     const paper = () => getComputedStyle(document.documentElement).getPropertyValue('--s-bg').trim() || '#F3EDE2';
     const exhale = async () => {
       phase = 'out';
+      keepTone();
       lampSound.release();
       haptic([12, 30, 12]);
       root.classList.add('is-out');

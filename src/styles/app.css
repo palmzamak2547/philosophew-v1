@@ -115,6 +115,8 @@ body[data-chrome="immersive"] .nav { display: none; }
 .empty { display: grid; justify-items: center; text-align: center; gap: 12px; padding: 48px 16px; border: 1.5px dashed var(--line-2); border-radius: var(--r-l); }
 .empty .btn { margin-top: 6px; }
 .row-actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 16px; }
+/* in a centred block, buttons that wrap stay centred too (English wraps where Thai fits, and fell to the left) */
+:is(.nofire, .empty, .levelup) .row-actions { justify-content: center; }
 .kv { display: grid; grid-template-columns: max-content 1fr; gap: 6px 14px; margin: 12px 0; font-size: 15px; }
 .kv dt { color: var(--ink-3); }
 .kv dd { margin: 0; }
@@ -464,6 +466,14 @@ html.has-reveal body { overflow: hidden; }
 .nofire__lamp { width: 72px; height: 72px; color: var(--ink-3); }
 .nofire__lamp svg { width: 100%; height: 100%; }
 .nofire p { max-width: 38ch; color: var(--ink-2); }
+/* the lamp is a third way, quieter than the two buttons and set apart from them: an "or" rule, then a warm card on the
+   sheet's own paper (the dark lamp card of /me read as a toast stuck under the buttons here) */
+.nofire__or { display: flex; align-items: center; gap: 12px; width: min(100%, 420px); margin: 10px 0 -2px; font: 600 13px/1.4 var(--f-ui); color: var(--ink-3); }
+.nofire__or::before, .nofire__or::after { content: ''; flex: 1; height: 1px; background: var(--line-2); }
+.nofire .breathe-cta { margin: 0; width: min(100%, 420px); background: color-mix(in oklab, var(--ember) 7%, var(--card)); color: var(--ink); box-shadow: inset 0 0 0 1px color-mix(in oklab, var(--ember) 26%, transparent); }
+.nofire .breathe-cta svg { color: var(--ember); }
+.nofire .breathe-cta > span { opacity: 1; color: var(--ink-2); }
+.nofire .breathe-cta b { color: var(--ink); }
 .levelup { justify-items: center; text-align: center; position: relative; padding: 12px 0 4px; overflow: hidden; }
 .levelup__num { font: 900 108px/1 var(--f-display); color: var(--ember); font-variation-settings: 'opsz' 144; animation: pop 0.8s var(--spring) both; }
 @keyframes pop { from { transform: scale(0.3); opacity: 0; } }
@@ -491,6 +501,9 @@ html.has-reveal body { overflow: hidden; }
 .post__who { font-weight: 700; min-width: 0; overflow-wrap: anywhere; } /* a long name yields; the time and the phew keep their size */
 .post__foot .muted { flex: none; white-space: nowrap; }
 .post__foot .phew { flex: none; margin-left: auto; }
+/* the reader's own post, not read by a moderator yet: dashed like a draft, with a word on why only they see it */
+.post--waiting { border-style: dashed; border-color: color-mix(in oklab, var(--ember) 45%, var(--line-2)); }
+.post__wait { flex: none; margin-left: auto; padding: 5px 11px; border-radius: 99px; font: 600 12.5px/1.35 var(--f-ui); color: var(--ember-ink); background: color-mix(in oklab, var(--ember) 10%, transparent); text-align: right; }
 .phew { margin-left: auto; display: inline-flex; align-items: center; gap: 8px; padding: 6px 12px 6px 10px; border-radius: 99px; border: 1.5px solid var(--line-2); font: 700 13px/1 var(--f-ui); transition: background-color 0.2s, border-color 0.2s; }
 .phew__puff { font: italic 800 14px/1 var(--f-display); }
 .phew.is-on { background: color-mix(in oklab, var(--ember) 14%, transparent); border-color: var(--ember); color: var(--ember); }

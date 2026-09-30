@@ -16,6 +16,7 @@ const ctx = await browser.newContext({
   viewport: mobile ? { width: 390, height: 844 } : { width: 1440, height: 900 },
   deviceScaleFactor: mobile && !flag('video') ? 2 : 1,
   reducedMotion: flag('reduced') ? 'reduce' : 'no-preference',
+  colorScheme: flag('dark') ? 'dark' : 'light',
   locale: flag('en') ? 'en-US' : 'th-TH',
   timezoneId: flag('en') ? 'Europe/London' : 'Asia/Bangkok',
   ...(flag('video') ? { recordVideo: { dir: out, size: mobile ? { width: 390, height: 844 } : { width: 1440, height: 900 } } } : {}),

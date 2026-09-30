@@ -30,6 +30,7 @@ export interface State {
   finish: Record<string, Finish>;
   authors: Record<string, number>;
   notes: Record<string, Note>;
+  reflected: Record<string, number>; // lines whose reflection earned its XP once (game.ts saveNote): removing a line never earns it again
   pushes: number;
   milestones: number[]; // streak lengths already celebrated; lamp totals are stored negated (-10, -50...)
   oil: number; // spare oil, 0 to 2: keeps the lamp alight through a missed day
@@ -78,6 +79,7 @@ const fresh = (): State => ({
   finish: {},
   authors: {},
   notes: {},
+  reflected: {},
   pushes: 0,
   milestones: [],
   oil: 0,
@@ -124,7 +126,7 @@ export function clean(raw: unknown): State {
     xp: nat(s.xp), flames: nat(s.flames), day: DAY.test(str(s.day)) ? str(s.day) : '',
     streak: nat(s.streak), best: nat(s.best), reflectToday: nat(s.reflectToday), sharedToday: nat(s.sharedToday),
     pulls: nat(s.pulls), pity: nat(s.pity),
-    seen: rec(s.seen, isNum), finish: rec(s.finish, isFinish), authors: rec(s.authors, isNum), notes,
+    seen: rec(s.seen, isNum), finish: rec(s.finish, isFinish), authors: rec(s.authors, isNum), notes, reflected: rec(s.reflected, isNum),
     pushes: nat(s.pushes),
     milestones: Array.isArray(s.milestones) ? s.milestones.filter(isNum) : [],
     oil: Math.min(2, nat(s.oil)), lit: nat(s.lit),

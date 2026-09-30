@@ -55,8 +55,9 @@ export function wordsOf(phrase: string): string[] {
 }
 
 // ๆ and ฯ, and a particle standing alone after a space, belong to the phrase before them: จริง ๆ, ประหลาด ๆ ด้วย.
-// The space stays (it is how Thai writes ๆ) but becomes one no line may break at.
-const LEAN = /^([ๆฯ]|(หรอก|นะ|ครับ|ค่ะ|คะ|จ้ะ|จ๊ะ|เถอะ|ล่ะ|สิ|เลย|ด้วย|ไหม|มั้ย|เอง|แหละ|น่ะ)$)/;
+// The space stays (it is how Thai writes ๆ) but becomes one no line may break at. A particle may close a quotation or
+// a sentence (ใจเย็นๆ นะ”): the marks after it are still its own, or Firefox opened the last line with นะ”.
+const LEAN = /^([ๆฯ]|(หรอก|นะ|ครับ|ค่ะ|คะ|จ้ะ|จ๊ะ|เถอะ|ล่ะ|สิ|เลย|ด้วย|ไหม|มั้ย|เอง|แหละ|น่ะ)[”"’'.!?…)\]]*$)/;
 const lean = (text: string) => text.replace(/[ \t\n\r]+(\S+)/g, (m, word: string) => (LEAN.test(word) ? '\u00a0' + word : m));
 
 // a number keeps its unit (12 วัน) and its label (Best: 14); initials and particles keep the name they belong to

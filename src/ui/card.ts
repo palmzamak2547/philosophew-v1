@@ -32,7 +32,12 @@ export const nameHtml = (a: Author | undefined, fallback = '') => phrases(author
 /** A quote in running text, in its marks, set in phrases. */
 export const quoteHtml = (text: string) => phrases(`“${text}”`);
 /** The main quote line in the reader's language, plus the line under it. */
-export const quoteLines = (q: Quote) => (isEn() ? { main: smart(q.en), sub: q.orig?.text ? smart(q.orig.text) : null, mainLang: 'en', subLang: q.orig?.lang || 'en' } : { main: smart(q.th), sub: smart(q.en), mainLang: 'th', subLang: 'en' });
+/**
+ * The line under the quote is a quotation too (its English, or its original): it wears marks of its own, or it read as
+ * the quote running on (a reader said so). A mark inside it turns single: “... the ‘why’ arises”.
+ */
+const quoted = (s: string) => `“${s.replace(/^[“"]+|[”"]+$/g, '').replace(/“/g, '‘').replace(/”/g, '’')}”`;
+export const quoteLines = (q: Quote) => (isEn() ? { main: smart(q.en), sub: q.orig?.text ? quoted(smart(q.orig.text)) : null, mainLang: 'en', subLang: q.orig?.lang || 'en' } : { main: smart(q.th), sub: quoted(smart(q.en)), mainLang: 'th', subLang: 'en' });
 
 export function portrait(a: Author | undefined, cls = '') {
   const p = a?.portrait;

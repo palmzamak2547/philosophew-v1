@@ -11,7 +11,11 @@ import { sfx } from '../core/audio';
 import { t, isEn } from '../core/i18n';
 
 const MY_POSTS = 'pw.myposts';
-const myPosts = (): { id: string; quote: string; at: number }[] => { try { return JSON.parse(localStorage.getItem(MY_POSTS) || '[]'); } catch { return []; } };
+// the reader's own posts, with their words, so one still waiting for the moderator stands at the top of the feed for them
+// (sent, then gone from sight until approved, a post looked lost). Kept three days; approved, it is the feed's own.
+interface Mine { id: string; quote: string; at: number; body?: string; name?: string | null; school?: string }
+const myPosts = (): Mine[] => { try { return JSON.parse(localStorage.getItem(MY_POSTS) || '[]'); } catch { return []; } };
+const WAITING = 3 * 86400e3;
 
 export function openComposer(q: Quote, a: Author | undefined) {
   const note = store.s.notes[q.id]?.text || '';
@@ -62,10 +66,11 @@ export function openComposer(q: Quote, a: Author | undefined) {
     try {
       const r = await agoraApi.submit({ quote_id: q.id, school: q.school, body, name: useName ? nm : null, hp: f.querySelector<HTMLInputElement>('.hp')!.value });
       if (useName) store.update((st) => { st.settings.name = nm; });
-      try { localStorage.setItem(MY_POSTS, JSON.stringify([{ id: r.id, quote: q.id, at: Date.now() }, ...myPosts()].slice(0, 100))); } catch { /* ok */ }
+      try { localStorage.setItem(MY_POSTS, JSON.stringify([{ id: r.id, quote: q.id, at: Date.now(), body, name: useName ? nm : null, school: q.school }, ...myPosts()].slice(0, 100))); } catch { /* ok */ }
       sfx.stamp();
       s.close();
-      toast(t('ส่งแล้ว ผู้ดูแลจะอ่านก่อนขึ้นอะกอรา', 'Sent. A moderator will read it before it goes up.'), ICON.check, 3400);
+      toast(t('ส่งแล้ว ผู้ดูแลจะอ่านก่อนขึ้นอะกอรา ระหว่างนี้คุณเห็นโพสต์ของคุณได้ที่อะกอรา', 'Sent. A moderator reads it before it goes up; meanwhile you can see it in the Agora.'), ICON.check, 4200);
+      if (location.pathname === '/agora') location.reload(); // on the Agora already: it stands at the top now
     } catch (x) {
       err.textContent = x instanceof ApiError ? x.message : t('ส่งไม่สำเร็จ ลองใหม่อีกครั้ง', 'Could not send. Try again.');
       err.hidden = false;
@@ -84,10 +89,10 @@ const ago = (iso: string) => {
   return new Date(iso).toLocaleDateString(isEn() ? 'en-GB' : 'th-TH', { day: 'numeric', month: 'short', year: 'numeric' });
 };
 
-export function postCard(p: Post, q: Quote | undefined, a: Author | undefined, phewed: boolean) {
+export function postCard(p: Post, q: Quote | undefined, a: Author | undefined, phewed: boolean, waiting = false) {
   const school = isSchool(p.school) ? p.school : 'stoic';
   return html`
-  <article class="post" style="${toneStyle(school)}">
+  <article class="post${waiting ? ' post--waiting' : ''}" style="${toneStyle(school)}">
     ${q ? html`<a class="post__quote" href="/q/${p.quote_id}">
       ${portrait(a, 'post__portrait')}
       <div><p class="post__q">${quoteHtml(quoteLines(q).main)}</p><p class="post__a">${nameHtml(a)}</p></div>
@@ -96,15 +101,29 @@ export function postCard(p: Post, q: Quote | undefined, a: Author | undefined, p
     <footer class="post__foot">
       <span class="post__who">${p.name || t('ไม่ระบุชื่อ', 'Anonymous')}</span>
       <span class="muted">${ago(p.created_at)}</span>
-      <button class="phew ${phewed ? 'is-on' : ''}" data-phew="${p.id}" aria-pressed="${phewed}" aria-label="${t('ส่ง phew ให้โพสต์นี้', 'Send a phew')}">
+      ${waiting ? html`<span class="post__wait">${t('รอผู้ดูแลอ่าน ตอนนี้เห็นแค่คุณ', 'Waiting for a moderator. Only you can see it for now.')}</span>` : html`<button class="phew ${phewed ? 'is-on' : ''}" data-phew="${p.id}" aria-pressed="${phewed}" aria-label="${t('ส่ง phew ให้โพสต์นี้', 'Send a phew')}" title="${t('อ่านแล้วใจเบาลง ส่ง phew ให้เขา', 'It let you breathe easier: send a phew')}">
         <span class="phew__puff" aria-hidden="true">phew</span><b class="num">${fmt(p.phew)}</b>
-      </button>
+      </button>`}
     </footer>
   </article>`;
 }
 
+// The posts this device phewed, with the count it last saw after its phew. The feed comes from the edge (it was up to
+// ten minutes old, now two seconds), so a reader who phewed and came back saw their own phew gone (an orange 0): a post shows at least
+// the count seen after the phew. An older device kept a list of ids only: each of those counts as 1.
 const PHEWED = 'pw.phewed';
-const phewed = (): string[] => { try { return JSON.parse(localStorage.getItem(PHEWED) || '[]'); } catch { return []; } };
+function phewed(): Record<string, number> {
+  let v: unknown;
+  try { v = JSON.parse(localStorage.getItem(PHEWED) || '{}'); } catch { return {}; }
+  if (Array.isArray(v)) return Object.fromEntries(v.filter((x) => typeof x === 'string').map((id) => [id, 1]));
+  return v && typeof v === 'object' ? (v as Record<string, number>) : {};
+}
+function remember(id: string, n: number) {
+  const all = phewed();
+  all[id] = Math.max(all[id] ?? 0, n);
+  const keep = Object.entries(all).slice(-500); // the newest 500
+  try { localStorage.setItem(PHEWED, JSON.stringify(Object.fromEntries(keep))); } catch { /* ok */ }
+}
 
 export async function agoraView() {
   setTone(null);
@@ -117,6 +136,7 @@ export async function agoraView() {
         <p class="label th">${t('อะกอรา', 'The Agora')}</p>
         <h1 class="h1">${t('ลานแลกความคิด', 'Where thoughts are traded')}</h1>
         <p class="muted">${t('คนอ่านคำคมเดียวกัน แต่คิดไม่เหมือนกัน ผู้ดูแลอ่านทุกโพสต์ก่อนขึ้นที่นี่', 'Same quote, different minds. Every post is read by a moderator before it appears.')}</p>
+        <p class="agora__phew muted small">${t('เจอโพสต์ที่อ่านแล้วใจเบาลง กด phew ให้เขาได้เลย', 'A post that let you breathe easier? Send it a phew.')}</p>
         <button class="btn btn--ember agora__write" data-write>${raw(ICON.pen)}${t('เขียนโพสต์', 'Write a post')}</button>
       </header>
       <div class="chips" role="tablist" aria-label="${t('กรองตามสำนัก', 'Filter by school')}">
@@ -141,8 +161,14 @@ export async function agoraView() {
       const r = await agoraApi.feed({ school: school || undefined, before: before || undefined });
       if (!alive) return;
       if (reset) feed.innerHTML = '';
-      const ph = new Set(phewed());
-      feed.insertAdjacentHTML('beforeend', r.posts.map((p) => postCard(p, qmap.get(p.quote_id), authors[qmap.get(p.quote_id)?.author || ''], ph.has(p.id)).s).join(''));
+      const ph = phewed();
+      // the reader's own posts still waiting: first, marked, only on this device (a moderator has not read them yet)
+      if (reset) {
+        const seen = new Set(r.posts.map((p) => p.id));
+        const wait = myPosts().filter((m) => m.body && !seen.has(m.id) && Date.now() - m.at < WAITING && (!school || m.school === school));
+        feed.insertAdjacentHTML('beforeend', wait.map((m) => postCard({ id: m.id, quote_id: m.quote, school: m.school || 'stoic', body: m.body!, name: m.name ?? null, phew: 0, created_at: new Date(m.at).toISOString() }, qmap.get(m.quote), authors[qmap.get(m.quote)?.author || ''], false, true).s).join(''));
+      }
+      feed.insertAdjacentHTML('beforeend', r.posts.map((p) => postCard(ph[p.id] ? { ...p, phew: Math.max(p.phew, ph[p.id]) } : p, qmap.get(p.quote_id), authors[qmap.get(p.quote_id)?.author || ''], p.id in ph).s).join(''));
       if (!feed.children.length) {
         if (!school) today = await todaysLine().catch(() => null);
         if (!alive) return;
@@ -176,10 +202,12 @@ export async function agoraView() {
       ph.classList.add('is-on', 'is-pop');
       ph.setAttribute('aria-pressed', 'true');
       const b = ph.querySelector('b')!;
-      b.textContent = fmt(Number(b.textContent!.replace(/,/g, '')) + 1);
+      const seen = Number(b.textContent!.replace(/,/g, '')) + 1;
+      b.textContent = fmt(seen);
       sfx.pop();
-      try { localStorage.setItem(PHEWED, JSON.stringify([id, ...phewed()].slice(0, 500))); } catch { /* ok */ }
-      agoraApi.phew(id).catch(() => { /* keep the optimistic count; the server dedupes */ });
+      remember(id, seen);
+      // the server's own count once it answers (it may hold others' phews the cached feed has not caught up with)
+      agoraApi.phew(id).then((r) => { b.textContent = fmt(Math.max(seen, r.phew)); remember(id, r.phew); }, () => { /* keep the optimistic count; the server dedupes */ });
     }
   };
   screen.addEventListener('click', click);
