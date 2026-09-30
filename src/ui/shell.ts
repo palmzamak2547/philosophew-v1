@@ -111,6 +111,7 @@ export function mountShell(onLang: () => void) {
   on(document, 'click', '[data-lang]', () => switchLang());
   on(document, 'click', '[data-signin]', () => void import('./signin').then((m) => m.openSignIn()).then(paint, () => toast(t('เปิดหน้าเข้าสู่ระบบไม่ได้ ลองใหม่อีกครั้ง', 'Could not open sign-in. Try again.'))));
   addEventListener('storage', (e) => { if (e.key === 'pw.acct') paint(); });
+  addEventListener('pw:grant', paint); // this tab's own sync brought an unlimited grant (src/core/account.ts pull)
   applyTheme();
 }
 

@@ -291,6 +291,65 @@ register(`data:text/javascript,${encodeURIComponent(`export async function resol
   await t.boot();
   assert.ok(!mem.has('pw.acct') && calls.map((c) => c.path).join() === '/api/auth/logout', 'and it reaches the server at the next visit');
 
+  // signed out for real, the device is left clean (the account has it all): its preferences stay, the reader's go
+  store.restore(withNote('A private'));
+  store.update((s) => { s.settings.theme = 'dark'; s.settings.lang = 'en'; s.settings.name = 'Athens'; s.xp = 900; });
+  t = await tab(A);
+  answer = ok;
+  assert.equal(await t.signOut(), 'out');
+  assert.ok(!store.s.notes.q1 && store.s.xp === 0 && store.s.settings.name === '', 'no notebook, level or Agora name left');
+  assert.ok(store.s.settings.theme === 'dark' && store.s.settings.lang === 'en', 'the device keeps its theme and language');
+  // a change the account never took stays on the device, and the reader is told so
+  store.restore(withNote('A unsent'));
+  t = await tab(A, { dirty: true });
+  answer = (c) => (c.method === 'PUT' ? Response.json({ error: 'server' }, { status: 500 }) : ok());
+  assert.equal(await t.signOut(), 'kept');
+  assert.ok(store.s.notes.q1?.text === 'A unsent' && !mem.has('pw.acct'), 'out, with the unsent line still here');
+  // another tab's change, not in the account yet, reaches it before this page signs out and cleans the device
+  store.restore(withNote('A from the other tab'));
+  t = await tab(A);
+  mem.set('pw.acct', acct(A, { dirty: true })); // written by the other tab after this page loaded
+  answer = (c) => (c.method === 'PUT' ? Response.json({ rev: 2 }) : ok());
+  assert.equal(await t.signOut(), 'out');
+  assert.ok(calls.some((c) => c.method === 'PUT' && c.body.state.notes.q1?.text === 'A from the other tab'), "the other tab's line went to the account first");
+
+  // a reader who signs in where another reader's progress is (kept after a refused write, or a session ended elsewhere)
+  // never receives it: it is set aside whole, and comes back when its own reader signs in here again
+  const cloud = { [A.email]: { state: null, rev: 0 }, [B.email]: { state: null, rev: 0 } };
+  const as = (who) => (c) => {
+    if (c.path === '/api/auth/email/verify') return Response.json(who);
+    const box = cloud[who.email];
+    if (c.path === '/api/state' && c.method === 'GET') return Response.json({ ...box, me: who });
+    if (c.path === '/api/state' && c.method === 'PUT') { box.state = c.body.state; box.rev++; return Response.json({ rev: box.rev }); }
+    return ok();
+  };
+  store.restore(withNote('A kept'));
+  mem.set('pw.owner', A.id);
+  t = await tab(null);
+  answer = as(B);
+  await t.emailVerify(B.email, '000000');
+  assert.deepEqual([texts(), Object.keys(cloud[B.email].state?.notes ?? {})], [[], []], "B's page and B's account hold nothing of A");
+  assert.ok(JSON.parse(mem.get('pw.left'))[A.id].notes.q1.text === 'A kept' && mem.get('pw.owner') === B.id, "A's progress waits aside");
+  answer = as(B);
+  assert.equal(await t.signOut(), 'out');
+  t = await tab(null);
+  answer = as(A);
+  await t.emailVerify(A.email, '000000');
+  assert.ok(texts().includes('A kept') && cloud[A.email].state?.notes.q1?.text === 'A kept', 'A gets it back, here and in the account');
+  assert.ok(!mem.has('pw.left'), 'nothing left aside');
+  answer = as(A);
+  await t.signOut();
+  // progress made before ever signing in is the reader's own: it goes into the account they open
+  store.restore(withNote('played first'));
+  mem.delete('pw.owner');
+  t = await tab(null);
+  cloud[B.email] = { state: null, rev: 0 };
+  answer = as(B);
+  await t.emailVerify(B.email, '000000');
+  assert.equal(cloud[B.email].state?.notes.q1?.text, 'played first');
+  answer = as(B);
+  await t.signOut();
+
   // an answer that set out for A lands after A signed out and C signed in: dropped, never applied, never retried
   store.restore(withNote('A private'));
   t = await tab(A);

@@ -11,7 +11,7 @@ import { t, lang } from '../core/i18n';
 import { dayKey } from '../core/time';
 import { phrases, fitPhrases } from '../core/thai';
 import { couldNotLoad } from './offline';
-import { account, sync, signOut, exportAccount, deleteAccount, type SyncStatus } from '../core/account';
+import { account, sync, signOut, exportAccount, deleteAccount, forgetDevice, type SyncStatus } from '../core/account';
 import { merge } from '../core/merge';
 import { capsules } from './capsules';
 
@@ -354,18 +354,19 @@ export async function meView() {
       return;
     }
     if (what === 'out') {
-      let how: 'out' | 'later';
+      let how: 'out' | 'kept' | 'later';
       try { how = await signOut(); } catch (e) { return void fail(e); } // refused: still signed in, and it says so
       sfx.toggle(false);
       return toast(how === 'later'
         ? t('ออกจากระบบในเครื่องนี้แล้ว จะเสร็จสมบูรณ์เมื่อกลับมาออนไลน์', "Signed out on this device. It finishes once you're back online.")
-        : t('ออกจากระบบแล้ว ข้อมูลในเครื่องนี้ยังอยู่ครบ', 'Signed out. Everything on this device is still here.'), ICON.check, 3600);
+        : how === 'kept' ? t('ออกจากระบบแล้ว บางอย่างยังส่งขึ้นบัญชีไม่ได้ จึงยังเก็บไว้ในเครื่องนี้', 'Signed out. Some changes never reached your account, so they stay on this device.')
+        : t('ออกจากระบบแล้ว ทุกอย่างเก็บอยู่ในบัญชี เข้าสู่ระบบอีกครั้งเมื่อไรก็กลับมาครบ', 'Signed out. Everything is kept in your account and comes back when you sign in.'), ICON.check, 4200);
     }
     const everywhere = what === 'out-all';
     const email = account.me?.email || '';
     const s = sheet(html`<div class="nofire"><h2 class="h1">${everywhere ? t('ออกจากระบบทุกเครื่องไหม', 'Sign out everywhere?') : t('ลบบัญชีเลยไหม', 'Delete your account?')}</h2>
       <p>${everywhere
-        ? t('ทุกเครื่องที่เข้าบัญชีนี้อยู่ รวมถึงเครื่องนี้ จะออกจากระบบ แต่ละเครื่องยังเก็บข้อมูลของตัวเองไว้ และบัญชียังเก็บทุกอย่างไว้ครบ', 'Every device signed in to this account, this one too, will be signed out. Each keeps what is on it, and the account keeps everything.')
+        ? t('ทุกเครื่องที่เข้าบัญชีนี้อยู่ รวมถึงเครื่องนี้ จะออกจากระบบ ส่วนบัญชียังเก็บทุกอย่างไว้ครบ เข้าสู่ระบบอีกครั้งเมื่อไรก็กลับมา', 'Every device signed in to this account, this one too, will be signed out. The account keeps everything, and it all comes back when you sign in.')
         : t(`บัญชี ${email} และทุกอย่างที่เก็บไว้ในบัญชี ทั้งความคืบหน้าและรายชื่อเครื่องที่เข้าอยู่ จะถูกลบถาวรทันที กู้คืนไม่ได้ ส่วนข้อมูลในเครื่องนี้ยังอยู่ ลบได้ที่ “ล้างข้อมูลทั้งหมด”`, `The account ${email} and everything it holds, your progress and the list of your devices, will be deleted for good, right away. There is no undo. What is on this device stays; erase it with “Erase everything”.`)}</p>
       <div class="row-actions"><button class="btn btn--ghost" data-close>${t('ยกเลิก', 'Cancel')}</button><button class="btn" style="--b:var(--bad)" data-really>${everywhere ? t('ออกจากทุกเครื่อง', 'Sign out everywhere') : t('ลบบัญชีถาวร', 'Delete for good')}</button></div></div>`,
     { label: everywhere ? t('ออกจากทุกเครื่อง', 'Sign out everywhere') : t('ลบบัญชี', 'Delete account') });
@@ -420,6 +421,7 @@ export async function meView() {
           }
         }
         store.reset();
+        forgetDevice();
         s.close();
         toast(t('ล้างข้อมูลแล้ว', 'Everything erased'));
       });

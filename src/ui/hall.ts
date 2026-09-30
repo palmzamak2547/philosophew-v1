@@ -268,6 +268,7 @@ async function roomMode(g: Gallery, id: SchoolId, first: boolean) {
   };
   paintFlames();
   const unsub = store.subscribe(paintFlames);
+  addEventListener('pw:grant', paintFlames);
 
   const [pool, authors] = await Promise.all([loadSchool(id), loadAuthors()]);
   const here = [...new Set(pool.map((q) => q.author))];
@@ -382,6 +383,7 @@ async function roomMode(g: Gallery, id: SchoolId, first: boolean) {
     removeEventListener('pointerup', askMotion, { capture: true });
     removeEventListener('click', askMotion, { capture: true });
     unsub();
+    removeEventListener('pw:grant', paintFlames);
     unsubMet();
     open?.close();
     if (document.documentElement.classList.contains('is-pulling')) { document.documentElement.classList.remove('is-pulling'); flushCelebrations(); }

@@ -20,6 +20,11 @@ export type SyncStatus = 'synced' | 'syncing' | 'pending' | 'offline' | 'error';
 interface Note { me: Me; rev: number; dirty: boolean; pulledAt: number; pushedAt: number; logout?: boolean }
 
 const KEY = 'pw.acct';
+// Whose progress this device holds: the account it last synced as (its id, or its address for a note from before ids).
+// A reader who signs in here as anyone else never receives it: it is set aside whole (LEFT, keyed by that owner) and
+// comes back when its own reader signs in here again. A reader once signed out, signed in with a new account and found
+// the old account's whole notebook merged into it.
+const OWNER = 'pw.owner', LEFT = 'pw.left';
 const PULL_EVERY = 10 * 60e3, PUSH_AFTER = 10e3, PUSH_GAP = 60e3, KEEPALIVE_MAX = 60 * 1024;
 
 /** A refusal from the account API, by its code: the page says it in the reader's language (src/ui/signin.ts). */
@@ -52,7 +57,11 @@ function save(force = false) {
   if (!note) return;
   if (!force && !mine()) return stale(); // another tab's reader holds the device now: their note is never overwritten
   note.dirty = dirty();
-  try { localStorage.setItem(KEY, JSON.stringify(note)); stored = true; } catch { /* private mode: this visit still syncs */ }
+  try {
+    localStorage.setItem(KEY, JSON.stringify(note));
+    stored = true;
+    localStorage.setItem(OWNER, note.me.id || note.me.email);
+  } catch { /* private mode: this visit still syncs */ }
 }
 const tell = () => subs.forEach((f) => f());
 function setStatus(s: SyncStatus) { if (s !== status) { status = s; tell(); } }
@@ -120,7 +129,10 @@ async function pull(): Promise<boolean> {
   if (!note) return false;
   note.pulledAt = Date.now();
   note.rev = r.data.rev;
+  const granted = note.me.unlimited === true;
   if (r.data.me && sameReader(r.data.me, note.me)) note.me = r.data.me; // a grant made since sign-in; the id an older note lacked
+  // a grant that arrives with this pull shows at once: the header and the room repaint their flames (they read pw.acct)
+  if ((note.me.unlimited === true) !== granted) { save(); dispatchEvent(new Event('pw:grant')); }
   if (!r.data.state) { save(); await push(); return false; } // a new account: this device's progress is its first copy
   const theirs = clean(r.data.state);
   if (!dirty()) {
@@ -271,10 +283,45 @@ export async function boot() {
 // ---------- signing in ----------
 export interface Joined { me: Me; had: boolean } // had: the account already held progress (from another device)
 
+/** The account whose progress the device holds now, if any: the mark, else the note on the device or on this page. */
+function owner() {
+  const n = note?.me;
+  try { return localStorage.getItem(OWNER) || (read()?.me ? read()!.me.id || read()!.me.email : null) || (n ? n.id || n.email : null); } catch { return n ? n.id || n.email : null; }
+}
+const isOf = (id: string, me: Me) => id === me.id || id === me.email;
+
+/**
+ * Another reader's progress on this device goes aside, whole, until that reader signs in here again (bringBack). If it
+ * cannot be kept (storage full or blocked) the device stays as it is: better merged than lost.
+ */
+function setAside(id: string) {
+  try {
+    const left: Record<string, unknown> = JSON.parse(localStorage.getItem(LEFT) || '{}');
+    left[id] = left[id] ? merge(clean(left[id]), store.s) : store.s;
+    localStorage.setItem(LEFT, JSON.stringify(left));
+  } catch { return; }
+  leaveDevice();
+}
+/** This reader's own progress, set aside when someone else signed in here, is back on the device and goes to the account. */
+function bringBack(me: Me) {
+  try {
+    const left: Record<string, unknown> = JSON.parse(localStorage.getItem(LEFT) || '{}');
+    const id = Object.keys(left).find((k) => isOf(k, me));
+    if (!id) return;
+    store.restore(merge(store.s, clean(left[id])));
+    delete left[id];
+    if (Object.keys(left).length) localStorage.setItem(LEFT, JSON.stringify(left)); else localStorage.removeItem(LEFT);
+  } catch { /* nothing aside, or unreadable: nothing to bring */ }
+}
+
 async function begin(me: Me): Promise<Joined> {
   gen++; // a new reader: whatever is still on its way for the last one is dropped
   clearTimeout(timer);
   firstChange = 0;
+  const was = owner();
+  note = null; // what happens to the device now is nobody's change
+  if (was && !isOf(was, me)) setAside(was);
+  bringBack(me);
   note = { me, rev: 0, dirty: true, pulledAt: 0, pushedAt: 0 };
   stored = false;
   syncedVer = ver - 1; // everything on this device goes into the account
@@ -296,19 +343,33 @@ export const createLink = () => must<{ code: string; short: string; expires: num
 export const linkStatus = () => must<{ status: 'waiting' | 'claimed' | 'expired' | 'none' }>('/link/status').then((r) => r.status);
 
 /**
- * Sign out here (or everywhere). This device keeps its progress; its last changes reach the account first. 'out': the
- * session has ended. 'later': offline, this device stops now and the session ends on its next visit online. Refused, it
- * throws 'signout' and the reader is still signed in; everywhere needs the server, so offline it throws that too.
+ * The device keeps nothing of a reader: a shared phone must not show the next person someone's notebook, level or Agora
+ * name (a reader signed out and found theirs still there). Its own preferences stay: language, theme, sound.
  */
-export async function signOut(everywhere = false): Promise<'out' | 'later'> {
+function leaveDevice() {
+  const { lang, theme, sound, volume, haptics } = store.s.settings;
+  store.reset();
+  store.update((s) => { Object.assign(s.settings, { lang, theme, sound, volume, haptics }); });
+  try { localStorage.removeItem(OWNER); } catch { /* nothing marked */ }
+}
+
+/**
+ * Sign out here (or everywhere). Every change on the device reaches the account first, another tab's too; then the device
+ * is left clean. 'out': signed out, the device clean. 'kept': signed out, but changes the account never took stay here
+ * (the device is not cleaned, nothing is lost). 'later': offline, this device stops now and the session ends on its next
+ * visit online. Refused, it throws 'signout' and the reader is still signed in; everywhere needs the server, so offline
+ * it throws that too.
+ */
+export async function signOut(everywhere = false): Promise<'out' | 'kept' | 'later'> {
   if (!note) return 'out';
+  if (!dirty() && read()?.dirty) syncedVer = ver - 1; // another tab's change is on the device, not yet in the account
   if (dirty()) await push().catch(() => {});
   if (!note) return 'out'; // the session ended meanwhile, or another tab signed this reader out
   try {
     await must(everywhere ? '/auth/logout-all' : '/auth/logout', 'POST', {});
   } catch (e) {
     const code = e instanceof AcctError ? e.code : '';
-    if (code === 'unauthorized') { forget(); return 'out'; } // the session had already ended
+    if (code === 'unauthorized') return done(); // the session had already ended
     if (code !== 'offline' && code !== 'network') throw new AcctError('signout');
     if (everywhere || !note) throw e;
     note.logout = true; // the cookie outlives this page: the session ends on the next visit online
@@ -318,7 +379,14 @@ export async function signOut(everywhere = false): Promise<'out' | 'later'> {
     tell();
     return 'later';
   }
+  return done();
+}
+/** Out: the device is left clean when the account has everything it holds, else what it never took stays here. */
+function done(): 'out' | 'kept' {
+  const synced = !dirty();
   forget();
+  if (!synced) return 'kept';
+  leaveDevice();
   return 'out';
 }
 
@@ -331,4 +399,10 @@ export async function exportAccount() {
 export async function deleteAccount() {
   await must('/account', 'DELETE', {});
   forget();
+  try { localStorage.removeItem(OWNER); } catch { /* nothing marked */ } // the device's progress is simply the reader's own now
+}
+
+/** Erase everything (src/ui/me.ts): nothing of any reader stays on the device, not even progress set aside. */
+export function forgetDevice() {
+  try { localStorage.removeItem(OWNER); localStorage.removeItem(LEFT); } catch { /* nothing kept */ }
 }
