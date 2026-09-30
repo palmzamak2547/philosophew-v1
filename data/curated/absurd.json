@@ -1,0 +1,2486 @@
+{
+  "school": "absurd",
+  "authors": {
+    "albert-camus": {
+      "th": "อาลแบร์ กามู",
+      "era_th": "นักเขียนและนักปรัชญาชาวฝรั่งเศสที่เกิดในแอลจีเรีย ค.ศ. 1913 ถึง 1960",
+      "bio_th": "นักเขียนรางวัลโนเบลที่เติบโตมากับความยากจนในแอลจีเรีย เจ้าของตำนานซิซีฟัสและนิยายเรื่องคนนอก เขายอมรับว่าชีวิตไร้สาระและโลกไม่ได้ยื่นความหมายมาให้เรา แต่ทางออกไม่ใช่การยอมแพ้ ทางออกคือการกบฏ การรัก และการใช้ชีวิตให้เต็มที่",
+      "bio_en": "Nobel-winning French writer who grew up poor in Algeria, author of The Myth of Sisyphus and The Stranger. He admitted that life is absurd and that the world hands us no meaning, yet answered with revolt, love and full living.",
+      "works": [
+        "The Myth of Sisyphus",
+        "The Stranger",
+        "The Rebel",
+        "The Plague",
+        "The Fall",
+        "Summer",
+        "A Happy Death",
+        "Letters to a German Friend",
+        "Notebooks 1942–1951"
+      ]
+    },
+    "diogenes": {
+      "th": "ไดโอจีนีส",
+      "era_th": "นักปรัชญาสำนักซินิกชาวกรีก ราว 404 ถึง 323 ปีก่อน ค.ศ.",
+      "bio_th": "นักปรัชญาชาวกรีกที่อาศัยอยู่ในไหใบใหญ่ ขอทานกลางตลาด และแซวทุกคนตั้งแต่เพลโตไปจนถึงอเล็กซานเดอร์มหาราช เขาใช้มุกตลกเป็นอาวุธต่อต้านความเสแสร้งของสังคม และเป็นต้นตำรับของการไม่แคร์สายตาใคร",
+      "bio_en": "Greek Cynic who lived in a large jar, begged in the marketplace and mocked everyone from Plato to Alexander the Great. His jokes were a weapon against social pretence, and he is the patron saint of not caring what people think.",
+      "works": [
+        "Sayings reported in Diogenes Laertius, Lives of Eminent Philosophers, Book 6"
+      ]
+    },
+    "arthur-schopenhauer": {
+      "th": "อาร์ทัวร์ โชเพนเฮาเออร์",
+      "era_th": "นักปรัชญาชาวเยอรมัน ค.ศ. 1788 ถึง 1860",
+      "bio_th": "นักปรัชญาชาวเยอรมันที่ขึ้นชื่อเรื่องมองโลกในแง่ร้าย เขาเห็นว่าชีวิตแกว่งไปมาระหว่างความทุกข์กับความเบื่อ แต่เขียนเรื่องนี้ด้วยอารมณ์ขันแบบขี้บ่น จนอ่านแล้วกลับรู้สึกเบาใจ",
+      "bio_en": "German philosopher famous for his pessimism. He saw life swinging between pain and boredom, but wrote about it with such grumpy wit that reading him is oddly comforting.",
+      "works": [
+        "The World as Will and Representation",
+        "The Wisdom of Life",
+        "Counsels and Maxims",
+        "The Art of Literature",
+        "On Reading and Books"
+      ]
+    },
+    "friedrich-nietzsche": {
+      "th": "ฟรีดริช นีทเชอ",
+      "era_th": "นักปรัชญาชาวเยอรมัน ค.ศ. 1844 ถึง 1900",
+      "bio_th": "นักปรัชญาชาวเยอรมันผู้ประกาศว่าพระเจ้าตายแล้ว แต่ไม่ยอมจบอยู่แค่ความว่างเปล่า เขาท้าให้เราสร้างคุณค่าของตัวเอง ก้าวข้ามตัวเองไปเรื่อย ๆ หัวเราะ เต้นรำ และรักโชคชะตาของตัวเองทั้งหมด เหมาะกับใครที่เบื่อการใช้ชีวิตตามบทที่คนอื่นเขียนไว้",
+      "bio_en": "German philosopher who announced the death of God but refused to stop at emptiness. He dared us to create our own values, to keep overcoming ourselves, to laugh, to dance and to love our fate entire, which makes him a favourite of anyone tired of living by someone else's script.",
+      "works": [
+        "Thus Spoke Zarathustra",
+        "The Gay Science",
+        "Beyond Good and Evil",
+        "Twilight of the Idols",
+        "Ecce Homo",
+        "Daybreak",
+        "Schopenhauer as Educator"
+      ]
+    },
+    "franz-kafka": {
+      "th": "ฟรันซ์ คาฟคา",
+      "era_th": "นักเขียนชาวปรากที่เขียนภาษาเยอรมัน ค.ศ. 1883 ถึง 1924",
+      "bio_th": "พนักงานบริษัทประกันในปรากที่แอบเขียนนิยายตอนกลางคืน เรื่องของเขาเต็มไปด้วยระบบที่ไร้เหตุผล คนที่ถูกจับโดยไม่รู้ข้อหา และชายที่ตื่นมากลายเป็นแมลง จนชื่อของเขากลายเป็นคำเรียกความไร้สาระของโลกสมัยใหม่",
+      "bio_en": "Insurance clerk in Prague who wrote at night. His stories of senseless systems, unexplained arrests and a man who wakes up as an insect gave us the word Kafkaesque for modern absurdity.",
+      "works": [
+        "The Metamorphosis",
+        "The Trial",
+        "The Zürau Aphorisms",
+        "Diaries",
+        "Letters"
+      ]
+    },
+    "kurt-vonnegut": {
+      "th": "เคิร์ต วอนเนกัต",
+      "era_th": "นักเขียนนวนิยายชาวอเมริกัน ค.ศ. 1922 ถึง 2007",
+      "bio_th": "นักเขียนชาวอเมริกันที่รอดชีวิตจากการทิ้งระเบิดเมืองเดรสเดนในฐานะเชลยศึก แล้วเอาเรื่องนั้นมาเขียนเป็นนิยายตลกร้าย เขาใช้อารมณ์ขันรับมือกับโลกที่โหดร้าย และคอยเตือนให้เราสังเกตตอนที่ตัวเองมีความสุข",
+      "bio_en": "American novelist who survived the firebombing of Dresden as a prisoner of war and turned it into darkly funny fiction. He used humour to cope with a cruel world and reminded us to notice when we are happy.",
+      "works": [
+        "Slaughterhouse-Five",
+        "Cat's Cradle",
+        "Breakfast of Champions",
+        "Mother Night",
+        "Deadeye Dick",
+        "Hocus Pocus",
+        "A Man Without a Country"
+      ]
+    },
+    "samuel-beckett": {
+      "th": "แซมิวเอล เบ็กเกตต์",
+      "era_th": "นักเขียนบทละครและนักเขียนชาวไอริช ค.ศ. 1906 ถึง 1989",
+      "bio_th": "นักเขียนบทละครรางวัลโนเบลชาวไอริช เจ้าของบทละคร “รอคอยโกโดต์” ละครที่ชายสองคนนั่งรอคนที่ไม่มีวันมา งานของเขาทั้งมืดทั้งตลกในเวลาเดียวกัน และสอนให้ล้มเหลวให้ดีขึ้น แทนที่จะเลิกลอง",
+      "bio_en": "Irish Nobel-winning playwright of Waiting for Godot, in which two men wait for someone who never comes. His work is bleak and funny at once, and tells us to fail better rather than stop trying.",
+      "works": [
+        "Waiting for Godot",
+        "Endgame",
+        "Worstward Ho",
+        "The Unnamable",
+        "Murphy",
+        "The End"
+      ]
+    },
+    "emil-cioran": {
+      "th": "เอมิล ซีโอรัน",
+      "era_th": "นักเขียนความเรียงชาวโรมาเนียที่ใช้ชีวิตในปารีส ค.ศ. 1911 ถึง 1995",
+      "bio_th": "นักเขียนชาวโรมาเนียที่ใช้ชีวิตในปารีส เป็นเจ้าพ่อคำคมมองโลกแง่ร้ายที่นอนไม่หลับมาแทบทั้งชีวิต แต่ความสิ้นหวังของเขาตลกจนอ่านแล้วรู้สึกว่าเราไม่ได้เหนื่อยอยู่คนเดียว",
+      "bio_en": "Romanian-born essayist who lived in Paris, a lifelong insomniac and master of the pessimistic aphorism. His despair is so funny that reading him feels like company for the exhausted.",
+      "works": [
+        "On the Heights of Despair",
+        "A Short History of Decay",
+        "The Fall into Time",
+        "The Trouble with Being Born",
+        "Drawn and Quartered"
+      ]
+    },
+    "douglas-adams": {
+      "th": "ดักลาส แอดัมส์",
+      "era_th": "นักเขียนชาวอังกฤษ ค.ศ. 1952 ถึง 2001",
+      "bio_th": "นักเขียนชาวอังกฤษเจ้าของคู่มือท่องกาแล็กซีฉบับนักโบกรถ นิยายไซไฟสุดฮาที่บอกว่าคำตอบของชีวิต จักรวาล และทุกสิ่งคือ 42 เขาทำให้ความไร้สาระของจักรวาลกลายเป็นเรื่องให้หัวเราะได้",
+      "bio_en": "English writer of The Hitchhiker's Guide to the Galaxy, the comic science fiction saga in which the answer to life, the universe and everything is 42. He made cosmic meaninglessness laughable.",
+      "works": [
+        "The Hitchhiker's Guide to the Galaxy",
+        "The Restaurant at the End of the Universe",
+        "Life, the Universe and Everything",
+        "The Long Dark Tea-Time of the Soul",
+        "The Salmon of Doubt"
+      ]
+    },
+    "max-stirner": {
+      "th": "มักซ์ ชเตียร์เนอร์",
+      "era_th": "นักปรัชญาชาวเยอรมัน ค.ศ. 1806 ถึง 1856",
+      "bio_th": "นักปรัชญาชาวเยอรมันที่มีผลงานสำคัญเพียงเล่มเดียวแต่สั่นสะเทือนทั้งวงการ เขาบอกว่ารัฐ ศีลธรรม และอุดมการณ์ใหญ่ ๆ เป็นแค่ผีที่หลอกให้เราก้มหัว แล้วชวนให้แต่ละคนเป็นเจ้าของตัวเอง",
+      "bio_en": "German philosopher known for one explosive book, The Ego and Its Own. He called the state, morality and grand ideals spooks that make us bow, and urged each person to own themselves.",
+      "works": [
+        "The Ego and Its Own"
+      ]
+    },
+    "eugene-ionesco": {
+      "th": "เออแฌน ยอแนสโก",
+      "era_th": "นักเขียนบทละครชาวโรมาเนีย-ฝรั่งเศส ค.ศ. 1909 ถึง 1994",
+      "bio_th": "นักเขียนบทละครชาวโรมาเนีย-ฝรั่งเศส หนึ่งในผู้บุกเบิกละครแนวแอบเสิร์ด ในละครเรื่องแรด ผู้คนทั้งเมืองค่อย ๆ กลายเป็นแรด เหลือชายคนเดียวที่ไม่ยอม เป็นภาพล้อการตามกระแสที่ยังใช้ได้จนทุกวันนี้",
+      "bio_en": "Romanian-French playwright and a founder of the Theatre of the Absurd. In Rhinoceros a whole town turns into rhinoceroses except one stubborn man, still the best satire of following the herd.",
+      "works": [
+        "Rhinoceros",
+        "Un homme en question"
+      ]
+    },
+    "thomas-nagel": {
+      "th": "โทมัส เนเกิล",
+      "era_th": "นักปรัชญาชาวอเมริกัน เกิด ค.ศ. 1937",
+      "bio_th": "นักปรัชญาชาวอเมริกันผู้เขียนความเรียงเรื่องความไร้สาระ เขาชี้ว่าความรู้สึกว่าชีวิตไร้สาระเกิดจากการที่เราถอยออกมามองตัวเองได้ และชวนให้รับมือกับมันด้วยอารมณ์ขัน แทนที่จะสิ้นหวัง",
+      "bio_en": "American philosopher whose essay \"The Absurd\" argues that the sense of absurdity comes from our ability to step back and look at ourselves, and that we can meet it with irony instead of despair.",
+      "works": [
+        "Mortal Questions"
+      ]
+    },
+    "soren-kierkegaard": {
+      "th": "เซอเรน เคียร์เคอกอร์",
+      "era_th": "นักปรัชญาและนักเทววิทยาชาวเดนมาร์ก ค.ศ. 1813 ถึง 1855",
+      "bio_th": "นักปรัชญาชาวเดนมาร์กที่ได้ชื่อว่าเป็นบิดาของอัตถิภาวนิยม เขาเขียนเรื่องความวิตกกังวล การเลือก และความกล้าที่จะเป็นตัวเอง และยังเป็นนักเสียดสีตัวยงที่หัวเราะเยาะชีวิตตามสูตรสำเร็จของสังคม คนที่กลัวเลือกผิดอ่านแล้วจะรู้สึกว่ามีคนเข้าใจ",
+      "bio_en": "Danish thinker often called the father of existentialism. He wrote about anxiety, choice, faith held by virtue of the absurd and the courage to become a self, and he was a sharp satirist of busyness and life-by-formula.",
+      "works": [
+        "Either/Or",
+        "Fear and Trembling",
+        "The Sickness Unto Death",
+        "Journals"
+      ]
+    }
+  },
+  "quotes": [
+    {
+      "author": "albert-camus",
+      "en": "The struggle itself toward the heights is enough to fill a man's heart. One must imagine Sisyphus happy.",
+      "th": "แค่การดิ้นรนขึ้นไปสู่ยอดเขา ก็พอจะเติมหัวใจมนุษย์ให้เต็มได้แล้ว เราต้องจินตนาการว่าซิซีฟัสมีความสุข",
+      "orig": {
+        "lang": "fr",
+        "text": "La lutte elle-même vers les sommets suffit à remplir un cœur d'homme. Il faut imaginer Sisyphe heureux."
+      },
+      "source": {
+        "work": "The Myth of Sisyphus",
+        "locator": "\"The Myth of Sisyphus\" (last lines)",
+        "translator": "Justin O'Brien (1955)",
+        "url": "https://en.wikiquote.org/wiki/Albert_Camus#The_Myth_of_Sisyphus_(1942)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "absurd",
+        "meaning",
+        "happiness"
+      ],
+      "mood": [
+        "stuck",
+        "tired"
+      ]
+    },
+    {
+      "author": "albert-camus",
+      "en": "There is no fate that can not be surmounted by scorn.",
+      "th": "ไม่มีโชคชะตาไหนที่การเย้ยหยันเอาชนะไม่ได้",
+      "orig": {
+        "lang": "fr",
+        "text": "Il n'est pas de destin qui ne se surmonte par le mépris."
+      },
+      "source": {
+        "work": "The Myth of Sisyphus",
+        "locator": "\"The Myth of Sisyphus\"",
+        "translator": "Justin O'Brien (1955)",
+        "url": "https://en.wikiquote.org/wiki/Albert_Camus#The_Myth_of_Sisyphus_(1942)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "rebellion",
+        "absurd"
+      ],
+      "mood": [
+        "angry",
+        "stuck"
+      ]
+    },
+    {
+      "author": "albert-camus",
+      "en": "His fate belongs to him. His rock is his thing.",
+      "th": "ชะตากรรมของเขาเป็นของเขา ก้อนหินของเขาก็เป็นเรื่องของเขาเอง",
+      "source": {
+        "work": "The Myth of Sisyphus",
+        "locator": "\"The Myth of Sisyphus\"",
+        "translator": "Justin O'Brien (1955)",
+        "url": "https://en.wikiquote.org/wiki/Albert_Camus#The_Myth_of_Sisyphus_(1942)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "freedom",
+        "responsibility",
+        "absurd"
+      ],
+      "mood": [
+        "stuck"
+      ]
+    },
+    {
+      "author": "albert-camus",
+      "en": "Rising, streetcar, four hours in the office or the factory, meal, streetcar, four hours of work, meal, sleep and Monday Tuesday Wednesday Thursday Friday and Saturday according to the same rhythm... But one day the \"why\" arises",
+      "th": "ตื่นนอน ขึ้นรถราง ทำงานในออฟฟิศหรือโรงงานสี่ชั่วโมง กินข้าว ขึ้นรถราง ทำงานอีกสี่ชั่วโมง กินข้าว นอน วนไปทั้งจันทร์ อังคาร พุธ พฤหัส ศุกร์ เสาร์ ในจังหวะเดิม แล้ววันหนึ่งคำถามว่าทำไมก็โผล่ขึ้นมา",
+      "source": {
+        "work": "The Myth of Sisyphus",
+        "locator": "\"An Absurd Reasoning\", Absurd Walls",
+        "translator": "Justin O'Brien (1955)",
+        "url": "https://en.wikiquote.org/wiki/Albert_Camus#The_Myth_of_Sisyphus_(1942)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "absurd",
+        "work",
+        "meaning"
+      ],
+      "mood": [
+        "bored",
+        "stuck"
+      ]
+    },
+    {
+      "author": "albert-camus",
+      "en": "At any street corner the feeling of absurdity can strike any man in the face.",
+      "th": "ที่หัวมุมถนนไหนก็ได้ ความรู้สึกว่าชีวิตไร้สาระอาจพุ่งเข้ามาตบหน้าใครก็ได้",
+      "source": {
+        "work": "The Myth of Sisyphus",
+        "locator": "\"An Absurd Reasoning\", Absurd Walls",
+        "translator": "Justin O'Brien (1955)",
+        "url": "https://en.wikiquote.org/wiki/Albert_Camus#The_Myth_of_Sisyphus_(1942)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "absurd"
+      ],
+      "mood": [
+        "confused"
+      ]
+    },
+    {
+      "author": "albert-camus",
+      "en": "We get into the habit of living before acquiring the habit of thinking.",
+      "th": "เราติดนิสัยการมีชีวิต ก่อนจะติดนิสัยการคิด",
+      "source": {
+        "work": "The Myth of Sisyphus",
+        "locator": "\"An Absurd Reasoning\"",
+        "translator": "Justin O'Brien (1955)",
+        "url": "https://en.wikiquote.org/wiki/Albert_Camus#The_Myth_of_Sisyphus_(1942)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "mind",
+        "absurd"
+      ],
+      "mood": []
+    },
+    {
+      "author": "albert-camus",
+      "en": "Happiness and the absurd are two sons of the same earth. They are inseparable.",
+      "th": "ความสุขกับความไร้สาระเป็นลูกสองคนของแผ่นดินเดียวกัน แยกจากกันไม่ได้",
+      "source": {
+        "work": "The Myth of Sisyphus",
+        "locator": "\"The Myth of Sisyphus\"",
+        "translator": "Justin O'Brien (1955)",
+        "url": "https://en.wikiquote.org/wiki/Albert_Camus#The_Myth_of_Sisyphus_(1942)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "happiness",
+        "absurd"
+      ],
+      "mood": []
+    },
+    {
+      "author": "albert-camus",
+      "en": "The preceding merely defines a way of thinking. But the point is to live.",
+      "th": "ที่ว่ามาทั้งหมดเป็นแค่วิธีคิด แต่ประเด็นจริง ๆ คือต้องใช้ชีวิต",
+      "source": {
+        "work": "The Myth of Sisyphus",
+        "locator": "\"An Absurd Reasoning\"",
+        "translator": "Justin O'Brien (1955)",
+        "url": "https://en.wikiquote.org/wiki/Albert_Camus#The_Myth_of_Sisyphus_(1942)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "action",
+        "absurd"
+      ],
+      "mood": [
+        "confused",
+        "stuck"
+      ]
+    },
+    {
+      "author": "albert-camus",
+      "en": "If there is a sin against life, it consists perhaps not so much in despairing of life as in hoping for another life and in eluding the implacable grandeur of this life.",
+      "th": "ถ้ามีบาปใดต่อชีวิต บาปนั้นอาจไม่ใช่การสิ้นหวังในชีวิต แต่คือการหวังถึงชีวิตอื่น แล้วหลบหนีความยิ่งใหญ่อันไม่ปรานีของชีวิตนี้",
+      "source": {
+        "work": "Summer in Algiers",
+        "locator": "in The Myth of Sisyphus and Other Essays",
+        "translator": "Justin O'Brien (1955)",
+        "url": "https://en.wikiquote.org/wiki/Albert_Camus"
+      },
+      "verify": "sourced",
+      "tags": [
+        "present",
+        "hope",
+        "absurd"
+      ],
+      "mood": []
+    },
+    {
+      "author": "albert-camus",
+      "en": "Accepting the absurdity of everything around us is one step, a necessary experience: it should not become a dead end. It arouses a revolt that can become fruitful.",
+      "th": "การยอมรับว่าทุกอย่างรอบตัวไร้สาระ เป็นแค่ก้าวแรก เป็นประสบการณ์ที่จำเป็น แต่ไม่ควรกลายเป็นทางตัน มันปลุกให้เกิดการกบฏที่ผลิดอกออกผลได้",
+      "source": {
+        "work": "Lyrical and Critical Essays",
+        "locator": "\"Three Interviews\"",
+        "translator": "Ellen Conroy Kennedy (1968)",
+        "url": "https://en.wikiquote.org/wiki/Albert_Camus"
+      },
+      "verify": "sourced",
+      "tags": [
+        "absurd",
+        "rebellion"
+      ],
+      "mood": [
+        "stuck",
+        "lost"
+      ]
+    },
+    {
+      "author": "albert-camus",
+      "en": "What is a rebel? A man who says no.",
+      "th": "กบฏคือใคร คือคนที่พูดว่าไม่",
+      "source": {
+        "work": "The Rebel",
+        "locator": "Part 1, chapter 1",
+        "translator": "Anthony Bower (1953)",
+        "url": "https://en.wikiquote.org/wiki/Albert_Camus#The_Rebel_(1951)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "rebellion",
+        "freedom"
+      ],
+      "mood": [
+        "angry"
+      ]
+    },
+    {
+      "author": "albert-camus",
+      "en": "I rebel — therefore we exist.",
+      "th": "ฉันกบฏ เราจึงมีอยู่",
+      "source": {
+        "work": "The Rebel",
+        "locator": "Part 1",
+        "translator": "Anthony Bower (1953)",
+        "url": "https://en.wikiquote.org/wiki/Albert_Camus#The_Rebel_(1951)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "rebellion",
+        "society"
+      ],
+      "mood": [
+        "angry"
+      ]
+    },
+    {
+      "author": "albert-camus",
+      "en": "Man is the only creature who refuses to be what he is.",
+      "th": "มนุษย์เป็นสัตว์ชนิดเดียวที่ไม่ยอมเป็นอย่างที่ตัวเองเป็น",
+      "source": {
+        "work": "The Rebel",
+        "locator": "Introduction",
+        "translator": "Anthony Bower (1953)",
+        "url": "https://en.wikiquote.org/wiki/Albert_Camus#The_Rebel_(1951)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "rebellion",
+        "self"
+      ],
+      "mood": []
+    },
+    {
+      "author": "albert-camus",
+      "en": "A nihilist is not one who believes in nothing, but one who does not believe in what exists.",
+      "th": "นักสุญนิยมไม่ใช่คนที่ไม่เชื่ออะไรเลย แต่เป็นคนที่ไม่เชื่อในสิ่งที่มีอยู่จริง",
+      "source": {
+        "work": "The Rebel",
+        "locator": "Part 2, \"Metaphysical Rebellion\"",
+        "translator": "Anthony Bower (1953)",
+        "url": "https://en.wikiquote.org/wiki/Albert_Camus#The_Rebel_(1951)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "doubt",
+        "absurd"
+      ],
+      "mood": []
+    },
+    {
+      "author": "albert-camus",
+      "en": "Real generosity toward the future consists in giving all to the present.",
+      "th": "ความใจกว้างที่แท้ต่ออนาคต คือการทุ่มทุกอย่างให้ปัจจุบัน",
+      "orig": {
+        "lang": "fr",
+        "text": "La vraie générosité envers l'avenir consiste à tout donner au présent."
+      },
+      "source": {
+        "work": "The Rebel",
+        "locator": "Part 5, \"Thought at the Meridian\", p. 313",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Albert_Camus#The_Rebel_(1951)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "present",
+        "time"
+      ],
+      "mood": [
+        "anxious"
+      ]
+    },
+    {
+      "author": "albert-camus",
+      "en": "Mother died today. Or maybe yesterday; I can't be sure.",
+      "th": "วันนี้แม่ตาย หรืออาจจะเมื่อวาน ผมไม่แน่ใจ",
+      "orig": {
+        "lang": "fr",
+        "text": "Aujourd'hui, maman est morte. Ou peut-être hier, je ne sais pas."
+      },
+      "source": {
+        "work": "The Stranger",
+        "locator": "Part 1, chapter 1 (first lines)",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Albert_Camus#The_Stranger_(1942)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "absurd",
+        "death"
+      ],
+      "mood": []
+    },
+    {
+      "author": "albert-camus",
+      "en": "I may not have been sure about what really did interest me, but I was absolutely sure about what didn't.",
+      "th": "ผมอาจไม่แน่ใจว่าอะไรที่ผมสนใจจริง ๆ แต่ผมมั่นใจเต็มร้อยว่าอะไรที่ผมไม่สนใจ",
+      "source": {
+        "work": "The Stranger",
+        "locator": "Part 2, chapter 5",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Albert_Camus#The_Stranger_(1942)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "humor",
+        "self"
+      ],
+      "mood": [
+        "bored",
+        "confused"
+      ]
+    },
+    {
+      "author": "albert-camus",
+      "en": "As if the blind rage had washed me clean, rid me of hope; for the first time, in that night alive with signs and stars, I opened myself to the gentle indifference of the world.",
+      "th": "ราวกับความโกรธอันมืดบอดได้ชำระล้างผม ขจัดความหวังออกไปจนหมด เป็นครั้งแรก ในค่ำคืนที่เต็มไปด้วยสัญญาณและดวงดาว ที่ผมเปิดใจรับความไม่แยแสอันอ่อนโยนของโลก",
+      "source": {
+        "work": "The Stranger",
+        "locator": "Part 2, chapter 5 (last page)",
+        "translator": "Matthew Ward (1988)",
+        "url": "https://en.wikiquote.org/wiki/Albert_Camus#The_Stranger_(1942)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "absurd",
+        "freedom",
+        "nature"
+      ],
+      "mood": [
+        "heartbroken"
+      ]
+    },
+    {
+      "author": "albert-camus",
+      "en": "When a war breaks out, people say: \"It's too stupid; it can't last long.\" But though the war may well be \"too stupid,\" that doesn't prevent its lasting. Stupidity has a knack of getting its way",
+      "th": "เวลาสงครามปะทุ ผู้คนก็พูดกันว่า มันโง่เกินไป คงไม่นานหรอก แต่ถึงสงครามจะโง่แค่ไหน ก็ไม่ได้ทำให้มันจบเร็วขึ้น ความโง่มีวิธีเอาชนะของมันเสมอ",
+      "source": {
+        "work": "The Plague",
+        "locator": "Part 1",
+        "translator": "Stuart Gilbert (1948)",
+        "url": "https://en.wikiquote.org/wiki/Albert_Camus#The_Plague_(1947)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "society",
+        "absurd"
+      ],
+      "mood": [
+        "angry"
+      ]
+    },
+    {
+      "author": "albert-camus",
+      "en": "\"At my age one's got to be sincere. Lying's too much effort.\"",
+      "th": "อายุปูนนี้ต้องพูดความจริงแล้ว โกหกมันเหนื่อยเกินไป",
+      "source": {
+        "work": "The Plague",
+        "locator": "Part 4",
+        "translator": "Stuart Gilbert (1948)",
+        "url": "https://en.wikiquote.org/wiki/Albert_Camus#The_Plague_(1947)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "truth",
+        "humor"
+      ],
+      "mood": [
+        "tired"
+      ]
+    },
+    {
+      "author": "albert-camus",
+      "en": "Do not wait for the Last Judgment. It takes place every day.",
+      "th": "ไม่ต้องรอวันพิพากษาโลกหรอก มันเกิดขึ้นทุกวันอยู่แล้ว",
+      "orig": {
+        "lang": "fr",
+        "text": "N'attendez pas le Jugement dernier. Il a lieu tous les jours."
+      },
+      "source": {
+        "work": "The Fall",
+        "locator": "1956 novel",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Albert_Camus#The_Fall_(1956)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "society",
+        "humor"
+      ],
+      "mood": [
+        "anxious"
+      ]
+    },
+    {
+      "author": "albert-camus",
+      "en": "There is always a philosophy for lack of courage.",
+      "th": "ความขี้ขลาดหาปรัชญามาแก้ตัวได้เสมอ",
+      "orig": {
+        "lang": "fr",
+        "text": "Il y a toujours une philosophie pour le manque de courage."
+      },
+      "source": {
+        "work": "Notebooks 1942–1951",
+        "locator": "Notebook IV",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Albert_Camus#Notebooks_(1942–1951)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "courage",
+        "humor"
+      ],
+      "mood": [
+        "stuck"
+      ]
+    },
+    {
+      "author": "albert-camus",
+      "en": "Nobody realizes that some people expend tremendous energy merely to be normal.",
+      "th": "ไม่มีใครรู้หรอกว่า บางคนต้องใช้พลังมหาศาล แค่เพื่อจะเป็นคนปกติ",
+      "source": {
+        "work": "Notebooks 1942–1951",
+        "locator": "Notebook IV",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Albert_Camus#An_Absurd_Reasoning"
+      },
+      "verify": "sourced",
+      "tags": [
+        "society",
+        "self"
+      ],
+      "mood": [
+        "tired",
+        "anxious"
+      ]
+    },
+    {
+      "author": "albert-camus",
+      "en": "All I know most surely about morality and obligations, I owe to football.",
+      "th": "สิ่งที่ฉันรู้แน่ที่สุดเรื่องศีลธรรมและหน้าที่ของมนุษย์ ฉันได้มาจากฟุตบอล",
+      "orig": {
+        "lang": "fr",
+        "text": "Ce que, finalement, je sais de plus sûr sur la morale et les obligations des hommes, c’est au football que je le dois."
+      },
+      "source": {
+        "work": "Remark on football",
+        "locator": "as quoted in the French Senate debates, 10 November 1965, p. 1578",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Albert_Camus"
+      },
+      "verify": "sourced",
+      "tags": [
+        "humor",
+        "virtue"
+      ],
+      "mood": []
+    },
+    {
+      "author": "diogenes",
+      "en": "When he was sunning himself in the Craneum, Alexander came and stood over him and said, \"Ask of me any boon you like.\" To which he replied, \"Stand out of my light.\"",
+      "th": "ตอนไดโอจีนีสนอนอาบแดดอยู่ อเล็กซานเดอร์มหาราชมายืนค้ำหัวแล้วบอกว่า อยากได้อะไรขอมาได้เลย เขาตอบว่า หลบไปหน่อย บังแดดอยู่",
+      "orig": {
+        "lang": "grc",
+        "text": "Ἐν τῷ Κρανείῳ ἡλιουμένῳ αὐτῷ Ἀλέξανδρος ἐπιστάς φησιν, «Αἴτησόν με ὃ θέλεις.» Καὶ ὅς, «Ἀποσκότησόν μου,» φησί."
+      },
+      "source": {
+        "work": "Diogenes Laertius, Lives of Eminent Philosophers",
+        "locator": "Book 6, 38",
+        "translator": "R. D. Hicks (1925)",
+        "url": "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_VI#Diogenes"
+      },
+      "verify": "sourced",
+      "tags": [
+        "freedom",
+        "simplicity",
+        "humor"
+      ],
+      "mood": []
+    },
+    {
+      "author": "diogenes",
+      "en": "Plato had defined Man as an animal, biped and featherless, and was applauded. Diogenes plucked a fowl and brought it into the lecture-room with the words, \"Here is Plato's man.\"",
+      "th": "เพลโตนิยามว่ามนุษย์คือสัตว์สองขาที่ไม่มีขน แล้วได้รับเสียงปรบมือ ไดโอจีนีสเลยถอนขนไก่มาตัวหนึ่ง หิ้วเข้าห้องเรียนแล้วประกาศว่า นี่ไง มนุษย์ของเพลโต",
+      "orig": {
+        "lang": "grc",
+        "text": "Ἄνθρωπός ἐστι ζῷον δίπουν ἄπτερον, καὶ εὐδοκιμοῦντος, τίλας ἀλεκτρυόνα εἰσήνεγκεν αὐτὸν εἰς τὴν σχολὴν καί φησιν, «Οὗτός ἐστιν ὁ Πλάτωνος ἄνθρωπος.»"
+      },
+      "source": {
+        "work": "Diogenes Laertius, Lives of Eminent Philosophers",
+        "locator": "Book 6, 40",
+        "translator": "R. D. Hicks (1925)",
+        "url": "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_VI#Diogenes"
+      },
+      "verify": "sourced",
+      "tags": [
+        "humor",
+        "truth",
+        "rebellion"
+      ],
+      "mood": []
+    },
+    {
+      "author": "diogenes",
+      "en": "He lit a lamp in broad daylight and said, as he went about, \"I am looking for a man.\"",
+      "th": "เขาจุดตะเกียงกลางวันแสก ๆ แล้วเดินไปทั่วเมืองพลางพูดว่า ฉันกำลังตามหามนุษย์",
+      "orig": {
+        "lang": "grc",
+        "text": "Λύχνον μεθ' ἡμέραν ἅψας, «Ἄνθρωπον,» φησί, «ζητῶ.»"
+      },
+      "source": {
+        "work": "Diogenes Laertius, Lives of Eminent Philosophers",
+        "locator": "Book 6, 41",
+        "translator": "R. D. Hicks (1925)",
+        "url": "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_VI#Diogenes"
+      },
+      "verify": "sourced",
+      "tags": [
+        "society",
+        "truth",
+        "humor"
+      ],
+      "mood": []
+    },
+    {
+      "author": "diogenes",
+      "en": "He once begged alms of a statue, and, when asked why he did so, replied, \"To get practice in being refused.\"",
+      "th": "ครั้งหนึ่งเขาไปขอทานจากรูปปั้น พอมีคนถามว่าทำอย่างนั้นทำไม เขาตอบว่า ฝึกโดนปฏิเสธไง",
+      "orig": {
+        "lang": "grc",
+        "text": "ᾜτει ποτὲ ἀνδριάντα, ἐρωτηθεὶς δὲ διὰ τί τοῦτο ποιεῖ, «Μελετῶ,» εἶπεν, «ἀποτυγχάνειν.»"
+      },
+      "source": {
+        "work": "Diogenes Laertius, Lives of Eminent Philosophers",
+        "locator": "Book 6, 49",
+        "translator": "R. D. Hicks (1925)",
+        "url": "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_VI#Diogenes"
+      },
+      "verify": "sourced",
+      "tags": [
+        "humor",
+        "failure",
+        "courage"
+      ],
+      "mood": [
+        "anxious"
+      ]
+    },
+    {
+      "author": "diogenes",
+      "en": "when some one reminded him that the people of Sinope had sentenced him to exile, \"And I them,\" said he, \"to home-staying.\"",
+      "th": "มีคนตอกย้ำว่า ชาวซิโนปตัดสินเนรเทศเขาออกจากเมือง เขาตอบว่า ส่วนฉันก็ตัดสินให้พวกนั้นติดอยู่บ้านไปตลอด",
+      "orig": {
+        "lang": "grc",
+        "text": "«Σινωπεῖς σου φυγὴν κατέγνωσαν,» «Ἐγὼ δέ γε,» εἶπεν, «ἐκείνων μονήν.»"
+      },
+      "source": {
+        "work": "Diogenes Laertius, Lives of Eminent Philosophers",
+        "locator": "Book 6, 49",
+        "translator": "R. D. Hicks (1925)",
+        "url": "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_VI#Diogenes"
+      },
+      "verify": "sourced",
+      "tags": [
+        "humor",
+        "rebellion",
+        "freedom"
+      ],
+      "mood": [
+        "heartbroken",
+        "angry"
+      ]
+    },
+    {
+      "author": "diogenes",
+      "en": "Asked where he came from, he said, \"I am a citizen of the world.\"",
+      "th": "พอถูกถามว่ามาจากไหน เขาตอบว่า ฉันเป็นพลเมืองของโลก",
+      "orig": {
+        "lang": "grc",
+        "text": "Ἐρωτηθεὶς πόθεν εἴη, «Κοσμοπολίτης,» ἔφη."
+      },
+      "source": {
+        "work": "Diogenes Laertius, Lives of Eminent Philosophers",
+        "locator": "Book 6, 63",
+        "translator": "R. D. Hicks (1925)",
+        "url": "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_VI#Diogenes"
+      },
+      "verify": "sourced",
+      "tags": [
+        "freedom",
+        "society"
+      ],
+      "mood": []
+    },
+    {
+      "author": "diogenes",
+      "en": "He was going into a theatre, meeting face to face those who were coming out, and being asked why, \"This,\" he said, \"is what I practise doing all my life.\"",
+      "th": "เขาเดินเข้าโรงละครสวนทางกับคนที่กำลังเดินออก พอถูกถามว่าทำไม เขาตอบว่า นี่แหละสิ่งที่ฉันฝึกทำมาทั้งชีวิต",
+      "orig": {
+        "lang": "grc",
+        "text": "Εἰς θέατρον εἰσῄει ἐναντίος τοῖς ἐξιοῦσιν, ἐρωτηθεὶς δὲ διὰ τί, «Τοῦτο,» ἔφη, «ἐν παντὶ τῷ βίῳ ἐπιτηδεύω ποιεῖν.»"
+      },
+      "source": {
+        "work": "Diogenes Laertius, Lives of Eminent Philosophers",
+        "locator": "Book 6, 64",
+        "translator": "R. D. Hicks (1925)",
+        "url": "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_VI#Diogenes"
+      },
+      "verify": "sourced",
+      "tags": [
+        "rebellion",
+        "society",
+        "freedom"
+      ],
+      "mood": [
+        "stuck"
+      ]
+    },
+    {
+      "author": "diogenes",
+      "en": "Once he saw the officials of a temple leading away some one who had stolen a bowl belonging to the treasurers, and said, \"The great thieves are leading away the little thief.\"",
+      "th": "ครั้งหนึ่งเขาเห็นเจ้าหน้าที่ศาลเจ้าคุมตัวคนที่ขโมยถ้วยของคลังไป เขาจึงพูดว่า ขโมยตัวใหญ่กำลังจับขโมยตัวเล็ก",
+      "orig": {
+        "lang": "grc",
+        "text": "Οἱ μεγάλοι κλέπται τὸν μικρὸν ἄγουσι."
+      },
+      "source": {
+        "work": "Diogenes Laertius, Lives of Eminent Philosophers",
+        "locator": "Book 6, 45",
+        "translator": "R. D. Hicks (1925)",
+        "url": "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_VI#Diogenes"
+      },
+      "verify": "sourced",
+      "tags": [
+        "society",
+        "humor",
+        "truth"
+      ],
+      "mood": [
+        "angry"
+      ]
+    },
+    {
+      "author": "diogenes",
+      "en": "To the question what wine he found pleasant to drink, he replied, \"That for which other people pay.\"",
+      "th": "มีคนถามว่าเขาชอบดื่มไวน์แบบไหน เขาตอบว่า แบบที่คนอื่นจ่าย",
+      "orig": {
+        "lang": "grc",
+        "text": "Ἐρωτηθεὶς ποῖον οἶνον ἡδέως πίνει, ἔφη, «Τὸν ἀλλότριον.»"
+      },
+      "source": {
+        "work": "Diogenes Laertius, Lives of Eminent Philosophers",
+        "locator": "Book 6, 54",
+        "translator": "R. D. Hicks (1925)",
+        "url": "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_VI#Diogenes"
+      },
+      "verify": "sourced",
+      "tags": [
+        "humor",
+        "simplicity"
+      ],
+      "mood": []
+    },
+    {
+      "author": "diogenes",
+      "en": "When some one said, \"Most people laugh at you,\" his reply was, \"And so very likely do the asses at them; but as they don't care for the asses, so neither do I care for them.\"",
+      "th": "มีคนบอกว่า ใคร ๆ ก็หัวเราะเยาะคุณนะ เขาตอบว่า ลาก็คงหัวเราะเยาะพวกเขาเหมือนกัน แต่พวกเขาไม่สนลาฉันใด ฉันก็ไม่สนพวกเขาฉันนั้น",
+      "orig": {
+        "lang": "grc",
+        "text": "«Οἱ πλείους σου καταγελῶσι,» «Κἀκείνων τυχόν,» εἶπεν, «οἱ ὄνοι, ἀλλ' οὔτ' ἐκεῖνοι τῶν ὄνων ἐπιστρέφονται, οὔτ' ἐγὼ ἐκείνων.»"
+      },
+      "source": {
+        "work": "Diogenes Laertius, Lives of Eminent Philosophers",
+        "locator": "Book 6, 58",
+        "translator": "R. D. Hicks (1925)",
+        "url": "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_VI#Diogenes"
+      },
+      "verify": "sourced",
+      "tags": [
+        "humor",
+        "freedom",
+        "society"
+      ],
+      "mood": [
+        "anxious",
+        "angry"
+      ]
+    },
+    {
+      "author": "diogenes",
+      "en": "Most people, he would say, are so nearly mad that a finger makes all the difference. For, if you go along with your middle finger stretched out, some one will think you mad, but, if it's the little finger, he will not think so.",
+      "th": "เขาว่าคนส่วนใหญ่เกือบบ้ากันหมด ต่างกันแค่นิ้วเดียว ถ้าคุณเดินชูนิ้วกลางไปทั่ว คนจะหาว่าคุณบ้า แต่ถ้าชูนิ้วก้อย ไม่มีใครว่าอะไรเลย",
+      "orig": {
+        "lang": "grc",
+        "text": "Τοὺς πλείστους ἔλεγε παρὰ δάκτυλον μαίνεσθαι, ἐὰν οὖν τις τὸν μέσον προτείνας πορεύηται, δόξει μαίνεσθαι, ἐὰν δὲ τὸν λιχανόν, οὐκέτι."
+      },
+      "source": {
+        "work": "Diogenes Laertius, Lives of Eminent Philosophers",
+        "locator": "Book 6, 35",
+        "translator": "R. D. Hicks (1925)",
+        "url": "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_VI#Diogenes"
+      },
+      "verify": "sourced",
+      "tags": [
+        "humor",
+        "society"
+      ],
+      "mood": []
+    },
+    {
+      "author": "diogenes",
+      "en": "Being asked what was the most beautiful thing in the world, he replied, \"Freedom of speech.\"",
+      "th": "พอถูกถามว่าอะไรคือสิ่งที่งดงามที่สุดในโลก เขาตอบว่า เสรีภาพในการพูด",
+      "orig": {
+        "lang": "grc",
+        "text": "Ἐρωτηθεὶς τί κάλλιστον ἐν ἀνθρώποις, ἔφη, «Παρρησία.»"
+      },
+      "source": {
+        "work": "Diogenes Laertius, Lives of Eminent Philosophers",
+        "locator": "Book 6, 69",
+        "translator": "R. D. Hicks (1925)",
+        "url": "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_VI#Diogenes"
+      },
+      "verify": "sourced",
+      "tags": [
+        "freedom",
+        "rebellion",
+        "language"
+      ],
+      "mood": []
+    },
+    {
+      "author": "arthur-schopenhauer",
+      "en": "Thus its life swings like a pendulum backwards and forwards between pain and ennui. This has also had to express itself very oddly in this way; after man had transferred all pain and torments to hell, there then remained nothing over for heaven but ennui.",
+      "th": "ชีวิตจึงแกว่งไปมาเหมือนลูกตุ้มนาฬิกา ระหว่างความเจ็บปวดกับความเบื่อ เรื่องนี้ยังแสดงออกมาแบบประหลาด ๆ ด้วย พอมนุษย์โยนความเจ็บปวดและการทรมานทั้งหมดไปไว้ในนรกแล้ว สิ่งที่เหลือไว้ให้สวรรค์ก็มีแต่ความเบื่อ",
+      "source": {
+        "work": "The World as Will and Idea",
+        "locator": "Vol. 1, Book 4, §57",
+        "translator": "R. B. Haldane and J. Kemp (1883)",
+        "url": "https://www.gutenberg.org/ebooks/38427"
+      },
+      "verify": "primary",
+      "tags": [
+        "suffering",
+        "humor",
+        "absurd"
+      ],
+      "mood": [
+        "bored"
+      ]
+    },
+    {
+      "author": "arthur-schopenhauer",
+      "en": "The most general survey shows us that the two foes of human happiness are pain and boredom.",
+      "th": "มองภาพรวมกว้าง ๆ ก็จะเห็นว่า ศัตรูสองตัวของความสุขมนุษย์ คือความเจ็บปวดกับความเบื่อ",
+      "orig": {
+        "lang": "de",
+        "text": "Der allgemeinste Überblick zeigt uns, als die beiden Feinde des menschlichen Glückes, den Schmerz und die Langeweile."
+      },
+      "source": {
+        "work": "The Wisdom of Life",
+        "locator": "Ch. 2, \"Personality, or What a Man Is\"",
+        "translator": "T. Bailey Saunders (1890)",
+        "url": "https://www.gutenberg.org/ebooks/10741"
+      },
+      "verify": "primary",
+      "tags": [
+        "happiness",
+        "suffering"
+      ],
+      "mood": [
+        "bored"
+      ]
+    },
+    {
+      "author": "arthur-schopenhauer",
+      "en": "If you feel irritated by the absurd remarks of two people whose conversation you happen to overhear, you should imagine that you are listening to a dialogue of two fools in a comedy.",
+      "th": "ถ้าหงุดหงิดกับคำพูดไร้สาระของสองคนที่บังเอิญได้ยินเขาคุยกัน ให้นึกว่ากำลังฟังบทสนทนาของตัวตลกสองตัวในละครตลก",
+      "source": {
+        "work": "Counsels and Maxims",
+        "locator": "Ch. 3, \"Our Relation to Others\"",
+        "translator": "T. Bailey Saunders (1890)",
+        "url": "https://www.gutenberg.org/ebooks/10715"
+      },
+      "verify": "primary",
+      "tags": [
+        "anger",
+        "humor"
+      ],
+      "mood": [
+        "angry"
+      ]
+    },
+    {
+      "author": "arthur-schopenhauer",
+      "en": "It would be a good thing to buy books if one could also buy the time to read them; but one usually confuses the purchase of books with the acquisition of their contents.",
+      "th": "การซื้อหนังสือคงเป็นเรื่องดี ถ้าซื้อเวลาอ่านมาด้วยได้ แต่ส่วนใหญ่เรามักสับสน คิดว่าซื้อหนังสือมาแล้วก็เท่ากับได้ความรู้ในเล่มมาด้วย",
+      "source": {
+        "work": "On Reading and Books",
+        "locator": "in Essays of Schopenhauer",
+        "translator": "Mrs. Rudolf Dircks (1897)",
+        "url": "https://www.gutenberg.org/ebooks/11945"
+      },
+      "verify": "primary",
+      "tags": [
+        "humor",
+        "knowledge",
+        "time"
+      ],
+      "mood": []
+    },
+    {
+      "author": "arthur-schopenhauer",
+      "en": "Rascals are always sociable--more's the pity! and the chief sign that a man has any nobility in his character is the little pleasure he takes in others' company.",
+      "th": "พวกเจ้าเล่ห์มักเข้าสังคมเก่งเสมอ น่าเสียดายจริง ๆ และสัญญาณสำคัญว่าใครมีจิตใจสูงส่ง คือเขาไม่ค่อยสนุกกับการอยู่ท่ามกลางผู้คน",
+      "source": {
+        "work": "Counsels and Maxims",
+        "locator": "Ch. 2, \"Our Relation to Ourselves\", §9",
+        "translator": "T. Bailey Saunders (1890)",
+        "url": "https://www.gutenberg.org/ebooks/10715"
+      },
+      "verify": "primary",
+      "tags": [
+        "solitude",
+        "society",
+        "humor"
+      ],
+      "mood": [
+        "tired"
+      ]
+    },
+    {
+      "author": "arthur-schopenhauer",
+      "en": "A man can be himself only so long as he is alone; and if he does not love solitude, he will not love freedom; for it is only when he is alone that he is really free.",
+      "th": "คนเราจะเป็นตัวเองได้ก็ตอนอยู่คนเดียว ถ้าไม่รักความสันโดษ ก็ไม่ได้รักเสรีภาพ เพราะเราจะเป็นอิสระจริง ๆ ก็ตอนอยู่คนเดียวเท่านั้น",
+      "orig": {
+        "lang": "de",
+        "text": "Ganz er selbst sein darf jeder nur so lange er allein ist: wer also nicht die Einsamkeit liebt, der liebt auch nicht die Freiheit: denn nur wann man allein ist, ist man frei."
+      },
+      "source": {
+        "work": "Counsels and Maxims",
+        "locator": "Ch. 2, \"Our Relation to Ourselves\", §9",
+        "translator": "T. Bailey Saunders (1890)",
+        "url": "https://www.gutenberg.org/ebooks/10715"
+      },
+      "verify": "primary",
+      "tags": [
+        "solitude",
+        "freedom",
+        "self"
+      ],
+      "mood": [
+        "tired"
+      ]
+    },
+    {
+      "author": "arthur-schopenhauer",
+      "en": "The newspaper, is the second-hand in the clock of history; and it is not only made of baser metal than those which point to the minute and the hour, but it seldom goes right.",
+      "th": "หนังสือพิมพ์คือเข็มวินาทีบนนาฬิกาของประวัติศาสตร์ มันไม่เพียงทำจากโลหะราคาถูกกว่าเข็มนาทีและเข็มชั่วโมง แต่ยังแทบไม่เคยเดินตรงเลย",
+      "source": {
+        "work": "The Art of Literature",
+        "locator": "\"On Some Forms of Literature\"",
+        "translator": "T. Bailey Saunders (1891)",
+        "url": "https://www.gutenberg.org/ebooks/10714"
+      },
+      "verify": "primary",
+      "tags": [
+        "society",
+        "truth",
+        "humor"
+      ],
+      "mood": []
+    },
+    {
+      "author": "arthur-schopenhauer",
+      "en": "Every nation mocks at other nations, and all are right.",
+      "th": "ทุกชาติล้อเลียนชาติอื่น และทุกชาติก็พูดถูกหมด",
+      "orig": {
+        "lang": "de",
+        "text": "Jede Nation spottet über die andere, und alle haben recht."
+      },
+      "source": {
+        "work": "The Wisdom of Life",
+        "locator": "Ch. 4, \"Position\"",
+        "translator": "T. Bailey Saunders (1890)",
+        "url": "https://www.gutenberg.org/ebooks/10741"
+      },
+      "verify": "primary",
+      "tags": [
+        "humor",
+        "society"
+      ],
+      "mood": []
+    },
+    {
+      "author": "arthur-schopenhauer",
+      "en": "Because people have no thoughts to deal in, they deal cards, and try and win one another's money. Idiots!",
+      "th": "เพราะไม่มีความคิดอะไรจะแลกเปลี่ยนกัน ผู้คนเลยแจกไพ่กันแทน แล้วพยายามแย่งเงินกันไปมา งี่เง่าจริง ๆ",
+      "orig": {
+        "lang": "de",
+        "text": "Weil sie nämlich keine Gedanken auszutauschen haben, tauschen sie Karten aus und suchen einander Gulden abzunehmen. O, klägliches Geschlecht!"
+      },
+      "source": {
+        "work": "The Wisdom of Life",
+        "locator": "Ch. 2, \"Personality, or What a Man Is\"",
+        "translator": "T. Bailey Saunders (1890)",
+        "url": "https://www.gutenberg.org/ebooks/10741"
+      },
+      "verify": "primary",
+      "tags": [
+        "humor",
+        "society",
+        "mind"
+      ],
+      "mood": [
+        "bored"
+      ]
+    },
+    {
+      "author": "arthur-schopenhauer",
+      "en": "Riches, one may say, are like sea-water; the more you drink the thirstier you become; and the same is true of fame.",
+      "th": "ความร่ำรวยก็เหมือนน้ำทะเล ยิ่งดื่มก็ยิ่งกระหาย ชื่อเสียงก็เป็นแบบเดียวกัน",
+      "orig": {
+        "lang": "de",
+        "text": "Der Reichtum gleicht dem Seewasser: je mehr man davon trinkt, desto durstiger wird man. — Dasselbe gilt vom Ruhm."
+      },
+      "source": {
+        "work": "The Wisdom of Life",
+        "locator": "Ch. 3, \"Property, or What a Man Has\"",
+        "translator": "T. Bailey Saunders (1890)",
+        "url": "https://www.gutenberg.org/ebooks/10741"
+      },
+      "verify": "primary",
+      "tags": [
+        "desire",
+        "happiness"
+      ],
+      "mood": [
+        "stress"
+      ]
+    },
+    {
+      "author": "arthur-schopenhauer",
+      "en": "When Schopenhauer was asked where he wished to be buried, he answered, \"Anywhere; they will find me\"",
+      "th": "เมื่อมีคนถามโชเพนเฮาเออร์ว่าอยากให้ฝังศพไว้ที่ไหน เขาตอบว่า ที่ไหนก็ได้ เดี๋ยวคนก็หาเจอเอง",
+      "source": {
+        "work": "Reported in Essays of Schopenhauer",
+        "locator": "Translator's introduction",
+        "translator": "Mrs. Rudolf Dircks (1897)",
+        "url": "https://www.gutenberg.org/ebooks/11945"
+      },
+      "verify": "sourced",
+      "tags": [
+        "humor",
+        "ego",
+        "death"
+      ],
+      "mood": []
+    },
+    {
+      "author": "friedrich-nietzsche",
+      "en": "God is dead! God remains dead! And we have killed him!",
+      "th": "พระเจ้าตายแล้ว พระเจ้าจะตายอยู่อย่างนั้น และพวกเรานี่แหละที่ฆ่าพระองค์",
+      "orig": {
+        "lang": "de",
+        "text": "Gott ist tot! Gott bleibt tot! Und wir haben ihn getötet."
+      },
+      "source": {
+        "work": "The Gay Science",
+        "locator": "Section 125, \"The Madman\"",
+        "translator": "Thomas Common (1910)",
+        "url": "https://www.gutenberg.org/ebooks/52881"
+      },
+      "verify": "primary",
+      "tags": [
+        "absurd",
+        "meaning"
+      ],
+      "mood": []
+    },
+    {
+      "author": "friedrich-nietzsche",
+      "en": "I tell you: one must still have chaos in one, to give birth to a dancing star. I tell you: ye have still chaos in you.",
+      "th": "เราบอกพวกเธอ คนเราต้องมีความโกลาหลอยู่ในตัว จึงจะให้กำเนิดดาวที่เต้นรำได้ เราบอกพวกเธอ พวกเธอยังมีความโกลาหลอยู่ในตัว",
+      "orig": {
+        "lang": "de",
+        "text": "Ich sage euch: man muss noch Chaos in sich haben, um einen tanzenden Stern gebären zu können. Ich sage euch: ihr habt noch Chaos in euch."
+      },
+      "source": {
+        "work": "Thus Spoke Zarathustra",
+        "locator": "Prologue, 5",
+        "translator": "Thomas Common (1909)",
+        "url": "https://www.gutenberg.org/ebooks/1998"
+      },
+      "verify": "primary",
+      "tags": [
+        "change",
+        "absurd",
+        "hope"
+      ],
+      "mood": [
+        "confused",
+        "overwhelmed"
+      ]
+    },
+    {
+      "author": "friedrich-nietzsche",
+      "en": "I should only believe in a God that would know how to dance.",
+      "th": "เราจะเชื่อก็แต่พระเจ้าที่เต้นรำเป็นเท่านั้น",
+      "orig": {
+        "lang": "de",
+        "text": "Ich würde nur an einen Gott glauben, der zu tanzen verstünde."
+      },
+      "source": {
+        "work": "Thus Spoke Zarathustra",
+        "locator": "Part 1, \"Reading and Writing\"",
+        "translator": "Thomas Common (1909)",
+        "url": "https://www.gutenberg.org/ebooks/1998"
+      },
+      "verify": "primary",
+      "tags": [
+        "humor",
+        "rebellion"
+      ],
+      "mood": [
+        "bored"
+      ]
+    },
+    {
+      "author": "friedrich-nietzsche",
+      "en": "Not by wrath, but by laughter, do we slay. Come, let us slay the spirit of gravity!",
+      "th": "เราไม่ได้สังหารด้วยความโกรธ แต่ด้วยเสียงหัวเราะ มาเถิด มาสังหารจิตวิญญาณแห่งความหนักอึ้งกัน",
+      "orig": {
+        "lang": "de",
+        "text": "Nicht durch Zorn, sondern durch Lachen tödtet man. Auf, lasst uns den Geist der Schwere tödten!"
+      },
+      "source": {
+        "work": "Thus Spoke Zarathustra",
+        "locator": "Part 1, \"Reading and Writing\"",
+        "translator": "Thomas Common (1909)",
+        "url": "https://www.gutenberg.org/ebooks/1998"
+      },
+      "verify": "primary",
+      "tags": [
+        "humor",
+        "anger",
+        "rebellion"
+      ],
+      "mood": [
+        "angry"
+      ]
+    },
+    {
+      "author": "friedrich-nietzsche",
+      "en": "And lost be the day to us in which a measure hath not been danced. And false be every truth which hath not had laughter along with it!",
+      "th": "วันไหนที่เราไม่ได้เต้นรำเลยสักครั้ง ถือว่าวันนั้นสูญเปล่า และความจริงไหนที่ไม่มีเสียงหัวเราะมาด้วย ถือว่าความจริงนั้นเป็นเท็จ",
+      "orig": {
+        "lang": "de",
+        "text": "Und verloren sei uns der Tag, wo nicht Ein Mal getanzt wurde! Und falsch heisse uns jede Wahrheit, bei der es nicht Ein Gelächter gab!"
+      },
+      "source": {
+        "work": "Thus Spoke Zarathustra",
+        "locator": "Part 3, \"Old and New Tables\", 23",
+        "translator": "Thomas Common (1909)",
+        "url": "https://www.gutenberg.org/ebooks/1998"
+      },
+      "verify": "primary",
+      "tags": [
+        "humor",
+        "happiness",
+        "truth"
+      ],
+      "mood": [
+        "bored",
+        "tired"
+      ]
+    },
+    {
+      "author": "friedrich-nietzsche",
+      "en": "Ye higher men here, have ye not all—been failures? Be of good cheer; what doth it matter? How much is still possible! Learn to laugh at yourselves, as ye ought to laugh!",
+      "th": "พวกเธอผู้สูงส่งทั้งหลาย พวกเธอไม่ได้ล้มเหลวกันทุกคนหรอกหรือ ทำใจให้สบายเถอะ แล้วมันสำคัญตรงไหน ยังมีอะไรเป็นไปได้อีกตั้งมาก จงหัดหัวเราะเยาะตัวเอง อย่างที่ควรหัวเราะ",
+      "orig": {
+        "lang": "de",
+        "text": "Ihr höheren Menschen hier, seid ihr nicht alle — missgerathen? Seid guten Muths, was liegt daran! Wie Vieles ist noch möglich! Lernt über euch selber lachen, wie man lachen muss!"
+      },
+      "source": {
+        "work": "Thus Spoke Zarathustra",
+        "locator": "Part 4, \"The Higher Man\", 15",
+        "translator": "Thomas Common (1909)",
+        "url": "https://www.gutenberg.org/ebooks/1998"
+      },
+      "verify": "primary",
+      "tags": [
+        "failure",
+        "humor",
+        "hope"
+      ],
+      "mood": [
+        "stuck",
+        "heartbroken"
+      ]
+    },
+    {
+      "author": "friedrich-nietzsche",
+      "en": "My formula for greatness in man is amor fati: the fact that a man wishes nothing to be different, either in front of him or behind him, or for all eternity. Not only must the necessary be borne... but it must also be loved",
+      "th": "สูตรความยิ่งใหญ่ของมนุษย์ในแบบของฉัน คืออามอร์ ฟาตี หรือการรักโชคชะตา คือไม่อยากให้อะไรเป็นอื่นไปจากที่เป็น ทั้งข้างหน้า ข้างหลัง หรือชั่วนิรันดร์ สิ่งที่หนีไม่พ้นไม่ใช่แค่ต้องทนรับ แต่ต้องรักมันด้วย",
+      "orig": {
+        "lang": "de",
+        "text": "Meine Formel für die Grösse am Menschen ist amor fati: dass man Nichts anders haben will, vorwärts nicht, rückwärts nicht, in alle Ewigkeit nicht. Das Nothwendige nicht bloss ertragen ... sondern es lieben"
+      },
+      "source": {
+        "work": "Ecce Homo",
+        "locator": "\"Why I Am So Clever\", 10",
+        "translator": "Anthony M. Ludovici (1911)",
+        "url": "https://www.gutenberg.org/ebooks/52190"
+      },
+      "verify": "primary",
+      "tags": [
+        "absurd",
+        "suffering",
+        "love"
+      ],
+      "mood": [
+        "stuck",
+        "heartbroken"
+      ]
+    },
+    {
+      "author": "friedrich-nietzsche",
+      "en": "Insanity in individuals is something rare--but in groups, parties, nations, and epochs it is the rule.",
+      "th": "ความบ้าในตัวคนคนเดียวเป็นเรื่องหายาก แต่ในกลุ่มคน พรรคการเมือง ชาติ และยุคสมัย กลับเป็นเรื่องปกติ",
+      "orig": {
+        "lang": "de",
+        "text": "Der Irrsinn ist bei Einzelnen etwas Seltenes, — aber bei Gruppen, Parteien, Völkern, Zeiten die Regel."
+      },
+      "source": {
+        "work": "Beyond Good and Evil",
+        "locator": "Section 156",
+        "translator": "Helen Zimmern (1907)",
+        "url": "https://www.gutenberg.org/ebooks/4363"
+      },
+      "verify": "primary",
+      "tags": [
+        "society",
+        "humor"
+      ],
+      "mood": [
+        "angry"
+      ]
+    },
+    {
+      "author": "friedrich-nietzsche",
+      "en": "Which is it? Is man only a blunder of God? Or is God only a blunder of man?",
+      "th": "ตกลงแบบไหนกันแน่ มนุษย์เป็นแค่ความผิดพลาดของพระเจ้า หรือพระเจ้าเป็นแค่ความผิดพลาดของมนุษย์",
+      "orig": {
+        "lang": "de",
+        "text": "Wie? ist der Mensch nur ein Fehlgriff Gottes? Oder Gott nur ein Fehlgriff des Menschen?"
+      },
+      "source": {
+        "work": "Twilight of the Idols",
+        "locator": "Maxims and Arrows, 7",
+        "translator": "Anthony M. Ludovici (1911)",
+        "url": "https://www.gutenberg.org/ebooks/52263"
+      },
+      "verify": "primary",
+      "tags": [
+        "humor",
+        "absurd",
+        "doubt"
+      ],
+      "mood": [
+        "confused"
+      ]
+    },
+    {
+      "author": "friedrich-nietzsche",
+      "en": "Can a donkey be tragic?—To perish beneath a load that one can neither bear nor throw off? This is the case of the Philosopher.",
+      "th": "ลาจะเป็นตัวละครโศกนาฏกรรมได้ไหม คือพังไปใต้ภาระที่ทั้งแบกไม่ไหวและสลัดไม่หลุด นี่แหละกรณีของนักปรัชญา",
+      "orig": {
+        "lang": "de",
+        "text": "Kann ein Esel tragisch sein? — Dass man unter einer Last zu Grunde geht, die man weder tragen, noch abwerfen kann?... Der Fall des Philosophen."
+      },
+      "source": {
+        "work": "Twilight of the Idols",
+        "locator": "Maxims and Arrows, 11",
+        "translator": "Anthony M. Ludovici (1911)",
+        "url": "https://www.gutenberg.org/ebooks/52263"
+      },
+      "verify": "primary",
+      "tags": [
+        "humor",
+        "suffering",
+        "absurd"
+      ],
+      "mood": [
+        "overwhelmed",
+        "tired"
+      ]
+    },
+    {
+      "author": "franz-kafka",
+      "en": "One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin.",
+      "th": "เช้าวันหนึ่ง เกรกอร์ ซัมซา ตื่นขึ้นจากฝันร้ายอันกระสับกระส่าย แล้วพบว่าตัวเองนอนอยู่บนเตียงในร่างของแมลงน่าขยะแขยงตัวหนึ่ง",
+      "orig": {
+        "lang": "de",
+        "text": "Als Gregor Samsa eines Morgens aus unruhigen Träumen erwachte, fand er sich in seinem Bett zu einem ungeheueren Ungeziefer verwandelt."
+      },
+      "source": {
+        "work": "The Metamorphosis",
+        "locator": "Part I (first line)",
+        "translator": "David Wyllie",
+        "url": "https://www.gutenberg.org/ebooks/5200"
+      },
+      "verify": "primary",
+      "tags": [
+        "absurd",
+        "change",
+        "self"
+      ],
+      "mood": [
+        "tired"
+      ]
+    },
+    {
+      "author": "franz-kafka",
+      "en": "How about if I sleep a little bit longer and forget all this nonsense",
+      "th": "ถ้างั้นนอนต่ออีกสักหน่อย แล้วลืมเรื่องบ้าบอพวกนี้ไปให้หมดดีไหมนะ",
+      "orig": {
+        "lang": "de",
+        "text": "Wie wäre es, wenn ich noch ein wenig weiterschliefe und alle Narrheiten vergäße"
+      },
+      "source": {
+        "work": "The Metamorphosis",
+        "locator": "Part I",
+        "translator": "David Wyllie",
+        "url": "https://www.gutenberg.org/ebooks/5200"
+      },
+      "verify": "primary",
+      "tags": [
+        "humor",
+        "absurd"
+      ],
+      "mood": [
+        "tired",
+        "overwhelmed"
+      ]
+    },
+    {
+      "author": "franz-kafka",
+      "en": "Someone must have been telling lies about Josef K., he knew he had done nothing wrong but, one morning, he was arrested.",
+      "th": "ต้องมีใครสักคนใส่ร้ายโยเซฟ เค แน่ ๆ เขารู้ดีว่าตัวเองไม่ได้ทำอะไรผิด แต่แล้วเช้าวันหนึ่ง เขาก็ถูกจับ",
+      "orig": {
+        "lang": "de",
+        "text": "Jemand mußte Josef K. verleumdet haben, denn ohne daß er etwas Böses getan hätte, wurde er eines Morgens verhaftet."
+      },
+      "source": {
+        "work": "The Trial",
+        "locator": "Chapter 1 (first line)",
+        "translator": "David Wyllie",
+        "url": "https://www.gutenberg.org/ebooks/7849"
+      },
+      "verify": "primary",
+      "tags": [
+        "absurd",
+        "society"
+      ],
+      "mood": [
+        "anxious",
+        "confused"
+      ]
+    },
+    {
+      "author": "franz-kafka",
+      "en": "In the struggle between yourself and the world, second the world.",
+      "th": "ในศึกระหว่างเธอกับโลก จงเข้าข้างโลก",
+      "orig": {
+        "lang": "de",
+        "text": "Im Kampf zwischen dir und der Welt sekundiere der Welt."
+      },
+      "source": {
+        "work": "The Zürau Aphorisms",
+        "locator": "No. 52 (1917–18)",
+        "translator": null,
+        "url": "https://de.wikisource.org/wiki/Betrachtungen_%C3%BCber_S%C3%BCnde,_Leid,_Hoffnung_und_den_wahren_Weg"
+      },
+      "verify": "primary",
+      "tags": [
+        "humor",
+        "ego"
+      ],
+      "mood": [
+        "angry",
+        "stress"
+      ]
+    },
+    {
+      "author": "franz-kafka",
+      "en": "There is a goal, but no way; what we call a way is hesitation.",
+      "th": "เป้าหมายมีอยู่ แต่ไม่มีทาง สิ่งที่เราเรียกว่าทาง ก็คือความลังเล",
+      "orig": {
+        "lang": "de",
+        "text": "Es gibt ein Ziel, aber keinen Weg; was wir Weg nennen, ist Zögern."
+      },
+      "source": {
+        "work": "The Zürau Aphorisms",
+        "locator": "No. 26 (1917–18)",
+        "translator": null,
+        "url": "https://de.wikisource.org/wiki/Betrachtungen_%C3%BCber_S%C3%BCnde,_Leid,_Hoffnung_und_den_wahren_Weg"
+      },
+      "verify": "primary",
+      "tags": [
+        "doubt",
+        "action",
+        "absurd"
+      ],
+      "mood": [
+        "stuck",
+        "confused"
+      ]
+    },
+    {
+      "author": "franz-kafka",
+      "en": "A cage went in search of a bird.",
+      "th": "กรงใบหนึ่งออกเดินทางตามหานก",
+      "orig": {
+        "lang": "de",
+        "text": "Ein Käfig ging einen Vogel suchen."
+      },
+      "source": {
+        "work": "The Zürau Aphorisms",
+        "locator": "No. 16 (1917–18)",
+        "translator": null,
+        "url": "https://de.wikisource.org/wiki/Betrachtungen_%C3%BCber_S%C3%BCnde,_Leid,_Hoffnung_und_den_wahren_Weg"
+      },
+      "verify": "primary",
+      "tags": [
+        "freedom",
+        "absurd"
+      ],
+      "mood": []
+    },
+    {
+      "author": "franz-kafka",
+      "en": "Germany has declared war on Russia. Swimming in the afternoon.",
+      "th": "เยอรมนีประกาศสงครามกับรัสเซีย บ่ายไปว่ายน้ำ",
+      "source": {
+        "work": "Diaries",
+        "locator": "Entry for 2 August 1914",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Franz_Kafka#The_Diaries_of_Franz_Kafka_1910-1923_(1948)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "absurd",
+        "humor"
+      ],
+      "mood": []
+    },
+    {
+      "author": "franz-kafka",
+      "en": "If the book we are reading doesn't wake us up with a blow on the head, what are we reading it for? ... A book must be the axe for the frozen sea inside us.",
+      "th": "ถ้าหนังสือที่เราอ่านไม่ได้ปลุกเราด้วยหมัดที่ทุบลงกลางกบาล แล้วเราจะอ่านมันไปทำไม หนังสือต้องเป็นขวานที่ผ่าทะเลเยือกแข็งในตัวเรา",
+      "orig": {
+        "lang": "de",
+        "text": "Wenn das Buch, das wir lesen, uns nicht mit einem Faustschlag auf den Schädel weckt, wozu lesen wir dann das Buch? ... ein Buch muß die Axt sein für das gefrorene Meer in uns."
+      },
+      "source": {
+        "work": "Letter to Oskar Pollak",
+        "locator": "27 January 1904",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Franz_Kafka"
+      },
+      "verify": "sourced",
+      "tags": [
+        "knowledge",
+        "change",
+        "emotion"
+      ],
+      "mood": [
+        "bored"
+      ]
+    },
+    {
+      "author": "franz-kafka",
+      "en": "Plenty of hope — for God — no end of hope — only not for us.",
+      "th": "ความหวังน่ะมีเหลือเฟือ สำหรับพระเจ้ามีความหวังไม่รู้จบ แค่ไม่ใช่สำหรับพวกเรา",
+      "orig": {
+        "lang": "de",
+        "text": "Oh, Hoffnung genug, unendlich viel Hoffnung, — nur nicht für uns."
+      },
+      "source": {
+        "work": "Conversation with Max Brod (1920)",
+        "locator": "reported in Max Brod, Franz Kafka: A Biography (1937)",
+        "translator": "G. Humphreys Roberts and Richard Winston (1960)",
+        "url": "https://en.wikiquote.org/wiki/Franz_Kafka"
+      },
+      "verify": "sourced",
+      "tags": [
+        "hope",
+        "absurd",
+        "humor"
+      ],
+      "mood": []
+    },
+    {
+      "author": "kurt-vonnegut",
+      "en": "We are here on Earth to fart around. Don't let anybody tell you any different.",
+      "th": "เราเกิดมาบนโลกนี้ก็เพื่อเถลไถลไปเรื่อย ๆ อย่าให้ใครมาบอกเป็นอย่างอื่น",
+      "source": {
+        "work": "A Man Without a Country",
+        "locator": "2005",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Kurt_Vonnegut#A_Man_Without_a_Country_(2005)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "humor",
+        "freedom",
+        "meaning"
+      ],
+      "mood": [
+        "stress",
+        "stuck"
+      ]
+    },
+    {
+      "author": "kurt-vonnegut",
+      "en": "So it goes.",
+      "th": "ก็อย่างนี้แหละ",
+      "source": {
+        "work": "Slaughterhouse-Five",
+        "locator": "recurring line (1969)",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Kurt_Vonnegut#Slaughterhouse-Five_(1969)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "absurd",
+        "death"
+      ],
+      "mood": []
+    },
+    {
+      "author": "kurt-vonnegut",
+      "en": "We are what we pretend to be, so we must be careful about what we pretend to be.",
+      "th": "เราเป็นอย่างที่เราแกล้งทำเป็น ฉะนั้นต้องระวังให้ดีว่าจะแกล้งเป็นอะไร",
+      "source": {
+        "work": "Mother Night",
+        "locator": "Introduction (1966)",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Kurt_Vonnegut#Mother_Night_(1962)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "self",
+        "choice",
+        "responsibility"
+      ],
+      "mood": []
+    },
+    {
+      "author": "kurt-vonnegut",
+      "en": "I urge you to please notice when you are happy, and exclaim or murmur or think at some point, \"If this isn't nice, I don't know what is.\"",
+      "th": "ผมขอร้องเลย เวลาคุณมีความสุข ช่วยสังเกตมันหน่อย แล้วอุทาน กระซิบ หรือคิดในใจสักครั้งว่า ถ้านี่ยังไม่ดี ก็ไม่รู้แล้วว่าอะไรดี",
+      "source": {
+        "work": "Knowing What's Nice",
+        "locator": "essay in In These Times (2003)",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Kurt_Vonnegut"
+      },
+      "verify": "sourced",
+      "tags": [
+        "happiness",
+        "present"
+      ],
+      "mood": [
+        "stress",
+        "tired"
+      ]
+    },
+    {
+      "author": "kurt-vonnegut",
+      "en": "Tiger got to hunt, bird got to fly; / Man got to sit and wonder 'why, why, why?' / Tiger got to sleep, bird got to land; / Man got to tell himself he understand.",
+      "th": "เสือต้องล่า นกต้องบิน คนต้องนั่งสงสัยว่าทำไม ทำไม ทำไม เสือต้องนอน นกต้องลงดิน คนต้องบอกตัวเองว่าเข้าใจแล้ว",
+      "source": {
+        "work": "Cat's Cradle",
+        "locator": "a Calypso of Bokonon (1963)",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Kurt_Vonnegut#Cat's_Cradle_(1963)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "absurd",
+        "meaning",
+        "humor"
+      ],
+      "mood": [
+        "confused"
+      ]
+    },
+    {
+      "author": "kurt-vonnegut",
+      "en": "You are pooped and demoralized. Why wouldn't you be? Of course it is exhausting, having to reason all the time in a universe which wasn't meant to be reasonable.",
+      "th": "คุณหมดแรงและหมดกำลังใจ ก็ไม่แปลกหรอก แน่นอนว่ามันเหนื่อย ที่ต้องคอยใช้เหตุผลตลอดเวลาในจักรวาลที่ไม่ได้ถูกสร้างมาให้มีเหตุผล",
+      "source": {
+        "work": "Breakfast of Champions",
+        "locator": "1973",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Kurt_Vonnegut#Breakfast_of_Champions_(1973)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "absurd",
+        "reason",
+        "humor"
+      ],
+      "mood": [
+        "tired",
+        "overwhelmed"
+      ]
+    },
+    {
+      "author": "kurt-vonnegut",
+      "en": "This is my principal objection to life, I think: It is too easy, when alive, to make perfectly horrible mistakes.",
+      "th": "ผมว่าข้อติหลักของผมต่อชีวิตก็คือ ตอนยังมีชีวิตอยู่ มันง่ายเกินไปที่จะทำพลาดแบบเลวร้ายสุด ๆ",
+      "source": {
+        "work": "Deadeye Dick",
+        "locator": "p. 6 (1982)",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Kurt_Vonnegut#Deadeye_Dick_(1982)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "failure",
+        "humor"
+      ],
+      "mood": [
+        "stuck",
+        "anxious"
+      ]
+    },
+    {
+      "author": "kurt-vonnegut",
+      "en": "How embarrassing to be human.",
+      "th": "เป็นมนุษย์นี่น่าอายจังเลย",
+      "source": {
+        "work": "Hocus Pocus",
+        "locator": "1990",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Kurt_Vonnegut#Hocus_Pocus_(1990)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "humor",
+        "self"
+      ],
+      "mood": []
+    },
+    {
+      "author": "samuel-beckett",
+      "en": "Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.",
+      "th": "เคยลอง เคยล้มเหลว ช่างมัน ลองใหม่ ล้มเหลวใหม่ ล้มเหลวให้ดีขึ้น",
+      "source": {
+        "work": "Worstward Ho",
+        "locator": "1983",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Samuel_Beckett#Worstward_Ho_(1983)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "failure",
+        "courage",
+        "action"
+      ],
+      "mood": [
+        "stuck",
+        "heartbroken"
+      ]
+    },
+    {
+      "author": "samuel-beckett",
+      "en": "Nothing is funnier than unhappiness... it's the most comical thing in the world. And we laugh, we laugh, with a will, in the beginning. But it's always the same thing.",
+      "th": "ไม่มีอะไรตลกไปกว่าความทุกข์อีกแล้ว มันเป็นเรื่องขำที่สุดในโลก ตอนแรกเราก็หัวเราะ หัวเราะกันเต็มที่ แต่มันก็เรื่องเดิมทุกที",
+      "source": {
+        "work": "Endgame",
+        "locator": "Nell (1957)",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Samuel_Beckett#Endgame_(1957)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "humor",
+        "suffering",
+        "absurd"
+      ],
+      "mood": []
+    },
+    {
+      "author": "samuel-beckett",
+      "en": "We are all born mad. Some remain so.",
+      "th": "เราทุกคนเกิดมาบ้า บางคนก็บ้าอยู่อย่างนั้นตลอดไป",
+      "source": {
+        "work": "Waiting for Godot",
+        "locator": "Act II (Estragon)",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Samuel_Beckett#Waiting_for_Godot_(1952)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "humor",
+        "absurd"
+      ],
+      "mood": []
+    },
+    {
+      "author": "samuel-beckett",
+      "en": "Let's go. / We can't. / Why not? / We're waiting for Godot.",
+      "th": "ไปกันเถอะ ไปไม่ได้หรอก ทำไมล่ะ ก็เรารอโกโดต์อยู่ไง",
+      "source": {
+        "work": "Waiting for Godot",
+        "locator": "Act I (Estragon and Vladimir)",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Samuel_Beckett#Waiting_for_Godot_(1952)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "absurd",
+        "time",
+        "humor"
+      ],
+      "mood": [
+        "stuck",
+        "bored"
+      ]
+    },
+    {
+      "author": "samuel-beckett",
+      "en": "you must go on, I can't go on, I'll go on.",
+      "th": "คุณต้องไปต่อ ฉันไปต่อไม่ไหว ฉันจะไปต่อ",
+      "source": {
+        "work": "The Unnamable",
+        "locator": "last lines (1953; English 1958)",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Samuel_Beckett#The_Unnamable_(1954)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "courage",
+        "suffering",
+        "absurd"
+      ],
+      "mood": [
+        "overwhelmed",
+        "tired"
+      ]
+    },
+    {
+      "author": "samuel-beckett",
+      "en": "The sun shone, having no alternative, on the nothing new.",
+      "th": "ดวงอาทิตย์ส่องแสงลงบนความไม่มีอะไรใหม่ เพราะมันไม่มีทางเลือกอื่น",
+      "source": {
+        "work": "Murphy",
+        "locator": "first line (1938)",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Samuel_Beckett#Murphy_(1938)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "absurd",
+        "humor",
+        "nature"
+      ],
+      "mood": [
+        "bored"
+      ]
+    },
+    {
+      "author": "samuel-beckett",
+      "en": "I tried to groan, Help! Help! But the tone that came out was that of polite conversation.",
+      "th": "ผมพยายามครางออกมาว่า ช่วยด้วย ช่วยด้วย แต่เสียงที่ออกมากลับเป็นน้ำเสียงของการคุยกันอย่างสุภาพ",
+      "source": {
+        "work": "The End",
+        "locator": "1946 story",
+        "translator": "Richard Seaver with the author (1954)",
+        "url": "https://en.wikiquote.org/wiki/Samuel_Beckett#The_End_(1946)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "humor",
+        "emotion"
+      ],
+      "mood": [
+        "anxious",
+        "overwhelmed"
+      ]
+    },
+    {
+      "author": "emil-cioran",
+      "en": "I am displeased with everything. If they made me God, I would immediately resign.",
+      "th": "ฉันไม่พอใจกับทุกอย่าง ถ้าเขาตั้งฉันเป็นพระเจ้า ฉันจะลาออกทันที",
+      "source": {
+        "work": "On the Heights of Despair",
+        "locator": "1934",
+        "translator": "Ilinca Zarifopol-Johnston (1992)",
+        "url": "https://en.wikiquote.org/wiki/Emil_Cioran#On_the_Heights_of_Despair_(1934)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "humor",
+        "rebellion"
+      ],
+      "mood": [
+        "angry",
+        "tired"
+      ]
+    },
+    {
+      "author": "emil-cioran",
+      "en": "\"What do you do from morning to night?\" \"I endure myself.\"",
+      "th": "ทั้งวันคุณทำอะไรบ้าง ก็นั่งทนตัวเองอยู่ไง",
+      "source": {
+        "work": "The Trouble with Being Born",
+        "locator": "1973",
+        "translator": "Richard Howard (1976)",
+        "url": "https://en.wikiquote.org/wiki/Emil_Cioran#The_Trouble_With_Being_Born_(1973)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "humor",
+        "self"
+      ],
+      "mood": [
+        "tired",
+        "bored"
+      ]
+    },
+    {
+      "author": "emil-cioran",
+      "en": "\"Do I look like someone who has something to do here on Earth?\" — That's what I'd like to answer the busybodies who inquire into my activities.",
+      "th": "ฉันดูเหมือนคนที่มีธุระต้องทำบนโลกนี้หรือ นี่คือคำตอบที่ฉันอยากตอกกลับพวกขี้สอดรู้ ที่ชอบมาถามว่าช่วงนี้ทำอะไรอยู่",
+      "source": {
+        "work": "The Trouble with Being Born",
+        "locator": "1973",
+        "translator": "Richard Howard (1976)",
+        "url": "https://en.wikiquote.org/wiki/Emil_Cioran#The_Trouble_With_Being_Born_(1973)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "humor",
+        "society",
+        "work"
+      ],
+      "mood": [
+        "stress",
+        "bored"
+      ]
+    },
+    {
+      "author": "emil-cioran",
+      "en": "We are all of us in error, the humorists excepted. They alone have discerned, as though in jest, the inanity of all that is serious and even of all that is frivolous.",
+      "th": "พวกเราทุกคนหลงผิดกันหมด ยกเว้นคนที่ทำเรื่องขำ มีแต่พวกเขาที่มองออก ราวกับพูดเล่น ว่าเรื่องจริงจังทั้งหลายนั้นไร้สาระ และเรื่องไร้สาระก็ไร้สาระด้วย",
+      "source": {
+        "work": "Drawn and Quartered",
+        "locator": "1983",
+        "translator": "Richard Howard (1983)",
+        "url": "https://en.wikiquote.org/wiki/Emil_Cioran#Drawn_and_Quartered_(1983)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "humor",
+        "truth",
+        "absurd"
+      ],
+      "mood": []
+    },
+    {
+      "author": "emil-cioran",
+      "en": "He who has never envied the vegetable has missed the human drama.",
+      "th": "ใครไม่เคยอิจฉาผักเลยสักครั้ง คนนั้นพลาดละครชีวิตของมนุษย์ไปแล้ว",
+      "source": {
+        "work": "The Fall into Time",
+        "locator": "p. 178 (first American edition, 1970)",
+        "translator": "Richard Howard (1970)",
+        "url": "https://en.wikiquote.org/wiki/Emil_Cioran#The_Fall_Into_Time_(1964)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "humor",
+        "suffering"
+      ],
+      "mood": [
+        "overwhelmed",
+        "tired"
+      ]
+    },
+    {
+      "author": "emil-cioran",
+      "en": "Nothing surpasses the pleasures of idleness: even if the end of the world were to come, I would not leave my bed at an ungodly hour.",
+      "th": "ไม่มีอะไรเทียบความสุขของการขี้เกียจได้ ต่อให้โลกกำลังจะแตก ฉันก็ไม่ลุกจากเตียงแต่เช้าตรู่แบบผิดมนุษย์มนาหรอก",
+      "source": {
+        "work": "A Short History of Decay",
+        "locator": "1949",
+        "translator": "Richard Howard (1975)",
+        "url": "https://en.wikiquote.org/wiki/Emil_Cioran#A_Short_History_of_Decay_(1949)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "humor",
+        "simplicity"
+      ],
+      "mood": [
+        "tired"
+      ]
+    },
+    {
+      "author": "douglas-adams",
+      "en": "In the beginning the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move.",
+      "th": "ในปฐมกาล จักรวาลถูกสร้างขึ้น เรื่องนี้ทำให้ผู้คนมากมายโกรธเป็นฟืนเป็นไฟ และถูกมองอย่างกว้างขวางว่าเป็นการตัดสินใจที่แย่",
+      "source": {
+        "work": "The Restaurant at the End of the Universe",
+        "locator": "Chapter 1, \"The story so far\" (1980)",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy#The_Restaurant_at_the_End_of_the_Universe_(1980)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "humor",
+        "absurd"
+      ],
+      "mood": [
+        "angry",
+        "stress"
+      ]
+    },
+    {
+      "author": "douglas-adams",
+      "en": "Time is an illusion. Lunchtime doubly so.",
+      "th": "เวลาเป็นแค่ภาพลวง เวลาพักเที่ยงยิ่งลวงเข้าไปใหญ่",
+      "source": {
+        "work": "The Hitchhiker's Guide to the Galaxy",
+        "locator": "Chapter 2 (1979)",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy"
+      },
+      "verify": "sourced",
+      "tags": [
+        "time",
+        "humor"
+      ],
+      "mood": [
+        "stress",
+        "bored"
+      ]
+    },
+    {
+      "author": "douglas-adams",
+      "en": "\"This must be Thursday,\" said Arthur to himself, sinking low over his beer, \"I never could get the hang of Thursdays.\"",
+      "th": "อาเธอร์ทรุดตัวลงเหนือแก้วเบียร์แล้วพึมพำกับตัวเองว่า วันนี้คงเป็นวันพฤหัสแน่ ๆ ฉันไม่เคยเข้าใจวันพฤหัสเลยสักที",
+      "source": {
+        "work": "The Hitchhiker's Guide to the Galaxy",
+        "locator": "Chapter 2 (1979)",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy"
+      },
+      "verify": "sourced",
+      "tags": [
+        "humor",
+        "time"
+      ],
+      "mood": [
+        "tired",
+        "bored"
+      ]
+    },
+    {
+      "author": "douglas-adams",
+      "en": "I may not have gone where I intended to go, but I think I have ended up where I needed to be.",
+      "th": "ฉันอาจไปไม่ถึงที่ที่ตั้งใจไว้ แต่คิดว่าตัวเองมาจบในที่ที่ควรจะอยู่แล้ว",
+      "source": {
+        "work": "The Long Dark Tea-Time of the Soul",
+        "locator": "Chapter 13 (1988)",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Douglas_Adams#The_Long_Dark_Tea-Time_of_the_Soul_(1988)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "change",
+        "hope"
+      ],
+      "mood": [
+        "lost"
+      ]
+    },
+    {
+      "author": "douglas-adams",
+      "en": "I love deadlines. I love the whooshing noise they make as they go by.",
+      "th": "ผมรักเดดไลน์ ผมรักเสียงวืดตอนที่มันพุ่งผ่านไป",
+      "source": {
+        "work": "The Salmon of Doubt",
+        "locator": "2002",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Douglas_Adams#The_Salmon_of_Doubt_(2002)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "work",
+        "humor",
+        "time"
+      ],
+      "mood": [
+        "stress"
+      ]
+    },
+    {
+      "author": "douglas-adams",
+      "en": "There is an art, it says, or rather, a knack to flying. The knack lies in learning how to throw yourself at the ground and miss.",
+      "th": "การบินมีศิลปะ หรือพูดให้ถูก มีเคล็ดลับของมันอยู่ เคล็ดลับคือต้องหัดเหวี่ยงตัวเองลงพื้น แล้วพลาดพื้นให้ได้",
+      "source": {
+        "work": "Life, the Universe and Everything",
+        "locator": "Chapter 9 (1982)",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy#Life,_the_Universe_and_Everything_(1982)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "failure",
+        "humor"
+      ],
+      "mood": [
+        "stuck",
+        "heartbroken"
+      ]
+    },
+    {
+      "author": "max-stirner",
+      "en": "The young are of age when they twitter like the old; they are driven through school to learn the old song, and, when they have this by heart, they are declared of age.",
+      "th": "คนหนุ่มสาวจะถูกนับว่าโตแล้ว ก็ต่อเมื่อร้องเพลงได้เหมือนคนแก่ พวกเขาถูกต้อนเข้าโรงเรียนไปท่องเพลงเก่า พอท่องได้ขึ้นใจ ก็ถูกประกาศว่าเป็นผู้ใหญ่",
+      "source": {
+        "work": "The Ego and Its Own",
+        "locator": "Part 1, \"The Moderns\"",
+        "translator": "Steven T. Byington (1907)",
+        "url": "https://www.gutenberg.org/ebooks/34580"
+      },
+      "verify": "primary",
+      "tags": [
+        "society",
+        "rebellion",
+        "freedom"
+      ],
+      "mood": [
+        "angry",
+        "stuck"
+      ]
+    },
+    {
+      "author": "max-stirner",
+      "en": "The State's behavior is violence, and it calls its violence \"law\"; that of the individual, \"crime.\"",
+      "th": "สิ่งที่รัฐทำคือความรุนแรง แต่รัฐเรียกความรุนแรงของตัวเองว่ากฎหมาย และเรียกความรุนแรงของปัจเจกว่าอาชญากรรม",
+      "source": {
+        "work": "The Ego and Its Own",
+        "locator": "Part 2, \"My Power\"",
+        "translator": "Steven T. Byington (1907)",
+        "url": "https://www.gutenberg.org/ebooks/34580"
+      },
+      "verify": "primary",
+      "tags": [
+        "society",
+        "rebellion"
+      ],
+      "mood": [
+        "angry"
+      ]
+    },
+    {
+      "author": "max-stirner",
+      "en": "Look upon yourself as more powerful than they give you out for, and you have more power; look upon yourself as more, and you have more.",
+      "th": "มองตัวเองว่ามีพลังมากกว่าที่ใครเขาตีราคาให้ แล้วคุณจะมีพลังมากขึ้น มองตัวเองว่าเป็นได้มากกว่านั้น แล้วคุณจะเป็นได้มากกว่านั้น",
+      "source": {
+        "work": "The Ego and Its Own",
+        "locator": "Part 2, \"The Owner\"",
+        "translator": "Steven T. Byington (1907)",
+        "url": "https://www.gutenberg.org/ebooks/34580"
+      },
+      "verify": "primary",
+      "tags": [
+        "self",
+        "freedom"
+      ],
+      "mood": [
+        "stuck"
+      ]
+    },
+    {
+      "author": "eugene-ionesco",
+      "en": "Logician: A cat has four paws. / Old Gentleman: My dog had four paws. / Logician: Then it's a cat. / Old Gentleman: So my dog is a cat? / Logician: And the contrary is also true.",
+      "th": "นักตรรกะว่า แมวมีสี่ขา ชายชราว่า หมาของผมก็มีสี่ขา นักตรรกะว่า งั้นมันก็เป็นแมว ชายชราว่า หมาผมเป็นแมวหรือนี่ นักตรรกะว่า กลับกันก็จริงด้วยนะ",
+      "source": {
+        "work": "Rhinoceros",
+        "locator": "Act I (1959)",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Eugène_Ionesco"
+      },
+      "verify": "sourced",
+      "tags": [
+        "humor",
+        "reason",
+        "absurd"
+      ],
+      "mood": [
+        "confused"
+      ]
+    },
+    {
+      "author": "eugene-ionesco",
+      "en": "God is dead. Marx is dead. And I don't feel so well myself.",
+      "th": "พระเจ้าตายแล้ว มาร์กซ์ก็ตายแล้ว ส่วนตัวผมเองก็รู้สึกไม่ค่อยสบายเท่าไร",
+      "orig": {
+        "lang": "fr",
+        "text": "Dieu est mort, Marx est mort et moi-même je ne me sens pas très bien"
+      },
+      "source": {
+        "work": "Un homme en question",
+        "locator": "p. 164 (1979); first in Le Figaro, Christmas 1978",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Eugène_Ionesco"
+      },
+      "verify": "sourced",
+      "tags": [
+        "humor",
+        "absurd",
+        "death"
+      ],
+      "mood": [
+        "tired"
+      ]
+    },
+    {
+      "author": "thomas-nagel",
+      "en": "It is often remarked that nothing we do now will matter in a million years. But if that is true, then by the same token, nothing that will be the case in a million years matters now.",
+      "th": "คนชอบพูดกันว่า อะไรที่เราทำตอนนี้จะไม่มีความหมายเลยในอีกล้านปี แต่ถ้าเป็นอย่างนั้นจริง ด้วยตรรกะเดียวกัน อะไรที่จะเกิดในอีกล้านปีก็ไม่มีความหมายอะไรกับตอนนี้เลย",
+      "source": {
+        "work": "Mortal Questions",
+        "locator": "\"The Absurd\" (1971), p. 11",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Thomas_Nagel#Mortal_Questions_(1979)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "meaning",
+        "absurd",
+        "reason"
+      ],
+      "mood": [
+        "anxious",
+        "lost"
+      ]
+    },
+    {
+      "author": "thomas-nagel",
+      "en": "If sub specie aeternitatis there is no reason to believe that anything matters, then that does not matter either, and we can approach our absurd lives with irony instead of heroism or despair.",
+      "th": "ถ้ามองจากมุมของนิรันดร์แล้วไม่มีเหตุผลให้เชื่อว่าอะไรสำคัญ ข้อนั้นเองก็ไม่สำคัญเหมือนกัน เราจึงเข้าหาชีวิตอันไร้สาระของเราด้วยอารมณ์ขันได้ แทนที่จะเป็นความกล้าหาญแบบวีรบุรุษหรือความสิ้นหวัง",
+      "source": {
+        "work": "Mortal Questions",
+        "locator": "\"The Absurd\" (1971), p. 23",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Thomas_Nagel#Mortal_Questions_(1979)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "absurd",
+        "humor",
+        "meaning"
+      ],
+      "mood": [
+        "overwhelmed",
+        "lost"
+      ]
+    },
+    {
+      "author": "soren-kierkegaard",
+      "en": "I beheld that the meaning of life was to make a living; its goal, to become Chief Justice; that the delights of love consisted in marrying a woman with ample means... I saw that and laughed.",
+      "th": "ฉันเห็นว่าความหมายของชีวิตคือการหาเลี้ยงชีพ เป้าหมายคือได้ตำแหน่งใหญ่โต ความสุขของความรักคือได้แต่งงานกับคนมีฐานะ ฉันเห็นอย่างนั้นแล้วก็หัวเราะ",
+      "orig": {
+        "lang": "da",
+        "text": "Jeg saae, at det var Livets Betydning at faae et Levebrød, dets Maal at blive Justitsraad; at det var Elskovens rige Lyst at faae en velhavende Pige ... Det saae jeg, og jeg loe."
+      },
+      "source": {
+        "work": "Either/Or, Part I",
+        "locator": "Diapsalmata",
+        "translator": "Lee M. Hollander (1923)",
+        "url": "https://www.gutenberg.org/ebooks/60333"
+      },
+      "verify": "primary",
+      "tags": [
+        "meaning",
+        "society",
+        "humor"
+      ],
+      "mood": [
+        "bored",
+        "stuck"
+      ]
+    },
+    {
+      "author": "soren-kierkegaard",
+      "en": "Marry, and you will regret it; do not marry, and you will also regret it; marry or do not marry, you will regret both; whether you marry or you do not marry, you will regret both.",
+      "th": "แต่งงานสิ แล้วคุณจะเสียใจ ไม่แต่งงานก็จะเสียใจเหมือนกัน แต่งหรือไม่แต่ง คุณก็เสียใจทั้งสองทาง จะแต่งหรือไม่แต่ง คุณก็ต้องเสียใจทั้งคู่",
+      "orig": {
+        "lang": "da",
+        "text": "Gift Dig, Du vil fortryde det; gift Dig ikke, Du vil ogsaa fortryde det; gift Dig eller gift Dig ikke, Du vil fortryde begge Dele; enten Du gifter Dig eller Du ikke gifter Dig, Du fortryder begge Dele."
+      },
+      "source": {
+        "work": "Either/Or, Part I",
+        "locator": "Diapsalmata, \"Either/Or: An Ecstatic Lecture\"",
+        "translator": null,
+        "url": "https://da.wikisource.org/wiki/Enten_%E2%80%94_Eller._F%C3%B8rste_Deel/1"
+      },
+      "verify": "primary",
+      "tags": [
+        "choice",
+        "humor",
+        "absurd"
+      ],
+      "mood": [
+        "confused",
+        "stuck"
+      ]
+    },
+    {
+      "author": "soren-kierkegaard",
+      "en": "I don't feel like doing anything. I don't feel like riding, the motion is too strong; I don't feel like walking, it is too strenuous; I don't feel like lying down... Summa summarum: I don't feel like doing anything.",
+      "th": "ฉันไม่อยากทำอะไรเลย ไม่อยากขี่ม้า มันเคลื่อนไหวแรงเกินไป ไม่อยากเดิน มันเหนื่อยเกินไป ไม่อยากนอนลงด้วย สรุปรวบยอดคือ ฉันไม่อยากทำอะไรเลยสักอย่าง",
+      "orig": {
+        "lang": "da",
+        "text": "Jeg gider slet ikke. Jeg gider ikke ride, det er for stærk en Bevægelse; jeg gider ikke gaae, det er for anstrengende; jeg gider ikke lægge mig ned ... Summa Summarum: jeg gider slet ikke."
+      },
+      "source": {
+        "work": "Either/Or, Part I",
+        "locator": "Diapsalmata",
+        "translator": null,
+        "url": "https://da.wikisource.org/wiki/Enten_%E2%80%94_Eller._F%C3%B8rste_Deel/1"
+      },
+      "verify": "primary",
+      "tags": [
+        "humor",
+        "absurd"
+      ],
+      "mood": [
+        "tired",
+        "bored"
+      ]
+    },
+    {
+      "author": "soren-kierkegaard",
+      "en": "He has resigned everything absolutely, and then again seized hold of it all on the strength of the absurd.",
+      "th": "เขาสละทุกอย่างไปจนหมดสิ้น แล้วก็คว้าทุกอย่างกลับคืนมา ด้วยพลังของสิ่งที่ไร้เหตุผล",
+      "source": {
+        "work": "Fear and Trembling",
+        "locator": "\"Preliminary Expectoration\" (the knight of faith)",
+        "translator": "Lee M. Hollander (1923)",
+        "url": "https://www.gutenberg.org/ebooks/60333"
+      },
+      "verify": "primary",
+      "tags": [
+        "absurd",
+        "hope",
+        "courage"
+      ],
+      "mood": [
+        "heartbroken"
+      ]
+    }
+  ],
+  "prompts_th": [
+    "เรื่องไหนที่คุณจริงจังจนเครียด ถ้ามองมันเป็นฉากในหนังตลก มันขำตรงไหน",
+    "ถ้าก้อนหินที่คุณต้องเข็นขึ้นเขาทุกวันคือเรื่องหนึ่งในชีวิต เรื่องนั้นคืออะไร และคุณจะเข็นมันอย่างมีความสุขได้ไหม",
+    "มีกฎข้อไหนที่คุณทำตามมาตลอด โดยไม่เคยถามว่าใครตั้ง และตั้งไว้ทำไม",
+    "ถ้าวันนี้ปฏิเสธได้หนึ่งเรื่อง คุณอยากปฏิเสธเรื่องอะไร",
+    "ความคาดหวังของสังคมเรื่องไหนที่คุณแอบอยากเดินสวนทาง",
+    "อีกล้านปีคงไม่มีใครจำเรื่องที่คุณกังวลอยู่ตอนนี้ได้ แล้วมันยังหนักเท่าเดิมไหม",
+    "วันนี้มีเรื่องเล็ก ๆ อะไรที่ทำให้คุณยิ้มได้ ทั้งที่โลกยังไร้เหตุผลเหมือนเดิม",
+    "ถ้าไม่ต้องพยายามดูเป็นคนปกติสักวัน คุณจะทำอะไรต่างไปจากเดิม",
+    "ถ้าเล่าความล้มเหลวครั้งล่าสุดให้เพื่อนฟังแบบเรื่องตลก คุณจะเล่าว่าอย่างไร",
+    "ตอนนี้คุณกำลังนั่งรออะไรบางอย่างเหมือนรอโกโดต์อยู่หรือเปล่า สิ่งนั้นคืออะไร",
+    "ถ้าคำชมและคำด่าของคนอื่นไม่มีผลกับคุณเลย คุณจะใช้ชีวิตต่างไปอย่างไร",
+    "มีอะไรที่คุณมีอยู่แล้ว แต่ยังวิ่งไล่หามันอยู่",
+    "ถ้าต้องล้มเหลวอีกครั้ง คุณจะล้มเหลวให้ดีขึ้นกว่าเดิมตรงไหน",
+    "เรื่องไร้สาระที่สุดที่คุณทำวันนี้คืออะไร และมันทำให้วันนี้ดีขึ้นหรือแย่ลง",
+    "ถ้าโชคชะตาเป็นคู่ต่อสู้ คุณจะตอบโต้มันด้วยความโกรธ หรือด้วยเสียงหัวเราะ",
+    "มีหน้าที่ไหนที่ไม่มีใครสั่ง แต่คุณสั่งตัวเองไว้จนเหนื่อย ข้อไหนที่เลิกได้ตั้งแต่วันนี้",
+    "ถ้าชีวิตไม่มีความหมายมาตั้งแต่แรก ความหมายเล็ก ๆ ที่คุณอยากสร้างขึ้นวันนี้คืออะไร",
+    "มีอะไรในตัวเองที่คุณอยากหัวเราะใส่มากที่สุด"
+  ],
+  "prompts_en": [
+    "What are you taking so seriously that it stresses you out, and where is the joke in it?",
+    "If your daily boulder were one thing in your life, what would it be, and could you push it happily?",
+    "Which rule do you keep following without ever asking who made it or why?",
+    "If you could say no to one thing today, what would it be?",
+    "Which of society's expectations do you secretly want to walk against?",
+    "In a million years nobody will remember what you are worried about now. Does it still weigh the same?",
+    "What small thing made you smile today, even though the world still makes no sense?",
+    "If you did not have to look normal for one day, what would you do differently?",
+    "How would you tell the story of your latest failure if you told it to a friend as a comedy?",
+    "Are you waiting for some Godot right now, and what is it?",
+    "How would you live if praise and insults had no effect on you?",
+    "What are you still chasing that you already have?",
+    "If you are going to fail again, how could you fail better?",
+    "What was the most absurd thing you did today, and did it make the day better or worse?",
+    "If fate were your opponent, would you answer it with anger or with laughter?",
+    "Which duty that nobody gave you have you been ordering yourself to carry, and could you drop it today?",
+    "If nothing had meaning to begin with, what small meaning would you like to make today?",
+    "What about yourself would you most like to laugh at?"
+  ],
+  "misattributed": [
+    {
+      "author": "albert-camus",
+      "en": "Always go too far, because that's where you'll find the truth.",
+      "th": "จงไปให้สุดทางเสมอ เพราะนั่นคือที่ที่คุณจะพบความจริง",
+      "why_th": "ไม่พบประโยคนี้ในงานเขียนของกามูเลย Wikiquote จึงจัดไว้ในหมวดคำพูดที่ถูกอ้างผิดคน",
+      "real_source": "No source in Camus's works; listed as misattributed on Wikiquote",
+      "url": "https://en.wikiquote.org/wiki/Albert_Camus#Misattributed"
+    },
+    {
+      "author": "albert-camus",
+      "en": "I think my life is of great importance, but I also think it is meaningless.",
+      "th": "ฉันคิดว่าชีวิตของฉันสำคัญมาก แต่ก็คิดด้วยว่ามันไร้ความหมาย",
+      "why_th": "ประโยคนี้หลุดมาจากบทความวิกิพีเดียภาษาอังกฤษที่อธิบายความคิดของกามู ไม่ใช่คำพูดของกามูเอง",
+      "real_source": "A sentence from the English Wikipedia article on Camus explaining his ideas (retrieved 2015), not Camus himself",
+      "url": "https://en.wikiquote.org/wiki/Albert_Camus#Misattributed"
+    },
+    {
+      "author": "albert-camus",
+      "en": "The only way to deal with an unfree world is to become so absolutely free that your very existence is an act of rebellion.",
+      "th": "วิธีเดียวที่จะรับมือกับโลกที่ไร้อิสรภาพ คือทำตัวให้อิสระอย่างสมบูรณ์ จนแค่การมีชีวิตอยู่ของคุณก็เป็นการกบฏแล้ว",
+      "why_th": "พบแต่ในเว็บรวมคำคม และไม่เคยมีใครบอกที่มาได้ Wikiquote จึงจัดไว้ในหมวดที่ยังเป็นข้อสงสัย",
+      "real_source": "Found only on quote sites, always without a citation",
+      "url": "https://en.wikiquote.org/wiki/Albert_Camus#Disputed"
+    },
+    {
+      "author": "albert-camus",
+      "en": "There are causes worth dying for, but none worth killing for.",
+      "th": "มีอุดมการณ์มากมายที่ควรค่าแก่การยอมตาย แต่ไม่มีอุดมการณ์ไหนควรค่าแก่การฆ่า",
+      "why_th": "ไม่พบในงานของกามู ข้อความที่คล้ายกันและเก่าที่สุดอยู่ในจดหมายปี 1943 ของอัลเบิร์ต ดีทริช ชายที่ปฏิเสธการจับอาวุธเพราะมโนธรรม",
+      "real_source": "Earliest similar line: Albert Dietrich, letter of 31 January 1943; first pinned on Camus in a 1999 quotation book",
+      "url": "https://en.wikiquote.org/wiki/Albert_Camus#Misattributed"
+    },
+    {
+      "author": "friedrich-nietzsche",
+      "en": "Those who dance appear insane to those who cannot hear the music.",
+      "th": "คนที่เต้นรำดูเหมือนคนบ้า ในสายตาของคนที่ไม่ได้ยินเสียงดนตรี",
+      "why_th": "ไม่มีในงานเขียนของนีทเชอ ภาพเปรียบนี้พบตั้งแต่หนังสือของมาดาม เดอ สตาเอล ปี 1813 และถูกเรียกว่าสุภาษิตเก่ามาตั้งแต่ปี 1927",
+      "real_source": "Germaine de Staël, On Germany (1813); called an \"old proverb\" by 1927",
+      "url": "https://en.wikiquote.org/wiki/Friedrich_Nietzsche#Misattributed"
+    },
+    {
+      "author": "arthur-schopenhauer",
+      "en": "All truth passes through three stages. First, it is ridiculed. Second, it is violently opposed. Third, it is accepted as being self-evident.",
+      "th": "ความจริงทุกเรื่องต้องผ่านสามขั้น ขั้นแรกถูกหัวเราะเยาะ ขั้นที่สองถูกต่อต้านอย่างรุนแรง ขั้นที่สามถูกยอมรับว่าชัดเจนอยู่แล้ว",
+      "why_th": "เป็นการอ้างที่คลาดเคลื่อน โชเพนเฮาเออร์เขียนไว้จริงแค่ว่า ความจริงได้ฉลองชัยสั้น ๆ ระหว่างสองช่วงยาว ช่วงที่ถูกมองว่าประหลาด กับช่วงที่ถูกดูแคลนว่าเป็นเรื่องธรรมดา",
+      "real_source": "Misquotation of the Preface to The World as Will and Representation (1819): truth gets \"only a brief triumph\" between being \"condemned as paradoxical\" and \"disparaged as trivial\"",
+      "url": "https://en.wikiquote.org/wiki/Arthur_Schopenhauer#The_World_as_Will_and_Representation_(1819;_1844;_1859)"
+    },
+    {
+      "author": "kurt-vonnegut",
+      "en": "Ladies and gentlemen of the class of '97: Wear sunscreen.",
+      "th": "ท่านสุภาพสตรีและสุภาพบุรุษ บัณฑิตรุ่นปี 97 ทาครีมกันแดดด้วยนะ",
+      "why_th": "วอนเนกัตไม่เคยกล่าวสุนทรพจน์นี้ ที่จริงคือคอลัมน์ของแมรี ชมิช ในหนังสือพิมพ์ชิคาโกทริบูน ฉบับวันที่ 1 มิถุนายน 1997 ที่ถูกส่งต่อทางอีเมลโดยแปะชื่อเขา",
+      "real_source": "Mary Schmich, Chicago Tribune column (1 June 1997)",
+      "url": "https://en.wikiquote.org/wiki/Kurt_Vonnegut#Misattributed"
+    },
+    {
+      "author": "kurt-vonnegut",
+      "en": "Be soft. Do not let the world make you hard. Do not let the pain make you hate. Do not let the bitterness steal your sweetness.",
+      "th": "จงอ่อนโยนไว้ อย่าให้โลกทำให้คุณแข็งกระด้าง อย่าให้ความเจ็บปวดทำให้คุณเกลียดชัง อย่าให้ความขมขื่นขโมยความอ่อนหวานของคุณไป",
+      "why_th": "มาจากโพสต์บล็อกปี 2007 ของเอียน เอส โทมัส นักเขียนชาวแอฟริกาใต้ ไม่ใช่ของวอนเนกัต",
+      "real_source": "Iain S. Thomas, blog post (August 2007)",
+      "url": "https://en.wikiquote.org/wiki/Kurt_Vonnegut#Misattributed"
+    },
+    {
+      "author": "franz-kafka",
+      "en": "Don't bend; don't water it down; don't try to make it logical; don't edit your own soul according to the fashion. Rather, follow your most intense obsessions mercilessly.",
+      "th": "อย่ายอมงอ อย่าเจือจางมัน อย่าพยายามทำให้มันดูมีเหตุผล อย่าตัดต่อจิตวิญญาณของตัวเองตามแฟชั่น แต่จงไล่ตามสิ่งที่คุณหมกมุ่นที่สุดอย่างไม่ปรานี",
+      "why_th": "เป็นคำพูดของแอนน์ ไรซ์ นักเขียนนิยายชาวอเมริกัน ไม่ใช่ของคาฟคา",
+      "real_source": "Anne Rice",
+      "url": "https://en.wikiquote.org/wiki/Franz_Kafka#Misattributed"
+    },
+    {
+      "author": "franz-kafka",
+      "en": "One idiot is one idiot. Two idiots are two idiots. Ten thousand idiots are a political party.",
+      "th": "คนโง่หนึ่งคนก็คือคนโง่หนึ่งคน คนโง่สองคนก็คือคนโง่สองคน แต่คนโง่หนึ่งหมื่นคนคือพรรคการเมือง",
+      "why_th": "ประโยคแบบเดียวกันนี้เขียนเป็นภาษาอิตาลีโดยเลโอ ลองกาเนซี นักหนังสือพิมพ์ชาวอิตาลี และไม่มีหลักฐานว่าคาฟคาเคยพูด",
+      "real_source": "A variant of a line by the Italian journalist Leo Longanesi",
+      "url": "https://en.wikiquote.org/wiki/Franz_Kafka#Misattributed"
+    }
+  ]
+}

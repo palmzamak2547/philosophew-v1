@@ -1,0 +1,2763 @@
+{
+  "school": "eastern",
+  "authors": {
+    "the-buddha": {
+      "th": "พระพุทธเจ้า",
+      "era_th": "พระศาสดาแห่งพระพุทธศาสนา ชมพูทวีป ราวศตวรรษที่ 6 ถึง 5 ก่อน ค.ศ.",
+      "bio_th": "เจ้าชายสิทธัตถะทรงสละความสุขสบายในวัง เสด็จออกผนวชเพื่อแสวงหาทางพ้นทุกข์ จนตรัสรู้ และทรงแสดงธรรมอยู่ 45 พรรษา คำสอนของพระองค์ชี้ว่าทุกข์เกิดที่ใจ และดับได้ที่ใจของเราเอง",
+      "bio_en": "Siddhattha Gotama, a prince who left the comforts of the palace to find the end of suffering, awakened and taught for forty-five years. His teaching is that suffering arises in the mind and can end there.",
+      "works": [
+        "Dhammapada",
+        "Sutta Pitaka (Pali Canon)"
+      ]
+    },
+    "laozi": {
+      "th": "เล่าจื๊อ",
+      "era_th": "ปราชญ์จีนในตำนาน ราวศตวรรษที่ 6 ก่อน ค.ศ.",
+      "bio_th": "ปราชญ์ในตำนานที่เชื่อกันว่าเป็นผู้แต่งเต๋าเต็กเก็ง หนังสือเล่มบางที่สอนให้ใช้ชีวิตอย่างน้ำ คือนุ่มนวล ไม่แย่งชิง แต่ไหลไปถึงทุกที่ ใครที่เหนื่อยกับการต้องชนะตลอดเวลา จะพบว่าบางทีการถอยหนึ่งก้าวก็พาไปได้ไกลกว่า",
+      "bio_en": "The legendary sage credited with the Tao Te Ching, a short book about living like water: soft, unforced and never competing, yet reaching everywhere.",
+      "works": [
+        "Tao Te Ching (Daodejing)"
+      ]
+    },
+    "zhuangzi": {
+      "th": "จวงจื๊อ",
+      "era_th": "นักปรัชญาเต๋าชาวจีน ราว 369 ถึง 286 ปีก่อน ค.ศ.",
+      "bio_th": "นักปรัชญาเต๋าผู้เล่าปรัชญาผ่านนิทานขำ ๆ ทั้งผีเสื้อ ปลา และต้นไม้ไร้ประโยชน์ เขาชวนให้หัวเราะกับความจริงจังของตัวเอง แล้วปล่อยให้ชีวิตไหลไปตามธรรมชาติ",
+      "bio_en": "A Taoist philosopher who taught through funny, strange stories of butterflies, fish and useless trees, inviting us to laugh at our own seriousness and go with the flow of things.",
+      "works": [
+        "Zhuangzi (Chuang Tzŭ)"
+      ]
+    },
+    "liezi": {
+      "th": "เลี่ยจื๊อ",
+      "era_th": "ปราชญ์เต๋าชาวจีน ราวศตวรรษที่ 5 ก่อน ค.ศ. ตามตำนาน",
+      "bio_th": "ปราชญ์เต๋าที่มีชื่ออยู่บนคัมภีร์เลี่ยจื๊อ หนังสือรวมนิทานสั้นที่เรียบเรียงขึ้นในยุคหลัง เรื่องอย่างคนที่กลัวฟ้าถล่มหรือคนทำขวานหาย ยังเตือนใจคนขี้กังวลและคนที่ด่วนตัดสินผู้อื่นได้ดีจนทุกวันนี้",
+      "bio_en": "A Taoist sage whose name is attached to the Liezi, a later collection of short parables. Its stories, like the man afraid the sky would fall, still speak to worriers and quick judges.",
+      "works": [
+        "Liezi (Book of Lieh Tzŭ)"
+      ]
+    },
+    "nagarjuna": {
+      "th": "นาคารชุน",
+      "era_th": "นักปราชญ์ชาวพุทธแห่งอินเดีย ราว ค.ศ. 150 ถึง 250",
+      "bio_th": "ผู้วางรากฐานสายมัธยมกะของพุทธศาสนามหายาน ท่านใช้ตรรกะชี้ว่าทุกสิ่งอิงอาศัยกันเกิดขึ้น ไม่มีอะไรตั้งอยู่ได้ด้วยตัวเอง เป็นยาแก้ความคิดที่ยึดติดจนแข็งทื่อ",
+      "bio_en": "Founder of the Madhyamaka (Middle Way) school of Mahayana Buddhism, who used sharp logic to show that everything arises in dependence on everything else.",
+      "works": [
+        "Mūlamadhyamakakārikā (Fundamental Verses on the Middle Way)",
+        "Ratnāvalī (Precious Garland)"
+      ]
+    },
+    "shantideva": {
+      "th": "ศานติเทวะ",
+      "era_th": "พระภิกษุนักปราชญ์ชาวอินเดีย ศตวรรษที่ 8",
+      "bio_th": "พระภิกษุแห่งนาลันทาผู้แต่งโพธิจรรยาวตาร คู่มือวิถีแห่งโพธิสัตว์ที่ยังอ่านกันทั่วโลก โดยเฉพาะบทว่าด้วยความโกรธและความอดทน ที่ใช้ได้จริงทุกครั้งที่อยากตอบโต้ใคร",
+      "bio_en": "An 8th-century monk of Nalanda who wrote the Bodhicaryavatara, a guide to the bodhisattva way whose chapters on anger and patience are still read worldwide.",
+      "works": [
+        "Bodhicaryāvatāra (The Way of the Bodhisattva)"
+      ]
+    },
+    "bodhidharma": {
+      "th": "พระโพธิธรรม",
+      "era_th": "พระภิกษุผู้นำเซนจากอินเดียสู่จีน ราวศตวรรษที่ 5 ถึง 6",
+      "bio_th": "พระภิกษุที่ตำนานเล่าว่าเดินทางจากอินเดียไปจีน แล้วนั่งสมาธิหันหน้าเข้ากำแพงอยู่เก้าปี คนจีนเรียกท่านว่าตั๊กม้อ ถือเป็นปฐมาจารย์ของเซน ผู้ชี้ตรงไปที่ใจมากกว่าตำรา",
+      "bio_en": "The semi-legendary monk said to have brought Chan (Zen) from India to China and to have sat facing a wall for nine years. He pointed straight at the mind rather than at scriptures.",
+      "works": [
+        "The Two Entrances and Four Practices (attributed)"
+      ]
+    },
+    "huineng": {
+      "th": "เว่ยหล่าง",
+      "era_th": "สังฆปริณายกองค์ที่หกของเซนจีน ค.ศ. 638 ถึง 713",
+      "bio_th": "คนตัดฟืนยากจนที่อ่านหนังสือไม่ออก แต่ได้ยินพระสูตรเพียงประโยคเดียวก็เกิดปัญญาแจ่มแจ้ง จนได้เป็นสังฆปริณายกองค์ที่หก คนไทยรู้จักท่านผ่านสูตรของเว่ยหล่างที่ท่านพุทธทาสแปลไว้",
+      "bio_en": "An illiterate woodcutter who awakened on hearing a single line of scripture and became the Sixth Patriarch of Chan. His Platform Sutra teaches that awakening is sudden and already within us.",
+      "works": [
+        "Platform Sutra (六祖壇經)"
+      ]
+    },
+    "linji": {
+      "th": "หลินจี้",
+      "era_th": "อาจารย์เซนชาวจีน ต้นสายหลินจี้หรือรินไซ มรณภาพ ค.ศ. 866",
+      "bio_th": "อาจารย์เซนผู้ขึ้นชื่อเรื่องตะโกนและตีลูกศิษย์ให้ตื่นจากความคิดวนเวียน สายของท่านกลายเป็นนิกายรินไซในญี่ปุ่น ท่านย้ำว่าให้เป็นนายของตัวเอง ไม่ต้องวิ่งหาพระพุทธเจ้าที่ไหนนอกใจ",
+      "bio_en": "A fierce Chan master famous for shouts and blows that jolted students out of their heads. His line became Rinzai Zen; he urged people to be their own masters wherever they stand.",
+      "works": [
+        "Record of Linji (臨濟錄)"
+      ]
+    },
+    "dogen": {
+      "th": "โดเง็น",
+      "era_th": "อาจารย์เซนชาวญี่ปุ่น ผู้ก่อตั้งนิกายโซโต ค.ศ. 1200 ถึง 1253",
+      "bio_th": "พระญี่ปุ่นผู้เดินทางไปเรียนเซนที่จีน แล้วกลับมาตั้งนิกายโซโต สอนว่าการนั่งสมาธิไม่ใช่เครื่องมือไปสู่การตื่นรู้ แต่คือการตื่นรู้อยู่แล้วในตัว งานเขียนของท่านลึกซึ้งและงดงามราวบทกวี",
+      "bio_en": "A Japanese monk who studied Chan in China and founded the Soto school of Zen. He taught that sitting meditation is not a means to awakening but awakening itself, in writing as deep as poetry.",
+      "works": [
+        "Shōbōgenzō (Genjōkōan)",
+        "Shōbōgenzō Zuimonki",
+        "Fukanzazengi"
+      ]
+    },
+    "matsuo-basho": {
+      "th": "มัตสึโอะ บะโช",
+      "era_th": "กวีไฮกุชาวญี่ปุ่น ค.ศ. 1644 ถึง 1694",
+      "bio_th": "กวีผู้ทำให้ไฮกุกลายเป็นศิลปะชั้นสูง เขาใช้ชีวิตเรียบง่ายและเดินเท้าท่องไปทั่วญี่ปุ่น เก็บความงามของชั่วขณะเล็ก ๆ อย่างเสียงกบกระโดดลงน้ำ ไว้ในบทกวีเพียงสิบเจ็ดพยางค์",
+      "bio_en": "The poet who made haiku an art. He lived simply, travelled Japan on foot, and caught small passing moments, like a frog's splash, in seventeen syllables.",
+      "works": [
+        "Oku no Hosomichi (The Narrow Road to the Deep North)",
+        "Haru no hi"
+      ]
+    },
+    "ryokan": {
+      "th": "เรียวกัง",
+      "era_th": "พระเซนและกวีชาวญี่ปุ่น ค.ศ. 1758 ถึง 1831",
+      "bio_th": "พระเซนที่เลือกอยู่กระท่อมเล็ก ๆ บนภูเขา ชอบเล่นลูกบอลกับเด็กในหมู่บ้านและเขียนกลอนถึงดวงจันทร์ ท่านเรียกตัวเองว่าไทงุ แปลว่าคนโง่ผู้ยิ่งใหญ่ เป็นแบบอย่างของความสุขแบบไม่ต้องมีอะไรมาก",
+      "bio_en": "A Zen monk-poet who lived in a tiny mountain hut, played ball with village children and wrote about the moon. He called himself Taigu, \"Great Fool\", and lived happily with almost nothing.",
+      "works": [
+        "Poems and letters"
+      ]
+    },
+    "hakuin": {
+      "th": "ฮะกุอิน",
+      "era_th": "อาจารย์เซนสายรินไซชาวญี่ปุ่น ค.ศ. 1686 ถึง 1769",
+      "bio_th": "ผู้ฟื้นฟูเซนสายรินไซในญี่ปุ่น ท่านเคยป่วยหนักเพราะฝึกหักโหมจนต้องหัดผ่อนคลายกายใจใหม่ และเป็นผู้คิดโจทย์ธรรมอันโด่งดังว่า เสียงของมือข้างเดียวเป็นอย่างไร",
+      "bio_en": "The reviver of Rinzai Zen in Japan, who burned out from overzealous practice and had to learn to heal body and mind. He devised the famous koan of the sound of one hand.",
+      "works": [
+        "Zazen Wasan (Song of Zazen)",
+        "Itsumadegusa (Wild Ivy)",
+        "Yabukōji"
+      ]
+    },
+    "shunryu-suzuki": {
+      "th": "ชุนริว ซูซูกิ",
+      "era_th": "อาจารย์เซนชาวญี่ปุ่นผู้วางรากเซนในอเมริกา ค.ศ. 1904 ถึง 1971",
+      "bio_th": "พระเซนนิกายโซโตที่ย้ายไปซานฟรานซิสโกและสอนสมาธิให้คนหนุ่มสาวในทศวรรษ 1960 หนังสือ Zen Mind, Beginner's Mind ของท่านชวนให้มองทุกอย่างด้วยใจของผู้เริ่มต้นที่ยังเปิดกว้างอยู่เสมอ",
+      "bio_en": "A Soto Zen priest who moved to San Francisco in 1959 and taught meditation to a restless generation. His Zen Mind, Beginner's Mind invites us to meet everything with an open beginner's mind.",
+      "works": [
+        "Zen Mind, Beginner's Mind (1970)",
+        "Not Always So (2002)"
+      ]
+    },
+    "thich-nhat-hanh": {
+      "th": "ติช นัท ฮันห์",
+      "era_th": "พระเซนชาวเวียดนาม ค.ศ. 1926 ถึง 2022",
+      "bio_th": "พระเซนชาวเวียดนามผู้ทำงานเพื่อสันติภาพจนถูกเนรเทศ แล้วก่อตั้งหมู่บ้านพลัมในฝรั่งเศส ท่านสอนสติแบบง่าย ๆ ที่ทำได้ทุกวัน ทั้งการหายใจ การเดิน และการดื่มชาอย่างรู้ตัว",
+      "bio_en": "A Vietnamese Zen monk and peace activist who, exiled from his country, founded Plum Village in France. He taught everyday mindfulness: breathing, walking and drinking tea with full attention.",
+      "works": [
+        "The Miracle of Mindfulness (1975)",
+        "Being Peace (1987)",
+        "Touching Peace (1992)"
+      ]
+    },
+    "ajahn-chah": {
+      "th": "หลวงพ่อชา สุภัทโท",
+      "era_th": "พระป่าแห่งวัดหนองป่าพง อุบลราชธานี ค.ศ. 1918 ถึง 1992",
+      "bio_th": "พระป่าผู้ก่อตั้งวัดหนองป่าพงและวัดป่านานาชาติ สอนธรรมะด้วยภาษาชาวบ้านและอุปมาใกล้ตัว อย่างแก้วที่แตกแล้วหรือน้ำที่ไหลนิ่ง จนมีลูกศิษย์ทั้งไทยและต่างชาติทั่วโลก",
+      "bio_en": "A Thai forest monk who founded Wat Nong Pah Pong and the international monastery Wat Pah Nanachat. He taught in plain village language and homely images, like a glass that is already broken.",
+      "works": [
+        "Bodhinyana (1982)",
+        "A Taste of Freedom (1988)",
+        "Living Dhamma (1992)",
+        "Food for the Heart (2002)"
+      ]
+    },
+    "buddhadasa": {
+      "th": "พุทธทาสภิกขุ",
+      "era_th": "พระนักปราชญ์ชาวไทย ผู้ก่อตั้งสวนโมกขพลาราม ค.ศ. 1906 ถึง 1993",
+      "bio_th": "พระจากไชยาผู้ก่อตั้งสวนโมกข์ พาพุทธศาสนากลับไปที่แก่น คือการดับความรู้สึกตัวกูของกู ท่านอธิบายธรรมะด้วยภาษาร่วมสมัย จนคนทำงานและคนรุ่นใหม่นำไปใช้ได้โดยไม่ต้องผ่านพิธีกรรม",
+      "bio_en": "A Thai monk from Chaiya who founded Suan Mokkh and brought Buddhism back to its core: ending the feeling of \"me and mine\". He taught in modern language that workers and students could use.",
+      "works": [
+        "แก่นพุทธศาสน์ (Heartwood of the Bodhi Tree)",
+        "คู่มือมนุษย์ (Handbook for Mankind)",
+        "ตัวกู-ของกู"
+      ]
+    },
+    "alan-watts": {
+      "th": "อลัน วัตส์",
+      "era_th": "นักเขียนและนักปรัชญาชาวอังกฤษ ค.ศ. 1915 ถึง 1973",
+      "bio_th": "นักเขียนชาวอังกฤษที่เล่าเรื่องเซนและเต๋าให้คนตะวันตกฟังด้วยภาษาสนุกและมีอารมณ์ขัน ทั้งในหนังสือและรายการวิทยุ ท่อนพูดของเขายังถูกตัดไปทำคลิปให้คนรุ่นใหม่ฟังจนทุกวันนี้",
+      "bio_en": "A British-born writer and broadcaster who explained Zen and Taoism to Western audiences with wit and warmth. Clips of his talks still circulate widely online.",
+      "works": [
+        "The Wisdom of Insecurity (1951)",
+        "The Way of Zen (1957)",
+        "The Book on the Taboo Against Knowing Who You Are (1966)"
+      ]
+    }
+  },
+  "quotes": [
+    {
+      "author": "the-buddha",
+      "en": "All that we are is the result of what we have thought: it is founded on our thoughts, it is made up of our thoughts. If a man speaks or acts with an evil thought, pain follows him, as the wheel follows the foot of the ox that draws the carriage.",
+      "th": "ธรรมทั้งหลายมีใจเป็นหัวหน้า มีใจเป็นใหญ่ สำเร็จแล้วด้วยใจ ถ้าบุคคลมีใจชั่ว พูดอยู่ก็ดี ทำอยู่ก็ดี ทุกข์ย่อมติดตามเขาไป เหมือนล้อเกวียนหมุนตามรอยเท้าโคที่ลากเกวียนไป",
+      "orig": {
+        "lang": "pi",
+        "text": "Manopubbaṅgamā dhammā, manoseṭṭhā manomayā; Manasā ce paduṭṭhena, bhāsati vā karoti vā; Tato naṃ dukkhamanveti, cakkaṃva vahato padaṃ."
+      },
+      "source": {
+        "work": "Dhammapada",
+        "locator": "Verse 1",
+        "translator": "F. Max Müller (1881)",
+        "url": "https://en.wikisource.org/wiki/Dhammapada_(Muller)"
+      },
+      "verify": "primary",
+      "tags": [
+        "mind",
+        "suffering",
+        "action"
+      ],
+      "mood": [
+        "stress"
+      ]
+    },
+    {
+      "author": "the-buddha",
+      "en": "For hatred does not cease by hatred at any time: hatred ceases by love, this is an old rule.",
+      "th": "ในกาลไหน ๆ เวรทั้งหลายในโลกนี้ ย่อมไม่ระงับด้วยการจองเวร แต่ระงับได้ด้วยการไม่จองเวร นี่คือธรรมอันเก่าแก่",
+      "orig": {
+        "lang": "pi",
+        "text": "Na hi verena verāni, sammantīdha kudācanaṃ; Averena ca sammanti, esa dhammo sanantano."
+      },
+      "source": {
+        "work": "Dhammapada",
+        "locator": "Verse 5",
+        "translator": "F. Max Müller (1881)",
+        "url": "https://en.wikisource.org/wiki/Dhammapada_(Muller)"
+      },
+      "verify": "primary",
+      "tags": [
+        "anger",
+        "love",
+        "suffering"
+      ],
+      "mood": [
+        "angry",
+        "heartbroken"
+      ]
+    },
+    {
+      "author": "the-buddha",
+      "en": "Earnestness is the path of immortality (Nirvana), thoughtlessness the path of death. Those who are in earnest do not die, those who are thoughtless are as if dead already.",
+      "th": "ความไม่ประมาทเป็นทางแห่งความไม่ตาย ความประมาทเป็นทางแห่งความตาย ผู้ไม่ประมาทย่อมไม่ตาย ส่วนผู้ประมาทก็เหมือนคนที่ตายแล้ว",
+      "orig": {
+        "lang": "pi",
+        "text": "Appamādo amatapadaṃ, pamādo maccuno padaṃ; Appamattā na mīyanti, ye pamattā yathā matā."
+      },
+      "source": {
+        "work": "Dhammapada",
+        "locator": "Verse 21",
+        "translator": "F. Max Müller (1881)",
+        "url": "https://en.wikisource.org/wiki/Dhammapada_(Muller)"
+      },
+      "verify": "primary",
+      "tags": [
+        "mind",
+        "death",
+        "action"
+      ],
+      "mood": [
+        "stuck",
+        "bored"
+      ]
+    },
+    {
+      "author": "the-buddha",
+      "en": "It is good to tame the mind, which is difficult to hold in and flighty, rushing wherever it listeth; a tamed mind brings happiness.",
+      "th": "จิตนี้ข่มได้ยาก ไวนัก มักตกไปตามอารมณ์ที่ใคร่ การฝึกจิตเป็นความดี จิตที่ฝึกแล้วย่อมนำสุขมาให้",
+      "orig": {
+        "lang": "pi",
+        "text": "Dunniggahassa lahuno, yatthakāmanipātino; Cittassa damatho sādhu, cittaṃ dantaṃ sukhāvahaṃ."
+      },
+      "source": {
+        "work": "Dhammapada",
+        "locator": "Verse 35",
+        "translator": "F. Max Müller (1881)",
+        "url": "https://en.wikisource.org/wiki/Dhammapada_(Muller)"
+      },
+      "verify": "primary",
+      "tags": [
+        "mind",
+        "happiness"
+      ],
+      "mood": [
+        "anxious",
+        "overwhelmed"
+      ]
+    },
+    {
+      "author": "the-buddha",
+      "en": "As a solid rock is not shaken by the wind, wise people falter not amidst blame and praise.",
+      "th": "ภูเขาหินที่เป็นแท่งทึบย่อมไม่หวั่นไหวเพราะลมฉันใด บัณฑิตก็ไม่หวั่นไหวเพราะคำนินทาและคำสรรเสริญฉันนั้น",
+      "orig": {
+        "lang": "pi",
+        "text": "Selo yathā ekaghano, vātena na samīrati; Evaṃ nindāpasaṃsāsu, na samiñjanti paṇḍitā."
+      },
+      "source": {
+        "work": "Dhammapada",
+        "locator": "Verse 81",
+        "translator": "F. Max Müller (1881)",
+        "url": "https://en.wikisource.org/wiki/Dhammapada_(Muller)"
+      },
+      "verify": "primary",
+      "tags": [
+        "mind",
+        "society",
+        "courage"
+      ],
+      "mood": [
+        "anxious"
+      ]
+    },
+    {
+      "author": "the-buddha",
+      "en": "If one man conquer in battle a thousand times thousand men, and if another conquer himself, he is the greatest of conquerors.",
+      "th": "ต่อให้ชนะคนนับล้านในสนามรบ ก็ยังไม่ใช่ผู้ชนะสูงสุด ผู้ชนะสูงสุดคือผู้ที่ชนะตนเองได้",
+      "orig": {
+        "lang": "pi",
+        "text": "Yo sahassaṃ sahassena, saṅgāme mānuse jine; Ekañca jeyyamattānaṃ, sa ve saṅgāmajuttamo."
+      },
+      "source": {
+        "work": "Dhammapada",
+        "locator": "Verse 103",
+        "translator": "F. Max Müller (1881)",
+        "url": "https://en.wikisource.org/wiki/Dhammapada_(Muller)"
+      },
+      "verify": "primary",
+      "tags": [
+        "self",
+        "courage",
+        "ego"
+      ],
+      "mood": [
+        "angry"
+      ]
+    },
+    {
+      "author": "the-buddha",
+      "en": "Self is the lord of self, who else could be the lord? With self well subdued, a man finds a lord such as few can find.",
+      "th": "ตนแลเป็นที่พึ่งแห่งตน คนอื่นใครเล่าจะเป็นที่พึ่งได้ เมื่อฝึกตนดีแล้ว ย่อมได้ที่พึ่งที่หาได้ยาก",
+      "orig": {
+        "lang": "pi",
+        "text": "Attā hi attano nātho, ko hi nātho paro siyā; Attanā hi sudantena, nāthaṃ labhati dullabhaṃ."
+      },
+      "source": {
+        "work": "Dhammapada",
+        "locator": "Verse 160",
+        "translator": "F. Max Müller (1881)",
+        "url": "https://en.wikisource.org/wiki/Dhammapada_(Muller)"
+      },
+      "verify": "primary",
+      "tags": [
+        "self",
+        "responsibility"
+      ],
+      "mood": [
+        "lost"
+      ]
+    },
+    {
+      "author": "the-buddha",
+      "en": "Not to commit any sin, to do good, and to purify one's mind, that is the teaching of (all) the Awakened.",
+      "th": "การไม่ทำบาปทั้งปวง การทำกุศลให้ถึงพร้อม การทำจิตของตนให้ผ่องใส นี่คือคำสอนของพระพุทธเจ้าทั้งหลาย",
+      "orig": {
+        "lang": "pi",
+        "text": "Sabbapāpassa akaraṇaṃ, kusalassa upasampadā; Sacittapariyodapanaṃ, etaṃ buddhāna sāsanaṃ."
+      },
+      "source": {
+        "work": "Dhammapada",
+        "locator": "Verse 183",
+        "translator": "F. Max Müller (1881)",
+        "url": "https://en.wikisource.org/wiki/Dhammapada_(Muller)"
+      },
+      "verify": "primary",
+      "tags": [
+        "virtue",
+        "mind",
+        "action"
+      ],
+      "mood": []
+    },
+    {
+      "author": "the-buddha",
+      "en": "Victory breeds hatred, for the conquered is unhappy. He who has given up both victory and defeat, he, the contented, is happy.",
+      "th": "ชัยชนะก่อให้เกิดเวร ผู้แพ้ย่อมนอนเป็นทุกข์ ผู้ที่ละทั้งการชนะและการแพ้ได้แล้ว ใจสงบ ย่อมนอนเป็นสุข",
+      "orig": {
+        "lang": "pi",
+        "text": "Jayaṃ veraṃ pasavati, dukkhaṃ seti parājito; Upasanto sukhaṃ seti, hitvā jayaparājayaṃ."
+      },
+      "source": {
+        "work": "Dhammapada",
+        "locator": "Verse 201",
+        "translator": "F. Max Müller (1881)",
+        "url": "https://en.wikisource.org/wiki/Dhammapada_(Muller)"
+      },
+      "verify": "primary",
+      "tags": [
+        "ego",
+        "happiness",
+        "anger"
+      ],
+      "mood": [
+        "stress",
+        "angry"
+      ]
+    },
+    {
+      "author": "the-buddha",
+      "en": "Health is the greatest of gifts, contentedness the best riches; trust is the best of relationships, Nirvana the highest happiness.",
+      "th": "ความไม่มีโรคเป็นลาภอันประเสริฐ ความสันโดษเป็นทรัพย์อันประเสริฐ ความคุ้นเคยไว้ใจกันเป็นญาติอันประเสริฐ นิพพานเป็นสุขอย่างยิ่ง",
+      "orig": {
+        "lang": "pi",
+        "text": "Ārogyaparamā lābhā, Santuṭṭhiparamaṃ dhanaṃ; Vissāsaparamā ñāti, Nibbānaṃ paramaṃ sukhaṃ."
+      },
+      "source": {
+        "work": "Dhammapada",
+        "locator": "Verse 204",
+        "translator": "F. Max Müller (1881)",
+        "url": "https://en.wikisource.org/wiki/Dhammapada_(Muller)"
+      },
+      "verify": "primary",
+      "tags": [
+        "happiness",
+        "simplicity"
+      ],
+      "mood": [
+        "tired"
+      ]
+    },
+    {
+      "author": "the-buddha",
+      "en": "From pleasure comes grief, from pleasure comes fear; he who is free from pleasure knows neither grief nor fear.",
+      "th": "ความโศกเกิดจากของที่รัก ความกลัวก็เกิดจากของที่รัก ผู้ที่พ้นจากของที่รักแล้ว ย่อมไม่มีความโศก แล้วความกลัวจะมีมาแต่ไหน",
+      "orig": {
+        "lang": "pi",
+        "text": "Piyato jāyatī soko, piyato jāyatī bhayaṃ; Piyato vippamuttassa, natthi soko kuto bhayaṃ."
+      },
+      "source": {
+        "work": "Dhammapada",
+        "locator": "Verse 212",
+        "translator": "F. Max Müller (1881)",
+        "url": "https://en.wikisource.org/wiki/Dhammapada_(Muller)"
+      },
+      "verify": "primary",
+      "tags": [
+        "love",
+        "suffering",
+        "fear"
+      ],
+      "mood": [
+        "heartbroken"
+      ]
+    },
+    {
+      "author": "the-buddha",
+      "en": "Let a man overcome anger by love, let him overcome evil by good; let him overcome the greedy by liberality, the liar by truth!",
+      "th": "ชนะความโกรธด้วยความไม่โกรธ ชนะความชั่วด้วยความดี ชนะความตระหนี่ด้วยการให้ ชนะคำเท็จด้วยคำจริง",
+      "orig": {
+        "lang": "pi",
+        "text": "Akkodhena jine kodhaṃ, asādhuṃ sādhunā jine; Jine kadariyaṃ dānena, saccenālikavādinaṃ."
+      },
+      "source": {
+        "work": "Dhammapada",
+        "locator": "Verse 223",
+        "translator": "F. Max Müller (1881)",
+        "url": "https://en.wikisource.org/wiki/Dhammapada_(Muller)"
+      },
+      "verify": "primary",
+      "tags": [
+        "anger",
+        "virtue"
+      ],
+      "mood": [
+        "angry"
+      ]
+    },
+    {
+      "author": "the-buddha",
+      "en": "This is an old saying, O Atula, this is not only of to-day: 'They blame him who sits silent, they blame him who speaks much, they also blame him who says little; there is no one on earth who is not blamed.'",
+      "th": "อตุละ เรื่องนี้เป็นของเก่า ไม่ใช่เพิ่งมีวันนี้ คนนั่งนิ่งก็ถูกนินทา คนพูดมากก็ถูกนินทา แม้คนพูดพอประมาณก็ถูกนินทา คนที่ไม่ถูกนินทาไม่มีในโลก",
+      "orig": {
+        "lang": "pi",
+        "text": "Porāṇametaṃ atula, netaṃ ajjatanāmiva; Nindanti tuṇhimāsīnaṃ, nindanti bahubhāṇinaṃ; Mitabhāṇimpi nindanti, natthi loke anindito."
+      },
+      "source": {
+        "work": "Dhammapada",
+        "locator": "Verse 227",
+        "translator": "F. Max Müller (1881)",
+        "url": "https://en.wikisource.org/wiki/Dhammapada_(Muller)"
+      },
+      "verify": "primary",
+      "tags": [
+        "society",
+        "truth"
+      ],
+      "mood": [
+        "anxious",
+        "stress"
+      ]
+    },
+    {
+      "author": "the-buddha",
+      "en": "You yourself must make an effort. The Tathagatas (Buddhas) are only preachers.",
+      "th": "ความเพียรเป็นกิจที่ท่านทั้งหลายต้องทำเอง ตถาคตเป็นเพียงผู้ชี้ทาง",
+      "orig": {
+        "lang": "pi",
+        "text": "Tumhehi kiccamātappaṃ, akkhātāro tathāgatā;"
+      },
+      "source": {
+        "work": "Dhammapada",
+        "locator": "Verse 276",
+        "translator": "F. Max Müller (1881)",
+        "url": "https://en.wikisource.org/wiki/Dhammapada_(Muller)"
+      },
+      "verify": "primary",
+      "tags": [
+        "action",
+        "responsibility",
+        "self"
+      ],
+      "mood": [
+        "stuck",
+        "lost"
+      ]
+    },
+    {
+      "author": "the-buddha",
+      "en": "'All created things perish,' he who knows and sees this becomes passive in pain; this is the way to purity.",
+      "th": "เมื่อใดเห็นด้วยปัญญาว่า สังขารทั้งปวงไม่เที่ยง เมื่อนั้นย่อมเบื่อหน่ายในทุกข์ นี่คือทางแห่งความบริสุทธิ์",
+      "orig": {
+        "lang": "pi",
+        "text": "“Sabbe saṅkhārā aniccā”ti, yadā paññāya passati; Atha nibbindati dukkhe, esa maggo visuddhiyā."
+      },
+      "source": {
+        "work": "Dhammapada",
+        "locator": "Verse 277",
+        "translator": "F. Max Müller (1881)",
+        "url": "https://en.wikisource.org/wiki/Dhammapada_(Muller)"
+      },
+      "verify": "primary",
+      "tags": [
+        "change",
+        "suffering",
+        "truth"
+      ],
+      "mood": [
+        "heartbroken"
+      ]
+    },
+    {
+      "author": "the-buddha",
+      "en": "Don't run back to the past, don't anticipate the future. What's past is left behind, the future has not arrived; and any present phenomenon you clearly discern in every case... Today's the day to keenly work—who knows, tomorrow may bring death!",
+      "th": "อย่าย้อนคำนึงถึงสิ่งที่ล่วงไปแล้ว อย่าพะวงถึงสิ่งที่ยังไม่มา สิ่งที่ล่วงไปแล้วก็ละไปแล้ว สิ่งที่ยังไม่มาก็ยังไม่มาถึง จงเห็นแจ้งสิ่งที่เกิดขึ้นตรงหน้าในทุกขณะ ความเพียรควรทำเสียวันนี้ ใครจะรู้ ความตายอาจมาถึงในวันพรุ่งนี้",
+      "orig": {
+        "lang": "pi",
+        "text": "Atītaṃ nānvāgameyya, nappaṭikaṅkhe anāgataṃ; Yadatītaṃ pahīnaṃ taṃ, appattañca anāgataṃ. Paccuppannañca yo dhammaṃ, Tattha tattha vipassati; … Ajjeva kiccamātappaṃ, ko jaññā maraṇaṃ suve;"
+      },
+      "source": {
+        "work": "Bhaddekaratta Sutta (Majjhima Nikāya 131)",
+        "locator": "MN 131",
+        "translator": "Bhikkhu Sujato (2018, CC0)",
+        "url": "https://suttacentral.net/mn131/en/sujato"
+      },
+      "verify": "primary",
+      "tags": [
+        "present",
+        "time",
+        "death"
+      ],
+      "mood": [
+        "anxious",
+        "stuck"
+      ]
+    },
+    {
+      "author": "the-buddha",
+      "en": "When an unlearned ordinary person experiences painful physical feelings they sorrow and wail and lament... They experience two feelings: physical and mental. It's like a person who is struck with an arrow, only to be struck with a second arrow.",
+      "th": "เมื่อปุถุชนผู้ไม่ได้สดับธรรมถูกความเจ็บปวดทางกายกระทบ เขาย่อมเศร้าโศก ร่ำไร คร่ำครวญ จึงเจ็บปวดถึงสองทาง ทั้งทางกายและทางใจ เหมือนคนที่ถูกยิงด้วยลูกศรดอกหนึ่ง แล้วยังถูกยิงซ้ำด้วยลูกศรดอกที่สอง",
+      "orig": {
+        "lang": "pi",
+        "text": "assutavā, bhikkhave, puthujjano dukkhāya vedanāya phuṭṭho samāno socati kilamati paridevati … So dve vedanā vedayati— kāyikañca, cetasikañca. Seyyathāpi, bhikkhave, purisaṃ sallena vijjheyya. Tamenaṃ dutiyena sallena anuvedhaṃ vijjheyya."
+      },
+      "source": {
+        "work": "Sallatha Sutta, The Arrow (Saṃyutta Nikāya 36.6)",
+        "locator": "SN 36.6",
+        "translator": "Bhikkhu Sujato (2018, CC0)",
+        "url": "https://suttacentral.net/sn36.6/en/sujato"
+      },
+      "verify": "primary",
+      "tags": [
+        "suffering",
+        "mind",
+        "emotion"
+      ],
+      "mood": [
+        "stress",
+        "overwhelmed"
+      ]
+    },
+    {
+      "author": "the-buddha",
+      "en": "Mendicants, I will teach you a simile of the teaching as a raft: for crossing over, not for holding on... By understanding the simile of the raft, you will even give up the teachings, let alone what is not the teachings.",
+      "th": "ภิกษุทั้งหลาย เราจะแสดงธรรมเปรียบด้วยแพ มีไว้เพื่อข้ามฝั่ง ไม่ใช่มีไว้เพื่อยึดถือ เมื่อเข้าใจอุปมาเรื่องแพแล้ว แม้ธรรมก็ยังต้องปล่อยวาง ยิ่งไม่ต้องพูดถึงสิ่งที่ไม่ใช่ธรรม",
+      "orig": {
+        "lang": "pi",
+        "text": "Kullūpamaṃ vo, bhikkhave, dhammaṃ desessāmi nittharaṇatthāya, no gahaṇatthāya. … Kullūpamaṃ vo, bhikkhave, dhammaṃ desitaṃ, ājānantehi dhammāpi vo pahātabbā pageva adhammā."
+      },
+      "source": {
+        "work": "Alagaddūpama Sutta, The Simile of the Snake (Majjhima Nikāya 22)",
+        "locator": "MN 22",
+        "translator": "Bhikkhu Sujato (2018, CC0)",
+        "url": "https://suttacentral.net/mn22/en/sujato"
+      },
+      "verify": "primary",
+      "tags": [
+        "freedom",
+        "truth"
+      ],
+      "mood": [
+        "stuck"
+      ]
+    },
+    {
+      "author": "the-buddha",
+      "en": "This mind, mendicants, is radiant. But it is corrupted by visiting corruptions.",
+      "th": "ภิกษุทั้งหลาย จิตนี้ประภัสสร แต่เศร้าหมองไปเพราะอุปกิเลสที่จรเข้ามา",
+      "orig": {
+        "lang": "pi",
+        "text": "Pabhassaramidaṃ, bhikkhave, cittaṃ. Tañca kho āgantukehi upakkilesehi upakkiliṭṭhaṃ."
+      },
+      "source": {
+        "work": "Aṅguttara Nikāya 1.51",
+        "locator": "AN 1.51",
+        "translator": "Bhikkhu Sujato (2018, CC0)",
+        "url": "https://suttacentral.net/an1.51/en/sujato"
+      },
+      "verify": "primary",
+      "tags": [
+        "mind",
+        "hope"
+      ],
+      "mood": [
+        "lost",
+        "tired"
+      ]
+    },
+    {
+      "author": "the-buddha",
+      "en": "Come now, mendicants, I say to you all: 'Conditions fall apart. Persist with diligence.'",
+      "th": "ภิกษุทั้งหลาย บัดนี้เราขอเตือนเธอทั้งหลายว่า สังขารทั้งหลายมีความเสื่อมไปเป็นธรรมดา เธอทั้งหลายจงทำความไม่ประมาทให้ถึงพร้อมเถิด",
+      "orig": {
+        "lang": "pi",
+        "text": "handa dāni, bhikkhave, āmantayāmi vo, vayadhammā saṅkhārā appamādena sampādethā"
+      },
+      "source": {
+        "work": "Mahāparinibbāna Sutta, the Buddha's last words (Dīgha Nikāya 16)",
+        "locator": "DN 16",
+        "translator": "Bhikkhu Sujato (2018, CC0)",
+        "url": "https://suttacentral.net/dn16/en/sujato"
+      },
+      "verify": "primary",
+      "tags": [
+        "change",
+        "death",
+        "action"
+      ],
+      "mood": []
+    },
+    {
+      "author": "laozi",
+      "en": "The Tao that can be trodden is not the enduring and unchanging Tao. The name that can be named is not the enduring and unchanging name.",
+      "th": "เต๋าที่ชี้ให้เดินตามได้ ไม่ใช่เต๋าอันเที่ยงแท้ นามที่เรียกขานได้ ก็ไม่ใช่นามอันเที่ยงแท้",
+      "orig": {
+        "lang": "zh",
+        "text": "道可道，非常道；名可名，非常名。"
+      },
+      "source": {
+        "work": "Tao Te Ching",
+        "locator": "Chapter 1",
+        "translator": "James Legge (1891)",
+        "url": "https://www.gutenberg.org/ebooks/216"
+      },
+      "verify": "primary",
+      "tags": [
+        "truth",
+        "language"
+      ],
+      "mood": [
+        "confused"
+      ]
+    },
+    {
+      "author": "laozi",
+      "en": "The highest excellence is like (that of) water. The excellence of water appears in its benefiting all things, and in its occupying, without striving (to the contrary), the low place which all men dislike.",
+      "th": "ความดีสูงสุดเหมือนน้ำ น้ำนั้นดีตรงที่หล่อเลี้ยงสรรพสิ่งโดยไม่แย่งชิงกับใคร และยอมอยู่ในที่ต่ำที่ผู้คนรังเกียจ",
+      "orig": {
+        "lang": "zh",
+        "text": "上善若水。水善利萬物而不爭，處眾人之所惡"
+      },
+      "source": {
+        "work": "Tao Te Ching",
+        "locator": "Chapter 8",
+        "translator": "James Legge (1891)",
+        "url": "https://www.gutenberg.org/ebooks/216"
+      },
+      "verify": "primary",
+      "tags": [
+        "nature",
+        "virtue",
+        "ego"
+      ],
+      "mood": []
+    },
+    {
+      "author": "laozi",
+      "en": "When the work is done, and one's name is becoming distinguished, to withdraw into obscurity is the way of Heaven.",
+      "th": "เมื่องานสำเร็จและชื่อเสียงกำลังโด่งดัง การถอยออกมาอยู่อย่างเงียบ ๆ คือวิถีแห่งฟ้า",
+      "source": {
+        "work": "Tao Te Ching",
+        "locator": "Chapter 9",
+        "translator": "James Legge (1891)",
+        "url": "https://www.gutenberg.org/ebooks/216"
+      },
+      "verify": "primary",
+      "tags": [
+        "ego",
+        "work",
+        "simplicity"
+      ],
+      "mood": [
+        "tired"
+      ]
+    },
+    {
+      "author": "laozi",
+      "en": "Clay is fashioned into vessels; but it is on their empty hollowness, that their use depends. The door and windows are cut out (from the walls) to form an apartment; but it is on the empty space (within), that its use depends.",
+      "th": "เรานวดดินเหนียวขึ้นเป็นภาชนะ แต่ประโยชน์ของภาชนะอยู่ที่ความว่างข้างใน เราเจาะประตูหน้าต่างเพื่อทำเป็นห้อง แต่ประโยชน์ของห้องอยู่ตรงที่ว่างข้างใน",
+      "orig": {
+        "lang": "zh",
+        "text": "埏埴以為器，當其無，有器之用。鑿戶牖以為室，當其無，有室之用。"
+      },
+      "source": {
+        "work": "Tao Te Ching",
+        "locator": "Chapter 11",
+        "translator": "James Legge (1891)",
+        "url": "https://www.gutenberg.org/ebooks/216"
+      },
+      "verify": "primary",
+      "tags": [
+        "simplicity",
+        "nature"
+      ],
+      "mood": [
+        "overwhelmed"
+      ]
+    },
+    {
+      "author": "laozi",
+      "en": "Who can (make) the muddy water (clear)? Let it be still, and it will gradually become clear.",
+      "th": "ใครเล่าจะทำให้น้ำขุ่นใสได้ ปล่อยให้มันนิ่งไว้ แล้วมันจะค่อย ๆ ใสเอง",
+      "orig": {
+        "lang": "zh",
+        "text": "孰能濁以靜之徐清"
+      },
+      "source": {
+        "work": "Tao Te Ching",
+        "locator": "Chapter 15",
+        "translator": "James Legge (1891)",
+        "url": "https://www.gutenberg.org/ebooks/216"
+      },
+      "verify": "primary",
+      "tags": [
+        "mind",
+        "nature"
+      ],
+      "mood": [
+        "overwhelmed",
+        "anxious"
+      ]
+    },
+    {
+      "author": "laozi",
+      "en": "He is free from self-display, and therefore he shines; from self-assertion, and therefore he is distinguished; from self-boasting, and therefore his merit is acknowledged; from self-complacency, and therefore he acquires superiority.",
+      "th": "เขาไม่อวดตัว จึงเปล่งประกาย ไม่ยืนกรานว่าตนถูก จึงโดดเด่น ไม่คุยโวผลงาน ผลงานจึงเป็นที่ยอมรับ ไม่หลงตัวเอง จึงได้ยืนอยู่แถวหน้า",
+      "orig": {
+        "lang": "zh",
+        "text": "不自見，故明；不自是，故彰；不自伐，故有功；不自矜，故長。"
+      },
+      "source": {
+        "work": "Tao Te Ching",
+        "locator": "Chapter 22",
+        "translator": "James Legge (1891)",
+        "url": "https://www.gutenberg.org/ebooks/216"
+      },
+      "verify": "primary",
+      "tags": [
+        "ego",
+        "self",
+        "virtue"
+      ],
+      "mood": []
+    },
+    {
+      "author": "laozi",
+      "en": "A violent wind does not last for a whole morning; a sudden rain does not last for the whole day. To whom is it that these (two) things are owing? To Heaven and Earth. If Heaven and Earth cannot make such (spasmodic) actings last long, how much less can man!",
+      "th": "ลมกรรโชกไม่พัดตลอดเช้า ฝนกระหน่ำไม่ตกตลอดวัน ใครเป็นผู้ทำให้เกิดสิ่งเหล่านี้ ก็ฟ้าและดิน ขนาดฟ้าดินยังทำให้ความรุนแรงเช่นนี้อยู่นานไม่ได้ แล้วมนุษย์จะทำได้อย่างไร",
+      "orig": {
+        "lang": "zh",
+        "text": "飄風不終朝，驟雨不終日。孰為此者？天地。天地尚不能久，而況於人乎？"
+      },
+      "source": {
+        "work": "Tao Te Ching",
+        "locator": "Chapter 23",
+        "translator": "James Legge (1891)",
+        "url": "https://www.gutenberg.org/ebooks/216"
+      },
+      "verify": "primary",
+      "tags": [
+        "nature",
+        "change",
+        "emotion"
+      ],
+      "mood": [
+        "stress",
+        "angry"
+      ]
+    },
+    {
+      "author": "laozi",
+      "en": "He who knows other men is discerning; he who knows himself is intelligent. He who overcomes others is strong; he who overcomes himself is mighty. He who is satisfied with his lot is rich.",
+      "th": "รู้จักคนอื่นคือฉลาด รู้จักตัวเองคือรู้แจ้ง ชนะคนอื่นคือมีกำลัง ชนะตัวเองคือเข้มแข็งแท้ รู้จักพอคือร่ำรวย",
+      "orig": {
+        "lang": "zh",
+        "text": "知人者智，自知者明。勝人者有力，自勝者強。知足者富。"
+      },
+      "source": {
+        "work": "Tao Te Ching",
+        "locator": "Chapter 33",
+        "translator": "James Legge (1891)",
+        "url": "https://www.gutenberg.org/ebooks/216"
+      },
+      "verify": "primary",
+      "tags": [
+        "self",
+        "knowledge",
+        "simplicity"
+      ],
+      "mood": [
+        "lost"
+      ]
+    },
+    {
+      "author": "laozi",
+      "en": "The Tao in its regular course does nothing (for the sake of doing it), and so there is nothing which it does not do.",
+      "th": "เต๋าไม่ฝืนทำสิ่งใด แต่ไม่มีสิ่งใดที่ไม่สำเร็จ",
+      "orig": {
+        "lang": "zh",
+        "text": "道常無為而無不為。"
+      },
+      "source": {
+        "work": "Tao Te Ching",
+        "locator": "Chapter 37",
+        "translator": "James Legge (1891)",
+        "url": "https://www.gutenberg.org/ebooks/216"
+      },
+      "verify": "primary",
+      "tags": [
+        "nature",
+        "action",
+        "simplicity"
+      ],
+      "mood": [
+        "stress",
+        "tired"
+      ]
+    },
+    {
+      "author": "laozi",
+      "en": "There is no guilt greater than to sanction ambition; no calamity greater than to be discontented with one's lot; no fault greater than the wish to be getting. Therefore the sufficiency of contentment is an enduring and unchanging sufficiency.",
+      "th": "ไม่มีบาปใดใหญ่ไปกว่าการตามใจความทะเยอทะยาน ไม่มีภัยใดใหญ่ไปกว่าการไม่รู้จักพอ ไม่มีความผิดใดใหญ่ไปกว่าความอยากได้ ความพอที่มาจากการรู้จักพอ จึงเป็นความพอที่ยั่งยืน",
+      "source": {
+        "work": "Tao Te Ching",
+        "locator": "Chapter 46",
+        "translator": "James Legge (1891)",
+        "url": "https://www.gutenberg.org/ebooks/216"
+      },
+      "verify": "primary",
+      "tags": [
+        "desire",
+        "happiness",
+        "simplicity"
+      ],
+      "mood": [
+        "stress"
+      ]
+    },
+    {
+      "author": "laozi",
+      "en": "He who devotes himself to learning (seeks) from day to day to increase (his knowledge); he who devotes himself to the Tao (seeks) from day to day to diminish (his doing).",
+      "th": "ผู้ใฝ่เรียนรู้ พอกพูนขึ้นทุกวัน ผู้ใฝ่เต๋า ลดละลงทุกวัน",
+      "orig": {
+        "lang": "zh",
+        "text": "為學日益，為道日損。"
+      },
+      "source": {
+        "work": "Tao Te Ching",
+        "locator": "Chapter 48",
+        "translator": "James Legge (1891)",
+        "url": "https://www.gutenberg.org/ebooks/216"
+      },
+      "verify": "primary",
+      "tags": [
+        "simplicity",
+        "knowledge",
+        "ego"
+      ],
+      "mood": [
+        "overwhelmed"
+      ]
+    },
+    {
+      "author": "laozi",
+      "en": "He who knows (the Tao) does not (care to) speak (about it); he who is (ever ready to) speak about it does not know it.",
+      "th": "ผู้รู้ไม่พูด ผู้พูดไม่รู้",
+      "orig": {
+        "lang": "zh",
+        "text": "知者不言，言者不知。"
+      },
+      "source": {
+        "work": "Tao Te Ching",
+        "locator": "Chapter 56",
+        "translator": "James Legge (1891)",
+        "url": "https://www.gutenberg.org/ebooks/216"
+      },
+      "verify": "primary",
+      "tags": [
+        "knowledge",
+        "language",
+        "ego"
+      ],
+      "mood": []
+    },
+    {
+      "author": "laozi",
+      "en": "Misery!—happiness is to be found by its side! Happiness!—misery lurks beneath it! Who knows what either will come to in the end?",
+      "th": "ทุกข์นั้น มีสุขอยู่เคียงข้าง สุขนั้น มีทุกข์ซ่อนอยู่ข้างใต้ ใครจะรู้ว่าสุดท้ายแล้วจะลงเอยอย่างไร",
+      "orig": {
+        "lang": "zh",
+        "text": "禍兮福之所倚，福兮禍之所伏。孰知其極？"
+      },
+      "source": {
+        "work": "Tao Te Ching",
+        "locator": "Chapter 58",
+        "translator": "James Legge (1891)",
+        "url": "https://www.gutenberg.org/ebooks/216"
+      },
+      "verify": "primary",
+      "tags": [
+        "change",
+        "happiness",
+        "suffering"
+      ],
+      "mood": [
+        "heartbroken",
+        "lost"
+      ]
+    },
+    {
+      "author": "laozi",
+      "en": "(The master of it) anticipates things that are difficult while they are easy, and does things that would become great while they are small. All difficult things in the world are sure to arise from a previous state in which they were easy...",
+      "th": "ผู้รู้จะจัดการเรื่องยากตั้งแต่ยังง่าย ทำเรื่องใหญ่ตั้งแต่ยังเล็ก เพราะเรื่องยากทั้งหลายในโลก ล้วนเริ่มมาจากตอนที่ยังง่าย",
+      "orig": {
+        "lang": "zh",
+        "text": "圖難於其易，為大於其細；天下難事，必作於易；"
+      },
+      "source": {
+        "work": "Tao Te Ching",
+        "locator": "Chapter 63",
+        "translator": "James Legge (1891)",
+        "url": "https://www.gutenberg.org/ebooks/216"
+      },
+      "verify": "primary",
+      "tags": [
+        "action",
+        "work"
+      ],
+      "mood": [
+        "overwhelmed",
+        "stuck"
+      ]
+    },
+    {
+      "author": "laozi",
+      "en": "The tree which fills the arms grew from the tiniest sprout; the tower of nine storeys rose from a (small) heap of earth; the journey of a thousand li commenced with a single step.",
+      "th": "ต้นไม้ใหญ่เต็มอ้อมแขนเติบโตจากหน่อเล็กจิ๋ว หอสูงเก้าชั้นเริ่มจากดินกองเล็ก ๆ การเดินทางพันลี้เริ่มต้นจากก้าวแรก",
+      "orig": {
+        "lang": "zh",
+        "text": "合抱之木，生於毫末；九層之臺，起於累土；千里之行，始於足下。"
+      },
+      "source": {
+        "work": "Tao Te Ching",
+        "locator": "Chapter 64",
+        "translator": "James Legge (1891)",
+        "url": "https://www.gutenberg.org/ebooks/216"
+      },
+      "verify": "primary",
+      "tags": [
+        "action",
+        "change",
+        "hope"
+      ],
+      "mood": [
+        "stuck"
+      ]
+    },
+    {
+      "author": "laozi",
+      "en": "Man at his birth is supple and weak; at his death, firm and strong... Thus it is that firmness and strength are the concomitants of death; softness and weakness, the concomitants of life.",
+      "th": "คนเราเกิดมาอ่อนนุ่ม ตายไปแข็งทื่อ ความแข็งกระด้างจึงเป็นพวกเดียวกับความตาย ความอ่อนนุ่มเป็นพวกเดียวกับชีวิต",
+      "orig": {
+        "lang": "zh",
+        "text": "人之生也柔弱，其死也堅強。…故堅強者死之徒，柔弱者生之徒。"
+      },
+      "source": {
+        "work": "Tao Te Ching",
+        "locator": "Chapter 76",
+        "translator": "James Legge (1891)",
+        "url": "https://www.gutenberg.org/ebooks/216"
+      },
+      "verify": "primary",
+      "tags": [
+        "nature",
+        "change",
+        "ego"
+      ],
+      "mood": [
+        "stuck"
+      ]
+    },
+    {
+      "author": "laozi",
+      "en": "There is nothing in the world more soft and weak than water, and yet for attacking things that are firm and strong there is nothing that can take precedence of it.",
+      "th": "ในโลกนี้ไม่มีสิ่งใดอ่อนนุ่มและอ่อนแอไปกว่าน้ำ แต่เมื่อต้องกัดกร่อนสิ่งที่แข็งแกร่ง ก็ไม่มีอะไรเหนือกว่าน้ำ",
+      "orig": {
+        "lang": "zh",
+        "text": "天下莫柔弱於水，而攻堅強者莫之能勝"
+      },
+      "source": {
+        "work": "Tao Te Ching",
+        "locator": "Chapter 78",
+        "translator": "James Legge (1891)",
+        "url": "https://www.gutenberg.org/ebooks/216"
+      },
+      "verify": "primary",
+      "tags": [
+        "nature",
+        "courage",
+        "change"
+      ],
+      "mood": [
+        "tired"
+      ]
+    },
+    {
+      "author": "laozi",
+      "en": "Sincere words are not fine; fine words are not sincere. Those who are skilled (in the Tao) do not dispute (about it); the disputatious are not skilled in it.",
+      "th": "คำจริงใจไม่ไพเราะ คำไพเราะไม่จริงใจ ผู้ที่เข้าใจเต๋าไม่ชอบโต้เถียง ผู้ที่ชอบโต้เถียงไม่ได้เข้าใจเต๋า",
+      "orig": {
+        "lang": "zh",
+        "text": "信言不美，美言不信。善者不辯，辯者不善。"
+      },
+      "source": {
+        "work": "Tao Te Ching",
+        "locator": "Chapter 81",
+        "translator": "James Legge (1891)",
+        "url": "https://www.gutenberg.org/ebooks/216"
+      },
+      "verify": "primary",
+      "tags": [
+        "truth",
+        "language"
+      ],
+      "mood": []
+    },
+    {
+      "author": "zhuangzi",
+      "en": "Once upon a time, I, Chuang Tzŭ, dreamt I was a butterfly... Suddenly, I awaked, and there I lay, myself again. Now I do not know whether I was then a man dreaming I was a butterfly, or whether I am now a butterfly dreaming I am a man.",
+      "th": "ครั้งหนึ่ง ฉันจวงจื๊อฝันว่าตัวเองเป็นผีเสื้อ พอสะดุ้งตื่นก็พบว่ายังนอนอยู่ตรงนั้น เป็นตัวฉันเหมือนเดิม ตอนนี้ฉันเลยไม่รู้แล้วว่า เมื่อครู่เป็นคนที่ฝันว่าเป็นผีเสื้อ หรือตอนนี้เป็นผีเสื้อที่กำลังฝันว่าเป็นคน",
+      "orig": {
+        "lang": "zh",
+        "text": "昔者莊周夢為胡蝶…俄然覺，則蘧蘧然周也。不知周之夢為胡蝶與，胡蝶之夢為周與？"
+      },
+      "source": {
+        "work": "Zhuangzi",
+        "locator": "Chapter 2, The Adjustment of Controversies (齊物論)",
+        "translator": "Herbert A. Giles (1889)",
+        "url": "https://en.wikisource.org/wiki/Chuang_Tz%C5%AD_(Giles)/Chapter_2"
+      },
+      "verify": "primary",
+      "tags": [
+        "self",
+        "truth",
+        "doubt"
+      ],
+      "mood": [
+        "confused",
+        "lost"
+      ]
+    },
+    {
+      "author": "zhuangzi",
+      "en": "Now if you have a big tree and are at a loss what to do with it, why not plant it in the domain of non-existence... whither you might betake yourself to inaction by its side, to blissful repose beneath its shade?",
+      "th": "ถ้ามีต้นไม้ใหญ่แล้วไม่รู้จะเอาไปใช้ทำอะไร ทำไมไม่ปลูกมันไว้ในดินแดนแห่งความว่างเปล่า แล้วไปนั่งเฉย ๆ อยู่ข้าง ๆ หรือนอนพักอย่างเป็นสุขใต้ร่มเงาของมันเล่า",
+      "orig": {
+        "lang": "zh",
+        "text": "今子有大樹，患其無用，何不樹之於無何有之鄉…彷徨乎無為其側，逍遙乎寢臥其下。"
+      },
+      "source": {
+        "work": "Zhuangzi",
+        "locator": "Chapter 1, Free and Easy Wandering (逍遙遊)",
+        "translator": "Herbert A. Giles (1889)",
+        "url": "https://en.wikisource.org/wiki/Chuang_Tz%C5%AD_(Giles)/Chapter_1"
+      },
+      "verify": "primary",
+      "tags": [
+        "simplicity",
+        "nature"
+      ],
+      "mood": [
+        "tired",
+        "stress"
+      ]
+    },
+    {
+      "author": "zhuangzi",
+      "en": "All men know the use of useful things; but they do not know the use of useless things.",
+      "th": "ทุกคนรู้จักประโยชน์ของสิ่งที่มีประโยชน์ แต่ไม่มีใครรู้จักประโยชน์ของสิ่งที่ไร้ประโยชน์",
+      "orig": {
+        "lang": "zh",
+        "text": "人皆知有用之用，而莫知無用之用也。"
+      },
+      "source": {
+        "work": "Zhuangzi",
+        "locator": "Chapter 4, Man in the World (人間世)",
+        "translator": "Herbert A. Giles (1889)",
+        "url": "https://en.wikisource.org/wiki/Chuang_Tz%C5%AD_(Giles)/Chapter_4"
+      },
+      "verify": "primary",
+      "tags": [
+        "meaning",
+        "simplicity",
+        "society"
+      ],
+      "mood": [
+        "lost",
+        "bored"
+      ]
+    },
+    {
+      "author": "zhuangzi",
+      "en": "\"See how the minnows are darting about! That is the pleasure of fishes.\" \"You not being a fish yourself,\" said Hui Tzŭ, \"how can you possibly know in what consists the pleasure of fishes?\" \"And you not being I,\" retorted Chuang Tzŭ, \"how can you know that I do not know?\"",
+      "th": "จวงจื๊อพูดว่า ดูปลาพวกนั้นว่ายไปมาสิ นั่นแหละความสุขของปลา ฮุ่ยจื๊อแย้งว่า ท่านไม่ใช่ปลา จะรู้ได้อย่างไรว่าปลามีความสุข จวงจื๊อตอบว่า ท่านไม่ใช่ฉัน จะรู้ได้อย่างไรว่าฉันไม่รู้",
+      "orig": {
+        "lang": "zh",
+        "text": "莊子曰：「鯈魚出游從容，是魚之樂也。」惠子曰：「子非魚，安知魚之樂？」莊子曰：「子非我，安知我不知魚之樂？」"
+      },
+      "source": {
+        "work": "Zhuangzi",
+        "locator": "Chapter 17, Autumn Floods (秋水)",
+        "translator": "Herbert A. Giles (1889)",
+        "url": "https://en.wikisource.org/wiki/Chuang_Tz%C5%AD_(Giles)/Chapter_17"
+      },
+      "verify": "primary",
+      "tags": [
+        "doubt",
+        "truth",
+        "humor"
+      ],
+      "mood": [
+        "confused"
+      ]
+    },
+    {
+      "author": "zhuangzi",
+      "en": "You cannot speak of ocean to a well-frog,—the creature of a narrower sphere. You cannot speak of ice to a summer insect,—the creature of a season.",
+      "th": "จะเล่าเรื่องทะเลให้กบในบ่อฟังก็ไม่ได้ เพราะโลกของมันแคบ จะเล่าเรื่องน้ำแข็งให้แมลงฤดูร้อนฟังก็ไม่ได้ เพราะชีวิตมันมีแค่ฤดูเดียว",
+      "orig": {
+        "lang": "zh",
+        "text": "井蛙不可以語於海者，拘於虛也；夏蟲不可以語於冰者，篤於時也；"
+      },
+      "source": {
+        "work": "Zhuangzi",
+        "locator": "Chapter 17, Autumn Floods (秋水)",
+        "translator": "Herbert A. Giles (1889)",
+        "url": "https://en.wikisource.org/wiki/Chuang_Tz%C5%AD_(Giles)/Chapter_17"
+      },
+      "verify": "primary",
+      "tags": [
+        "knowledge",
+        "ego",
+        "truth"
+      ],
+      "mood": [
+        "bored"
+      ]
+    },
+    {
+      "author": "zhuangzi",
+      "en": "My life has a limit, but my knowledge is without limit. To drive the limited in search of the limitless, is fatal.",
+      "th": "ชีวิตฉันมีขีดจำกัด แต่ความรู้ไม่มีที่สิ้นสุด เอาสิ่งที่มีจำกัดไปไล่ตามสิ่งที่ไม่มีที่สิ้นสุด มีแต่จะพาตัวเองไปสู่ความพินาศ",
+      "orig": {
+        "lang": "zh",
+        "text": "吾生也有涯，而知也無涯。以有涯隨無涯，殆已；"
+      },
+      "source": {
+        "work": "Zhuangzi",
+        "locator": "Chapter 3, Nourishing the Lord of Life (養生主)",
+        "translator": "Herbert A. Giles (1889)",
+        "url": "https://en.wikisource.org/wiki/Chuang_Tz%C5%AD_(Giles)/Chapter_3"
+      },
+      "verify": "primary",
+      "tags": [
+        "knowledge",
+        "time",
+        "desire"
+      ],
+      "mood": [
+        "overwhelmed",
+        "tired"
+      ]
+    },
+    {
+      "author": "zhuangzi",
+      "en": "When the pond dries up, and the fishes are left upon dry ground, to moisten them with the breath or to damp them with spittle is not to be compared with leaving them in the first instance in their native rivers and lakes.",
+      "th": "เมื่อบึงแห้งขอด ปลาต้องมานอนเกยอยู่บนดิน จะพ่นลมหายใจหรือน้ำลายให้กันชุ่มชื้นแค่ไหน ก็สู้ปล่อยให้พวกมันได้อยู่ในแม่น้ำและทะเลสาบของมันตั้งแต่แรกไม่ได้",
+      "orig": {
+        "lang": "zh",
+        "text": "泉涸，魚相與處於陸，相呴以濕，相濡以沫，不如相忘於江湖。"
+      },
+      "source": {
+        "work": "Zhuangzi",
+        "locator": "Chapter 6, The Great Teacher (大宗師)",
+        "translator": "Herbert A. Giles (1889)",
+        "url": "https://en.wikisource.org/wiki/Chuang_Tz%C5%AD_(Giles)/Chapter_6"
+      },
+      "verify": "primary",
+      "tags": [
+        "love",
+        "freedom",
+        "nature"
+      ],
+      "mood": [
+        "heartbroken"
+      ]
+    },
+    {
+      "author": "zhuangzi",
+      "en": "A keeper of monkeys... said... each monkey was to have three in the morning and four at night. But at this the monkeys were very angry, so the keeper said they might have four in the morning and three at night, with which arrangement they were all well pleased.",
+      "th": "คนเลี้ยงลิงบอกว่าจะให้ลิงกินตัวละสามลูกตอนเช้า สี่ลูกตอนเย็น ลิงพากันโกรธ เขาเลยบอกใหม่ว่า งั้นเช้าสี่ เย็นสาม คราวนี้ลิงทุกตัวพอใจกันถ้วนหน้า",
+      "orig": {
+        "lang": "zh",
+        "text": "狙公賦芧，曰：「朝三而莫四。」眾狙皆怒。曰：「然則朝四而莫三。」眾狙皆悅。"
+      },
+      "source": {
+        "work": "Zhuangzi",
+        "locator": "Chapter 2, The Adjustment of Controversies (齊物論)",
+        "translator": "Herbert A. Giles (1889)",
+        "url": "https://en.wikisource.org/wiki/Chuang_Tz%C5%AD_(Giles)/Chapter_2"
+      },
+      "verify": "primary",
+      "tags": [
+        "anger",
+        "humor",
+        "mind"
+      ],
+      "mood": [
+        "angry"
+      ]
+    },
+    {
+      "author": "zhuangzi",
+      "en": "When water is still, it is like a mirror, reflecting the beard and the eyebrows... And if water thus derives lucidity from stillness, how much more the faculties of the mind?",
+      "th": "เมื่อน้ำนิ่ง ก็ใสเหมือนกระจก สะท้อนให้เห็นได้ถึงหนวดเคราและคิ้ว ถ้าน้ำยังใสได้เพราะความนิ่ง แล้วใจคนจะใสได้มากกว่านั้นสักเพียงใด",
+      "orig": {
+        "lang": "zh",
+        "text": "水靜則明燭鬚眉…水靜猶明，而況精神！"
+      },
+      "source": {
+        "work": "Zhuangzi",
+        "locator": "Chapter 13, The Way of Heaven (天道)",
+        "translator": "Herbert A. Giles (1889)",
+        "url": "https://en.wikisource.org/wiki/Chuang_Tz%C5%AD_(Giles)/Chapter_13"
+      },
+      "verify": "primary",
+      "tags": [
+        "mind",
+        "present",
+        "nature"
+      ],
+      "mood": [
+        "overwhelmed",
+        "anxious"
+      ]
+    },
+    {
+      "author": "zhuangzi",
+      "en": "The perfect man employs his mind as a mirror. It grasps nothing: it refuses nothing. It receives, but does not keep.",
+      "th": "ผู้บรรลุใช้ใจเหมือนกระจก ไม่ไขว่คว้าสิ่งใด ไม่ผลักไสสิ่งใด รับทุกอย่างที่มา แต่ไม่เก็บอะไรไว้",
+      "orig": {
+        "lang": "zh",
+        "text": "至人之用心若鏡，不將不迎，應而不藏"
+      },
+      "source": {
+        "work": "Zhuangzi",
+        "locator": "Chapter 7, Fit for Emperors and Kings (應帝王)",
+        "translator": "Herbert A. Giles (1889)",
+        "url": "https://en.wikisource.org/wiki/Chuang_Tz%C5%AD_(Giles)/Chapter_7"
+      },
+      "verify": "primary",
+      "tags": [
+        "mind",
+        "present",
+        "freedom"
+      ],
+      "mood": [
+        "anxious"
+      ]
+    },
+    {
+      "author": "zhuangzi",
+      "en": "Man passes through this sublunary life as a white horse passes a crack. Here one moment, gone the next.",
+      "th": "ชีวิตคนบนโลกนี้ผ่านไปเหมือนม้าขาวที่ควบผ่านรอยแยก เห็นอยู่แวบเดียว แล้วก็หายไป",
+      "orig": {
+        "lang": "zh",
+        "text": "人生天地之間，若白駒之過郤，忽然而已。"
+      },
+      "source": {
+        "work": "Zhuangzi",
+        "locator": "Chapter 22, Knowledge Rambling in the North (知北遊)",
+        "translator": "Herbert A. Giles (1889)",
+        "url": "https://en.wikisource.org/wiki/Chuang_Tz%C5%AD_(Giles)/Chapter_22"
+      },
+      "verify": "primary",
+      "tags": [
+        "time",
+        "death",
+        "change"
+      ],
+      "mood": [
+        "bored",
+        "stuck"
+      ]
+    },
+    {
+      "author": "zhuangzi",
+      "en": "When she died, I could not help being affected by her death... And now, by virtue of a further change, she is dead, passing from one phase to another like the sequence of spring, summer, autumn, and winter.",
+      "th": "ตอนเธอตาย ฉันก็อดเศร้าไม่ได้ แต่บัดนี้เธอเพียงเปลี่ยนสภาพอีกครั้ง จากความเป็นสู่ความตาย เหมือนฤดูใบไม้ผลิ ฤดูร้อน ฤดูใบไม้ร่วง และฤดูหนาว ที่หมุนเวียนต่อกันไป",
+      "orig": {
+        "lang": "zh",
+        "text": "是其始死也，我獨何能無概然！…今又變而之死，是相與為春秋冬夏四時行也。"
+      },
+      "source": {
+        "work": "Zhuangzi",
+        "locator": "Chapter 18, Perfect Happiness (至樂)",
+        "translator": "Herbert A. Giles (1889)",
+        "url": "https://en.wikisource.org/wiki/Chuang_Tz%C5%AD_(Giles)/Chapter_18"
+      },
+      "verify": "primary",
+      "tags": [
+        "death",
+        "change",
+        "nature"
+      ],
+      "mood": [
+        "heartbroken"
+      ]
+    },
+    {
+      "author": "liezi",
+      "en": "There was once a man in the Ch'i State who was so afraid the universe would collapse and fall to pieces, leaving his body without a lodgment, that he could neither sleep nor eat.",
+      "th": "มีชายคนหนึ่งกลัวว่าฟ้าดินจะถล่มลงมา จนตัวเองไม่มีที่ให้อยู่ กลัวจนกินไม่ได้นอนไม่หลับ",
+      "orig": {
+        "lang": "zh",
+        "text": "杞國有人憂天地崩墜，身亡所寄，廢寢食者。"
+      },
+      "source": {
+        "work": "Liezi",
+        "locator": "Tian rui (天瑞); Giles, Book 1",
+        "translator": "Lionel Giles (1912)",
+        "url": "https://en.wikisource.org/wiki/Taoist_teachings_from_the_book_of_Lieh_Tz%C5%AD/Book_1"
+      },
+      "verify": "primary",
+      "tags": [
+        "fear",
+        "mind",
+        "humor"
+      ],
+      "mood": [
+        "anxious"
+      ]
+    },
+    {
+      "author": "liezi",
+      "en": "A man, having lost his axe, suspected his neighbour's son of having taken it... By and by, however, while digging in a dell, the owner came across the missing implement. The next day, when he saw his neighbour's son again, he found no trace of guilt in his movements.",
+      "th": "ชายคนหนึ่งทำขวานหาย เลยสงสัยว่าลูกชายเพื่อนบ้านขโมยไป ต่อมาเขาขุดดินในหุบเขาแล้วเจอขวานเล่มนั้น วันรุ่งขึ้นพอเห็นลูกชายเพื่อนบ้านอีกครั้ง ท่าทางของเด็กคนนั้นก็ไม่มีอะไรเหมือนขโมยอีกเลย",
+      "orig": {
+        "lang": "zh",
+        "text": "人有亡鈇者，意其鄰之子…俄而抇其谷而得其鈇，他日復見其鄰人之子，動作態度無似竊鈇者。"
+      },
+      "source": {
+        "work": "Liezi",
+        "locator": "Shuo fu (說符); Giles, Book 7",
+        "translator": "Lionel Giles (1912)",
+        "url": "https://en.wikisource.org/wiki/Taoist_teachings_from_the_book_of_Lieh_Tz%C5%AD/Book_7"
+      },
+      "verify": "primary",
+      "tags": [
+        "mind",
+        "truth",
+        "doubt"
+      ],
+      "mood": [
+        "angry",
+        "confused"
+      ]
+    },
+    {
+      "author": "nagarjuna",
+      "en": "There is pleasure when a sore is scratched, / But to be without sores is more pleasurable still. / Just so, there are pleasures in worldly desires, / But to be without desires is more pleasurable still.",
+      "th": "เกาแผลก็รู้สึกดี แต่ไม่มีแผลให้เกาเลยสบายกว่า ความอยากทางโลกก็เช่นกัน สนองมันก็สุขอยู่หรอก แต่ไม่มีความอยากเลยสุขกว่านั้นอีก",
+      "source": {
+        "work": "Ratnāvalī (Precious Garland)",
+        "locator": "Verse 169",
+        "translator": "Jeffrey Hopkins (1998)",
+        "url": "https://en.wikiquote.org/wiki/Nagarjuna"
+      },
+      "verify": "sourced",
+      "tags": [
+        "desire",
+        "happiness",
+        "simplicity"
+      ],
+      "mood": [
+        "stress"
+      ]
+    },
+    {
+      "author": "nagarjuna",
+      "en": "\"I, without grasping will pass beyond sorrow, / And I will attain nirvāṇa,\" one says. / Whoever grasps like this / Has great grasping.",
+      "th": "ใครที่พูดว่า เราจะไม่ยึดติด เราจะพ้นทุกข์ เราจะบรรลุนิพพาน คนที่ยึดแบบนี้แหละ คือคนที่ยึดติดอย่างหนัก",
+      "source": {
+        "work": "Mūlamadhyamakakārikā",
+        "locator": "Chapter 16, verse 9",
+        "translator": "Jay L. Garfield (1995)",
+        "url": "https://en.wikiquote.org/wiki/Nagarjuna"
+      },
+      "verify": "sourced",
+      "tags": [
+        "ego",
+        "desire",
+        "freedom"
+      ],
+      "mood": [
+        "confused"
+      ]
+    },
+    {
+      "author": "shantideva",
+      "en": "Whence can be found leather enough to cover the whole earth? But with a single leather shoe the whole ground is covered. In like manner the forces without me I cannot control; but I will control the thought within me, and what need have I for control of the rest?",
+      "th": "จะหาหนังมาปูคลุมทั้งแผ่นดินได้จากที่ไหน แต่แค่สวมรองเท้าหนังคู่เดียว ก็เหมือนแผ่นดินทั้งหมดถูกปูไว้แล้ว เช่นเดียวกัน สิ่งภายนอกเราควบคุมไม่ได้ แต่เราจะควบคุมความคิดในใจของเราเอง แล้วจะต้องไปควบคุมอย่างอื่นอีกทำไม",
+      "source": {
+        "work": "Bodhicaryāvatāra (The Path of Light)",
+        "locator": "Chapter V, Watchfulness (verses 12 to 14)",
+        "translator": "L. D. Barnett (1909)",
+        "url": "https://www.globalgreyebooks.com/online-ebooks/l-d-barnett_path-of-light_complete-text.html"
+      },
+      "verify": "primary",
+      "tags": [
+        "control",
+        "mind"
+      ],
+      "mood": [
+        "stress",
+        "angry"
+      ]
+    },
+    {
+      "author": "shantideva",
+      "en": "The cause of my suffering is twofold—my enemy's sword and my body. He has taken the sword, I the body; with which shall I be angry?",
+      "th": "ความเจ็บปวดของเรามีสองเหตุ คือดาบของศัตรูกับร่างกายของเรา เขาจับดาบ เราก็ยึดร่างกายนี้ไว้ แล้วเราจะโกรธฝ่ายไหนดี",
+      "source": {
+        "work": "Bodhicaryāvatāra (The Path of Light)",
+        "locator": "Chapter VI, The Perfect Long-Suffering (verse 43)",
+        "translator": "L. D. Barnett (1909)",
+        "url": "https://www.globalgreyebooks.com/online-ebooks/l-d-barnett_path-of-light_complete-text.html"
+      },
+      "verify": "primary",
+      "tags": [
+        "anger",
+        "suffering",
+        "self"
+      ],
+      "mood": [
+        "angry"
+      ]
+    },
+    {
+      "author": "shantideva",
+      "en": "Eager to escape sorrow, men rush into sorrow; from desire of happiness they blindly slay their own happiness, enemies to themselves.",
+      "th": "คนเราอยากหนีทุกข์ แต่กลับวิ่งเข้าหาทุกข์ อยากได้ความสุข แต่กลับทำลายความสุขของตัวเองอย่างมืดบอด จนกลายเป็นศัตรูของตัวเอง",
+      "source": {
+        "work": "Bodhicaryāvatāra (The Path of Light)",
+        "locator": "Chapter I, The Praise of the Thought of Enlightenment (verse 28)",
+        "translator": "L. D. Barnett (1909)",
+        "url": "https://www.globalgreyebooks.com/online-ebooks/l-d-barnett_path-of-light_complete-text.html"
+      },
+      "verify": "primary",
+      "tags": [
+        "suffering",
+        "happiness",
+        "desire"
+      ],
+      "mood": [
+        "stuck",
+        "lost"
+      ]
+    },
+    {
+      "author": "bodhidharma",
+      "en": "Many roads lead to the Path, but basically there are only two: reason and practice.",
+      "th": "ทางที่นำไปสู่มรรคมีหลายทาง แต่โดยแก่นแล้วมีเพียงสองทาง คือเข้าใจด้วยปัญญา กับลงมือปฏิบัติ",
+      "source": {
+        "work": "The Two Entrances and Four Practices (二入四行論)",
+        "locator": "The Zen Teaching of Bodhidharma, p. 3",
+        "translator": "Red Pine (1989)",
+        "url": "https://en.wikiquote.org/wiki/Bodhidharma"
+      },
+      "verify": "sourced",
+      "tags": [
+        "action",
+        "truth"
+      ],
+      "mood": [
+        "confused"
+      ]
+    },
+    {
+      "author": "bodhidharma",
+      "en": "\"My mind is not at peace. Please, Teacher, pacify my mind.\" / Bodhidharma said, \"Bring out your mind and I will pacify it for you.\" / Huike said, \"When I search for my mind, ultimately it cannot be found.\" / Bodhidharma said, \"I have already pacified your mind for you.\"",
+      "th": "ฮุ่ยเข่อกราบขอว่า ใจศิษย์ไม่สงบ ขอท่านอาจารย์ช่วยทำให้ใจศิษย์สงบด้วย ท่านโพธิธรรมตอบว่า เอาใจของเธอออกมาสิ แล้วเราจะทำให้สงบ ฮุ่ยเข่อตอบว่า ศิษย์ค้นหาใจแล้ว แต่หาไม่เจอเลย ท่านโพธิธรรมจึงว่า เท่านี้เราก็ทำให้ใจเธอสงบแล้ว",
+      "orig": {
+        "lang": "zh",
+        "text": "弟子心未安。乞師安心。磨云。將心來。與汝安。祖云。覓心了不可得。磨云。為汝安心竟。"
+      },
+      "source": {
+        "work": "The Gateless Barrier (無門關), compiled by Wumen Huikai (1228)",
+        "locator": "Case 41, Bodhidharma Pacifies the Mind",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Bodhidharma"
+      },
+      "verify": "sourced",
+      "tags": [
+        "mind",
+        "emotion"
+      ],
+      "mood": [
+        "anxious",
+        "overwhelmed"
+      ]
+    },
+    {
+      "author": "huineng",
+      "en": "Bodhi is fundamentally without any tree; / The bright mirror is also not a stand. / Fundamentally there is not a single thing— / Where could any dust be attracted?",
+      "th": "แต่เดิมไม่มีต้นโพธิ์ กระจกเงาใสก็ไม่มีแท่นตั้ง แต่เดิมไม่มีสิ่งใดเลยสักสิ่ง แล้วฝุ่นจะไปเกาะที่ใด",
+      "orig": {
+        "lang": "zh",
+        "text": "菩提本無樹，明鏡亦非臺；本來無一物，何處惹塵埃？"
+      },
+      "source": {
+        "work": "Platform Sutra (六祖壇經)",
+        "locator": "Chapter 1, Huineng's verse",
+        "translator": "John R. McRae (2000)",
+        "url": "https://en.wikiquote.org/wiki/Platform_Sutra"
+      },
+      "verify": "sourced",
+      "tags": [
+        "mind",
+        "truth",
+        "simplicity"
+      ],
+      "mood": []
+    },
+    {
+      "author": "huineng",
+      "en": "Argument implies a desire to win, strengthens egotism, and ties us to the belief in the idea of a self.",
+      "th": "การโต้เถียงแฝงความอยากเอาชนะไว้ ทำให้อัตตาพองโต และผูกเราไว้กับความเชื่อว่ามีตัวตน",
+      "source": {
+        "work": "Platform Sutra (六祖壇經)",
+        "locator": "Chapter 4",
+        "translator": "A. F. Price and Wong Mou-lam",
+        "url": "https://en.wikiquote.org/wiki/Platform_Sutra"
+      },
+      "verify": "sourced",
+      "tags": [
+        "ego",
+        "self",
+        "language"
+      ],
+      "mood": [
+        "angry"
+      ]
+    },
+    {
+      "author": "huineng",
+      "en": "By amending our mistakes, we get wisdom. / By defending our faults, we betray an unsound mind.",
+      "th": "แก้ความผิดพลาด ย่อมได้ปัญญา แก้ตัวให้ความผิด ย่อมเผยว่าใจยังบกพร่อง",
+      "source": {
+        "work": "Platform Sutra (六祖壇經)",
+        "locator": "Chapter 3",
+        "translator": "A. F. Price and Wong Mou-lam",
+        "url": "https://en.wikiquote.org/wiki/Platform_Sutra"
+      },
+      "verify": "sourced",
+      "tags": [
+        "failure",
+        "ego",
+        "knowledge"
+      ],
+      "mood": [
+        "stuck"
+      ]
+    },
+    {
+      "author": "linji",
+      "en": "Just make yourself master of every situation, and wherever you stand is the true [place].",
+      "th": "จงเป็นนายของตัวเองในทุกสถานการณ์ แล้วไม่ว่ายืนอยู่ตรงไหน ที่นั่นก็คือที่อันแท้จริง",
+      "orig": {
+        "lang": "zh",
+        "text": "隨處作主，立處皆真。"
+      },
+      "source": {
+        "work": "Record of Linji (臨濟錄)",
+        "locator": "Discourses (T47 no. 1985, p. 498a)",
+        "translator": "Ruth Fuller Sasaki, ed. Thomas Yūhō Kirchner (2009)",
+        "url": "https://en.wikiquote.org/wiki/Linji_Yixuan"
+      },
+      "verify": "sourced",
+      "tags": [
+        "self",
+        "freedom",
+        "present"
+      ],
+      "mood": [
+        "lost",
+        "stuck"
+      ]
+    },
+    {
+      "author": "linji",
+      "en": "If you love the holy and hate the ordinary, you float and sink in the sea of birth and death. Affliction exists because of mind: if you have no mind, how can affliction hold you?",
+      "th": "ถ้าคุณรักสิ่งสูงส่งแต่รังเกียจสิ่งธรรมดา คุณก็จะลอยขึ้นจมลงอยู่ในทะเลแห่งการเกิดและการตาย กิเลสมีได้ก็เพราะใจ ถ้าใจว่าง กิเลสจะผูกคุณไว้ได้อย่างไร",
+      "orig": {
+        "lang": "zh",
+        "text": "爾若愛聖憎凡，生死海裏沈浮。煩惱由心故有，無心煩惱何拘？"
+      },
+      "source": {
+        "work": "The Recorded Sayings of Linji",
+        "locator": "Three Chan Classics, p. 31",
+        "translator": "J. C. Cleary (1999)",
+        "url": "https://en.wikiquote.org/wiki/Linji_Yixuan"
+      },
+      "verify": "sourced",
+      "tags": [
+        "mind",
+        "suffering",
+        "freedom"
+      ],
+      "mood": [
+        "stress"
+      ]
+    },
+    {
+      "author": "dogen",
+      "en": "To study the Buddha way is to study oneself. To study oneself is to forget oneself. To forget oneself is to be enlightened by the myriad dharmas.",
+      "th": "ศึกษาพุทธมรรค คือศึกษาตัวเอง ศึกษาตัวเอง คือลืมตัวตน ลืมตัวตน คือให้สรรพสิ่งปลุกเราให้ตื่นรู้",
+      "orig": {
+        "lang": "ja",
+        "text": "仏道をならふといふは、自己をならふなり。自己をならふといふは、自己をわするるなり。自己をわするるといふは、万法に証せらるるなり。"
+      },
+      "source": {
+        "work": "Shōbōgenzō, Genjōkōan (1233)",
+        "locator": "Fascicle 1",
+        "translator": "Paul Jaffe (1996)",
+        "url": "https://en.wikiquote.org/wiki/D%C5%8Dgen"
+      },
+      "verify": "sourced",
+      "tags": [
+        "self",
+        "ego",
+        "knowledge"
+      ],
+      "mood": [
+        "lost"
+      ]
+    },
+    {
+      "author": "dogen",
+      "en": "A person's attaining enlightenment is like the moon reflected in water: the moon does not get wet, and the water is not broken.",
+      "th": "การตื่นรู้ของคนเรา เหมือนดวงจันทร์ที่สะท้อนอยู่ในน้ำ ดวงจันทร์ไม่เปียก ผิวน้ำก็ไม่แตก",
+      "orig": {
+        "lang": "ja",
+        "text": "人のさとりをうる、水に月のやどるがごとし。月ぬれず、水やぶれず。"
+      },
+      "source": {
+        "work": "Shōbōgenzō, Genjōkōan (1233)",
+        "locator": "Fascicle 1",
+        "translator": null,
+        "url": "http://hikari-k.ed.jp/zenchoji/sutra/soroku/genzo01.htm"
+      },
+      "verify": "primary",
+      "tags": [
+        "mind",
+        "nature"
+      ],
+      "mood": []
+    },
+    {
+      "author": "dogen",
+      "en": "Students, when you want to say something, think about it three times before you say it. Speak only if your words will benefit yourselves and others. Do not speak if it brings no benefit.",
+      "th": "เมื่ออยากจะพูดอะไร ให้คิดทบทวนสามครั้งก่อนพูด พูดเฉพาะเมื่อคำพูดนั้นเป็นประโยชน์ต่อตัวเองและผู้อื่น ถ้าไม่มีประโยชน์ก็อย่าพูด",
+      "source": {
+        "work": "Shōbōgenzō Zuimonki (1238)",
+        "locator": "Book VI, 2",
+        "translator": "Reihō Masunaga (1975 ed.)",
+        "url": "https://en.wikiquote.org/wiki/D%C5%8Dgen"
+      },
+      "verify": "sourced",
+      "tags": [
+        "language",
+        "action"
+      ],
+      "mood": [
+        "angry"
+      ]
+    },
+    {
+      "author": "dogen",
+      "en": "Students today should begrudge every moment of time. This dewlike life fades away; time speeds swiftly.",
+      "th": "ผู้ศึกษาธรรมทุกวันนี้ ควรหวงแหนเวลาทุกขณะ ชีวิตนี้เหมือนหยดน้ำค้างที่เลือนหาย เวลาผ่านไปรวดเร็วนัก",
+      "source": {
+        "work": "Shōbōgenzō Zuimonki (1238)",
+        "locator": "Book V, 8",
+        "translator": "Reihō Masunaga (1975 ed.)",
+        "url": "https://en.wikiquote.org/wiki/D%C5%8Dgen"
+      },
+      "verify": "sourced",
+      "tags": [
+        "time",
+        "death",
+        "present"
+      ],
+      "mood": [
+        "bored",
+        "stuck"
+      ]
+    },
+    {
+      "author": "dogen",
+      "en": "But do not ask me where I am going, / As I travel in this limitless world, / Where every step I take is my home.",
+      "th": "อย่าถามเลยว่าฉันกำลังไปไหน ขณะท่องไปในโลกกว้างไร้ขอบเขตนี้ ทุกก้าวที่ฉันเดินคือบ้าน",
+      "source": {
+        "work": "Poem",
+        "locator": "The Zen Poetry of Dōgen, p. 61",
+        "translator": "Steven Heine (1997)",
+        "url": "https://en.wikiquote.org/wiki/D%C5%8Dgen"
+      },
+      "verify": "sourced",
+      "tags": [
+        "present",
+        "freedom",
+        "meaning"
+      ],
+      "mood": [
+        "lost"
+      ]
+    },
+    {
+      "author": "matsuo-basho",
+      "en": "An old pond / a frog jumps in / the sound of water",
+      "th": "สระน้ำเก่า กบกระโจนลงไป เสียงน้ำ",
+      "orig": {
+        "lang": "ja",
+        "text": "古池や蛙飛びこむ水の音"
+      },
+      "source": {
+        "work": "Haiku, in Haru no hi (春の日)",
+        "locator": "1686; first printed in Kawazu awase (蛙合), 1686",
+        "translator": null,
+        "url": "https://ja.wikipedia.org/wiki/%E5%8F%A4%E6%B1%A0%E3%82%84%E8%9B%99%E9%A3%9B%E3%81%B3%E3%81%93%E3%82%80%E6%B0%B4%E3%81%AE%E9%9F%B3"
+      },
+      "verify": "sourced",
+      "tags": [
+        "nature",
+        "present",
+        "simplicity"
+      ],
+      "mood": [
+        "bored"
+      ]
+    },
+    {
+      "author": "matsuo-basho",
+      "en": "Such stillness / soaking into the rocks / the cicadas' cry",
+      "th": "ความเงียบสงัด เสียงจักจั่นซึมลึกเข้าไปในโขดหิน",
+      "orig": {
+        "lang": "ja",
+        "text": "閑さや岩にしみ入る蝉の声"
+      },
+      "source": {
+        "work": "Oku no Hosomichi (おくのほそ道, 1702)",
+        "locator": "Risshaku-ji, Yamadera, 1689",
+        "translator": null,
+        "url": "https://ja.wikipedia.org/wiki/%E9%96%91%E3%81%95%E3%82%84%E5%B2%A9%E3%81%AB%E3%81%97%E3%81%BF%E5%85%A5%E3%82%8B%E8%9D%89%E3%81%AE%E5%A3%B0"
+      },
+      "verify": "primary",
+      "tags": [
+        "nature",
+        "present",
+        "solitude"
+      ],
+      "mood": [
+        "overwhelmed"
+      ]
+    },
+    {
+      "author": "matsuo-basho",
+      "en": "Summer grasses / all that remains / of warriors' dreams",
+      "th": "หญ้าฤดูร้อน คือทุกสิ่งที่เหลือ จากความฝันของเหล่านักรบ",
+      "orig": {
+        "lang": "ja",
+        "text": "夏草や兵どもが夢の跡"
+      },
+      "source": {
+        "work": "Oku no Hosomichi (おくのほそ道, 1702)",
+        "locator": "Hiraizumi, 1689",
+        "translator": null,
+        "url": "https://ja.wikisource.org/wiki/%E3%81%8A%E3%81%8F%E3%81%AE%E3%81%BB%E3%81%9D%E9%81%93"
+      },
+      "verify": "primary",
+      "tags": [
+        "time",
+        "change",
+        "death"
+      ],
+      "mood": []
+    },
+    {
+      "author": "matsuo-basho",
+      "en": "The months and days are travellers of a hundred ages, and the years that come and go are travellers too.",
+      "th": "วันเดือนคือนักเดินทางแห่งกาลนับร้อยยุค ปีที่ผ่านมาและผ่านไปก็เป็นนักเดินทางเช่นกัน",
+      "orig": {
+        "lang": "ja",
+        "text": "月日は百代の過客にして、行きかふ年も又旅人也。"
+      },
+      "source": {
+        "work": "Oku no Hosomichi (おくのほそ道, 1702)",
+        "locator": "Opening line",
+        "translator": null,
+        "url": "https://ja.wikisource.org/wiki/%E3%81%8A%E3%81%8F%E3%81%AE%E3%81%BB%E3%81%9D%E9%81%93"
+      },
+      "verify": "primary",
+      "tags": [
+        "time",
+        "change"
+      ],
+      "mood": [
+        "lost"
+      ]
+    },
+    {
+      "author": "matsuo-basho",
+      "en": "Sick on a journey / my dreams go wandering / over withered fields",
+      "th": "ล้มป่วยกลางการเดินทาง ความฝันยังท่องไปทั่ว บนทุ่งหญ้าแห้งเหี่ยว",
+      "orig": {
+        "lang": "ja",
+        "text": "旅に病んで夢は枯野をかけ廻る"
+      },
+      "source": {
+        "work": "Last verse, \"composed in illness\" (病中吟)",
+        "locator": "Osaka, 1694",
+        "translator": null,
+        "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%B0%BE%E8%8A%AD%E8%95%89"
+      },
+      "verify": "sourced",
+      "tags": [
+        "death",
+        "time"
+      ],
+      "mood": [
+        "tired"
+      ]
+    },
+    {
+      "author": "ryokan",
+      "en": "The thief left it behind: / the moon / at my window.",
+      "th": "สิ่งที่โจรทิ้งไว้ให้ คือดวงจันทร์ที่หน้าต่าง",
+      "orig": {
+        "lang": "ja",
+        "text": "盗人に取り残されし窓の月"
+      },
+      "source": {
+        "work": "Haiku, written after a thief robbed his hut",
+        "locator": "The Enlightened Heart (1993), p. 162",
+        "translator": "Stephen Mitchell",
+        "url": "https://en.wikiquote.org/wiki/Ry%C5%8Dkan"
+      },
+      "verify": "sourced",
+      "tags": [
+        "simplicity",
+        "freedom",
+        "nature"
+      ],
+      "mood": [
+        "heartbroken"
+      ]
+    },
+    {
+      "author": "ryokan",
+      "en": "When it is time to meet disaster, it is good to meet disaster. When it is time to die, it is good to die. This is the wonderful way to escape disaster.",
+      "th": "ถึงคราวต้องเจอภัยพิบัติ ก็เจอไปเถิด ถึงคราวต้องตาย ก็ตายไปเถิด นี่แหละคือวิธีอันวิเศษที่จะพ้นจากภัยพิบัติ",
+      "orig": {
+        "lang": "ja",
+        "text": "災難に逢う時節には災難に逢うがよく候、死ぬる時節には死ぬがよく候、是はこれ災難をのがるる妙法にて候"
+      },
+      "source": {
+        "work": "Letter to Yamada Tokō after the Sanjō earthquake",
+        "locator": "1828",
+        "translator": null,
+        "url": "https://ja.wikipedia.org/wiki/%E8%89%AF%E5%AF%9B"
+      },
+      "verify": "sourced",
+      "tags": [
+        "death",
+        "control",
+        "suffering"
+      ],
+      "mood": [
+        "anxious",
+        "stress"
+      ]
+    },
+    {
+      "author": "ryokan",
+      "en": "I have nothing to report, my friends. / If you want to find the meaning, / Stop chasing after so many things.",
+      "th": "เพื่อนเอ๋ย ฉันไม่มีอะไรจะบอก ถ้าอยากเจอความหมาย ก็เลิกวิ่งไล่ตามสิ่งต่าง ๆ มากมายเสียที",
+      "source": {
+        "work": "Poem",
+        "locator": "as quoted in 'Zen Poetics of Ryokan', Simply Haiku (Summer 2006)",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Ry%C5%8Dkan"
+      },
+      "verify": "sourced",
+      "tags": [
+        "meaning",
+        "simplicity",
+        "desire"
+      ],
+      "mood": [
+        "overwhelmed",
+        "lost"
+      ]
+    },
+    {
+      "author": "hakuin",
+      "en": "All beings are Buddhas from the very beginning. It is like water and ice: apart from water there is no ice, and apart from beings there are no Buddhas.",
+      "th": "สรรพสัตว์เป็นพุทธะมาแต่เดิม เหมือนน้ำกับน้ำแข็ง ไม่มีน้ำแข็งใดแยกจากน้ำ และไม่มีพุทธะใดอยู่นอกสรรพสัตว์",
+      "orig": {
+        "lang": "ja",
+        "text": "衆生本来仏なり 水と氷のごとくにて 水を離れて氷なく 衆生の外に仏なし"
+      },
+      "source": {
+        "work": "Zazen Wasan (坐禅和讃, Song of Zazen)",
+        "locator": "Opening lines",
+        "translator": null,
+        "url": "https://ja.wikipedia.org/wiki/%E5%9D%90%E7%A6%85%E5%92%8C%E8%AE%83"
+      },
+      "verify": "primary",
+      "tags": [
+        "self",
+        "hope",
+        "nature"
+      ],
+      "mood": [
+        "lost"
+      ]
+    },
+    {
+      "author": "hakuin",
+      "en": "You know the sound of two hands clapping; tell me, what is the sound of one hand?",
+      "th": "เธอรู้จักเสียงปรบมือสองข้างแล้ว ทีนี้บอกมาสิ เสียงของมือข้างเดียวเป็นอย่างไร",
+      "orig": {
+        "lang": "ja",
+        "text": "両掌打って音声あり、隻手になんの声やある"
+      },
+      "source": {
+        "work": "The koan of the sound of one hand (隻手音声)",
+        "locator": "Wild Ivy, p. 179",
+        "translator": "Norman Waddell (2010 ed.)",
+        "url": "https://en.wikiquote.org/wiki/Hakuin_Ekaku"
+      },
+      "verify": "sourced",
+      "tags": [
+        "mind",
+        "doubt"
+      ],
+      "mood": [
+        "confused",
+        "bored"
+      ]
+    },
+    {
+      "author": "shunryu-suzuki",
+      "en": "In the beginner's mind there are many possibilities, in the expert's there are few.",
+      "th": "ในใจของผู้เริ่มต้นมีความเป็นไปได้มากมาย ในใจของผู้เชี่ยวชาญ ความเป็นไปได้เหลืออยู่เพียงไม่กี่อย่าง",
+      "source": {
+        "work": "Zen Mind, Beginner's Mind (1970)",
+        "locator": "Prologue, Beginner's Mind",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Shunryu_Suzuki"
+      },
+      "verify": "sourced",
+      "tags": [
+        "mind",
+        "ego",
+        "knowledge"
+      ],
+      "mood": [
+        "stuck",
+        "bored"
+      ]
+    },
+    {
+      "author": "shunryu-suzuki",
+      "en": "You should rather be grateful for the weeds you have in your mind, because eventually they will enrich your practice.",
+      "th": "คุณควรขอบคุณวัชพืชในใจตัวเองด้วยซ้ำ เพราะสุดท้ายมันจะทำให้การฝึกฝนของคุณงอกงามขึ้น",
+      "source": {
+        "work": "Zen Mind, Beginner's Mind (1970)",
+        "locator": "Mind Weeds",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Shunryu_Suzuki"
+      },
+      "verify": "sourced",
+      "tags": [
+        "mind",
+        "failure",
+        "hope"
+      ],
+      "mood": [
+        "anxious"
+      ]
+    },
+    {
+      "author": "shunryu-suzuki",
+      "en": "Even though you try very hard, the progress you make is always little by little. It is not like going out in a shower in which you know when you get wet. In a fog, you do not know you are getting wet, but as you keep walking you get wet little by little.",
+      "th": "ต่อให้พยายามแค่ไหน ความก้าวหน้าก็มาทีละนิดเสมอ ไม่เหมือนเดินตากฝนที่รู้ตัวทันทีว่าเปียก แต่เหมือนเดินในหมอก ไม่รู้ตัวเลยว่ากำลังเปียก เดินไปเรื่อย ๆ ก็เปียกทีละน้อย",
+      "source": {
+        "work": "Zen Mind, Beginner's Mind (1970)",
+        "locator": "Bowing",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Shunryu_Suzuki"
+      },
+      "verify": "sourced",
+      "tags": [
+        "action",
+        "hope",
+        "time"
+      ],
+      "mood": [
+        "stuck",
+        "tired"
+      ]
+    },
+    {
+      "author": "shunryu-suzuki",
+      "en": "When we do not expect anything we can be ourselves. That is our way, to live fully in each moment of time.",
+      "th": "เมื่อเราไม่คาดหวังสิ่งใด เราก็เป็นตัวของตัวเองได้ วิถีของเราคือการใช้ชีวิตให้เต็มที่ในทุกขณะ",
+      "source": {
+        "work": "Not Always So (2002)",
+        "locator": "Shikantaza: Living Fully in Each Moment, p. 4",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Shunryu_Suzuki"
+      },
+      "verify": "sourced",
+      "tags": [
+        "present",
+        "self",
+        "desire"
+      ],
+      "mood": [
+        "stress",
+        "anxious"
+      ]
+    },
+    {
+      "author": "thich-nhat-hanh",
+      "en": "The miracle is not to walk on water. The miracle is to walk on the green earth in the present moment, to appreciate the peace and beauty that are available now.",
+      "th": "ปาฏิหาริย์ไม่ใช่การเดินบนน้ำ ปาฏิหาริย์คือการได้เดินบนผืนดินเขียวขจีในขณะปัจจุบัน และได้ชื่นชมความสงบและความงามที่มีอยู่ตรงหน้า",
+      "source": {
+        "work": "Touching Peace (1992)",
+        "locator": "p. 1",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Th%C3%ADch_Nh%E1%BA%A5t_H%E1%BA%A1nh"
+      },
+      "verify": "sourced",
+      "tags": [
+        "present",
+        "happiness",
+        "nature"
+      ],
+      "mood": [
+        "bored"
+      ]
+    },
+    {
+      "author": "thich-nhat-hanh",
+      "en": "Drink your tea slowly and reverently, as if it is the axis on which the whole earth revolves—slowly, evenly, without rushing toward the future. Live the actual moment. Only this actual moment is life.",
+      "th": "ดื่มชาอย่างช้า ๆ และด้วยความเคารพ ราวกับว่าถ้วยชานั้นคือแกนที่โลกทั้งใบหมุนรอบ ช้า ๆ สม่ำเสมอ ไม่เร่งรีบไปหาอนาคต อยู่กับขณะนี้จริง ๆ เพราะขณะนี้เท่านั้นคือชีวิต",
+      "source": {
+        "work": "The Miracle of Mindfulness (1975)",
+        "locator": "Beacon Press ed. (1999)",
+        "translator": "Mobi Ho",
+        "url": "https://en.wikiquote.org/wiki/Th%C3%ADch_Nh%E1%BA%A5t_H%E1%BA%A1nh"
+      },
+      "verify": "sourced",
+      "tags": [
+        "present",
+        "time",
+        "simplicity"
+      ],
+      "mood": [
+        "stress",
+        "overwhelmed"
+      ]
+    },
+    {
+      "author": "thich-nhat-hanh",
+      "en": "Breath is the bridge which connects life to consciousness, which unites your body to your thoughts. Whenever your mind becomes scattered, use your breath as the means to take hold of your mind again.",
+      "th": "ลมหายใจคือสะพานที่เชื่อมชีวิตเข้ากับการรับรู้ เชื่อมกายเข้ากับความคิด เมื่อใดที่ใจฟุ้งซ่าน จงใช้ลมหายใจดึงใจกลับมาอีกครั้ง",
+      "source": {
+        "work": "The Miracle of Mindfulness (1975)",
+        "locator": "p. 15 (Beacon Press ed., 1999)",
+        "translator": "Mobi Ho",
+        "url": "https://en.wikiquote.org/wiki/Th%C3%ADch_Nh%E1%BA%A5t_H%E1%BA%A1nh"
+      },
+      "verify": "sourced",
+      "tags": [
+        "mind",
+        "present"
+      ],
+      "mood": [
+        "anxious",
+        "overwhelmed"
+      ]
+    },
+    {
+      "author": "thich-nhat-hanh",
+      "en": "Breathing in, I calm my body. / Breathing out, I smile. / Dwelling in the present moment / I know this is a wonderful moment.",
+      "th": "หายใจเข้า ฉันทำให้กายสงบ หายใจออก ฉันยิ้ม เมื่ออยู่กับปัจจุบันขณะ ฉันรู้ว่านี่คือขณะอันแสนวิเศษ",
+      "source": {
+        "work": "Being Peace (1987)",
+        "locator": "Parallax Press, 1987",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Th%C3%ADch_Nh%E1%BA%A5t_H%E1%BA%A1nh"
+      },
+      "verify": "sourced",
+      "tags": [
+        "present",
+        "happiness",
+        "mind"
+      ],
+      "mood": [
+        "stress",
+        "anxious"
+      ]
+    },
+    {
+      "author": "thich-nhat-hanh",
+      "en": "We tend to be alive in the future, not now... We tend to postpone being alive to the future, the distant future, we don't know when.",
+      "th": "เรามักใช้ชีวิตอยู่ในอนาคต ไม่ใช่ตอนนี้ เรามักเลื่อนการมีชีวิตจริง ๆ ออกไปสู่อนาคตอันไกลโพ้น ซึ่งไม่รู้ว่าจะมาถึงเมื่อไร",
+      "source": {
+        "work": "Being Peace (1987)",
+        "locator": "Parallax Press, 1987",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Th%C3%ADch_Nh%E1%BA%A5t_H%E1%BA%A1nh"
+      },
+      "verify": "sourced",
+      "tags": [
+        "present",
+        "time",
+        "meaning"
+      ],
+      "mood": [
+        "stuck",
+        "lost"
+      ]
+    },
+    {
+      "author": "thich-nhat-hanh",
+      "en": "Life is filled with suffering, but it is also filled with many wonders, such as the blue sky, the sunshine, and the eyes of a baby. To suffer is not enough.",
+      "th": "ชีวิตเต็มไปด้วยความทุกข์ แต่ก็เต็มไปด้วยสิ่งมหัศจรรย์มากมาย อย่างท้องฟ้าสีคราม แสงแดด และดวงตาของเด็กน้อย การจมอยู่กับความทุกข์อย่างเดียวนั้นไม่พอ",
+      "source": {
+        "work": "Being Peace (1987)",
+        "locator": "Parallax Press, 1987",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Th%C3%ADch_Nh%E1%BA%A5t_H%E1%BA%A1nh"
+      },
+      "verify": "sourced",
+      "tags": [
+        "suffering",
+        "happiness",
+        "hope"
+      ],
+      "mood": [
+        "heartbroken",
+        "tired"
+      ]
+    },
+    {
+      "author": "thich-nhat-hanh",
+      "en": "The present moment / contains past and future. / The secret of transformation, / is in the way we handle this very moment.",
+      "th": "ปัจจุบันขณะมีทั้งอดีตและอนาคตอยู่ในนั้น เคล็ดลับของการเปลี่ยนแปลง อยู่ที่ว่าเราจัดการกับขณะนี้อย่างไร",
+      "source": {
+        "work": "Understanding Our Mind (2006)",
+        "locator": "Parallax Press, 2006",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Th%C3%ADch_Nh%E1%BA%A5t_H%E1%BA%A1nh"
+      },
+      "verify": "sourced",
+      "tags": [
+        "present",
+        "change",
+        "time"
+      ],
+      "mood": [
+        "stuck"
+      ]
+    },
+    {
+      "author": "thich-nhat-hanh",
+      "en": "Life is one. We do not need to slice it into pieces and call this or that piece a \"self.\" What we call a self is made only of non-self elements.",
+      "th": "ชีวิตเป็นหนึ่งเดียว เราไม่จำเป็นต้องหั่นมันเป็นชิ้น ๆ แล้วเรียกชิ้นนั้นชิ้นนี้ว่าตัวตน สิ่งที่เราเรียกว่าตัวตน ประกอบขึ้นจากสิ่งที่ไม่ใช่ตัวตนทั้งสิ้น",
+      "source": {
+        "work": "The Sun My Heart",
+        "locator": "Parallax Press, 1996 ed.",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Th%C3%ADch_Nh%E1%BA%A5t_H%E1%BA%A1nh"
+      },
+      "verify": "sourced",
+      "tags": [
+        "self",
+        "ego",
+        "nature"
+      ],
+      "mood": [
+        "lost"
+      ]
+    },
+    {
+      "author": "alan-watts",
+      "en": "Trying to define yourself is like trying to bite your own teeth.",
+      "th": "พยายามนิยามตัวเอง ก็เหมือนฟันที่พยายามกัดตัวมันเอง",
+      "source": {
+        "work": "As quoted in Life magazine",
+        "locator": "21 April 1961",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Alan_Watts"
+      },
+      "verify": "sourced",
+      "tags": [
+        "self",
+        "ego",
+        "humor"
+      ],
+      "mood": [
+        "confused"
+      ]
+    },
+    {
+      "author": "alan-watts",
+      "en": "Running away from fear is fear; fighting pain is pain; trying to be brave is being scared.",
+      "th": "หนีความกลัว ก็คือกลัว สู้กับความเจ็บปวด ก็คือเจ็บปวด พยายามทำตัวกล้า ก็คือกำลังกลัว",
+      "source": {
+        "work": "The Wisdom of Insecurity (1951)",
+        "locator": "Pantheon Books, 1951",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Alan_Watts"
+      },
+      "verify": "sourced",
+      "tags": [
+        "fear",
+        "emotion",
+        "suffering"
+      ],
+      "mood": [
+        "anxious"
+      ]
+    },
+    {
+      "author": "alan-watts",
+      "en": "It does not confuse spirituality with thinking about God while one is peeling potatoes. Zen spirituality is just to peel the potatoes.",
+      "th": "เซนไม่เข้าใจผิดว่าชีวิตทางจิตวิญญาณคือการนึกถึงพระเจ้าขณะปอกมันฝรั่ง สำหรับเซน ชีวิตทางจิตวิญญาณก็คือการปอกมันฝรั่ง แค่นั้นเอง",
+      "source": {
+        "work": "The Way of Zen (1957)",
+        "locator": "Part 2, chapter 2",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Alan_Watts"
+      },
+      "verify": "sourced",
+      "tags": [
+        "present",
+        "simplicity",
+        "work"
+      ],
+      "mood": [
+        "bored"
+      ]
+    },
+    {
+      "author": "alan-watts",
+      "en": "The greater part of human activity is designed to make permanent those experiences and joys which are only lovable because they are changing.",
+      "th": "สิ่งที่มนุษย์ทำส่วนใหญ่ ก็เพื่อยื้อประสบการณ์และความสุขให้อยู่ถาวร ทั้งที่สิ่งเหล่านั้นน่าหลงใหลก็เพราะมันเปลี่ยนแปลงอยู่เสมอ",
+      "source": {
+        "work": "The Wisdom of Insecurity (1951)",
+        "locator": "p. 32",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Alan_Watts"
+      },
+      "verify": "sourced",
+      "tags": [
+        "change",
+        "happiness",
+        "desire"
+      ],
+      "mood": [
+        "heartbroken"
+      ]
+    },
+    {
+      "author": "ajahn-chah",
+      "en": "If it doesn't break now it will break later on. If you don't break it, someone else will. If someone else doesn't break it, one of the chickens will! The Buddha says to accept this. He penetrated the truth of these things, seeing that this glass is already broken.",
+      "th": "ไม่แตกเวลานี้ ต่อไปมันจะแตก เราไม่ทำแตก คนอื่นจะทำแตก คนอื่นไม่ทำแตก ไก่มันจะทำแตก พระพุทธเจ้าท่านให้ยอมรับ ท่านมองทะลุเข้าไปว่าแก้วใบนี้แตกแล้ว",
+      "orig": {
+        "lang": "th",
+        "text": "ไม่แตกเวลานี้ ต่อไปมันจะแตก เราไม่ทำแตก คนอื่นจะทำแตก คนอื่นไม่ทำแตก ไก่มันจะทำแตก พระพุทธเจ้าท่านให้ยอมรับ ท่านมองทะลุเข้าไปว่าแก้วใบนี้แตกแล้ว"
+      },
+      "source": {
+        "work": "น้ำไหลนิ่ง (Still, Flowing Water)",
+        "locator": "Talk at Wat Tham Saeng Phet, rains retreat 1981; English in Living Dhamma (1992)",
+        "translator": "The Teachings of Ajahn Chah (Wat Nong Pah Pong, 2007)",
+        "url": "https://www.ajahnchah.org/thai/Still_Flowing_Water.php"
+      },
+      "verify": "primary",
+      "tags": [
+        "change",
+        "control",
+        "humor"
+      ],
+      "mood": [
+        "heartbroken",
+        "stress"
+      ]
+    },
+    {
+      "author": "ajahn-chah",
+      "en": "Our real home is inner peace. An external, material home may well be pretty but it is not very peaceful.",
+      "th": "ความสงบนั่นแหละเป็นบ้านจริง ๆ ของเรา บ้านที่เราอยู่นี้ หรือบ้านที่ไหนก็ตามทีเถอะ บ้านก็สวยหรอก แต่อยู่กันไม่ค่อยสงบ",
+      "orig": {
+        "lang": "th",
+        "text": "ความสงบนั่นแหละเป็นบ้านจริง ๆ ของเรา บ้านที่เราอยู่นี้ หรือบ้านที่ไหนก็ตามทีเถอะ บ้านก็สวยหรอก แต่อยู่กันไม่ค่อยสงบ"
+      },
+      "source": {
+        "work": "บ้านที่แท้จริง (Our Real Home)",
+        "locator": "Talk to an aging lay disciple approaching her death; English in Living Dhamma (1992)",
+        "translator": "The Teachings of Ajahn Chah (Wat Nong Pah Pong, 2007)",
+        "url": "https://www.ajahnchah.org/thai/Our_Real_Home.php"
+      },
+      "verify": "primary",
+      "tags": [
+        "mind",
+        "happiness"
+      ],
+      "mood": [
+        "tired",
+        "lost"
+      ]
+    },
+    {
+      "author": "ajahn-chah",
+      "en": "In truth it's all uncertain, but our desires want things to be certain. What can we do? We must be patient.",
+      "th": "ตามเป็นจริงมันไม่แน่ แต่ตัณหาของเราว่ามันแน่ ทำยังไงล่ะ ต้องอดทน",
+      "orig": {
+        "lang": "th",
+        "text": "ตามเป็นจริงมันไม่แน่ แต่ตัณหาของเราว่ามันแน่ ทำยังไงล่ะ ต้องอดทน"
+      },
+      "source": {
+        "work": "“ไม่แน่” เครื่องวัดของพระอริยเจ้า (“Not Sure!” The Standard of the Noble Ones)",
+        "locator": "Informal talk to monks and novices at Ajahn Chah's hut, 1980; English in Food for the Heart (2002)",
+        "translator": "The Teachings of Ajahn Chah (Wat Nong Pah Pong, 2007)",
+        "url": "https://www.ajahnchah.org/thai/Impermanence.php"
+      },
+      "verify": "primary",
+      "tags": [
+        "change",
+        "desire",
+        "truth"
+      ],
+      "mood": [
+        "anxious"
+      ]
+    },
+    {
+      "author": "ajahn-chah",
+      "en": "One who studies and doesn't practise is like a ladle in a soup pot. It's in the pot every day but it doesn't know the flavour of the soup.",
+      "th": "คนที่เรียนปริยัติแล้วแต่ไม่ปฏิบัติ ก็เหมือนกับทัพพีตักแกงที่อยู่ในหม้อ มันตักแกงทุกวัน แต่มันไม่รู้รสของแกง",
+      "orig": {
+        "lang": "th",
+        "text": "คนที่เรียนปริยัติแล้วแต่ไม่ปฏิบัติ ก็เหมือนกับทัพพีตักแกงที่อยู่ในหม้อ มันตักแกงทุกวัน แต่มันไม่รู้รสของแกง"
+      },
+      "source": {
+        "work": "ปัจฉิมกถา (Epilogue)",
+        "locator": "Talk given in England to a Western Dhamma student, 1977; English in A Taste of Freedom (1988)",
+        "translator": "The Teachings of Ajahn Chah (Wat Nong Pah Pong, 2007)",
+        "url": "https://www.ajahnchah.org/thai/Epilogue.php"
+      },
+      "verify": "primary",
+      "tags": [
+        "action",
+        "knowledge"
+      ],
+      "mood": [
+        "stuck"
+      ]
+    },
+    {
+      "author": "ajahn-chah",
+      "en": "If your mind is peaceful it will be just like still, flowing water. Have you ever seen still, flowing water? There! You've only ever seen flowing water and still water, haven't you? But you've never seen still, flowing water.",
+      "th": "ถ้าใจเราสงบแล้ว มันจะเป็นคล้าย ๆ กับน้ำ มันไหลนิ่ง โยมเคยเห็นน้ำไหลนิ่งไหม แน่ะ ก็โยมเคยเห็นแต่น้ำนิ่ง กับน้ำไหล น้ำไหลนิ่งโยมไม่เคยเห็น",
+      "orig": {
+        "lang": "th",
+        "text": "ถ้าใจเราสงบแล้ว มันจะเป็นคล้าย ๆ กับน้ำ มันไหลนิ่ง โยมเคยเห็นน้ำไหลนิ่งไหม แน่ะ ก็โยมเคยเห็นแต่น้ำนิ่ง กับน้ำไหล น้ำไหลนิ่งโยมไม่เคยเห็น"
+      },
+      "source": {
+        "work": "น้ำไหลนิ่ง (Still, Flowing Water)",
+        "locator": "Talk at Wat Tham Saeng Phet, rains retreat 1981; English in Living Dhamma (1992)",
+        "translator": "The Teachings of Ajahn Chah (Wat Nong Pah Pong, 2007)",
+        "url": "https://www.ajahnchah.org/thai/Still_Flowing_Water.php"
+      },
+      "verify": "primary",
+      "tags": [
+        "mind",
+        "present",
+        "nature"
+      ],
+      "mood": [
+        "overwhelmed",
+        "stress"
+      ]
+    },
+    {
+      "author": "ajahn-chah",
+      "en": "The cobra is an extremely poisonous snake, poisonous enough to cause death if it should bite us. And so, also, it is with our moods; the moods that we like are poisonous, the moods that we dislike are also poisonous. They prevent our minds from being free.",
+      "th": "งูเห่ามันมีพิษมาก ถ้ามันฉกคนแล้วก็ทำให้ถึงแก่ความตายได้ อารมณ์นี้ก็เหมือนกับงูเห่าที่มีพิษร้ายนั้น อารมณ์ที่พอใจก็มีพิษมาก อารมณ์ที่ไม่พอใจก็มีพิษมาก มันทำให้จิตใจของเราไม่เป็นเสรี",
+      "orig": {
+        "lang": "th",
+        "text": "งูเห่ามันมีพิษมาก ถ้ามันฉกคนแล้วก็ทำให้ถึงแก่ความตายได้ อารมณ์นี้ก็เหมือนกับงูเห่าที่มีพิษร้ายนั้น อารมณ์ที่พอใจก็มีพิษมาก อารมณ์ที่ไม่พอใจก็มีพิษมาก มันทำให้จิตใจของเราไม่เป็นเสรี"
+      },
+      "source": {
+        "work": "อยู่กับงูเห่า (Living with the Cobra)",
+        "locator": "Final instruction to an elderly English disciple, 1978 to 1979; English in Bodhinyana (1982)",
+        "translator": "The Teachings of Ajahn Chah (Wat Nong Pah Pong, 2007)",
+        "url": "https://www.ajahnchah.org/thai/Living_With_the_Cobra.php"
+      },
+      "verify": "primary",
+      "tags": [
+        "emotion",
+        "mind",
+        "freedom"
+      ],
+      "mood": [
+        "angry",
+        "anxious"
+      ]
+    },
+    {
+      "author": "buddhadasa",
+      "en": "As for the heart of Buddhism, I would point to one short sentence: \"Nothing whatsoever should be grasped at or clung to.\"",
+      "th": "สิ่งที่เป็นหัวใจของพุทธศาสนานั้น อาตมาอยากจะแนะถึงประโยคสั้น ๆ ที่มีกล่าวอยู่ว่า “สิ่งทั้งปวงไม่ควรยึดมั่นถือมั่น”",
+      "orig": {
+        "lang": "th",
+        "text": "สิ่งที่เป็นหัวใจของพุทธศาสนานั้น อาตมาอยากจะแนะถึงประโยคสั้น ๆ ที่มีกล่าวอยู่ว่า “สิ่งทั้งปวงไม่ควรยึดมั่นถือมั่น”"
+      },
+      "source": {
+        "work": "แก่นพุทธศาสน์ (Heartwood of the Bodhi Tree), lecture 1: ใจความทั้งหมดของพระพุทธศาสนา",
+        "locator": "Siriraj Hospital, Mahidol University, 17 December 1961",
+        "translator": null,
+        "url": "https://main.bia.or.th/200220-2/"
+      },
+      "verify": "primary",
+      "tags": [
+        "freedom",
+        "truth"
+      ],
+      "mood": [
+        "overwhelmed",
+        "lost"
+      ]
+    },
+    {
+      "author": "buddhadasa",
+      "en": "Every one of us has the disease of \"me and mine.\"",
+      "th": "พวกเรามีโรค “ตัวกู-ของกู” กันอยู่ทุกคน",
+      "orig": {
+        "lang": "th",
+        "text": "พวกเรามีโรค “ตัวกู-ของกู” กันอยู่ทุกคน"
+      },
+      "source": {
+        "work": "แก่นพุทธศาสน์ (Heartwood of the Bodhi Tree), lecture 1: ใจความทั้งหมดของพระพุทธศาสนา",
+        "locator": "Siriraj Hospital, Mahidol University, 17 December 1961",
+        "translator": null,
+        "url": "https://main.bia.or.th/200220-2/"
+      },
+      "verify": "primary",
+      "tags": [
+        "ego",
+        "self",
+        "suffering"
+      ],
+      "mood": [
+        "lost"
+      ]
+    },
+    {
+      "author": "buddhadasa",
+      "en": "The first death is the death of \"I\"; the later death is the death of the body. Let the \"I\" die: stop clinging to the feeling of \"I\", starting right now.",
+      "th": "ตายทีแรกนั้นตายแห่งตัวกู ตายทีหลังนะตายแห่งร่างกาย ให้ตัวกูมันตายเสีย คืออย่ามีความรู้สึกยึดถือว่าตัวกู เสียตั้งแต่เดี๋ยวนี้แหละ",
+      "orig": {
+        "lang": "th",
+        "text": "ตายทีแรกนั้นตายแห่งตัวกู ตายทีหลังนะตายแห่งร่างกาย ให้ตัวกูมันตายเสีย คืออย่ามีความรู้สึกยึดถือว่าตัวกู เสียตั้งแต่เดี๋ยวนี้แหละ"
+      },
+      "source": {
+        "work": "ปริญญาตายก่อนตาย (The Degree of Dying Before Death)",
+        "locator": "Talk to newly ordained monks, rains retreat 1983",
+        "translator": null,
+        "url": "https://pagoda.or.th/buddhadasa/2526-18.html"
+      },
+      "verify": "primary",
+      "tags": [
+        "death",
+        "ego",
+        "freedom"
+      ],
+      "mood": []
+    },
+    {
+      "author": "buddhadasa",
+      "en": "Dhamma is nature itself. Dhamma is the law of nature. Dhamma is the duty that follows the law of nature. Dhamma is the fruit that comes from doing that duty.",
+      "th": "ธรรมะคือตัวธรรมชาติ ธรรมะคือตัวกฎของธรรมชาติ ธรรมะคือหน้าที่ตามกฎของธรรมชาติ ธรรมะคือผลที่เกิดมาจากการปฏิบัติหน้าที่",
+      "orig": {
+        "lang": "th",
+        "text": "ธรรมะคือตัวธรรมชาติ ธรรมะคือตัวกฎของธรรมชาติ ธรรมะคือหน้าที่ตามกฎของธรรมชาติ ธรรมะคือผลที่เกิดมาจากการปฏิบัติหน้าที่"
+      },
+      "source": {
+        "work": "ธรรมะกับชีวิต (Dhamma and Life)",
+        "locator": "Talk to students and lecturers of Srinakharinwirot University, Bang Saen, 1981",
+        "translator": null,
+        "url": "https://www.pagoda.or.th/buddhadasa/2524-2-7.html"
+      },
+      "verify": "primary",
+      "tags": [
+        "nature",
+        "truth",
+        "responsibility"
+      ],
+      "mood": [
+        "confused"
+      ]
+    },
+    {
+      "author": "buddhadasa",
+      "en": "Do every kind of work with a void mind, and hand the results over to voidness. Work with a void mind, and do not take the results as \"mine\"; let them belong to voidness.",
+      "th": "ทำงานทุกชนิดด้วยจิตว่าง ยกผลงานให้ความว่าง ก็ทำด้วยจิตว่าง ไอ้ผลงานที่ได้มาก็อย่าเอามาเป็นของกู ให้มันเป็นของความว่าง",
+      "orig": {
+        "lang": "th",
+        "text": "ทำงานทุกชนิดด้วยจิตว่าง ยกผลงานให้ความว่าง ก็ทำด้วยจิตว่าง ไอ้ผลงานที่ได้มาก็อย่าเอามาเป็นของกู ให้มันเป็นของความว่าง"
+      },
+      "source": {
+        "work": "จิตว่าง (The Void Mind)",
+        "locator": "Talk to Thammasat University students, 1973 (third talk)",
+        "translator": null,
+        "url": "https://www.pagoda.or.th/buddhadasa/2516-3-5.html"
+      },
+      "verify": "primary",
+      "tags": [
+        "work",
+        "ego",
+        "freedom"
+      ],
+      "mood": [
+        "stress",
+        "tired"
+      ]
+    },
+    {
+      "author": "buddhadasa",
+      "en": "We work with a void mind, cheerful, bright, clear, clean, cool and calm; we are already happy, happy while we are working.",
+      "th": "เราทำงานด้วยจิตที่ว่าง ครื้นเครงอยู่ด้วยความสว่างไสว แจ่มแจ้ง สะอาด สงบเย็น โดยเป็นสุขแล้ว เป็นสุขเมื่อทำงานอยู่",
+      "orig": {
+        "lang": "th",
+        "text": "เราทำงานด้วยจิตที่ว่าง ครื้นเครงอยู่ด้วยความสว่างไสว แจ่มแจ้ง สะอาด สงบเย็น โดยเป็นสุขแล้ว เป็นสุขเมื่อทำงานอยู่"
+      },
+      "source": {
+        "work": "จิตว่าง (The Void Mind)",
+        "locator": "Talk to Thammasat University students, 1973 (third talk)",
+        "translator": null,
+        "url": "https://www.pagoda.or.th/buddhadasa/2516-3-5.html"
+      },
+      "verify": "primary",
+      "tags": [
+        "work",
+        "happiness",
+        "present"
+      ],
+      "mood": [
+        "tired",
+        "bored"
+      ]
+    }
+  ],
+  "prompts_th": [
+    "ลองหายใจช้า ๆ สามครั้ง ใจของคุณตอนนี้ต่างจากเมื่อครู่อย่างไร",
+    "วันนี้มีช่วงไหนบ้างที่คุณอยู่กับสิ่งตรงหน้าจริง ๆ โดยไม่คิดถึงเรื่องอื่นเลย",
+    "เรื่องที่กังวลอยู่ตอนนี้ เป็นเรื่องของวันนี้ หรือเรื่องของอนาคตที่ยังมาไม่ถึง",
+    "มีอะไรที่คุณกำไว้แน่นจนเหนื่อย ถ้าลองคลายมือสักนิด จะเกิดอะไรขึ้น",
+    "คำนินทาหรือคำชมล่าสุดที่ได้ยิน ทำให้ใจคุณหวั่นไหวแค่ไหน และมันควรมีน้ำหนักขนาดนั้นไหม",
+    "ถ้ามองว่าของรักชิ้นหนึ่งของคุณแตกไปแล้ว วันนี้คุณจะดูแลมันต่างไปจากเดิมอย่างไร",
+    "ความโกรธที่ค้างอยู่ในใจตอนนี้ ใครกำลังถูกมันลวกมากกว่ากัน เขาหรือตัวคุณเอง",
+    "ครั้งล่าสุดที่คุณทำอะไรช้า ๆ อย่างดื่มชาหรือเดินเล่น โดยไม่รีบไปไหน คือเมื่อไร",
+    "ถ้าใจคุณตอนนี้เป็นน้ำ มันขุ่นหรือใส และถ้าปล่อยให้นิ่งสักพัก จะเป็นอย่างไร",
+    "มีเรื่องไหนที่คุณยืนกรานว่าตัวเองถูก จนลืมฟังอีกฝ่ายไปแล้ว",
+    "ความสำเร็จที่คุณกำลังไล่ตาม ถ้าได้มาแล้ว ความอยากจะหยุดลงจริงไหม",
+    "ตัวคุณที่คนเห็นในโซเชียล กับตัวคุณที่นั่งอยู่คนเดียวตอนกลางคืน ต่างกันแค่ไหน",
+    "ถ้าไม่มีใครชมและไม่ได้อะไรเพิ่ม คุณยังอยากทำงานที่ทำอยู่ด้วยใจแบบเดิมไหม",
+    "มีความสูญเสียไหนที่คุณยังไม่ยอมรับว่ามันเกิดขึ้นแล้ว",
+    "ก้าวที่เล็กที่สุดที่คุณทำได้วันนี้ เพื่อเรื่องที่ดูใหญ่เกินไปจนท้อ คืออะไร",
+    "สิ่งที่ดูไร้ประโยชน์ในชีวิตคุณตอนนี้ อาจมีประโยชน์ในแบบที่คุณยังมองไม่เห็นไหม",
+    "ถ้าทุกอย่างไม่แน่ ทั้งเรื่องดีและเรื่องร้าย วันนี้มีอะไรที่คุณถือไว้เบาลงได้บ้าง",
+    "ถ้ามองเรื่องที่ทำให้หงุดหงิดวันนี้จากยอดเขาหรือท้องฟ้ายามค่ำ มันยังใหญ่อยู่ไหม"
+  ],
+  "prompts_en": [
+    "Take three slow breaths. What changed in your mind between the first and the third?",
+    "When today were you fully with what was in front of you, not thinking of anything else?",
+    "Is the thing you're worried about happening today, or only in a future that hasn't arrived?",
+    "What are you holding so tightly that it tires you? What would happen if you loosened your grip a little?",
+    "How much did the last criticism or praise you heard shake you? Does it deserve that much weight?",
+    "If something you love were already broken, how would you treat it differently today?",
+    "Who is getting burned by the anger you're still holding: them, or you?",
+    "When did you last do something slowly, like drinking tea or walking, without rushing anywhere?",
+    "If your mind right now were water, would it be muddy or clear? What happens if you let it settle?",
+    "Where are you insisting you're right so hard that you've stopped listening?",
+    "If you got the success you're chasing, would the wanting really stop?",
+    "How different is the self you keep up online from the one who sits alone at night?",
+    "Would you still do your work the same way if no one praised you and you gained nothing extra?",
+    "Is there a loss you haven't yet let yourself accept?",
+    "What is the smallest step you could take today toward something that feels too big?",
+    "What in your life looks useless right now, and how might it be useful in a way you can't see yet?",
+    "If good and bad alike are uncertain, what could you hold more lightly today?",
+    "Seen from a mountaintop or the night sky, how big is the thing that annoyed you today?"
+  ],
+  "misattributed": [
+    {
+      "author": "the-buddha",
+      "en": "Holding on to anger is like grasping a hot coal with the intent of throwing it at someone else; you are the one who gets burned.",
+      "th": "การเก็บความโกรธไว้ ก็เหมือนกำถ่านร้อนไว้ในมือหวังจะขว้างใส่คนอื่น แต่คนที่ถูกไฟลวกคือตัวเราเอง",
+      "why_th": "ไม่พบในพระไตรปิฎก เป็นสำนวนดัดแปลงสมัยใหม่จากคำอุปมาของพระพุทธโฆสะในคัมภีร์วิสุทธิมรรค ที่เปรียบคนโกรธกับคนหยิบถ่านไฟขึ้นมาจะขว้างใส่ผู้อื่น แต่มือตัวเองไหม้ก่อน",
+      "real_source": "Modern paraphrase of Buddhaghosa, Visuddhimagga IX.23 (5th century CE), not the Pali Canon",
+      "url": "https://fakebuddhaquotes.com/holding-on-to-anger-is-like-grasping-a-hot-coal/"
+    },
+    {
+      "author": "the-buddha",
+      "en": "Believe nothing, no matter where you read it, or who said it, no matter if I have said it, unless it agrees with your own reason and your own common sense.",
+      "th": "อย่าเชื่อสิ่งใด ไม่ว่าจะอ่านเจอที่ไหน ใครเป็นคนพูด แม้แต่เราเป็นคนพูดเอง ถ้ามันไม่ตรงกับเหตุผลและสามัญสำนึกของเธอ",
+      "why_th": "เป็นการถอดความกาลามสูตรแบบผิด ๆ จนความหมายกลับด้าน เพราะในพระสูตรจริง พระพุทธเจ้าตรัสว่าเหตุผลและการคาดคะเนอย่างเดียวยังไม่พอ ต้องรู้ด้วยตนเองว่าสิ่งใดเป็นกุศล ไม่มีโทษ และผู้รู้สรรเสริญ",
+      "real_source": "Loose modern paraphrase of the Kālāma Sutta (Aṅguttara Nikāya 3.65) that reverses its meaning",
+      "url": "https://fakebuddhaquotes.com/believe-nothing-no-matter-where-you-read-it/"
+    },
+    {
+      "author": "the-buddha",
+      "en": "There is no path to happiness: happiness is the path.",
+      "th": "ไม่มีหนทางไปสู่ความสุข ความสุขนั่นแหละคือหนทาง",
+      "why_th": "ไม่มีในพระไตรปิฎก สำนวนนี้พบในหนังสือของพอล เฟอร์รินี ปี 1992 ที่ยกมาจากเพื่อนชื่อโรเบิร์ต เฟอร์เร และคล้ายวาทะของอับราฮัม มัสตี ที่ว่าไม่มีหนทางสู่สันติภาพ สันติภาพคือหนทาง",
+      "real_source": "Paul Ferrini, The Wisdom of the Self (1992), crediting Robert Ferre; compare A. J. Muste, 'There is no way to peace, peace is the way'",
+      "url": "https://fakebuddhaquotes.com/there-is-no-path-to-happiness-happiness-is-the-path/"
+    },
+    {
+      "author": "the-buddha",
+      "en": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+      "th": "อย่าจมอยู่กับอดีต อย่าฝันถึงอนาคต จงตั้งใจอยู่กับปัจจุบันขณะ",
+      "why_th": "ถ้อยคำนี้มาจากหนังสือรวมคำสอนที่พิมพ์ในญี่ปุ่นปี 1934 ซึ่งถอดความธรรมบทคาถาที่ 348 อย่างหลวม ๆ ต้นฉบับบาลีบอกให้ปล่อยวางทั้งอดีต อนาคต และปัจจุบัน ส่วนคำสอนเรื่องไม่ย้อนอดีตไม่พะวงอนาคตของจริงอยู่ในภัทเทกรัตตสูตร",
+      "real_source": "The Teaching of Buddha: The Buddhist Bible (Federation of All Young Buddhist Associations of Japan, 1934), a loose rendering of Dhammapada 348",
+      "url": "https://fakebuddhaquotes.com/do-not-dwell-in-the-past-do-not-dream-of-the-future/"
+    },
+    {
+      "author": "the-buddha",
+      "en": "Pain is inevitable. Suffering is optional.",
+      "th": "ความเจ็บปวดเป็นสิ่งหลีกเลี่ยงไม่ได้ แต่ความทุกข์ใจเป็นทางเลือก",
+      "why_th": "เป็นคำขวัญของกลุ่มบำบัดการติดสุราแบบ 12 ขั้นตอน ที่พบเก่าสุดราวปี 1983 โดยอ้างถึงเอ็ม แคทลีน เคซีย์ ไม่ใช่พุทธพจน์ ส่วนคำสอนใกล้เคียงของจริงคือสัลลัตถสูตร เรื่องลูกศรดอกที่สอง",
+      "real_source": "Twelve-step recovery saying; earliest attribution to M. Kathleen Casey in The Promise of a New Day (1983)",
+      "url": "https://fakebuddhaquotes.com/pain-is-inevitable-suffering-is-optional/"
+    },
+    {
+      "author": "the-buddha",
+      "en": "Peace comes from within. Do not seek it without.",
+      "th": "ความสงบมาจากภายใน อย่าแสวงหามันจากภายนอก",
+      "why_th": "ไม่พบในคัมภีร์พุทธศาสนาใดเลย เป็นคำคมที่เริ่มถูกอ้างว่าเป็นพุทธพจน์ในหนังสือรวมคำคมช่วงปลายทศวรรษ 1950 ถึงทศวรรษ 1960",
+      "real_source": "Modern maxim; attributed to the Buddha in quotation books of the late 1950s and 1960s, not found in any scripture",
+      "url": "https://fakebuddhaquotes.com/peace-comes-from-within-do-not-seek-it-without/"
+    },
+    {
+      "author": "the-buddha",
+      "en": "In the end, only three things matter: how much you loved, how gently you lived, and how gracefully you let go of things not meant for you.",
+      "th": "สุดท้ายแล้ว มีแค่สามเรื่องที่สำคัญ คุณรักได้มากแค่ไหน ใช้ชีวิตอ่อนโยนเพียงใด และปล่อยวางสิ่งที่ไม่ใช่ของคุณได้งดงามแค่ไหน",
+      "why_th": "ดัดแปลงมาจากคำคมในหนังสือ Buddha's Little Instruction Book ของแจ็ก คอร์นฟิลด์ ปี 1994 ซึ่งเป็นถ้อยคำร่วมสมัย ไม่ใช่พุทธพจน์",
+      "real_source": "Variant of a line in Jack Kornfield, Buddha's Little Instruction Book (1994)",
+      "url": "https://fakebuddhaquotes.com/in-the-end-only-three-things-matter/"
+    },
+    {
+      "author": "the-buddha",
+      "en": "You yourself, as much as anybody in the entire universe, deserve your love and affection.",
+      "th": "ตัวคุณเองก็สมควรได้รับความรักและความเอ็นดูจากตัวคุณ ไม่น้อยไปกว่าใครในจักรวาลนี้",
+      "why_th": "มาจากชารอน ซาลซ์เบิร์ก ครูสอนสมาธิชาวอเมริกัน ในนิตยสารปี 1989 และหนังสือปี 1995 ซึ่งกลับความหมายของพระสูตรเดิมที่สอนว่า เมื่อทุกคนต่างรักตัวเอง จึงไม่ควรเบียดเบียนผู้อื่น",
+      "real_source": "Sharon Salzberg, Woman of Power (1989) and Lovingkindness (1995), reversing the sense of Udāna 5.1",
+      "url": "https://fakebuddhaquotes.com/you-yourself-as-much-as-anybody-in-the-entire-universe-deserve-your-love-and-affection/"
+    },
+    {
+      "author": "laozi",
+      "en": "Nature does not hurry, yet everything is accomplished.",
+      "th": "ธรรมชาติไม่เคยเร่งรีบ แต่ทุกสิ่งก็สำเร็จลุล่วง",
+      "why_th": "ไม่มีประโยคนี้ในเต๋าเต็กเก็งทั้ง 81 บท เป็นสำนวนที่ย่อมาจากคำแปลแบบเสรีของบทที่ 73 โดยอาร์ชี บาห์ม ปี 1958 ต้นฉบับจีนพูดถึงวิถีแห่งฟ้าที่ดูเนิบช้าแต่วางแผนได้แยบยล ไม่ได้พูดถึงธรรมชาติ",
+      "real_source": "Compressed from Archie J. Bahm's free rendering of Tao Te Ching ch. 73 (1958); the Chinese (繟然而善謀) says Heaven's way is unhurried yet plans well",
+      "url": "https://www.egreenway.com/taoism/ttclz73.htm"
+    },
+    {
+      "author": "laozi",
+      "en": "If you are depressed you are living in the past. If you are anxious you are living in the future. If you are at peace you are living in the present.",
+      "th": "ถ้าคุณหดหู่ แปลว่าคุณอยู่กับอดีต ถ้าคุณกังวล แปลว่าคุณอยู่กับอนาคต ถ้าคุณสงบ แปลว่าคุณอยู่กับปัจจุบัน",
+      "why_th": "ไม่มีในเต๋าเต็กเก็ง รูปแบบเก่าสุดที่พบเป็นคำพูดของผู้ใช้นามว่าจิมมี่ อาร์ ในหนังสือบทภาวนารายวัน Days of Healing, Days of Joy ปี 1987",
+      "real_source": "'Jimmy R.' in Days of Healing, Days of Joy (1987); not in the Tao Te Ching",
+      "url": "https://en.wikiquote.org/wiki/Laozi#Misattributed"
+    },
+    {
+      "author": "laozi",
+      "en": "Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.",
+      "th": "การได้รับความรักอย่างลึกซึ้งจากใครสักคนทำให้เรามีพลัง ส่วนการรักใครสักคนอย่างลึกซึ้งทำให้เรากล้าหาญ",
+      "why_th": "ไม่มีในเต๋าเต็กเก็ง หลักฐานเก่าสุดคือนิยาย Lightning ของดีน คูนตซ์ ปี 1988 ที่ยกให้เป็นคำของเล่าจื๊อโดยไม่บอกที่มา",
+      "real_source": "Dean Koontz, Lightning (1988), attributed to Lao Tzu without a source",
+      "url": "https://en.wikiquote.org/wiki/Laozi#Misattributed"
+    }
+  ]
+}

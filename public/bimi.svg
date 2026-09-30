@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny-ps" viewBox="0 0 512 512">
+<title>Philosophew</title>
+<rect width="512" height="512" fill="#1A1714"/>
+<g transform="translate(256 258) scale(5.2) translate(-32.5 -33.2)"><path d="M9.3 42.5 C8.8 28.5 14.8 18 28.8 11.6 C29.3 12.6 29.6 13.6 29.7 14.4 C21.8 19.2 18 25.4 18.4 31.6 Z" fill="#FF5B22"/><path d="M9 42.5 a11 11 0 0 1 22 0 Z" fill="#FF5B22"/><path d="M9 43.9 a11 11 0 0 0 22 0 Z" fill="#F3EDE2"/><ellipse cx="15.8" cy="37.4" rx="2.6" ry="1.7" fill="#FFFFFF" fill-opacity="0.55" transform="rotate(-24 15.8 37.4)"/><path d="M34.3 42.5 C33.8 28.5 39.8 18 53.8 11.6 C54.3 12.6 54.6 13.6 54.7 14.4 C46.8 19.2 43 25.4 43.4 31.6 Z" fill="#FF5B22"/><path d="M34 42.5 a11 11 0 0 1 22 0 Z" fill="#FF5B22"/><path d="M34 43.9 a11 11 0 0 0 22 0 Z" fill="#F3EDE2"/><ellipse cx="40.8" cy="37.4" rx="2.6" ry="1.7" fill="#FFFFFF" fill-opacity="0.55" transform="rotate(-24 40.8 37.4)"/></g>
+</svg>

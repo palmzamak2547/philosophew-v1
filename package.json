@@ -1,0 +1,43 @@
+{
+  "name": "philosophew",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "node scripts/build-data.mjs && tsc --noEmit -p . && vite build && node scripts/prerender.mjs",
+    "preview": "vite preview",
+    "check": "tsc --noEmit -p .",
+    "data": "node scripts/build-data.mjs",
+    "check:seo": "node scripts/check-seo.mjs",
+    "indexnow": "node scripts/indexnow.mjs",
+    "migrate": "node scripts/migrate.mjs",
+    "deploy:api": "neon deploy --env .env.local"
+  },
+  "dependencies": {
+    "@fontsource-variable/anuphan": "^5.3.0",
+    "@fontsource-variable/bricolage-grotesque": "^5.3.0",
+    "@fontsource-variable/fraunces": "^5.3.0",
+    "@fontsource-variable/noto-serif-thai": "^5.3.0",
+    "@fontsource/sriracha": "^5.3.0",
+    "@fontsource/trirong": "^5.3.0",
+    "@neon/config": "^1.8.2",
+    "@neon/env": "^1.4.7",
+    "@neon/functions": "^0.11.0",
+    "@neondatabase/auth": "^0.5.0-beta",
+    "hono": "^4.13.10",
+    "jose": "^6.2.12",
+    "pg": "^8.23.0",
+    "three": "^0.186.1"
+  },
+  "devDependencies": {
+    "@fontsource-variable/noto-sans": "^5.3.0",
+    "@fontsource-variable/noto-serif": "^5.3.0",
+    "@types/pg": "^8.23.1",
+    "@types/three": "^0.186.0",
+    "playwright": "^1.63.0",
+    "sharp": "^0.35.5",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.1"
+  }
+}

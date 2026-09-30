@@ -1,0 +1,2470 @@
+{
+  "school": "existential",
+  "authors": {
+    "friedrich-nietzsche": {
+      "th": "ฟรีดริช นีทเชอ",
+      "era_th": "นักปรัชญาชาวเยอรมัน ค.ศ. 1844 ถึง 1900",
+      "bio_th": "นักปรัชญาชาวเยอรมันผู้ประกาศว่าพระเจ้าตายแล้ว แต่ไม่ยอมจบอยู่แค่ความว่างเปล่า เขาท้าให้เราสร้างคุณค่าของตัวเอง ก้าวข้ามตัวเองไปเรื่อย ๆ หัวเราะ เต้นรำ และรักโชคชะตาของตัวเองทั้งหมด เหมาะกับใครที่เบื่อการใช้ชีวิตตามบทที่คนอื่นเขียนไว้",
+      "bio_en": "German philosopher who announced the death of God but refused to stop at emptiness. He dared us to create our own values, to keep overcoming ourselves, to laugh, to dance and to love our fate entire, which makes him a favourite of anyone tired of living by someone else's script.",
+      "works": [
+        "Thus Spoke Zarathustra",
+        "The Gay Science",
+        "Beyond Good and Evil",
+        "Twilight of the Idols",
+        "Ecce Homo",
+        "Daybreak",
+        "Schopenhauer as Educator"
+      ]
+    },
+    "soren-kierkegaard": {
+      "th": "เซอเรน เคียร์เคอกอร์",
+      "era_th": "นักปรัชญาและนักเทววิทยาชาวเดนมาร์ก ค.ศ. 1813 ถึง 1855",
+      "bio_th": "นักปรัชญาชาวเดนมาร์กที่ได้ชื่อว่าเป็นบิดาของอัตถิภาวนิยม เขาเขียนเรื่องความวิตกกังวล การเลือก และความกล้าที่จะเป็นตัวเอง และยังเป็นนักเสียดสีตัวยงที่หัวเราะเยาะชีวิตตามสูตรสำเร็จของสังคม คนที่กลัวเลือกผิดอ่านแล้วจะรู้สึกว่ามีคนเข้าใจ",
+      "bio_en": "Danish thinker often called the father of existentialism. He wrote about anxiety, choice, faith held by virtue of the absurd and the courage to become a self, and he was a sharp satirist of busyness and life-by-formula.",
+      "works": [
+        "Either/Or",
+        "Fear and Trembling",
+        "The Sickness Unto Death",
+        "Journals"
+      ]
+    },
+    "jean-paul-sartre": {
+      "th": "ฌ็อง-ปอล ซาทร์",
+      "era_th": "นักปรัชญาและนักเขียนชาวฝรั่งเศส ค.ศ. 1905 ถึง 1980",
+      "bio_th": "นักปรัชญา นักเขียนนวนิยาย และนักเขียนบทละครชาวฝรั่งเศส ผู้ทำให้อัตถิภาวนิยมกลายเป็นกระแสทั่วโลก เขาบอกว่าเราถูกโยนมาในโลกโดยไม่มีคู่มือ ต้องเลือกเองและรับผิดชอบเองทั้งหมด ฟังดูหนัก แต่ก็แปลว่าชีวิตเรายังเขียนต่อได้เสมอ",
+      "bio_en": "French philosopher, novelist and playwright who made existentialism a worldwide movement. His claim that we are condemned to be free sounds heavy, but it also means our lives are never finished being written.",
+      "works": [
+        "Being and Nothingness",
+        "Existentialism Is a Humanism",
+        "No Exit",
+        "Nausea",
+        "The Flies",
+        "Dirty Hands",
+        "Saint Genet, Actor and Martyr"
+      ]
+    },
+    "simone-de-beauvoir": {
+      "th": "ซีมอน เดอ โบวัวร์",
+      "era_th": "นักปรัชญาและนักเขียนชาวฝรั่งเศส ค.ศ. 1908 ถึง 1986",
+      "bio_th": "นักปรัชญาและนักเขียนชาวฝรั่งเศส เจ้าของหนังสือเพศที่สองที่ปลุกขบวนการสตรีนิยมยุคใหม่ เธอยืนยันว่าไม่มีใครถูกกำหนดมาตั้งแต่เกิดว่าต้องเป็นอะไร และเสรีภาพของเราผูกอยู่กับเสรีภาพของคนอื่นเสมอ",
+      "bio_en": "French philosopher and novelist whose The Second Sex helped launch modern feminism. She argued that no one is born into a fixed role and that our freedom is bound up with the freedom of others.",
+      "works": [
+        "The Second Sex",
+        "The Ethics of Ambiguity",
+        "The Coming of Age",
+        "All Men Are Mortal",
+        "The Blood of Others",
+        "The Woman Destroyed",
+        "All Said and Done"
+      ]
+    },
+    "fyodor-dostoevsky": {
+      "th": "ฟยอดอร์ ดอสโตเยฟสกี",
+      "era_th": "นักเขียนนวนิยายชาวรัสเซีย ค.ศ. 1821 ถึง 1881",
+      "bio_th": "นักเขียนนวนิยายชาวรัสเซียที่เคยเกือบถูกยิงเป้าและต้องไปใช้แรงงานหนักในไซบีเรีย ตัวละครของเขาทะเลาะกับพระเจ้า กับเหตุผล และกับตัวเอง จนนักปรัชญารุ่นหลังนับเขาเป็นผู้บุกเบิกอัตถิภาวนิยม",
+      "bio_en": "Russian novelist who survived a mock execution and years of hard labour in Siberia. His characters argue with God, with reason and with themselves, which is why later existentialists claimed him as a forerunner.",
+      "works": [
+        "The Brothers Karamazov",
+        "Crime and Punishment",
+        "Notes from Underground",
+        "The House of the Dead",
+        "White Nights"
+      ]
+    },
+    "viktor-frankl": {
+      "th": "วิคทอร์ ฟรังเคิล",
+      "era_th": "จิตแพทย์ชาวออสเตรีย ผู้รอดชีวิตจากค่ายกักกัน ค.ศ. 1905 ถึง 1997",
+      "bio_th": "จิตแพทย์ชาวออสเตรียที่รอดชีวิตจากค่ายกักกันของนาซี แล้วเขียนหนังสือว่าด้วยการค้นหาความหมายของชีวิต เขาเห็นกับตาว่าคนที่รู้ว่าตัวเองอยู่ไปเพื่ออะไร มักผ่านเรื่องที่โหดร้ายที่สุดไปได้",
+      "bio_en": "Austrian psychiatrist who survived the Nazi concentration camps and wrote Man's Search for Meaning. He saw first-hand that people who know what they live for can endure almost anything, and built logotherapy on that insight.",
+      "works": [
+        "Man's Search for Meaning"
+      ]
+    },
+    "rainer-maria-rilke": {
+      "th": "ไรเนอร์ มาเรีย ริลเคอ",
+      "era_th": "กวีชาวออสเตรียที่เกิดในปราก ค.ศ. 1875 ถึง 1926",
+      "bio_th": "กวีผู้เขียนจดหมายถึงกวีหนุ่ม ที่คนหนุ่มสาวทั่วโลกยังส่งต่อกันอ่านจนทุกวันนี้ เขาชวนให้อดทนกับคำถามที่ยังไม่มีคำตอบ อยู่กับความยากให้เป็น และมองความเหงาเป็นพื้นที่ให้ตัวเองเติบโต",
+      "bio_en": "Poet whose Letters to a Young Poet are still passed between young people everywhere. He asks us to be patient with unanswered questions, to live with difficulty and to treat solitude as room to grow.",
+      "works": [
+        "Letters to a Young Poet",
+        "The Book of Hours",
+        "New Poems"
+      ]
+    },
+    "blaise-pascal": {
+      "th": "แบลซ ปาสกาล",
+      "era_th": "นักคณิตศาสตร์และนักปรัชญาชาวฝรั่งเศส ค.ศ. 1623 ถึง 1662",
+      "bio_th": "นักคณิตศาสตร์ชาวฝรั่งเศสผู้สร้างเครื่องคิดเลขตั้งแต่อายุสิบเก้า แล้วหันมาจดบันทึกความคิดเรื่องความเบื่อ ความว้าวุ่น และความเป็นมนุษย์ บันทึกนั้นบอกไว้ตั้งแต่สามร้อยกว่าปีก่อนว่าทำไมเราถึงนั่งอยู่เฉย ๆ คนเดียวในห้องไม่ได้",
+      "bio_en": "French mathematician who built a calculating machine at nineteen, then filled the notes of the Pensées with thoughts on boredom, distraction and the human condition. He saw centuries ago why we cannot sit quietly alone in a room.",
+      "works": [
+        "Pensées"
+      ]
+    },
+    "martin-heidegger": {
+      "th": "มาร์ทิน ไฮเดกเกอร์",
+      "era_th": "นักปรัชญาชาวเยอรมัน ค.ศ. 1889 ถึง 1976",
+      "bio_th": "นักปรัชญาชาวเยอรมันผู้เขียน “ภาวะกับกาลเวลา” เขาเตือนว่าเรามักใช้ชีวิตแบบที่ใคร ๆ เขาก็ทำกัน จนลืมถามว่าตัวเองเป็นใคร ส่วนตัวเขาเองถูกวิจารณ์หนักที่เคยเข้าร่วมพรรคนาซี",
+      "bio_en": "German philosopher, author of Being and Time. He warned that we drift into living as anyone lives and forget to ask who we are; his own record, including Nazi party membership, remains heavily criticised.",
+      "works": [
+        "Being and Time",
+        "What Is Called Thinking?",
+        "Basic Questions of Philosophy"
+      ]
+    },
+    "karl-jaspers": {
+      "th": "คาร์ล ยัสเพิร์ส",
+      "era_th": "จิตแพทย์และนักปรัชญาชาวเยอรมัน ค.ศ. 1883 ถึง 1969",
+      "bio_th": "จิตแพทย์ที่ผันตัวมาเป็นนักปรัชญาชาวเยอรมัน เขาเชื่อว่าปรัชญาไม่ใช่การครอบครองคำตอบ แต่คือการอยู่ระหว่างทาง และคนเราได้รู้จักตัวเองลึกที่สุดตอนเจอวิกฤตที่หนีไม่พ้น",
+      "bio_en": "German psychiatrist turned philosopher. He held that philosophy means being on the way rather than owning answers, and that we meet ourselves most deeply in the crises we cannot escape.",
+      "works": [
+        "Way to Wisdom",
+        "Man in the Modern Age"
+      ]
+    },
+    "martin-buber": {
+      "th": "มาร์ติน บูเบอร์",
+      "era_th": "นักปรัชญาชาวยิวที่เกิดในเวียนนา ค.ศ. 1878 ถึง 1965",
+      "bio_th": "นักปรัชญาชาวยิวผู้เขียนหนังสือ “ฉันกับเธอ” เขาเชื่อว่าชีวิตจริงเกิดขึ้นตอนที่เราได้พบกันอย่างแท้จริง ไม่ใช่ตอนที่เรามองคนอื่นเป็นแค่สิ่งของหรือเครื่องมือ เป็นความคิดที่เข้ากับยุคที่เราคุยกันผ่านจอมากกว่าพบหน้า",
+      "bio_en": "Jewish philosopher, author of I and Thou. He taught that real life happens in genuine encounter, not when we treat others as things or tools, a thought that fits an age of talking through screens.",
+      "works": [
+        "I and Thou",
+        "Tales of the Hasidim",
+        "The Legend of the Baal-Shem"
+      ]
+    },
+    "paul-tillich": {
+      "th": "พอล ทิลลิช",
+      "era_th": "นักเทววิทยาและนักปรัชญาชาวเยอรมัน-อเมริกัน ค.ศ. 1886 ถึง 1965",
+      "bio_th": "นักเทววิทยาชาวเยอรมันที่ต้องลี้ภัยไปอเมริกาเพราะต่อต้านนาซี เขาเขียนเรื่องความกล้าที่จะมีชีวิตอยู่ท่ามกลางความวิตกกังวลและความรู้สึกไร้ความหมาย และมองว่าความสงสัยเป็นส่วนหนึ่งของศรัทธา ไม่ใช่ศัตรูของมัน",
+      "bio_en": "German-American theologian who was forced out of Germany for opposing the Nazis. The Courage to Be deals with anxiety and meaninglessness, and treats doubt as part of faith rather than its enemy.",
+      "works": [
+        "The Courage to Be",
+        "Systematic Theology"
+      ]
+    },
+    "miguel-de-unamuno": {
+      "th": "มิเกล เด อูนามูโน",
+      "era_th": "นักปรัชญาและนักเขียนชาวสเปน ค.ศ. 1864 ถึง 1936",
+      "bio_th": "นักปรัชญา นักเขียน และอธิการบดีมหาวิทยาลัยซาลามังกาชาวสเปน เขาเขียนถึงความรู้สึกเชิงโศกนาฏกรรมของชีวิต ที่เหตุผลกับหัวใจไม่มีวันลงรอยกัน และความกล้าที่จะยืนหยัดแม้ถูกหัวเราะเยาะ",
+      "bio_en": "Spanish philosopher, novelist and rector of the University of Salamanca. Tragic Sense of Life is about the endless quarrel between reason and the heart, and about daring to stand firm even when laughed at.",
+      "works": [
+        "Tragic Sense of Life"
+      ]
+    },
+    "jose-ortega-y-gasset": {
+      "th": "โฆเซ ออร์เตกา อี กาเซต",
+      "era_th": "นักปรัชญาชาวสเปน ค.ศ. 1883 ถึง 1955",
+      "bio_th": "นักปรัชญาชาวสเปนเจ้าของประโยค ฉันคือตัวฉันกับสถานการณ์รอบตัวฉัน เขาวิจารณ์คนยุคใหม่ที่พอใจในตัวเองจนเลิกคิด และเตือนว่าคนที่ไม่เคยรู้สึกหลงทาง คือคนที่หลงทางที่สุด",
+      "bio_en": "Spanish philosopher known for \"I am I and my circumstance\". In The Revolt of the Masses he criticised the self-satisfied modern man and warned that only those who feel lost can find themselves.",
+      "works": [
+        "Meditations on Quixote",
+        "The Revolt of the Masses",
+        "Man and Crisis"
+      ]
+    },
+    "albert-camus": {
+      "th": "อาลแบร์ กามู",
+      "era_th": "นักเขียนและนักปรัชญาชาวฝรั่งเศสที่เกิดในแอลจีเรีย ค.ศ. 1913 ถึง 1960",
+      "bio_th": "นักเขียนรางวัลโนเบลที่เติบโตมากับความยากจนในแอลจีเรีย เจ้าของตำนานซิซีฟัสและนิยายเรื่องคนนอก เขายอมรับว่าชีวิตไร้สาระและโลกไม่ได้ยื่นความหมายมาให้เรา แต่ทางออกไม่ใช่การยอมแพ้ ทางออกคือการกบฏ การรัก และการใช้ชีวิตให้เต็มที่",
+      "bio_en": "Nobel-winning French writer who grew up poor in Algeria, author of The Myth of Sisyphus and The Stranger. He admitted that life is absurd and that the world hands us no meaning, yet answered with revolt, love and full living.",
+      "works": [
+        "The Myth of Sisyphus",
+        "The Stranger",
+        "The Rebel",
+        "The Plague",
+        "The Fall",
+        "Summer",
+        "A Happy Death",
+        "Letters to a German Friend",
+        "Notebooks 1942–1951"
+      ]
+    }
+  },
+  "quotes": [
+    {
+      "author": "friedrich-nietzsche",
+      "en": "I teach you the Superman. Man is something that is to be surpassed. What have ye done to surpass man?",
+      "th": "เราจะสอนพวกเธอเรื่องอภิมนุษย์ มนุษย์เป็นสิ่งที่ต้องก้าวข้ามให้พ้น แล้วพวกเธอทำอะไรไปแล้วบ้าง เพื่อก้าวข้ามมนุษย์",
+      "orig": {
+        "lang": "de",
+        "text": "Ich lehre euch den Übermenschen. Der Mensch ist Etwas, das überwunden werden soll. Was habt ihr gethan, ihn zu überwinden?"
+      },
+      "source": {
+        "work": "Thus Spoke Zarathustra",
+        "locator": "Prologue, 3",
+        "translator": "Thomas Common (1909)",
+        "url": "https://www.gutenberg.org/ebooks/1998"
+      },
+      "verify": "primary",
+      "tags": [
+        "self",
+        "change"
+      ],
+      "mood": [
+        "stuck"
+      ]
+    },
+    {
+      "author": "friedrich-nietzsche",
+      "en": "What is great in man is that he is a bridge and not a goal.",
+      "th": "สิ่งที่ยิ่งใหญ่ในตัวมนุษย์ คือเขาเป็นสะพาน ไม่ใช่ปลายทาง",
+      "orig": {
+        "lang": "de",
+        "text": "Was gross ist am Menschen, das ist, dass er eine Brücke und kein Zweck ist"
+      },
+      "source": {
+        "work": "Thus Spoke Zarathustra",
+        "locator": "Prologue, 4",
+        "translator": "Thomas Common (1909)",
+        "url": "https://www.gutenberg.org/ebooks/1998"
+      },
+      "verify": "primary",
+      "tags": [
+        "self",
+        "meaning",
+        "change"
+      ],
+      "mood": [
+        "lost"
+      ]
+    },
+    {
+      "author": "friedrich-nietzsche",
+      "en": "Free from what? What doth that matter to Zarathustra! Clearly, however, shall thine eye show unto me: free for what?",
+      "th": "เป็นอิสระจากอะไรน่ะหรือ ซาราทุสตราไม่สนหรอก แต่ขอให้แววตาของเธอบอกเราให้ชัดว่า เธอเป็นอิสระเพื่ออะไร",
+      "orig": {
+        "lang": "de",
+        "text": "Frei wovon? Was schiert das Zarathustra! Hell aber soll mir dein Auge künden: frei wozu?"
+      },
+      "source": {
+        "work": "Thus Spoke Zarathustra",
+        "locator": "Part 1, \"The Way of the Creating One\"",
+        "translator": "Thomas Common (1909)",
+        "url": "https://www.gutenberg.org/ebooks/1998"
+      },
+      "verify": "primary",
+      "tags": [
+        "freedom",
+        "meaning",
+        "choice"
+      ],
+      "mood": [
+        "lost"
+      ]
+    },
+    {
+      "author": "friedrich-nietzsche",
+      "en": "Ready must thou be to burn thyself in thine own flame; how couldst thou become new if thou have not first become ashes!",
+      "th": "เธอต้องพร้อมจะเผาตัวเองในเปลวไฟของตัวเอง ถ้าไม่ยอมเป็นเถ้าถ่านเสียก่อน เธอจะเกิดใหม่ได้อย่างไร",
+      "orig": {
+        "lang": "de",
+        "text": "Verbrennen musst du dich wollen in deiner eignen Flamme: wie wolltest du neu werden, wenn du nicht erst Asche geworden bist!"
+      },
+      "source": {
+        "work": "Thus Spoke Zarathustra",
+        "locator": "Part 1, \"The Way of the Creating One\"",
+        "translator": "Thomas Common (1909)",
+        "url": "https://www.gutenberg.org/ebooks/1998"
+      },
+      "verify": "primary",
+      "tags": [
+        "change",
+        "self",
+        "suffering"
+      ],
+      "mood": [
+        "heartbroken",
+        "stuck"
+      ]
+    },
+    {
+      "author": "friedrich-nietzsche",
+      "en": "It is true we love life; not because we are wont to live, but because we are wont to love. There is always some madness in love. But there is always, also, some method in madness.",
+      "th": "จริงอยู่ เรารักชีวิต แต่ไม่ใช่เพราะเคยชินกับการมีชีวิต เป็นเพราะเราเคยชินกับการรักต่างหาก ความรักมีความบ้าปนอยู่เสมอ แต่ความบ้าก็มีเหตุผลซ่อนอยู่เสมอเหมือนกัน",
+      "orig": {
+        "lang": "de",
+        "text": "Es ist wahr: wir lieben das Leben, nicht, weil wir an’s Leben, sondern weil wir an’s Lieben gewöhnt sind. Es ist immer etwas Wahnsinn in der Liebe. Es ist aber immer auch etwas Vernunft im Wahnsinn."
+      },
+      "source": {
+        "work": "Thus Spoke Zarathustra",
+        "locator": "Part 1, \"Reading and Writing\"",
+        "translator": "Thomas Common (1909)",
+        "url": "https://www.gutenberg.org/ebooks/1998"
+      },
+      "verify": "primary",
+      "tags": [
+        "love",
+        "meaning"
+      ],
+      "mood": [
+        "heartbroken"
+      ]
+    },
+    {
+      "author": "friedrich-nietzsche",
+      "en": "From the military school of life.—That which does not kill me, makes me stronger.",
+      "th": "บทเรียนจากโรงเรียนทหารที่ชื่อว่าชีวิต สิ่งที่ฆ่าฉันไม่ตาย จะทำให้ฉันแข็งแกร่งขึ้น",
+      "orig": {
+        "lang": "de",
+        "text": "Aus der Kriegsschule des Lebens. — Was mich nicht umbringt, macht mich stärker."
+      },
+      "source": {
+        "work": "Twilight of the Idols",
+        "locator": "Maxims and Arrows, 8",
+        "translator": "Anthony M. Ludovici (1911)",
+        "url": "https://www.gutenberg.org/ebooks/52263"
+      },
+      "verify": "primary",
+      "tags": [
+        "suffering",
+        "courage"
+      ],
+      "mood": [
+        "overwhelmed",
+        "heartbroken"
+      ]
+    },
+    {
+      "author": "friedrich-nietzsche",
+      "en": "If a man knows the wherefore of his existence, then the manner of it can take care of itself.",
+      "th": "ถ้ารู้ว่าตัวเองมีชีวิตอยู่ไปเพื่ออะไร จะต้องอยู่แบบไหนก็ผ่านไปได้ทั้งนั้น",
+      "orig": {
+        "lang": "de",
+        "text": "Hat man sein warum? des Lebens, so verträgt man sich fast mit jedem wie?"
+      },
+      "source": {
+        "work": "Twilight of the Idols",
+        "locator": "Maxims and Arrows, 12",
+        "translator": "Anthony M. Ludovici (1911)",
+        "url": "https://www.gutenberg.org/ebooks/52263"
+      },
+      "verify": "primary",
+      "tags": [
+        "meaning"
+      ],
+      "mood": [
+        "lost",
+        "overwhelmed"
+      ]
+    },
+    {
+      "author": "friedrich-nietzsche",
+      "en": "What trifles constitute happiness! The sound of a bagpipe. Without music life would be a mistake.",
+      "th": "ความสุขใช้อะไรนิดเดียวเอง แค่เสียงปี่สก็อตก็พอ ถ้าไม่มีดนตรี ชีวิตคงเป็นความผิดพลาด",
+      "orig": {
+        "lang": "de",
+        "text": "Wie wenig gehört zum Glücke! Der Ton eines Dudelsacks. — Ohne Musik wäre das Leben ein Irrthum."
+      },
+      "source": {
+        "work": "Twilight of the Idols",
+        "locator": "Maxims and Arrows, 33",
+        "translator": "Anthony M. Ludovici (1911)",
+        "url": "https://www.gutenberg.org/ebooks/52263"
+      },
+      "verify": "primary",
+      "tags": [
+        "happiness",
+        "meaning",
+        "simplicity"
+      ],
+      "mood": [
+        "bored",
+        "tired"
+      ]
+    },
+    {
+      "author": "friedrich-nietzsche",
+      "en": "What saith thy conscience?—\"Thou shalt become what thou art.\"",
+      "th": "มโนธรรมของเธอพูดว่าอะไร มันพูดว่า จงเป็นให้ได้อย่างที่เธอเป็น",
+      "orig": {
+        "lang": "de",
+        "text": "Was sagt dein Gewissen? — »Du sollst der werden, der du bist.«"
+      },
+      "source": {
+        "work": "The Gay Science",
+        "locator": "Section 270",
+        "translator": "Thomas Common (1910)",
+        "url": "https://www.gutenberg.org/ebooks/52881"
+      },
+      "verify": "primary",
+      "tags": [
+        "self"
+      ],
+      "mood": [
+        "lost"
+      ]
+    },
+    {
+      "author": "friedrich-nietzsche",
+      "en": "For believe me!—the secret of realising the largest productivity and the greatest enjoyment of existence is to live in danger! Build your cities on the slope of Vesuvius! Send your ships into unexplored seas!",
+      "th": "เชื่อเราเถอะ ความลับของการใช้ชีวิตให้เกิดผลมากที่สุดและสนุกที่สุด คือการใช้ชีวิตอย่างเสี่ยงภัย จงสร้างเมืองบนเชิงภูเขาไฟวิสุเวียส จงส่งเรือออกไปในทะเลที่ยังไม่มีใครสำรวจ",
+      "source": {
+        "work": "The Gay Science",
+        "locator": "Section 283",
+        "translator": "Thomas Common (1910)",
+        "url": "https://www.gutenberg.org/ebooks/52881"
+      },
+      "verify": "primary",
+      "tags": [
+        "courage",
+        "freedom",
+        "action"
+      ],
+      "mood": [
+        "bored",
+        "stuck"
+      ]
+    },
+    {
+      "author": "friedrich-nietzsche",
+      "en": "What makes Heroic?—To face simultaneously one's greatest suffering and one's highest hope.",
+      "th": "อะไรทำให้คนเป็นวีรบุรุษ คือการกล้าเผชิญความทุกข์ที่หนักที่สุด กับความหวังที่สูงที่สุดของตัวเองไปพร้อมกัน",
+      "source": {
+        "work": "The Gay Science",
+        "locator": "Section 268",
+        "translator": "Thomas Common (1910)",
+        "url": "https://www.gutenberg.org/ebooks/52881"
+      },
+      "verify": "primary",
+      "tags": [
+        "courage",
+        "hope",
+        "suffering"
+      ],
+      "mood": [
+        "overwhelmed"
+      ]
+    },
+    {
+      "author": "friedrich-nietzsche",
+      "en": "What is the Seal of Liberty Attained?—To be no longer ashamed of oneself.",
+      "th": "อะไรคือเครื่องหมายว่าเราเป็นอิสระแล้ว คือการที่เราไม่ต้องละอายต่อตัวเองอีกต่อไป",
+      "source": {
+        "work": "The Gay Science",
+        "locator": "Section 275",
+        "translator": "Thomas Common (1910)",
+        "url": "https://www.gutenberg.org/ebooks/52881"
+      },
+      "verify": "primary",
+      "tags": [
+        "freedom",
+        "self"
+      ],
+      "mood": [
+        "anxious"
+      ]
+    },
+    {
+      "author": "friedrich-nietzsche",
+      "en": "The man who will not belong to the general mass, has only to stop \"taking himself easily\"; to follow his conscience, which cries out to him, \"Be thyself! all that thou doest and thinkest and desirest, is not—thyself!\"",
+      "th": "คนที่ไม่อยากเป็นแค่หนึ่งในฝูงชน แค่ต้องเลิกปล่อยตัวเองไปตามสบาย แล้วฟังมโนธรรมที่ร้องบอกว่า จงเป็นตัวของตัวเอง ทุกอย่างที่เธอทำ คิด และปรารถนาอยู่ตอนนี้ ยังไม่ใช่ตัวเธอเลย",
+      "source": {
+        "work": "Schopenhauer as Educator (Untimely Meditations III)",
+        "locator": "Section 1",
+        "translator": "Adrian Collins (1910)",
+        "url": "https://www.gutenberg.org/ebooks/38226"
+      },
+      "verify": "primary",
+      "tags": [
+        "self",
+        "society"
+      ],
+      "mood": [
+        "lost"
+      ]
+    },
+    {
+      "author": "friedrich-nietzsche",
+      "en": "No one can build thee the bridge, over which thou must cross the river of life, save thyself alone.",
+      "th": "ไม่มีใครสร้างสะพานให้เธอข้ามแม่น้ำแห่งชีวิตได้ นอกจากตัวเธอเอง",
+      "source": {
+        "work": "Schopenhauer as Educator (Untimely Meditations III)",
+        "locator": "Section 1",
+        "translator": "Adrian Collins (1910)",
+        "url": "https://www.gutenberg.org/ebooks/38226"
+      },
+      "verify": "primary",
+      "tags": [
+        "self",
+        "responsibility"
+      ],
+      "mood": [
+        "lost",
+        "stuck"
+      ]
+    },
+    {
+      "author": "friedrich-nietzsche",
+      "en": "The snake that cannot cast its skin perishes. So too with those minds which are prevented from changing their views: they cease to be minds.",
+      "th": "งูที่ลอกคราบไม่ได้ย่อมตาย จิตใจที่ถูกห้ามไม่ให้เปลี่ยนความคิดก็เหมือนกัน สุดท้ายมันจะเลิกเป็นจิตใจ",
+      "source": {
+        "work": "Daybreak",
+        "locator": "Section 573",
+        "translator": "J. M. Kennedy (1911)",
+        "url": "https://www.gutenberg.org/ebooks/39955"
+      },
+      "verify": "primary",
+      "tags": [
+        "change",
+        "mind"
+      ],
+      "mood": [
+        "stuck"
+      ]
+    },
+    {
+      "author": "friedrich-nietzsche",
+      "en": "He who fights with monsters should be careful lest he thereby become a monster. And if thou gaze long into an abyss, the abyss will also gaze into thee.",
+      "th": "ใครที่ต่อสู้กับปีศาจ ต้องระวังอย่าให้ตัวเองกลายเป็นปีศาจไปด้วย และถ้าเธอจ้องมองเหวลึกนานพอ เหวลึกก็จะจ้องกลับมาที่เธอ",
+      "orig": {
+        "lang": "de",
+        "text": "Wer mit Ungeheuern kämpft, mag zusehn, dass er nicht dabei zum Ungeheuer wird. Und wenn du lange in einen Abgrund blickst, blickt der Abgrund auch in dich hinein."
+      },
+      "source": {
+        "work": "Beyond Good and Evil",
+        "locator": "Section 146",
+        "translator": "Helen Zimmern (1907)",
+        "url": "https://www.gutenberg.org/ebooks/4363"
+      },
+      "verify": "primary",
+      "tags": [
+        "self",
+        "fear"
+      ],
+      "mood": [
+        "angry"
+      ]
+    },
+    {
+      "author": "soren-kierkegaard",
+      "en": "So the richest personality is nothing before he has chosen himself; and … the poorest personality is everything when he has chosen himself, for the greatness is not to be this or that but to be oneself, and every human being can be this if he so wills it.",
+      "th": "ต่อให้เป็นคนที่มีดีครบทุกอย่าง ก็ยังไม่มีค่าอะไรเลยจนกว่าเขาจะเลือกเป็นตัวเอง ส่วนคนที่ดูไม่มีอะไรเลย ก็มีค่าทั้งหมดเมื่อเขาเลือกเป็นตัวเองแล้ว เพราะความยิ่งใหญ่ไม่ได้อยู่ที่การเป็นนั่นเป็นนี่ แต่อยู่ที่การเป็นตัวเอง และใครก็เป็นได้ ถ้าเขาเลือกจะเป็น",
+      "orig": {
+        "lang": "da",
+        "text": "saaledes er selv den rigeste Personlighed Intet, før han har valgt sig selv, og paa den anden Side er selv hvad man maatte kalde den fattigste Personlighed Alt, naar han har valgt sig selv; thi det Store er ikke at være Dette eller Hiint, men at være sig selv; og dette kan ethvert Menneske, naar han vil det."
+      },
+      "source": {
+        "work": "Either/Or, Part II",
+        "locator": "\"The Balance between the Esthetic and the Ethical\", p. 177",
+        "translator": "Howard V. Hong and Edna H. Hong (1987)",
+        "url": "https://en.wikiquote.org/wiki/Either/Or#Balance_between_Aesthetic_and_Ethical"
+      },
+      "verify": "sourced",
+      "tags": [
+        "choice",
+        "self"
+      ],
+      "mood": [
+        "lost"
+      ]
+    },
+    {
+      "author": "soren-kierkegaard",
+      "en": "It is perfectly true, as the philosophers say, that life must be understood backwards. But they forget the other proposition, that it must be lived forwards.",
+      "th": "จริงอย่างที่นักปรัชญาว่า เราเข้าใจชีวิตได้ก็ต่อเมื่อมองย้อนกลับไป แต่พวกเขาลืมอีกครึ่งหนึ่ง คือเราต้องใช้ชีวิตไปข้างหน้า",
+      "orig": {
+        "lang": "da",
+        "text": "Det er ganske sandt, hvad Philosophien siger, at Livet maa forstaaes baglænds. Men derover glemmer man den anden Sætning, at det maa leves forlænds."
+      },
+      "source": {
+        "work": "Journals",
+        "locator": "IV A 164 (1843)",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Søren_Kierkegaard#1840s"
+      },
+      "verify": "sourced",
+      "tags": [
+        "time",
+        "meaning",
+        "choice"
+      ],
+      "mood": [
+        "confused",
+        "stuck"
+      ]
+    },
+    {
+      "author": "soren-kierkegaard",
+      "en": "The greatest danger, that of losing one's own self, may pass off as quietly as if it were nothing; every other loss, that of an arm, a leg, five dollars, a wife etc., is sure to be noticed.",
+      "th": "อันตรายที่ใหญ่ที่สุด คือการสูญเสียตัวเอง อาจผ่านไปเงียบ ๆ เหมือนไม่มีอะไรเกิดขึ้น ขณะที่การเสียอย่างอื่น ไม่ว่าแขน ขา เงินห้าดอลลาร์ หรือภรรยา ใครก็ต้องสังเกตเห็น",
+      "source": {
+        "work": "The Sickness Unto Death",
+        "locator": "Part 1, C (1849)",
+        "translator": "Walter Lowrie (1941)",
+        "url": "https://en.wikiquote.org/wiki/The_Sickness_Unto_Death#A._That_Despair_is_the_Sickness_unto_Death"
+      },
+      "verify": "sourced",
+      "tags": [
+        "self"
+      ],
+      "mood": [
+        "lost"
+      ]
+    },
+    {
+      "author": "soren-kierkegaard",
+      "en": "The self which, in his despair, he wants to be is a self he is not – to want to be the self he truly is, is the opposite of despair",
+      "th": "ตัวตนที่คนสิ้นหวังอยากเป็น คือตัวตนที่เขาไม่ได้เป็น ส่วนการอยากเป็นตัวเองอย่างที่เป็นจริง ๆ นั่นแหละคือสิ่งตรงข้ามกับความสิ้นหวัง",
+      "source": {
+        "work": "The Sickness Unto Death",
+        "locator": "p. 50",
+        "translator": "Alastair Hannay (1989)",
+        "url": "https://en.wikiquote.org/wiki/The_Sickness_Unto_Death#A._That_Despair_is_the_Sickness_unto_Death"
+      },
+      "verify": "sourced",
+      "tags": [
+        "self",
+        "suffering"
+      ],
+      "mood": [
+        "lost"
+      ]
+    },
+    {
+      "author": "soren-kierkegaard",
+      "en": "What I really need is to get clear about what I must do, not what I must know... the crucial thing is to find a truth which is truth for me, to find the idea for which I am willing to live and die.",
+      "th": "สิ่งที่ฉันต้องการจริง ๆ คือรู้ให้ชัดว่าฉันต้องทำอะไร ไม่ใช่ต้องรู้อะไร สิ่งสำคัญคือการค้นหาความจริงที่จริงสำหรับฉัน ค้นหาความคิดที่ฉันยอมมีชีวิตอยู่และยอมตายเพื่อมัน",
+      "source": {
+        "work": "Journals",
+        "locator": "Gilleleie, 1 August 1835 (I A 75)",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Søren_Kierkegaard#1830s"
+      },
+      "verify": "sourced",
+      "tags": [
+        "meaning",
+        "truth",
+        "action"
+      ],
+      "mood": [
+        "lost"
+      ]
+    },
+    {
+      "author": "soren-kierkegaard",
+      "en": "How absurd men are! They never use the liberties they have, they demand those they do not have. They have freedom of thought, they demand freedom of speech.",
+      "th": "มนุษย์นี่ช่างไร้เหตุผลเสียจริง อิสระที่มีอยู่ก็ไม่เคยใช้ แต่กลับเรียกร้องอิสระที่ไม่มี มีเสรีภาพที่จะคิด แต่กลับเรียกร้องเสรีภาพที่จะพูด",
+      "orig": {
+        "lang": "da",
+        "text": "Menneskene ere dog urimelige. De bruge aldrig de Friheder, de har, men fordre dem, de ikke har; de har Tænkefrihed, de fordre Yttringsfrihed."
+      },
+      "source": {
+        "work": "Either/Or, Part I",
+        "locator": "Diapsalmata, p. 19",
+        "translator": "David F. Swenson and Lillian Marvin Swenson (1944)",
+        "url": "https://en.wikiquote.org/wiki/Either/Or#Diapsalmata"
+      },
+      "verify": "sourced",
+      "tags": [
+        "freedom",
+        "society",
+        "humor"
+      ],
+      "mood": []
+    },
+    {
+      "author": "soren-kierkegaard",
+      "en": "Most men pursue pleasure with such breathless haste that they hurry past it.",
+      "th": "คนส่วนใหญ่ไล่ตามความสุขอย่างรีบร้อนเสียจนวิ่งเลยมันไป",
+      "orig": {
+        "lang": "da",
+        "text": "De fleste Mennesker haste saa stærkt efter Nydelsen, at de haste den forbi."
+      },
+      "source": {
+        "work": "Either/Or, Part I",
+        "locator": "Diapsalmata, p. 28",
+        "translator": "David F. Swenson and Lillian Marvin Swenson (1944)",
+        "url": "https://en.wikiquote.org/wiki/Either/Or#Diapsalmata"
+      },
+      "verify": "sourced",
+      "tags": [
+        "happiness",
+        "desire",
+        "time"
+      ],
+      "mood": [
+        "stress"
+      ]
+    },
+    {
+      "author": "soren-kierkegaard",
+      "en": "What is a poet? An unhappy man who conceals profound anguish in his heart, but whose lips are so fashioned that when sighs and groans pass over them they sound like beautiful music.",
+      "th": "กวีคือใคร คือคนทุกข์ที่ซ่อนความเจ็บปวดลึก ๆ ไว้ในใจ แต่ริมฝีปากของเขาถูกปั้นมาให้เสียงถอนใจและเสียงคร่ำครวญที่ผ่านออกมา ฟังดูเป็นดนตรีไพเราะ",
+      "orig": {
+        "lang": "da",
+        "text": "Hvad er en Digter? Et ulykkeligt Menneske, der gjemmer dybe Qvaler i sit Hjerte, men hvis Læber ere dannede saaledes, at idet Sukket og Skriget strømme ud over dem, lyde de som en skjøn Musik."
+      },
+      "source": {
+        "work": "Either/Or, Part I",
+        "locator": "Diapsalmata",
+        "translator": "Lee M. Hollander (1923)",
+        "url": "https://www.gutenberg.org/ebooks/60333"
+      },
+      "verify": "primary",
+      "tags": [
+        "suffering",
+        "emotion"
+      ],
+      "mood": [
+        "heartbroken"
+      ]
+    },
+    {
+      "author": "soren-kierkegaard",
+      "en": "Let others complain that the times are wicked. I complain that they are paltry; for they are without passion.",
+      "th": "ปล่อยให้คนอื่นบ่นไปว่ายุคนี้ชั่วร้าย ฉันบ่นว่ามันจืดชืดต่างหาก เพราะมันไร้ความหลงใหล",
+      "orig": {
+        "lang": "da",
+        "text": "Lad Andre klage over, at Tiden er ond; jeg klager over, at den er ussel; thi den er uden Lidenskab."
+      },
+      "source": {
+        "work": "Either/Or, Part I",
+        "locator": "Diapsalmata",
+        "translator": "Lee M. Hollander (1923)",
+        "url": "https://www.gutenberg.org/ebooks/60333"
+      },
+      "verify": "primary",
+      "tags": [
+        "meaning",
+        "society",
+        "desire"
+      ],
+      "mood": [
+        "bored"
+      ]
+    },
+    {
+      "author": "soren-kierkegaard",
+      "en": "My melancholy is the most faithful sweetheart I have had--no wonder that I return the love!",
+      "th": "ความเศร้าของฉันคือคนรักที่ซื่อสัตย์ที่สุดที่ฉันเคยมี จะแปลกอะไรถ้าฉันจะรักมันตอบ",
+      "orig": {
+        "lang": "da",
+        "text": "Mit Tungsind er den trofasteste Elskerinde jeg har kjendt, hvad Under da, at jeg elsker igjen."
+      },
+      "source": {
+        "work": "Either/Or, Part I",
+        "locator": "Diapsalmata",
+        "translator": "Lee M. Hollander (1923)",
+        "url": "https://www.gutenberg.org/ebooks/60333"
+      },
+      "verify": "primary",
+      "tags": [
+        "emotion",
+        "love",
+        "solitude"
+      ],
+      "mood": [
+        "heartbroken"
+      ]
+    },
+    {
+      "author": "soren-kierkegaard",
+      "en": "It belongs to the imperfection of everything human that man can only attain his desire by passing through its opposite.",
+      "th": "นี่คือความไม่สมบูรณ์ของทุกเรื่องที่เป็นมนุษย์ เราจะได้สิ่งที่ปรารถนา ก็ต่อเมื่อเดินผ่านด้านตรงข้ามของมันมาก่อน",
+      "orig": {
+        "lang": "da",
+        "text": "Det er overhovedet Ufuldkommenheden ved alt Menneskeligt, at først gjennem Modsætning eier man det Attraaede."
+      },
+      "source": {
+        "work": "Either/Or, Part I",
+        "locator": "Diapsalmata (first noted in his journal, 1841)",
+        "translator": null,
+        "url": "https://da.wikisource.org/wiki/Enten_%E2%80%94_Eller._F%C3%B8rste_Deel/1"
+      },
+      "verify": "primary",
+      "tags": [
+        "desire",
+        "change",
+        "suffering"
+      ],
+      "mood": [
+        "stuck"
+      ]
+    },
+    {
+      "author": "soren-kierkegaard",
+      "en": "he who always hopes for the best, him life will deceive, and he will grow old; and he who is always prepared for the worst, he will soon age; but he who has faith, he will preserve eternal youth.",
+      "th": "คนที่หวังแต่สิ่งดีที่สุด จะถูกชีวิตหลอกจนแก่ คนที่เตรียมใจรับแต่เรื่องร้ายที่สุด ก็จะแก่เร็ว แต่คนที่มีศรัทธา จะรักษาความหนุ่มสาวไว้ได้ตลอดไป",
+      "source": {
+        "work": "Fear and Trembling",
+        "locator": "\"A Panegyric on Abraham\"",
+        "translator": "Lee M. Hollander (1923)",
+        "url": "https://www.gutenberg.org/ebooks/60333"
+      },
+      "verify": "primary",
+      "tags": [
+        "hope",
+        "fear"
+      ],
+      "mood": [
+        "anxious"
+      ]
+    },
+    {
+      "author": "soren-kierkegaard",
+      "en": "Since my earliest childhood a barb of sorrow has lodged in my heart. As long as it stays I am ironic — if it is pulled out I shall die.",
+      "th": "ตั้งแต่เด็ก มีหนามของความเศร้าปักอยู่ในใจฉัน ตราบที่มันยังปักอยู่ ฉันยังเสียดสีโลกได้ ถ้าถอนมันออกเมื่อไร ฉันคงไม่รอด",
+      "source": {
+        "work": "Journals",
+        "locator": "1847",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Søren_Kierkegaard#1840s"
+      },
+      "verify": "sourced",
+      "tags": [
+        "suffering",
+        "humor"
+      ],
+      "mood": []
+    },
+    {
+      "author": "soren-kierkegaard",
+      "en": "The truth is a trap: you can not get it without it getting you; you cannot get the truth by capturing it, only by its capturing you.",
+      "th": "ความจริงเป็นกับดัก เธอจะได้มันมาไม่ได้ ถ้ามันไม่ได้ตัวเธอไปด้วย เราจับความจริงไม่ได้ มีแต่ความจริงที่จับเรา",
+      "source": {
+        "work": "Journals",
+        "locator": "1854",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Søren_Kierkegaard#1850s"
+      },
+      "verify": "sourced",
+      "tags": [
+        "truth"
+      ],
+      "mood": [
+        "confused"
+      ]
+    },
+    {
+      "author": "jean-paul-sartre",
+      "en": "I am condemned to be free.",
+      "th": "ฉันถูกพิพากษาให้ต้องเป็นอิสระ",
+      "orig": {
+        "lang": "fr",
+        "text": "Je suis condamné à être libre."
+      },
+      "source": {
+        "work": "Being and Nothingness",
+        "locator": "Part 4, chapter 1",
+        "translator": "Hazel E. Barnes (1956)",
+        "url": "https://en.wikiquote.org/wiki/Jean-Paul_Sartre#Being_and_Nothingness_(1943)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "freedom",
+        "responsibility"
+      ],
+      "mood": [
+        "overwhelmed"
+      ]
+    },
+    {
+      "author": "jean-paul-sartre",
+      "en": "Man is nothing else but what he purposes, he exists only in so far as he realizes himself, he is therefore nothing else but the sum of his actions, nothing else but what his life is.",
+      "th": "มนุษย์ไม่ได้เป็นอะไรอื่น นอกจากสิ่งที่เขาตั้งใจจะเป็น เขามีอยู่เท่าที่เขาทำให้ตัวเองเป็นจริงขึ้นมาได้ เขาจึงเป็นแค่ผลรวมของสิ่งที่เขาทำ และชีวิตที่เขาใช้มาเท่านั้น",
+      "source": {
+        "work": "Existentialism Is a Humanism",
+        "locator": "p. 41 (1946 lecture)",
+        "translator": "Philip Mairet (1948)",
+        "url": "https://en.wikiquote.org/wiki/Jean-Paul_Sartre#Existentialism_Is_a_Humanism_(1946)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "action",
+        "self",
+        "responsibility"
+      ],
+      "mood": [
+        "stuck"
+      ]
+    },
+    {
+      "author": "jean-paul-sartre",
+      "en": "Life has no meaning a priori … It is up to you to give it a meaning, and value is nothing but the meaning that you choose.",
+      "th": "ชีวิตไม่ได้มีความหมายติดตัวมาตั้งแต่แรก เป็นหน้าที่ของคุณที่จะให้ความหมายกับมัน และคุณค่าก็คือความหมายที่คุณเลือกนั่นเอง",
+      "source": {
+        "work": "Existentialism Is a Humanism",
+        "locator": "p. 58",
+        "translator": "Philip Mairet (1948)",
+        "url": "https://en.wikiquote.org/wiki/Jean-Paul_Sartre#Existentialism_Is_a_Humanism_(1946)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "meaning",
+        "choice"
+      ],
+      "mood": [
+        "lost"
+      ]
+    },
+    {
+      "author": "jean-paul-sartre",
+      "en": "Everything is indeed permitted if God does not exist, and man is in consequence forlorn, for he cannot find anything to depend upon either within or outside himself. He discovers forthwith, that he is without excuse.",
+      "th": "ถ้าพระเจ้าไม่มีอยู่จริง ทุกอย่างก็ทำได้หมด มนุษย์จึงถูกทิ้งให้เคว้งคว้าง เพราะไม่มีอะไรให้ยึดเหนี่ยวได้ทั้งในตัวและนอกตัว แล้วเขาก็พบทันทีว่า ตัวเองไม่มีข้ออ้างอะไรเหลืออยู่เลย",
+      "source": {
+        "work": "Existentialism Is a Humanism",
+        "locator": "pp. 33–34",
+        "translator": "Philip Mairet (1948)",
+        "url": "https://en.wikiquote.org/wiki/Jean-Paul_Sartre#Existentialism_Is_a_Humanism_(1946)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "responsibility",
+        "freedom"
+      ],
+      "mood": []
+    },
+    {
+      "author": "jean-paul-sartre",
+      "en": "So that is what hell is. I would never have believed it... There is no need for torture: Hell is other people.",
+      "th": "นี่เองหรือคือนรก ไม่น่าเชื่อเลย ไม่เห็นต้องมีเครื่องทรมานอะไรทั้งนั้น นรกก็คือคนอื่นนั่นแหละ",
+      "orig": {
+        "lang": "fr",
+        "text": "Alors, c'est ça l'enfer. Je n'aurais jamais cru... Pas besoin de gril, l'enfer, c'est les autres."
+      },
+      "source": {
+        "work": "No Exit",
+        "locator": "Scene 5 (Garcin)",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Jean-Paul_Sartre#No_Exit_(1944)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "society",
+        "self"
+      ],
+      "mood": [
+        "angry",
+        "tired"
+      ]
+    },
+    {
+      "author": "jean-paul-sartre",
+      "en": "One always dies too soon — or too late. And yet, life is there, finished: the line is drawn, and it must all be added up. You are nothing other than your life.",
+      "th": "คนเราตายเร็วเกินไป หรือไม่ก็ช้าเกินไปเสมอ แต่ถึงอย่างนั้น ชีวิตก็จบอยู่ตรงหน้า เส้นถูกขีดแล้ว ถึงเวลารวมยอด คุณไม่ได้เป็นอะไรอื่นนอกจากชีวิตของคุณ",
+      "orig": {
+        "lang": "fr",
+        "text": "On meurt toujours trop tôt - ou trop tard. Et cependant la vie est là, terminée : le trait est tiré, il faut faire la somme. Tu n'es rien d'autre que ta vie."
+      },
+      "source": {
+        "work": "No Exit",
+        "locator": "Scene 5 (Inès)",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Jean-Paul_Sartre#No_Exit_(1944)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "death",
+        "responsibility",
+        "time"
+      ],
+      "mood": []
+    },
+    {
+      "author": "jean-paul-sartre",
+      "en": "A man is what he wills himself to be.",
+      "th": "คนเราเป็นอย่างที่ตัวเองตั้งใจจะเป็น",
+      "orig": {
+        "lang": "fr",
+        "text": "On est ce qu'on veut."
+      },
+      "source": {
+        "work": "No Exit",
+        "locator": "Scene 5",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Jean-Paul_Sartre#No_Exit_(1944)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "self",
+        "choice"
+      ],
+      "mood": [
+        "stuck"
+      ]
+    },
+    {
+      "author": "jean-paul-sartre",
+      "en": "I am a man, Jupiter, and each man must invent his own path.",
+      "th": "ฉันเป็นมนุษย์นะ จูปิเตอร์ และมนุษย์ทุกคนต้องสร้างทางเดินของตัวเองขึ้นมาเอง",
+      "source": {
+        "work": "The Flies",
+        "locator": "Act 3 (Orestes)",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Jean-Paul_Sartre#The_Flies_(1943)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "freedom",
+        "choice",
+        "rebellion"
+      ],
+      "mood": [
+        "lost"
+      ]
+    },
+    {
+      "author": "jean-paul-sartre",
+      "en": "With despair, true optimism begins: the optimism of the man who expects nothing, who knows he has no rights and nothing coming to him, who rejoices in counting on himself alone and in acting alone for the good of all.",
+      "th": "ความสิ้นหวังคือจุดเริ่มต้นของการมองโลกในแง่ดีที่แท้ แบบของคนที่ไม่คาดหวังอะไร รู้ว่าไม่มีใครติดค้างอะไรเขา และยินดีที่จะพึ่งตัวเอง ลงมือทำเพื่อทุกคนด้วยสองมือของตัวเอง",
+      "source": {
+        "work": "Characterizations of Existentialism",
+        "locator": "1944 essay",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Jean-Paul_Sartre#Characterizations_of_Existentialism_(1944)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "hope",
+        "action",
+        "responsibility"
+      ],
+      "mood": [
+        "stuck",
+        "overwhelmed"
+      ]
+    },
+    {
+      "author": "jean-paul-sartre",
+      "en": "As far as men go, it is not what they are that interests me, but what they can become.",
+      "th": "เรื่องคน ฉันไม่ได้สนใจว่าเขาเป็นอะไร แต่สนใจว่าเขาจะกลายเป็นอะไรได้",
+      "source": {
+        "work": "Dirty Hands",
+        "locator": "Act 5, scene 3",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Jean-Paul_Sartre#Dirty_Hands_(1948)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "change",
+        "hope"
+      ],
+      "mood": [
+        "stuck"
+      ]
+    },
+    {
+      "author": "jean-paul-sartre",
+      "en": "What matters is not what others have made of us, but what we ourselves make of what they have made of us.",
+      "th": "สิ่งสำคัญไม่ใช่ว่าคนอื่นทำให้เราเป็นอะไร แต่คือเราจะทำอะไรกับสิ่งที่พวกเขาทำให้เราเป็น",
+      "orig": {
+        "lang": "fr",
+        "text": "L’important n’est pas ce qu’on fait de nous mais ce que nous faisons nous-même de ce qu’on a fait de nous."
+      },
+      "source": {
+        "work": "Saint Genet, Actor and Martyr",
+        "locator": "p. 55 (1952)",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Jean-Paul_Sartre#Saint_Genet,_Actor_and_Martyr_(1952)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "freedom",
+        "self",
+        "responsibility"
+      ],
+      "mood": [
+        "heartbroken",
+        "stuck"
+      ]
+    },
+    {
+      "author": "jean-paul-sartre",
+      "en": "Three o'clock is always too late or too early for anything you want to do.",
+      "th": "บ่ายสามโมงเป็นเวลาที่สายเกินไป หรือไม่ก็เร็วเกินไปเสมอ สำหรับทุกอย่างที่เราอยากทำ",
+      "source": {
+        "work": "Nausea",
+        "locator": "1938 novel",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Jean-Paul_Sartre#Nausea_(1938)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "time",
+        "humor"
+      ],
+      "mood": [
+        "bored"
+      ]
+    },
+    {
+      "author": "simone-de-beauvoir",
+      "en": "One is not born, but rather becomes, a woman.",
+      "th": "ไม่มีใครเกิดมาเป็นผู้หญิง แต่ค่อย ๆ กลายมาเป็นผู้หญิง",
+      "orig": {
+        "lang": "fr",
+        "text": "On ne naît pas femme: on le devient."
+      },
+      "source": {
+        "work": "The Second Sex",
+        "locator": "Book 2, Part 4, ch. 1 \"Childhood\", p. 267",
+        "translator": "H. M. Parshley (1953)",
+        "url": "https://en.wikiquote.org/wiki/Simone_de_Beauvoir#The_Second_Sex_(1949)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "self",
+        "society",
+        "freedom"
+      ],
+      "mood": []
+    },
+    {
+      "author": "simone-de-beauvoir",
+      "en": "To will oneself free is also to will others free.",
+      "th": "การปรารถนาให้ตัวเองเป็นอิสระ ก็คือการปรารถนาให้คนอื่นเป็นอิสระด้วย",
+      "source": {
+        "work": "The Ethics of Ambiguity",
+        "locator": "Part II, p. 73",
+        "translator": "Bernard Frechtman (1948)",
+        "url": "https://en.wikiquote.org/wiki/The_Ethics_of_Ambiguity#Part_II:_Personal_Freedom_and_Others"
+      },
+      "verify": "sourced",
+      "tags": [
+        "freedom",
+        "responsibility"
+      ],
+      "mood": []
+    },
+    {
+      "author": "simone-de-beauvoir",
+      "en": "Man can find a justification of his own existence only in the existence of other men.",
+      "th": "มนุษย์จะหาเหตุผลให้กับการมีชีวิตอยู่ของตัวเองได้ ก็จากการมีอยู่ของคนอื่นเท่านั้น",
+      "source": {
+        "work": "The Ethics of Ambiguity",
+        "locator": "Part II, p. 72",
+        "translator": "Bernard Frechtman (1948)",
+        "url": "https://en.wikiquote.org/wiki/The_Ethics_of_Ambiguity#Part_II:_Personal_Freedom_and_Others"
+      },
+      "verify": "sourced",
+      "tags": [
+        "meaning",
+        "friendship",
+        "society"
+      ],
+      "mood": [
+        "lost"
+      ]
+    },
+    {
+      "author": "simone-de-beauvoir",
+      "en": "One's life has value so long as one attributes value to the life of others, by means of love, friendship, indignation and compassion.",
+      "th": "ชีวิตของเราจะมีค่า ตราบที่เรายังให้ค่ากับชีวิตของคนอื่น ผ่านความรัก มิตรภาพ ความโกรธต่อความไม่เป็นธรรม และความเห็นใจ",
+      "source": {
+        "work": "The Coming of Age",
+        "locator": "Conclusion, p. 541",
+        "translator": "Patrick O'Brian (1972)",
+        "url": "https://en.wikiquote.org/wiki/Simone_de_Beauvoir#The_Coming_of_Age_(1970)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "meaning",
+        "love",
+        "friendship"
+      ],
+      "mood": [
+        "lost"
+      ]
+    },
+    {
+      "author": "simone-de-beauvoir",
+      "en": "Society cares about the individual only in so far as he is profitable. The young know this. Their anxiety as they enter in upon social life matches the anguish of the old as they are excluded from it.",
+      "th": "สังคมใส่ใจคนคนหนึ่งเท่าที่เขายังทำกำไรให้ได้ คนหนุ่มสาวรู้เรื่องนี้ดี ความกังวลของพวกเขาตอนก้าวเข้าสู่สังคม จึงหนักพอ ๆ กับความทุกข์ของคนแก่ตอนถูกผลักออกมา",
+      "source": {
+        "work": "The Coming of Age",
+        "locator": "Conclusion, p. 543",
+        "translator": "Patrick O'Brian (1972)",
+        "url": "https://en.wikiquote.org/wiki/Simone_de_Beauvoir#The_Coming_of_Age_(1970)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "society",
+        "fear"
+      ],
+      "mood": [
+        "anxious",
+        "stress"
+      ]
+    },
+    {
+      "author": "simone-de-beauvoir",
+      "en": "What is an adult? A child puffed with age.",
+      "th": "ผู้ใหญ่คืออะไร ก็คือเด็กที่ถูกอายุสูบลมจนพองนั่นเอง",
+      "source": {
+        "work": "The Woman Destroyed",
+        "locator": "1967",
+        "translator": "Patrick O'Brian (1969)",
+        "url": "https://en.wikiquote.org/wiki/Simone_de_Beauvoir#General_sources"
+      },
+      "verify": "sourced",
+      "tags": [
+        "humor",
+        "self"
+      ],
+      "mood": []
+    },
+    {
+      "author": "simone-de-beauvoir",
+      "en": "I don't want to be just another blade of grass.",
+      "th": "ฉันไม่อยากเป็นแค่ใบหญ้าอีกใบหนึ่ง",
+      "source": {
+        "work": "All Men Are Mortal",
+        "locator": "Prologue (Regina)",
+        "translator": "Leonard M. Friedman (1955)",
+        "url": "https://en.wikiquote.org/wiki/Simone_de_Beauvoir#All_Men_are_Mortal_(1946)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "self",
+        "society"
+      ],
+      "mood": [
+        "lost",
+        "anxious"
+      ]
+    },
+    {
+      "author": "simone-de-beauvoir",
+      "en": "I tore myself away from the safe comfort of certainties through my love for truth — and truth rewarded me.",
+      "th": "ฉันฉีกตัวเองออกจากความอุ่นใจของความแน่นอน เพราะรักความจริง และความจริงก็ตอบแทนฉัน",
+      "source": {
+        "work": "All Said and Done",
+        "locator": "p. 16",
+        "translator": "Patrick O'Brian (1974)",
+        "url": "https://en.wikiquote.org/wiki/Simone_de_Beauvoir#General_sources"
+      },
+      "verify": "sourced",
+      "tags": [
+        "truth",
+        "courage",
+        "change"
+      ],
+      "mood": [
+        "stuck"
+      ]
+    },
+    {
+      "author": "simone-de-beauvoir",
+      "en": "I wish that every human life might be pure transparent freedom.",
+      "th": "ฉันหวังว่าชีวิตของมนุษย์ทุกคน จะได้เป็นเสรีภาพที่บริสุทธิ์และโปร่งใส",
+      "source": {
+        "work": "The Blood of Others",
+        "locator": "1945 novel",
+        "translator": "Yvonne Moyse and Roger Senhouse (1948)",
+        "url": "https://en.wikiquote.org/wiki/Simone_de_Beauvoir#General_sources"
+      },
+      "verify": "sourced",
+      "tags": [
+        "freedom",
+        "hope"
+      ],
+      "mood": []
+    },
+    {
+      "author": "fyodor-dostoevsky",
+      "en": "For the secret of man's being is not only to live but to have something to live for.",
+      "th": "เพราะความลับของการเป็นมนุษย์ ไม่ได้อยู่ที่การมีชีวิตอยู่เฉย ๆ แต่อยู่ที่การมีอะไรสักอย่างให้อยู่เพื่อมัน",
+      "source": {
+        "work": "The Brothers Karamazov",
+        "locator": "Book V, ch. 5 \"The Grand Inquisitor\"",
+        "translator": "Constance Garnett (1912)",
+        "url": "https://www.gutenberg.org/ebooks/28054"
+      },
+      "verify": "primary",
+      "tags": [
+        "meaning"
+      ],
+      "mood": [
+        "lost"
+      ]
+    },
+    {
+      "author": "fyodor-dostoevsky",
+      "en": "Fathers and teachers, I ponder, \"What is hell?\" I maintain that it is the suffering of being unable to love.",
+      "th": "ท่านพ่อและท่านครูทั้งหลาย ข้าพเจ้าครุ่นคิดว่านรกคืออะไร และข้าพเจ้าเชื่อว่า นรกคือความทุกข์ของการที่รักใครไม่ได้อีกแล้ว",
+      "source": {
+        "work": "The Brothers Karamazov",
+        "locator": "Book VI, (i) \"Of Hell and Hell Fire\"",
+        "translator": "Constance Garnett (1912)",
+        "url": "https://www.gutenberg.org/ebooks/28054"
+      },
+      "verify": "primary",
+      "tags": [
+        "love",
+        "suffering"
+      ],
+      "mood": [
+        "heartbroken"
+      ]
+    },
+    {
+      "author": "fyodor-dostoevsky",
+      "en": "Above all, avoid falsehood, every kind of falsehood, especially falseness to yourself.",
+      "th": "เหนือสิ่งอื่นใด จงหลีกเลี่ยงความหลอกลวงทุกชนิด โดยเฉพาะการหลอกตัวเอง",
+      "source": {
+        "work": "The Brothers Karamazov",
+        "locator": "Book II, ch. 4",
+        "translator": "Constance Garnett (1912)",
+        "url": "https://www.gutenberg.org/ebooks/28054"
+      },
+      "verify": "primary",
+      "tags": [
+        "truth",
+        "self"
+      ],
+      "mood": [
+        "confused"
+      ]
+    },
+    {
+      "author": "fyodor-dostoevsky",
+      "en": "So long as man remains free he strives for nothing so incessantly and so painfully as to find some one to worship.",
+      "th": "ตราบใดที่มนุษย์ยังเป็นอิสระ เขาจะไม่ดิ้นรนหาอะไรอย่างไม่หยุดหย่อนและทรมานใจเท่ากับการหาใครสักคนมาให้กราบไหว้",
+      "source": {
+        "work": "The Brothers Karamazov",
+        "locator": "Book V, ch. 5 \"The Grand Inquisitor\"",
+        "translator": "Constance Garnett (1912)",
+        "url": "https://www.gutenberg.org/ebooks/28054"
+      },
+      "verify": "primary",
+      "tags": [
+        "freedom",
+        "society"
+      ],
+      "mood": []
+    },
+    {
+      "author": "fyodor-dostoevsky",
+      "en": "It's the great mystery of human life that old grief passes gradually into quiet, tender joy.",
+      "th": "นี่คือความลึกลับยิ่งใหญ่ของชีวิตมนุษย์ ความโศกเศร้าเก่า ๆ ค่อย ๆ กลายเป็นความสุขที่เงียบและอ่อนโยน",
+      "source": {
+        "work": "The Brothers Karamazov",
+        "locator": "Book VI, (b) \"Of the Holy Scriptures in the Life of Father Zossima\"",
+        "translator": "Constance Garnett (1912)",
+        "url": "https://www.gutenberg.org/ebooks/28054"
+      },
+      "verify": "primary",
+      "tags": [
+        "suffering",
+        "time",
+        "hope"
+      ],
+      "mood": [
+        "heartbroken"
+      ]
+    },
+    {
+      "author": "fyodor-dostoevsky",
+      "en": "It would be interesting to know what it is men are most afraid of. Taking a new step, uttering a new word is what they fear most.",
+      "th": "น่าสนใจนะว่าคนเรากลัวอะไรมากที่สุด การก้าวเท้าก้าวใหม่ การเอ่ยคำคำใหม่ นั่นแหละคือสิ่งที่คนกลัวที่สุด",
+      "source": {
+        "work": "Crime and Punishment",
+        "locator": "Part 1, ch. 1",
+        "translator": "Constance Garnett (1914)",
+        "url": "https://www.gutenberg.org/ebooks/2554"
+      },
+      "verify": "primary",
+      "tags": [
+        "fear",
+        "change",
+        "courage"
+      ],
+      "mood": [
+        "anxious",
+        "stuck"
+      ]
+    },
+    {
+      "author": "fyodor-dostoevsky",
+      "en": "In fact, I believe that the best definition of man is the ungrateful biped.",
+      "th": "ที่จริง ผมว่านิยามที่ดีที่สุดของมนุษย์ คือสัตว์สองขาที่ไม่รู้จักบุญคุณ",
+      "source": {
+        "work": "Notes from Underground",
+        "locator": "Part 1, ch. 8",
+        "translator": "Constance Garnett (1918)",
+        "url": "https://www.gutenberg.org/ebooks/600"
+      },
+      "verify": "primary",
+      "tags": [
+        "humor",
+        "society"
+      ],
+      "mood": [
+        "angry"
+      ]
+    },
+    {
+      "author": "fyodor-dostoevsky",
+      "en": "I admit that twice two makes four is an excellent thing, but if we are to give everything its due, twice two makes five is sometimes a very charming thing too.",
+      "th": "ผมยอมรับว่าสองคูณสองได้สี่เป็นเรื่องดีเยี่ยม แต่ถ้าจะให้ความเป็นธรรมกับทุกอย่าง บางทีสองคูณสองได้ห้าก็น่ารักไม่เบาเหมือนกัน",
+      "source": {
+        "work": "Notes from Underground",
+        "locator": "Part 1, ch. 9",
+        "translator": "Constance Garnett (1918)",
+        "url": "https://www.gutenberg.org/ebooks/600"
+      },
+      "verify": "primary",
+      "tags": [
+        "freedom",
+        "reason",
+        "humor"
+      ],
+      "mood": []
+    },
+    {
+      "author": "fyodor-dostoevsky",
+      "en": "Yes, man is a pliable animal--he must be so defined--a being who gets accustomed to everything! That would be, perhaps, the best definition that could be given of him.",
+      "th": "ใช่ มนุษย์เป็นสัตว์ที่ดัดได้ ต้องนิยามกันแบบนี้แหละ เป็นสิ่งมีชีวิตที่ชินได้กับทุกอย่าง นี่อาจเป็นนิยามที่ดีที่สุดของมนุษย์เลยก็ได้",
+      "source": {
+        "work": "The House of the Dead",
+        "locator": "Part 1, ch. 1 (Everyman's Library edition, 1911)",
+        "translator": null,
+        "url": "https://www.gutenberg.org/ebooks/37536"
+      },
+      "verify": "primary",
+      "tags": [
+        "change",
+        "suffering"
+      ],
+      "mood": [
+        "overwhelmed"
+      ]
+    },
+    {
+      "author": "fyodor-dostoevsky",
+      "en": "My God, a whole moment of happiness! Is that too little for the whole of a man's life?",
+      "th": "โอ พระเจ้า ความสุขเต็ม ๆ หนึ่งขณะ น้อยเกินไปหรือสำหรับชีวิตทั้งชีวิตของคนคนหนึ่ง",
+      "source": {
+        "work": "White Nights",
+        "locator": "Morning (last lines)",
+        "translator": "Constance Garnett (1918)",
+        "url": "https://www.gutenberg.org/ebooks/36034"
+      },
+      "verify": "primary",
+      "tags": [
+        "happiness",
+        "love"
+      ],
+      "mood": [
+        "heartbroken"
+      ]
+    },
+    {
+      "author": "viktor-frankl",
+      "en": "Everything can be taken from a man but one thing; the last of the human freedoms — to choose one's attitude in any given set of circumstances, to choose one's own way.",
+      "th": "ทุกอย่างพรากไปจากมนุษย์ได้ ยกเว้นสิ่งเดียว คือเสรีภาพข้อสุดท้าย ได้แก่การเลือกว่าจะรับมือกับสถานการณ์ตรงหน้าด้วยท่าทีแบบไหน และเลือกทางเดินของตัวเอง",
+      "source": {
+        "work": "Man's Search for Meaning",
+        "locator": "Part One, \"Experiences in a Concentration Camp\"",
+        "translator": "Ilse Lasch (1959)",
+        "url": "https://en.wikiquote.org/wiki/Man's_Search_for_Meaning"
+      },
+      "verify": "sourced",
+      "tags": [
+        "freedom",
+        "choice",
+        "suffering"
+      ],
+      "mood": [
+        "overwhelmed",
+        "stress"
+      ]
+    },
+    {
+      "author": "viktor-frankl",
+      "en": "Ultimately, man should not ask what the meaning of his life is, but rather must recognize that it is he who is asked. In a word, each man is questioned by life; and he can only answer to life by answering for his own life; to life he can only respond by being responsible.",
+      "th": "ในท้ายที่สุด คนเราไม่ควรถามว่าชีวิตของตัวเองมีความหมายอะไร แต่ต้องรู้ว่าตัวเราเองต่างหากที่ถูกถาม ชีวิตตั้งคำถามกับเราทุกคน และเราตอบชีวิตได้ด้วยการรับผิดชอบต่อชีวิตของตัวเองเท่านั้น",
+      "source": {
+        "work": "Man's Search for Meaning",
+        "locator": "Part Two, \"Logotherapy in a Nutshell\" (written in English, 1962)",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Man's_Search_for_Meaning"
+      },
+      "verify": "sourced",
+      "tags": [
+        "meaning",
+        "responsibility"
+      ],
+      "mood": [
+        "lost"
+      ]
+    },
+    {
+      "author": "viktor-frankl",
+      "en": "Live as if you were living for the second time and had acted as wrongly the first time as you are about to act now.",
+      "th": "จงใช้ชีวิตราวกับว่านี่คือรอบที่สอง และในรอบแรก คุณได้ทำพลาดแบบเดียวกับที่กำลังจะทำอยู่ตอนนี้",
+      "source": {
+        "work": "Man's Search for Meaning",
+        "locator": "Part Two, \"Logotherapy in a Nutshell\" (written in English, 1962)",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Man's_Search_for_Meaning"
+      },
+      "verify": "sourced",
+      "tags": [
+        "responsibility",
+        "choice",
+        "time"
+      ],
+      "mood": [
+        "stuck"
+      ]
+    },
+    {
+      "author": "viktor-frankl",
+      "en": "Don't aim at success — the more you aim at it and make it a target, the more you are going to miss it. For success, like happiness, cannot be pursued; it must ensue",
+      "th": "อย่าเล็งไปที่ความสำเร็จ ยิ่งเล็งและตั้งเป็นเป้ามากเท่าไร ก็ยิ่งพลาดมากเท่านั้น เพราะความสำเร็จก็เหมือนความสุข ไล่ตามไม่ได้ มันต้องตามมาเอง",
+      "source": {
+        "work": "Man's Search for Meaning",
+        "locator": "Preface to the 1992 edition, pp. 16–17 (written in English)",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Man's_Search_for_Meaning"
+      },
+      "verify": "sourced",
+      "tags": [
+        "work",
+        "happiness"
+      ],
+      "mood": [
+        "stress"
+      ]
+    },
+    {
+      "author": "viktor-frankl",
+      "en": "An abnormal reaction to an abnormal situation is normal behavior.",
+      "th": "การตอบสนองแบบผิดปกติต่อสถานการณ์ที่ผิดปกติ คือพฤติกรรมที่ปกติ",
+      "source": {
+        "work": "Man's Search for Meaning",
+        "locator": "Part One, p. 32 (1992 Beacon Press edition)",
+        "translator": "Ilse Lasch (1959)",
+        "url": "https://en.wikiquote.org/wiki/Viktor_Frankl"
+      },
+      "verify": "sourced",
+      "tags": [
+        "emotion",
+        "suffering"
+      ],
+      "mood": [
+        "overwhelmed",
+        "anxious"
+      ]
+    },
+    {
+      "author": "viktor-frankl",
+      "en": "Love is the only way to grasp another human being in the innermost core of his personality.",
+      "th": "ความรักเป็นทางเดียวที่จะเข้าถึงแก่นในสุดของตัวตนของอีกคนหนึ่งได้",
+      "source": {
+        "work": "Man's Search for Meaning",
+        "locator": "Part Two, \"Logotherapy in a Nutshell\" (written in English, 1962)",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Man's_Search_for_Meaning"
+      },
+      "verify": "sourced",
+      "tags": [
+        "love"
+      ],
+      "mood": []
+    },
+    {
+      "author": "viktor-frankl",
+      "en": "In some ways suffering ceases to be suffering at the moment it finds a meaning, such as the meaning of a sacrifice.",
+      "th": "ในแง่หนึ่ง ความทุกข์จะหยุดเป็นความทุกข์ ทันทีที่มันพบความหมาย เช่นความหมายของการเสียสละ",
+      "source": {
+        "work": "Man's Search for Meaning",
+        "locator": "Part Two, \"Logotherapy in a Nutshell\" (written in English, 1962)",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Man's_Search_for_Meaning"
+      },
+      "verify": "sourced",
+      "tags": [
+        "suffering",
+        "meaning"
+      ],
+      "mood": [
+        "heartbroken",
+        "overwhelmed"
+      ]
+    },
+    {
+      "author": "viktor-frankl",
+      "en": "There is nothing in the world, I venture to say, that would so effectively help one to survive even the worst conditions, as the knowledge that there is a meaning in one's life.",
+      "th": "ผมกล้าพูดว่า ไม่มีอะไรในโลกช่วยให้คนเรารอดผ่านสถานการณ์ที่เลวร้ายที่สุดได้ดีเท่ากับการรู้ว่าชีวิตของตัวเองมีความหมาย",
+      "source": {
+        "work": "Man's Search for Meaning",
+        "locator": "Part Two, p. 126 (1984 Pocket Books edition)",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Viktor_Frankl"
+      },
+      "verify": "sourced",
+      "tags": [
+        "meaning",
+        "hope"
+      ],
+      "mood": [
+        "overwhelmed"
+      ]
+    },
+    {
+      "author": "rainer-maria-rilke",
+      "en": "Be patient toward all that is unsolved in your heart and try to love the questions themselves, like locked rooms and like books that are now written in a very foreign tongue... Live the questions now.",
+      "th": "จงอดทนกับทุกสิ่งที่ยังไม่มีคำตอบในใจ ลองรักตัวคำถามเหล่านั้นดู เหมือนรักห้องที่ยังลั่นกุญแจ หรือหนังสือที่เขียนด้วยภาษาแปลกหน้า จงใช้ชีวิตอยู่กับคำถามไปก่อนตั้งแต่ตอนนี้",
+      "orig": {
+        "lang": "de",
+        "text": "Geduld zu haben gegen alles Ungelöste in Ihrem Herzen und zu versuchen, die Fragen selbst liebzuhaben wie verschlossene Stuben und wie Bücher, die in einer sehr fremden Sprache geschrieben sind. ... Leben Sie jetzt die Fragen."
+      },
+      "source": {
+        "work": "Letters to a Young Poet",
+        "locator": "Letter Four (16 July 1903)",
+        "translator": "M. D. Herter Norton (1934)",
+        "url": "https://en.wikiquote.org/wiki/Rainer_Maria_Rilke#Letters_to_a_Young_Poet_(1934)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "doubt",
+        "present"
+      ],
+      "mood": [
+        "confused",
+        "lost"
+      ]
+    },
+    {
+      "author": "rainer-maria-rilke",
+      "en": "For one human being to love another: that is perhaps the most difficult of all our tasks, the ultimate, the last test and proof, the work for which all other work is but preparation.",
+      "th": "การที่มนุษย์คนหนึ่งจะรักอีกคนหนึ่งได้ อาจเป็นงานที่ยากที่สุดของเรา เป็นบททดสอบสุดท้าย เป็นงานที่งานอื่นทั้งหมดเป็นแค่การเตรียมตัว",
+      "source": {
+        "work": "Letters to a Young Poet",
+        "locator": "Letter Seven (14 May 1904)",
+        "translator": "M. D. Herter Norton (1934)",
+        "url": "https://en.wikiquote.org/wiki/Rainer_Maria_Rilke#Letters_to_a_Young_Poet_(1934)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "love"
+      ],
+      "mood": [
+        "heartbroken"
+      ]
+    },
+    {
+      "author": "rainer-maria-rilke",
+      "en": "Young people, who are beginners in everything, cannot yet know love: they have to learn it.",
+      "th": "คนหนุ่มสาวยังเป็นมือใหม่ในทุกเรื่อง จึงยังไม่รู้จักความรัก พวกเขาต้องเรียนรู้มัน",
+      "source": {
+        "work": "Letters to a Young Poet",
+        "locator": "Letter Seven (14 May 1904)",
+        "translator": "M. D. Herter Norton (1934)",
+        "url": "https://en.wikiquote.org/wiki/Rainer_Maria_Rilke#Letters_to_a_Young_Poet_(1934)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "love"
+      ],
+      "mood": [
+        "heartbroken",
+        "confused"
+      ]
+    },
+    {
+      "author": "rainer-maria-rilke",
+      "en": "And as for the rest, let life happen to you. Believe me: life is in the right, always.",
+      "th": "ส่วนเรื่องที่เหลือ ปล่อยให้ชีวิตเกิดขึ้นกับคุณไปเถอะ เชื่อผมสิ ชีวิตถูกเสมอ",
+      "source": {
+        "work": "Letters to a Young Poet",
+        "locator": "Letter Nine (4 November 1904)",
+        "translator": "Stephen Mitchell (1984)",
+        "url": "https://en.wikiquote.org/wiki/Rainer_Maria_Rilke#Letters_to_a_Young_Poet_(1934)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "hope",
+        "control"
+      ],
+      "mood": [
+        "anxious",
+        "overwhelmed"
+      ]
+    },
+    {
+      "author": "rainer-maria-rilke",
+      "en": "No one can advise or help you — no one. There is only one thing you should do. Go into yourself.",
+      "th": "ไม่มีใครให้คำแนะนำหรือช่วยคุณได้ ไม่มีใครเลย มีเพียงสิ่งเดียวที่คุณควรทำ คือมองเข้าไปในตัวเอง",
+      "source": {
+        "work": "Letters to a Young Poet",
+        "locator": "Letter One (17 February 1903)",
+        "translator": "Stephen Mitchell (1984)",
+        "url": "https://en.wikiquote.org/wiki/Rainer_Maria_Rilke#Letters_to_a_Young_Poet_(1934)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "self",
+        "solitude"
+      ],
+      "mood": [
+        "lost",
+        "confused"
+      ]
+    },
+    {
+      "author": "rainer-maria-rilke",
+      "en": "If your daily life seems poor, do not blame it; blame yourself, tell yourself that you are not poet enough to call forth its riches; for to the creator there is no poverty and no poor indifferent place.",
+      "th": "ถ้าชีวิตประจำวันดูจืดชืดขาดแคลน อย่าโทษมัน ให้โทษตัวเองว่ายังเป็นกวีไม่มากพอจะเรียกความงามของมันออกมา เพราะสำหรับคนสร้างสรรค์ ไม่มีอะไรขาดแคลน และไม่มีที่ไหนจืดชืดไร้ค่า",
+      "source": {
+        "work": "Letters to a Young Poet",
+        "locator": "Letter One (17 February 1903)",
+        "translator": "M. D. Herter Norton (1934)",
+        "url": "https://en.wikiquote.org/wiki/Rainer_Maria_Rilke#Letters_to_a_Young_Poet_(1934)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "meaning",
+        "self"
+      ],
+      "mood": [
+        "bored"
+      ]
+    },
+    {
+      "author": "rainer-maria-rilke",
+      "en": "for here there is no place that does not see you. You must change your life.",
+      "th": "เพราะที่นี่ไม่มีตรงไหนเลยที่ไม่มองเห็นคุณ คุณต้องเปลี่ยนชีวิตของคุณ",
+      "orig": {
+        "lang": "de",
+        "text": "denn da ist keine Stelle, die dich nicht sieht. Du mußt dein Leben ändern."
+      },
+      "source": {
+        "work": "New Poems: The Other Part",
+        "locator": "\"Archaic Torso of Apollo\" (1908)",
+        "translator": "Stephen Mitchell (1982)",
+        "url": "https://www.gutenberg.org/ebooks/33864"
+      },
+      "verify": "primary",
+      "tags": [
+        "change",
+        "action"
+      ],
+      "mood": [
+        "stuck"
+      ]
+    },
+    {
+      "author": "rainer-maria-rilke",
+      "en": "Let everything happen to you: beauty and terror. Just keep going. No feeling is final.",
+      "th": "ปล่อยให้ทุกอย่างเกิดขึ้นกับเธอ ทั้งความงามและความน่ากลัว แค่เดินต่อไป ไม่มีความรู้สึกไหนอยู่ตลอดไป",
+      "orig": {
+        "lang": "de",
+        "text": "Laß dir Alles geschehn: Schönheit und Schrecken. Man muß nur gehn: Kein Gefühl ist das fernste."
+      },
+      "source": {
+        "work": "The Book of Hours",
+        "locator": "Book I, 59 (1905)",
+        "translator": "Anita Barrows and Joanna Macy (1996)",
+        "url": "https://onbeing.org/poetry/go-to-the-limits-of-your-longing/"
+      },
+      "verify": "primary",
+      "tags": [
+        "courage",
+        "emotion",
+        "change"
+      ],
+      "mood": [
+        "overwhelmed",
+        "heartbroken"
+      ]
+    },
+    {
+      "author": "blaise-pascal",
+      "en": "I have discovered that all the unhappiness of men arises from one single fact, that they cannot stay quietly in their own chamber.",
+      "th": "ฉันค้นพบว่า ความทุกข์ทั้งหมดของมนุษย์มาจากเรื่องเดียว คือเราอยู่เงียบ ๆ ในห้องของตัวเองไม่เป็น",
+      "orig": {
+        "lang": "fr",
+        "text": "tout le malheur des hommes vient d'une seule chose, qui est de ne pas savoir demeurer en repos dans une chambre."
+      },
+      "source": {
+        "work": "Pensées",
+        "locator": "139 (Brunschvicg)",
+        "translator": "W. F. Trotter (Harvard Classics, 1910)",
+        "url": "https://www.gutenberg.org/ebooks/18269"
+      },
+      "verify": "primary",
+      "tags": [
+        "solitude",
+        "happiness",
+        "mind"
+      ],
+      "mood": [
+        "bored",
+        "anxious"
+      ]
+    },
+    {
+      "author": "blaise-pascal",
+      "en": "Man is but a reed, the most feeble thing in nature; but he is a thinking reed.",
+      "th": "มนุษย์เป็นแค่ต้นอ้อ สิ่งที่อ่อนแอที่สุดในธรรมชาติ แต่เป็นต้นอ้อที่คิดได้",
+      "orig": {
+        "lang": "fr",
+        "text": "L'homme n'est qu'un roseau, le plus faible de la nature; mais c'est un roseau pensant."
+      },
+      "source": {
+        "work": "Pensées",
+        "locator": "347 (Brunschvicg)",
+        "translator": "W. F. Trotter (Harvard Classics, 1910)",
+        "url": "https://www.gutenberg.org/ebooks/18269"
+      },
+      "verify": "primary",
+      "tags": [
+        "mind",
+        "self",
+        "nature"
+      ],
+      "mood": [
+        "overwhelmed"
+      ]
+    },
+    {
+      "author": "blaise-pascal",
+      "en": "The heart has its reasons, which reason does not know.",
+      "th": "หัวใจมีเหตุผลของมัน ที่เหตุผลเองไม่มีวันรู้",
+      "orig": {
+        "lang": "fr",
+        "text": "Le cœur a ses raisons, que la raison ne connaît point."
+      },
+      "source": {
+        "work": "Pensées",
+        "locator": "277 (Brunschvicg)",
+        "translator": "W. F. Trotter (Harvard Classics, 1910)",
+        "url": "https://www.gutenberg.org/ebooks/18269"
+      },
+      "verify": "primary",
+      "tags": [
+        "love",
+        "reason",
+        "emotion"
+      ],
+      "mood": [
+        "heartbroken",
+        "confused"
+      ]
+    },
+    {
+      "author": "blaise-pascal",
+      "en": "The eternal silence of these infinite spaces frightens me.",
+      "th": "ความเงียบชั่วนิรันดร์ของห้วงอวกาศอันไร้ที่สิ้นสุดนี้ทำให้ฉันหวาดกลัว",
+      "orig": {
+        "lang": "fr",
+        "text": "Le silence éternel de ces espaces infinis m'effraie."
+      },
+      "source": {
+        "work": "Pensées",
+        "locator": "206 (Brunschvicg)",
+        "translator": "W. F. Trotter (Harvard Classics, 1910)",
+        "url": "https://www.gutenberg.org/ebooks/18269"
+      },
+      "verify": "primary",
+      "tags": [
+        "fear",
+        "meaning",
+        "nature"
+      ],
+      "mood": [
+        "anxious"
+      ]
+    },
+    {
+      "author": "blaise-pascal",
+      "en": "So we never live, but we hope to live; and, as we are always preparing to be happy, it is inevitable we should never be so.",
+      "th": "เราจึงไม่เคยได้มีชีวิตจริง ๆ เราแค่หวังว่าจะได้มีชีวิต และเพราะเรามัวแต่เตรียมตัวจะมีความสุขอยู่เสมอ เราจึงไม่มีวันได้มีความสุขเลย",
+      "source": {
+        "work": "Pensées",
+        "locator": "172 (Brunschvicg)",
+        "translator": "W. F. Trotter (Harvard Classics, 1910)",
+        "url": "https://www.gutenberg.org/ebooks/18269"
+      },
+      "verify": "primary",
+      "tags": [
+        "present",
+        "happiness",
+        "time"
+      ],
+      "mood": [
+        "anxious",
+        "stress"
+      ]
+    },
+    {
+      "author": "blaise-pascal",
+      "en": "We are so presumptuous that we would wish to be known by all the world, even by people who shall come after, when we shall be no more; and we are so vain that the esteem of five or six neighbours delights and contents us.",
+      "th": "เราหยิ่งผยองถึงขั้นอยากให้คนทั้งโลกรู้จัก แม้แต่คนที่จะเกิดมาหลังเราตายไปแล้ว แต่เราก็หลงตัวเองเสียจนแค่เพื่อนบ้านห้าหกคนชื่นชม ก็ปลื้มจนพอใจแล้ว",
+      "source": {
+        "work": "Pensées",
+        "locator": "148 (Brunschvicg)",
+        "translator": "W. F. Trotter (Harvard Classics, 1910)",
+        "url": "https://www.gutenberg.org/ebooks/18269"
+      },
+      "verify": "primary",
+      "tags": [
+        "ego",
+        "society",
+        "humor"
+      ],
+      "mood": [
+        "anxious"
+      ]
+    },
+    {
+      "author": "blaise-pascal",
+      "en": "Time heals griefs and quarrels, for we change and are no longer the same persons.",
+      "th": "เวลารักษาความโศกและความบาดหมางได้ เพราะเราเปลี่ยนไป และไม่ใช่คนเดิมอีกแล้ว",
+      "source": {
+        "work": "Pensées",
+        "locator": "122 (Brunschvicg)",
+        "translator": "W. F. Trotter (Harvard Classics, 1910)",
+        "url": "https://www.gutenberg.org/ebooks/18269"
+      },
+      "verify": "primary",
+      "tags": [
+        "time",
+        "change",
+        "suffering"
+      ],
+      "mood": [
+        "heartbroken",
+        "angry"
+      ]
+    },
+    {
+      "author": "martin-heidegger",
+      "en": "Everyone is the other, and no one is himself.",
+      "th": "ทุกคนเป็นคนอื่น และไม่มีใครเป็นตัวเอง",
+      "source": {
+        "work": "Being and Time",
+        "locator": "§27 (1927)",
+        "translator": "Joan Stambaugh (1996)",
+        "url": "https://en.wikiquote.org/wiki/Martin_Heidegger#Being_and_Time_(1927)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "self",
+        "society"
+      ],
+      "mood": [
+        "lost"
+      ]
+    },
+    {
+      "author": "martin-heidegger",
+      "en": "The grandeur of man is measured according to what he seeks and according to the urgency by which he remains a seeker.",
+      "th": "ความยิ่งใหญ่ของมนุษย์ วัดจากสิ่งที่เขาแสวงหา และจากแรงปรารถนาที่ทำให้เขายังเป็นผู้แสวงหาต่อไป",
+      "source": {
+        "work": "Basic Questions of Philosophy",
+        "locator": "p. 7 (lectures 1937–38)",
+        "translator": "Richard Rojcewicz and André Schuwer (1994)",
+        "url": "https://en.wikiquote.org/wiki/Martin_Heidegger"
+      },
+      "verify": "sourced",
+      "tags": [
+        "meaning",
+        "self"
+      ],
+      "mood": [
+        "lost"
+      ]
+    },
+    {
+      "author": "martin-heidegger",
+      "en": "The most thought-provoking thing in our thought-provoking time is that we are still not thinking.",
+      "th": "สิ่งที่น่าคิดที่สุดในยุคที่น่าคิดของเรา คือการที่เรายังไม่ได้คิดกันเลย",
+      "orig": {
+        "lang": "de",
+        "text": "Das Bedenklichste in unserer bedenklichen Zeit ist, dass wir noch nicht denken."
+      },
+      "source": {
+        "work": "What Is Called Thinking?",
+        "locator": "Lecture I (1951–52)",
+        "translator": "Fred D. Wieck and J. Glenn Gray (1968)",
+        "url": "https://en.wikiquote.org/wiki/Martin_Heidegger"
+      },
+      "verify": "sourced",
+      "tags": [
+        "mind",
+        "society"
+      ],
+      "mood": []
+    },
+    {
+      "author": "karl-jaspers",
+      "en": "the essence of philosophy is not the possession of the truth but the search for truth. … Philosophy means to be on the way. Its questions are more essential than its answers, and every answer becomes a new question.",
+      "th": "แก่นของปรัชญาไม่ใช่การครอบครองความจริง แต่คือการค้นหาความจริง ปรัชญาคือการอยู่ระหว่างทาง คำถามของมันสำคัญกว่าคำตอบ และทุกคำตอบจะกลายเป็นคำถามใหม่",
+      "source": {
+        "work": "Way to Wisdom",
+        "locator": "Ch. 1 \"What Is Philosophy?\", p. 12",
+        "translator": "Ralph Manheim (1951)",
+        "url": "https://en.wikiquote.org/wiki/Karl_Jaspers"
+      },
+      "verify": "sourced",
+      "tags": [
+        "truth",
+        "doubt",
+        "knowledge"
+      ],
+      "mood": [
+        "confused"
+      ]
+    },
+    {
+      "author": "karl-jaspers",
+      "en": "Man is always something more than what he knows of himself. He is not what he is simply once and for all, but is a process",
+      "th": "มนุษย์เป็นอะไรที่มากกว่าที่เขารู้จักตัวเองเสมอ เขาไม่ได้เป็นอย่างที่เป็นครั้งเดียวแล้วจบ แต่เป็นกระบวนการที่ยังดำเนินไป",
+      "source": {
+        "work": "Man in the Modern Age",
+        "locator": "1931",
+        "translator": "Eden and Cedar Paul (1933)",
+        "url": "https://en.wikiquote.org/wiki/Karl_Jaspers#Man_in_the_Modern_Age_(1933)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "self",
+        "change"
+      ],
+      "mood": [
+        "stuck",
+        "lost"
+      ]
+    },
+    {
+      "author": "karl-jaspers",
+      "en": "that man will be decisive for new creation who is able on his own initiative to seize the helm and steer a course of his own choosing — even if that course be opposed to the will of the masses.",
+      "th": "คนที่จะทำให้สิ่งใหม่เกิดขึ้นได้ คือคนที่กล้าคว้าหางเสือเอง แล้วนำทางไปตามเส้นทางที่ตัวเองเลือก ต่อให้มันสวนทางกับความต้องการของฝูงชนก็ตาม",
+      "source": {
+        "work": "Man in the Modern Age",
+        "locator": "1931",
+        "translator": "Eden and Cedar Paul (1933)",
+        "url": "https://en.wikiquote.org/wiki/Karl_Jaspers#Man_in_the_Modern_Age_(1933)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "choice",
+        "courage",
+        "society"
+      ],
+      "mood": [
+        "stuck"
+      ]
+    },
+    {
+      "author": "martin-buber",
+      "en": "All real life is meeting.",
+      "th": "ชีวิตที่แท้จริงทั้งหมด คือการได้พบกัน",
+      "orig": {
+        "lang": "de",
+        "text": "Alles wirkliche Leben ist Begegnung."
+      },
+      "source": {
+        "work": "I and Thou",
+        "locator": "Part One (1923)",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Martin_Buber#I_and_Thou_(1923)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "love",
+        "friendship",
+        "meaning"
+      ],
+      "mood": []
+    },
+    {
+      "author": "martin-buber",
+      "en": "Before his death, Rabbi Zusya said, \"In the coming world, they will not ask me: 'Why were you not Moses?' They will ask me: 'Why were you not Zusya?'\"",
+      "th": "ก่อนตาย รับบีซูสยาพูดว่า ในโลกหน้า เขาจะไม่ถามฉันว่าทำไมไม่เป็นโมเสส แต่จะถามว่าทำไมไม่เป็นซูสยา",
+      "source": {
+        "work": "Tales of the Hasidim",
+        "locator": "Rabbi Zusya before his death (1947)",
+        "translator": "Olga Marx (1947)",
+        "url": "https://en.wikiquote.org/wiki/Martin_Buber"
+      },
+      "verify": "sourced",
+      "tags": [
+        "self"
+      ],
+      "mood": [
+        "lost",
+        "anxious"
+      ]
+    },
+    {
+      "author": "martin-buber",
+      "en": "All journeys have secret destinations of which the traveler is unaware.",
+      "th": "ทุกการเดินทางมีจุดหมายลับ ที่แม้แต่คนเดินทางเองก็ไม่รู้",
+      "source": {
+        "work": "The Legend of the Baal-Shem",
+        "locator": "p. 36 (1995 edition)",
+        "translator": "Maurice Friedman (1955)",
+        "url": "https://en.wikiquote.org/wiki/Martin_Buber"
+      },
+      "verify": "sourced",
+      "tags": [
+        "meaning",
+        "change"
+      ],
+      "mood": [
+        "lost"
+      ]
+    },
+    {
+      "author": "paul-tillich",
+      "en": "But doubt is not the opposite of faith; it is an element of faith.",
+      "th": "ความสงสัยไม่ใช่สิ่งตรงข้ามกับศรัทธา แต่เป็นส่วนหนึ่งของศรัทธา",
+      "source": {
+        "work": "Systematic Theology",
+        "locator": "Vol. 2, p. 116 (1957)",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Paul_Tillich#Systematic_Theology_(1951–63)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "doubt",
+        "truth"
+      ],
+      "mood": [
+        "confused"
+      ]
+    },
+    {
+      "author": "paul-tillich",
+      "en": "even in the state of despair one has enough being to make despair possible.",
+      "th": "แม้ในยามสิ้นหวังที่สุด เราก็ยังมีชีวิตเหลืออยู่มากพอที่จะสิ้นหวังได้",
+      "source": {
+        "work": "The Courage to Be",
+        "locator": "p. 177 (1952)",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Paul_Tillich#The_Courage_to_Be_(1952)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "hope",
+        "suffering"
+      ],
+      "mood": [
+        "heartbroken",
+        "overwhelmed"
+      ]
+    },
+    {
+      "author": "paul-tillich",
+      "en": "Doubt is the necessary tool of knowledge. And meaninglessness is no threat so long as enthusiasm for the universe and for man as its center is alive.",
+      "th": "ความสงสัยเป็นเครื่องมือที่ความรู้ขาดไม่ได้ และความไร้ความหมายก็ไม่น่ากลัว ตราบใดที่เรายังตื่นเต้นกับจักรวาล และกับมนุษย์ที่อยู่ตรงกลางของมัน",
+      "source": {
+        "work": "The Courage to Be",
+        "locator": "p. 121 (1952)",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Paul_Tillich#The_Courage_to_Be_(1952)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "meaning",
+        "doubt",
+        "knowledge"
+      ],
+      "mood": [
+        "bored",
+        "lost"
+      ]
+    },
+    {
+      "author": "miguel-de-unamuno",
+      "en": "The greatest height of heroism to which an individual, like a people, can attain is to know how to face ridicule; better still, to know how to make oneself ridiculous and not to shrink from the ridicule.",
+      "th": "วีรกรรมสูงสุดที่คนคนหนึ่ง หรือคนทั้งชาติจะไปถึงได้ คือการรู้จักเผชิญหน้ากับการถูกหัวเราะเยาะ ยิ่งกว่านั้น คือการกล้าทำตัวให้น่าหัวเราะ โดยไม่หดหัวหนีเสียงหัวเราะนั้น",
+      "orig": {
+        "lang": "es",
+        "text": "El más alto heroísmo para un individuo, como para un pueblo, es saber afrontar el ridículo; es, mejor aún, saber ponerse en ridículo y no acobardarse en él."
+      },
+      "source": {
+        "work": "Tragic Sense of Life",
+        "locator": "Conclusion",
+        "translator": "J. E. Crawford Flitch (1921)",
+        "url": "https://www.gutenberg.org/ebooks/14636"
+      },
+      "verify": "primary",
+      "tags": [
+        "courage",
+        "humor",
+        "society"
+      ],
+      "mood": [
+        "anxious"
+      ]
+    },
+    {
+      "author": "miguel-de-unamuno",
+      "en": "\"Light, light, more light!\" they tell us that the dying Goethe cried. No, warmth, warmth, more warmth! for we die of cold and not of darkness. It is not the night kills, but the frost.",
+      "th": "ว่ากันว่าเกอเธ่ร้องขอก่อนตายว่า แสงสว่าง แสงสว่าง ขอแสงสว่างอีก ไม่หรอก ต้องเป็นความอบอุ่น ความอบอุ่น ขอความอบอุ่นอีก เพราะเราตายเพราะหนาว ไม่ใช่เพราะมืด ราตรีไม่ได้ฆ่าเรา ความเยือกแข็งต่างหากที่ฆ่า",
+      "orig": {
+        "lang": "es",
+        "text": "«¡Luz, luz, más luz todavía!» dicen que dijo Goethe moribundo. No, calor, calor, más calor todavía, que nos morimos de frío y no de oscuridad. La noche no mata; mata el hielo."
+      },
+      "source": {
+        "work": "Tragic Sense of Life",
+        "locator": "Conclusion",
+        "translator": "J. E. Crawford Flitch (1921)",
+        "url": "https://www.gutenberg.org/ebooks/14636"
+      },
+      "verify": "primary",
+      "tags": [
+        "love",
+        "emotion",
+        "reason"
+      ],
+      "mood": [
+        "heartbroken"
+      ]
+    },
+    {
+      "author": "jose-ortega-y-gasset",
+      "en": "I am I and my circumstance, and if I don't save it I don't save myself.",
+      "th": "ฉันคือตัวฉันกับสถานการณ์รอบตัวฉัน ถ้าฉันไม่กอบกู้มัน ฉันก็กอบกู้ตัวเองไม่ได้",
+      "orig": {
+        "lang": "es",
+        "text": "Yo soy yo y mi circunstancia, y si no la salvo a ella no me salvo yo."
+      },
+      "source": {
+        "work": "Meditations on Quixote",
+        "locator": "\"To the Reader\" (1914)",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/José_Ortega_y_Gasset#Meditations_on_Quixote_(1914)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "self",
+        "responsibility"
+      ],
+      "mood": [
+        "stuck"
+      ]
+    },
+    {
+      "author": "jose-ortega-y-gasset",
+      "en": "He who does not really feel himself lost, is lost without remission; that is to say, he never finds himself, never comes up against his own reality.",
+      "th": "คนที่ไม่เคยรู้สึกว่าตัวเองหลงทางจริง ๆ คือคนที่หลงทางไปแล้วอย่างไม่มีทางกลับ เพราะเขาจะไม่มีวันพบตัวเอง ไม่มีวันได้เผชิญหน้ากับความจริงของตัวเอง",
+      "source": {
+        "work": "The Revolt of the Masses",
+        "locator": "p. 157 (1930)",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/The_Revolt_of_the_Masses"
+      },
+      "verify": "sourced",
+      "tags": [
+        "self",
+        "truth"
+      ],
+      "mood": [
+        "lost"
+      ]
+    },
+    {
+      "author": "jose-ortega-y-gasset",
+      "en": "Tell me to what you pay attention and I will tell you who you are.",
+      "th": "บอกมาว่าคุณใส่ใจกับอะไร แล้วฉันจะบอกว่าคุณเป็นใคร",
+      "source": {
+        "work": "Man and Crisis",
+        "locator": "p. 94",
+        "translator": "Mildred Adams (1958)",
+        "url": "https://en.wikiquote.org/wiki/José_Ortega_y_Gasset#Man_and_Crisis_(1962)"
+      },
+      "verify": "sourced",
+      "tags": [
+        "self",
+        "mind"
+      ],
+      "mood": []
+    },
+    {
+      "author": "albert-camus",
+      "en": "In the middle of winter I at last discovered that there was in me an invincible summer.",
+      "th": "กลางฤดูหนาว ในที่สุดฉันก็พบว่า ในตัวฉันมีฤดูร้อนที่ไม่มีวันพ่ายแพ้",
+      "source": {
+        "work": "Return to Tipasa",
+        "locator": "in Summer (1954)",
+        "translator": "Justin O'Brien (1955)",
+        "url": "https://en.wikiquote.org/wiki/Albert_Camus"
+      },
+      "verify": "sourced",
+      "tags": [
+        "hope",
+        "courage",
+        "suffering"
+      ],
+      "mood": [
+        "heartbroken",
+        "overwhelmed"
+      ]
+    },
+    {
+      "author": "albert-camus",
+      "en": "We always deceive ourselves twice about the people we love — first to their advantage, then to their disadvantage.",
+      "th": "เราหลอกตัวเองสองครั้งเสมอเรื่องคนที่เรารัก ครั้งแรกมองเขาดีเกินจริง ครั้งหลังมองเขาแย่เกินจริง",
+      "orig": {
+        "lang": "fr",
+        "text": "Nous nous trompons toujours deux fois sur ceux que nous aimons: d'abord à leur avantage, puis à leur désavantage."
+      },
+      "source": {
+        "work": "A Happy Death",
+        "locator": "written 1936–38, published 1971",
+        "translator": "Richard Howard (1972)",
+        "url": "https://en.wikiquote.org/wiki/Albert_Camus"
+      },
+      "verify": "sourced",
+      "tags": [
+        "love",
+        "truth"
+      ],
+      "mood": [
+        "heartbroken"
+      ]
+    },
+    {
+      "author": "albert-camus",
+      "en": "I continue to believe that this world has no higher meaning. But I know that something in it has meaning, and that is man, because he is the only being to demand to have one.",
+      "th": "ฉันยังเชื่อว่าโลกนี้ไม่มีความหมายสูงส่งอะไร แต่ฉันรู้ว่ามีบางอย่างในโลกที่มีความหมาย สิ่งนั้นคือมนุษย์ เพราะมนุษย์เป็นสิ่งเดียวที่เรียกร้องจะมีความหมาย",
+      "orig": {
+        "lang": "fr",
+        "text": "Je continue à croire que ce monde n'a pas de sens supérieur. Mais je sais que quelque chose en lui a du sens et c'est l'homme, parce qu'il est le seul être à exiger d'en avoir."
+      },
+      "source": {
+        "work": "Letters to a German Friend",
+        "locator": "Fourth letter, p. 71 (Gallimard, 1948)",
+        "translator": null,
+        "url": "https://fr.wikiquote.org/wiki/Albert_Camus"
+      },
+      "verify": "sourced",
+      "tags": [
+        "meaning",
+        "hope"
+      ],
+      "mood": [
+        "lost"
+      ]
+    }
+  ],
+  "prompts_th": [
+    "ถ้าไม่มีใครคาดหวังอะไรจากคุณเลย วันนี้คุณอยากทำอะไร",
+    "มีทางเลือกไหนที่คุณเลี่ยงไม่ยอมตัดสินใจอยู่ และการไม่เลือก ก็เป็นการเลือกแบบหนึ่งหรือเปล่า",
+    "ตอนนี้คุณใช้ชีวิตแบบที่ตัวเองเลือก หรือแบบที่คนรอบตัวเลือกให้มากกว่ากัน",
+    "ถ้าต้องนิยามตัวเองจากสิ่งที่ทำจริงในสัปดาห์นี้ ไม่ใช่สิ่งที่ตั้งใจจะทำ คุณคือใคร",
+    "อะไรคือเหตุผลจริง ๆ ที่ทำให้คุณยังลุกจากเตียงได้ทุกเช้า",
+    "ความทุกข์ที่คุณเจออยู่ตอนนี้ กำลังสอนอะไรคุณเกี่ยวกับตัวเอง",
+    "มีคำถามไหนในใจที่คุณรีบอยากได้คำตอบ ถ้าลองอยู่กับคำถามนั้นไปก่อน จะเป็นอย่างไร",
+    "เรื่องไหนที่คุณโทษคนอื่นหรือโทษสถานการณ์ ทั้งที่ยังมีบางส่วนที่คุณเลือกเองได้",
+    "ถ้าชีวิตถามคุณว่าจะทำอะไรกับวันนี้ คุณจะตอบมันว่าอะไร",
+    "ตัวคุณในอีกห้าปีข้างหน้า จะขอบคุณการตัดสินใจเรื่องไหนที่คุณทำวันนี้",
+    "เวลารู้สึกว่างเปล่า ความว่างนั้นกำลังบอกว่าชีวิตคุณขาดอะไรไป",
+    "คุณเคยทำตามความคาดหวังของใครนานจนลืมถามตัวเองว่าอยากได้อะไรบ้างไหม",
+    "มีอะไรที่คุณกลัวจะเริ่มต้น ถ้าเริ่มด้วยก้าวที่เล็กที่สุด ก้าวนั้นคืออะไร",
+    "คุณรักใครสักคนแบบที่อยากเปลี่ยนเขา หรือแบบที่ยอมรับเขาอย่างที่เขาเป็น",
+    "ถ้าต้องใช้ชีวิตวันนี้ซ้ำไปอีกนับครั้งไม่ถ้วน คุณอยากเปลี่ยนอะไรในวันนี้",
+    "อะไรในชีวิตคุณที่มีความหมาย เพราะคุณเป็นคนตัดสินใจให้มันมีความหมายเอง",
+    "เสียงในหัวที่บอกว่าคุณยังไม่ดีพอ เป็นเสียงของคุณเองจริงหรือ",
+    "ถ้าเลิกเปรียบเทียบตัวเองกับคนอื่นได้หนึ่งวัน คุณจะรู้สึกกับตัวเองอย่างไร"
+  ],
+  "prompts_en": [
+    "If nobody expected anything from you, what would you do today?",
+    "Which choice are you avoiding right now, and isn't not choosing also a choice?",
+    "Are you living the life you chose, or the one the people around you chose for you?",
+    "If you were defined by what you actually did this week rather than what you meant to do, who would you be?",
+    "What really gets you out of bed in the morning?",
+    "What is your current struggle teaching you about yourself?",
+    "Which question are you rushing to answer, and what would happen if you lived with it a little longer?",
+    "Where are you blaming other people or circumstances when some part of it is still yours to choose?",
+    "If life asked you what you will do with today, what would you answer?",
+    "Which decision you make today will you thank yourself for in five years?",
+    "When you feel empty, what is that emptiness telling you is missing?",
+    "Have you followed someone else's expectations for so long that you forgot to ask what you want?",
+    "What are you afraid to start, and what is the smallest possible first step?",
+    "Do you love someone as they are, or as you want them to become?",
+    "If you had to live today over and over forever, what would you change about it?",
+    "What in your life means something because you decided that it does?",
+    "Is the voice telling you that you are not enough really your own?",
+    "How would you feel about yourself if you stopped comparing yourself with others for one day?"
+  ],
+  "misattributed": [
+    {
+      "author": "viktor-frankl",
+      "en": "Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.",
+      "th": "ระหว่างสิ่งเร้ากับการตอบสนองมีช่องว่างอยู่ ในช่องว่างนั้นคือพลังที่เราจะเลือกการตอบสนอง และในการตอบสนองนั้นคือการเติบโตและเสรีภาพของเรา",
+      "why_th": "ไม่พบประโยคนี้ในงานเขียนของฟรังเคิล สตีเฟน โควีย์เป็นคนทำให้ดัง โดยเล่าว่าอ่านเจอในหนังสือเล่มหนึ่งที่จำชื่อไม่ได้ และแนวคิดนี้ใกล้กับงานของนักจิตวิทยารอลโล เมย์มากกว่า",
+      "real_source": "Popularized by Stephen R. Covey, who said he read it in a book he could not identify; the closest earlier idea is in Rollo May (1963)",
+      "url": "https://quoteinvestigator.com/2018/02/18/response/"
+    },
+    {
+      "author": "soren-kierkegaard",
+      "en": "Life is not a problem to be solved, but a reality to be experienced.",
+      "th": "ชีวิตไม่ใช่ปัญหาที่ต้องแก้ แต่เป็นความจริงที่ต้องลงไปสัมผัส",
+      "why_th": "ไม่พบในงานเขียนของเคียร์เคอกอร์ วารสารปี 1948 เรียกมันว่าคำขวัญแบบเคียร์เคอกอร์ ซึ่งหมายถึงสำนวนที่ได้กลิ่นอายของเขา ไม่ใช่คำพูดของเขาเอง",
+      "real_source": "Not in Kierkegaard's writings; called a \"Kierkegaardian slogan\" in The Hibbert Journal (1948) and pinned on him in books from 1976 on",
+      "url": "https://en.wikiquote.org/wiki/Søren_Kierkegaard#Misattributed"
+    },
+    {
+      "author": "soren-kierkegaard",
+      "en": "If you label me, you negate me.",
+      "th": "ถ้าคุณตีตราฉัน คุณก็ลบตัวตนของฉันทิ้ง",
+      "why_th": "ไม่มีในงานของเคียร์เคอกอร์ พบครั้งแรกในนิตยสารคอสโมโพลิแทนปี 1974 และน่าจะเป็นการสรุปความคิดของเขาในบทความของฌ็อง วาล ปี 1945",
+      "real_source": "Cosmopolitan (January 1974); probably a paraphrase from Jean Wahl, \"Existentialism: A Preface\", The New Republic (1945)",
+      "url": "https://en.wikiquote.org/wiki/Søren_Kierkegaard#Disputed"
+    },
+    {
+      "author": "friedrich-nietzsche",
+      "en": "The individual has always had to struggle to keep from being overwhelmed by the tribe. If you try it, you will be lonely often, and sometimes frightened. But no price is too high to pay for the privilege of owning yourself.",
+      "th": "ปัจเจกต้องดิ้นรนมาตลอดเพื่อไม่ให้ถูกฝูงชนกลืนหาย ถ้าคุณลอง คุณจะเหงาบ่อย และบางครั้งก็กลัว แต่ไม่มีราคาไหนแพงเกินไปสำหรับสิทธิ์ที่จะเป็นเจ้าของตัวเอง",
+      "why_th": "ประโยคนี้เป็นของรัดยาร์ด คิปลิง จากบทสัมภาษณ์ปี 1935 ที่ตีพิมพ์ในรีดเดอร์ส ไดเจสต์ปี 1959 ไม่ใช่ของนีทเชอ",
+      "real_source": "Rudyard Kipling, 1935 interview published in Reader's Digest (1959)",
+      "url": "https://en.wikiquote.org/wiki/Friedrich_Nietzsche#Misattributed"
+    },
+    {
+      "author": "friedrich-nietzsche",
+      "en": "All I need is a sheet of paper and something to write with, and then I can turn the world upside down.",
+      "th": "ขอแค่กระดาษแผ่นหนึ่งกับอะไรสักอย่างไว้เขียน ฉันก็พลิกโลกได้แล้ว",
+      "why_th": "ไม่มีในงานเขียนของนีทเชอ และน่าจะมาจากนิยายชุด Inkheart ของคอร์เนเลีย ฟุงเคอ นักเขียนชาวเยอรมันยุคปัจจุบัน",
+      "real_source": "Most likely from Cornelia Funke's Inkheart trilogy",
+      "url": "https://en.wikiquote.org/wiki/Friedrich_Nietzsche#Misattributed"
+    },
+    {
+      "author": "simone-de-beauvoir",
+      "en": "Each of us is responsible for everything and to every human being.",
+      "th": "เราแต่ละคนต้องรับผิดชอบต่อทุกสิ่ง และต่อมนุษย์ทุกคน",
+      "why_th": "เป็นแนวคิดจากพี่น้องคารามาซอฟของดอสโตเยฟสกี โบวัวร์แค่ยกมาเป็นคำขึ้นต้นนิยายเรื่องเลือดของคนอื่น คนจึงเข้าใจผิดว่าเป็นคำของเธอ",
+      "real_source": "Dostoevsky, The Brothers Karamazov; used as the epigraph of Beauvoir's The Blood of Others (1945)",
+      "url": "https://en.wikiquote.org/wiki/Simone_de_Beauvoir#Misattributed"
+    },
+    {
+      "author": "fyodor-dostoevsky",
+      "en": "The darker the night, the brighter the stars, the deeper the grief, the closer is God!",
+      "th": "ยิ่งราตรีมืดมิด ดวงดาวยิ่งสว่าง ยิ่งเศร้าลึกเท่าไร พระเจ้าก็ยิ่งใกล้",
+      "why_th": "หนังสือพัฒนาตัวเองมักอ้างว่ามาจากอาชญากรรมและการลงทัณฑ์ แต่ที่จริงเป็นกลอนไม่มีชื่อปี 1878 ของอาปอลลอน ไมคอฟ กวีชาวรัสเซีย",
+      "real_source": "Apollon Maykov, untitled poem (1878)",
+      "url": "https://en.wikiquote.org/wiki/Fyodor_Dostoevsky#Misattributed"
+    },
+    {
+      "author": "fyodor-dostoevsky",
+      "en": "The degree of civilization in a society can be judged by entering its prisons.",
+      "th": "ความศิวิไลซ์ของสังคมวัดได้จากการเดินเข้าไปดูเรือนจำของสังคมนั้น",
+      "why_th": "มักอ้างว่ามาจากบันทึกจากบ้านคนตาย แต่ไม่มีประโยคนี้อยู่ในหนังสือเล่มนั้นเลย",
+      "real_source": "Not found in The House of the Dead or elsewhere in Dostoevsky",
+      "url": "https://en.wikiquote.org/wiki/Fyodor_Dostoevsky#Misattributed"
+    },
+    {
+      "author": "blaise-pascal",
+      "en": "There is a God-shaped vacuum in the heart of each man...",
+      "th": "ในใจของมนุษย์ทุกคนมีช่องว่างที่เป็นรูปร่างของพระเจ้า",
+      "why_th": "เป็นสำนวนสรุปความยุคหลัง สิ่งที่ปาสกาลเขียนจริงคือ ในใจคนมีเหวลึกไร้ก้นที่เติมเต็มได้ด้วยสิ่งไร้ขอบเขตเท่านั้น คือพระเจ้า",
+      "real_source": "Modern paraphrase of Pensées 425 (Brunschvicg), the \"infinite abyss\" that only God can fill",
+      "url": "https://en.wikiquote.org/wiki/Blaise_Pascal#Misattributed"
+    },
+    {
+      "author": "albert-camus",
+      "en": "Don't walk behind me, I may not lead. Don't walk in front of me, I may not follow. Just walk beside me and be my friend.",
+      "th": "อย่าเดินตามหลังฉัน ฉันอาจนำทางไม่เป็น อย่าเดินนำหน้าฉัน ฉันอาจตามไม่ทัน แค่เดินข้าง ๆ กันแล้วเป็นเพื่อนกันก็พอ",
+      "why_th": "มีคนตามหาประโยคนี้ในงานของกามูที่ยังเหลืออยู่ทั้งหมดแล้วแต่ไม่พบ จึงน่าจะเป็นคำคมที่ถูกแปะชื่อเขาในภายหลัง",
+      "real_source": "Not found in Camus's works; apocryphal",
+      "url": "https://en.wikiquote.org/wiki/Albert_Camus#Disputed"
+    }
+  ]
+}

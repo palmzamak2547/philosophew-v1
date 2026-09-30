@@ -1,0 +1,800 @@
+{
+  "marcus-aurelius": [
+    {
+      "t": "You have power over your mind - not outside events. Realize this, and you will find strength.",
+      "why": "Misattributed",
+      "note": "Not from any known translation of the Meditations. Quote is attributed to Marcus Aurelius, e.g. in the 2006 book: Personal Best: 10 lessons to help you achieve your true potential, page 195. The quote could be a paraphrase of a line at Meditations iv. 3: \"that things do not take hold upon the mind, but stand without unmoved, and that disturbances come only from the judgement within\" (Farquharson translation) Investigating the source of the quote, Zachary G. Augustine, 2017"
+    },
+    {
+      "t": "Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.",
+      "why": "Misattributed",
+      "note": "Cited as being from The Meditations. This quote does not exist there; although there are several other statements about everything being an opinion, none of these are connected to a sentence about perspectives."
+    },
+    {
+      "t": "When you arise in the morning think of what a privilege it is to be alive, to think, to enjoy, to love...",
+      "why": "Misattributed",
+      "note": "Actual source is New Thought author Elbert Hubbard in his magazine The Fra, volume 12, issue no. 6, on page 171:. See this Reddit post for more discussion"
+    },
+    {
+      "t": "The object of life is not to be on the side of the majority, but to escape finding oneself in the ranks of the insane.",
+      "why": "Misattributed",
+      "note": "The first citation appears in a 1946 translation of Leo Tolstoy's Recollections and Essays ' by Oxford University Press. The claim made that it is from Marcus Aurelius. Nothing closely resembling it appears in Meditations, nor does it appear in a 1904 translation of Bethink Yourselves. The other surrounding quotations from Kant also appear to be attributed or do not exist."
+    },
+    {
+      "t": "When you arise in the moring, think of what a precious privelege it is to be alive-- to breathe, to think, to enjoy, to love",
+      "why": "Misattributed",
+      "note": "Actual source is New Thought author Elbert Hubbard in his magazine The Fra, volume 12, issue no. 6, on page 171:. See this Reddit post for more discussion"
+    },
+    {
+      "t": "When you arise in the morning, think of what a precious privilege it is to be alive - to breathe, to think, to enjoy, to love.",
+      "why": "Misattributed",
+      "note": "Actual source is New Thought author Elbert Hubbard in his magazine The Fra, volume 12, issue no. 6, on page 171:. See this Reddit post for more discussion"
+    },
+    {
+      "t": "He who lives in harmony with himself lives in harmony with the universe.",
+      "why": "Disputed",
+      "note": "Attributed in The Life You Were Born to Live: Finding Your Life Purpose (1995) by Dan Millman, Pt. 2, Ch. 2: Cooperation and Balance"
+    }
+  ],
+  "seneca": [
+    {
+      "t": "Luck is what happens when preparation meets opportunity.",
+      "why": "Disputed",
+      "note": "Has been attributed to Seneca since the 1990s (eg. Gregory K. Ericksen, (1999), Women entrepreneurs only: 12 women entrepreneurs tell the stories of their success, page ix.). Other books ascribe the saying to either Darrell K. Royal (former American football player, born 1924) or Elmer G. Letterman (Insurance salesman and writer, 1897-1982). However, it is unlikely either man originated the saying. A version that reads \"He is lucky who realizes that luck is the point where preparation meets opportunity\" can be found (unattributed) in the 1912 The Youth's Companion: Volume 86. The quote might be a distortion of the following passage by Seneca (who makes no mention of \"luck\" and is in fact quoting his friend Demetrius the Cynic):\"The best wrestler,\" he would say, \"is not he who has learned thoroughly all the tricks and twists of the art, which are seldom met with in actual wrestling, but he who has well and carefully trained himself in one or two of them, and watches keenly for an opportunity of practising them.\" - Seneca, On Benefits, vii. 1"
+    },
+    {
+      "t": "Religion is regarded by the common people as true, by the wise as false, and by rulers as useful.",
+      "why": "Disputed",
+      "note": "As quoted in What Great Men Think About Religion (1945) by Ira D. Cardiff, p. 342. No original source for this has been found in the works of Seneca, or published translations. It is likely that the quote originates with Edward Gibbon who wrote:The various modes of worship which prevailed in the Roman world were all considered by the people as equally true; by the philosopher as equally false; and by the magistrate as equally useful. - Edward Gibbon, The History of the Decline and Fall of the Roman Empire, Vol. I, Ch. II Elbert Hubbard would claim in 1904 (Little Journeys: To the homes of great philosophers: Seneca) that Gibbon was \"making a free translation from Seneca\"."
+    },
+    {
+      "t": "Religion is regarded by the common people as true, by the wise as false, and by the rulers as useful.",
+      "why": "Disputed",
+      "note": "As quoted in What Great Men Think About Religion (1945) by Ira D. Cardiff, p. 342. No original source for this has been found in the works of Seneca, or published translations. It is likely that the quote originates with Edward Gibbon who wrote:The various modes of worship which prevailed in the Roman world were all considered by the people as equally true; by the philosopher as equally false; and by the magistrate as equally useful. - Edward Gibbon, The History of the Decline and Fall of the Roman Empire, Vol. I, Ch. II Elbert Hubbard would claim in 1904 (Little Journeys: To the homes of great philosophers: Seneca) that Gibbon was \"making a free translation from Seneca\"."
+    }
+  ],
+  "epictetus": [
+    {
+      "t": "Don't explain your philosophy. Embody it.",
+      "why": "Misattributed",
+      "note": "Has been ascribed to Epictetus since around 2016, (e.g. on this Daily Stoic web page). It may be an attempt to summarise the start of Enchiridion 46: \"On no occasion call yourself a philosopher, and do not, for the most part, talk among laymen about your philosophic principles, but do what follows from your principles.\""
+    },
+    {
+      "t": "The greater the difficulty, the more glory in surmounting it. Skillful pilots gain their reputation from storms and tempests.",
+      "why": "Misattributed",
+      "note": "This quote is frequently attributed to Epictetus, e.g. by Brigid Delaney, How not to panic during the coronavirus pandemic: welcome hard times like a Stoic, The Guardian, 17 March 2020. The quote is also frequently attributed to Epicurus. In fact this quotation first appears as two separated sentences in \"An Essay on the Vindication of Epicurus and his Doctrine\" (1712) by Charles de Saint-Évremond: \"the greater the difficulty the more glory in surmounting it.... Skilful pilots gain their reputation from storms and tempests.\""
+    }
+  ],
+  "zeno-of-citium": [
+    {
+      "t": "Man conquers the world by conquering himself.",
+      "why": "Misattributed",
+      "note": "This quote has been ascribed to Zeno on Twitter since 2015. It similarly appears in the 2018 novel, Secrets Under the Sun, by Nadia Marks. It could be a paraphrase of this line from Plato: \"it is the first and best of all victories for a man to conquer himself\" (Laws, i. 626E, Burges trans.). The Buddhist text, the Dhammapada, contains the line: \"Greater in battle than the man who would conquer a thousand-thousand men, is he who would conquer just one-himself.\" (8.103)"
+    }
+  ],
+  "cicero": [
+    {
+      "t": "A room without books is like a body without a soul.",
+      "why": "Disputed",
+      "note": "Attributed to Cicero in J. M. Braude's Speaker's Desk Book of Quips, Quotes, & Anecdotes (Jaico Pub. House, 1966), p. 52. Dennis McHenry in a 2011 post at theCAMPVS.com identified a source for the exact form of words in the essay \"On the Pleasure of Reading\" by Sir John Lubbock, published in The Contemporary Review, vol. 49 (1886), pp. 240-51, in which Lubbock wrote that \"Cicero described a room without books as a body without a soul\" (p. 241). The same sentence may also be found on p. 61 of Lubbock's collection The Pleasures of Life. Part I. 18th edition (London and New York: Macmillan and Co. 1890), in a lecture titled \"A Song of Books\". McHenry suggested that Lubbock may have had in mind the words \"postea vero quam Tyrannio mihi libros disposuit mens addita videtur meis aedibus\" at Cicero, Ad Atticum 4.8, which are translated by E. O. Winstedt on p. 293 of Cicero: Letters to Atticus I (London: William Heinemann, and New York: G. P. Putnam's Sons 1912) \"Since Tyrannio has arranged my books, the house seems to have acquired a soul\", and by Evelyn Shuckburgh on p. 234 of The Letters of Cicero. Vol. I. B. C. 68-52 (London: George Bell and Sons 1908) \"Moreover, since Tyrannio has arranged my books for me, my house seems to have had a soul added to it\" (although the Latin word \"mens\", rendered \"soul\" by both Winstedt and Shuckburgh, is more usually translated by the English \"mind\"). D. R. Shackleton Bailey in Cicero's Letters to Atticus (Harmondsworth: Penguin Books 1978), p. 162, translated \"And now that Tyrannio has put my books straight, my house seems to have woken to life\"."
+    },
+    {
+      "t": "Times are bad. Children no longer obey their parents, and everyone is writing a book.",
+      "why": "Misattributed",
+      "note": "As quoted in InfoWorld, Vol. 23, No. 16, 16 April 2001, p. 49. This had been attributed previously to many other sources from 1908 on, according to this analysis by Quote Investigator."
+    },
+    {
+      "t": "Live as brave men; and if fortune is adverse, front its blows with brave hearts.",
+      "why": "Misattributed",
+      "note": "The origin of this quote is often misattributed to Cicero; however, it is from Line 135-136 of Book 2, Satire 2 by Horace, \"Quocirca vivite fortes, fortiaque adversis opponite pectora rebus.\" The English translation that most closely matches the one misrepresented as Cicero's is from a collection of Horace's prose written by E. C. Wickham, \"So live, my boys, as brave men; and if fortune is adverse, front its blows with brave hearts.\""
+    }
+  ],
+  "socrates": [
+    {
+      "t": "Know thyself.",
+      "why": "Misattributed",
+      "note": "This statement actually predates Socrates, and was used as an Inscription at the Oracle of Delphi. It is a saying traditionally ascribed to one of the \"Seven Sages of Greece\", notably Solon, but accounts vary as to whom. Socrates himself is reported to have quoted it in Plato's dialogue Alcibiades, where he described it as \"the Delphian inscription\". According to Diogenes Laërtius, Thales was the one who first stated it."
+    },
+    {
+      "t": "The children now love luxury. They have bad manners, contempt for authority; they show disrespect for elders and love chatter in place of exercise.",
+      "why": "Misattributed",
+      "note": "Adapted from a passage in Schools of Hellas, the posthumously published dissertation of Kenneth John Freeman (1907). The original passage was a paraphrase of the complaints directed against young people in ancient times. See the Quote Investigator article. see Respectfully Quoted: A Dictionary of Quotations Requested from the Congressional Research Service, Edited by Suzy Platt, 1989, number 195. Last line: \"Evidently, the quotation is spurious.\" See also this Google Answers discussion about the topic. Somewhat similar sentiments are in (lines 961-985) of Aristophanes' The Clouds, a comedic play known for its caricature of Socrates. However, the lines are delivered by the character \"Right\" or \"Just Discourse\", not Socrates."
+    },
+    {
+      "t": "Education is the kindling of a flame, not the filling of a vessel.",
+      "why": "Misattributed",
+      "note": "No findable citation to Socrates. First appears in this form in the 1990s, such as in the Douglas Bradley article \"Lighting a Flame in the Kickapoo Valley\", Wisconsin Ideas, UW System, 1994. It appears to be a variant on a statement from Plutarch in On Listening to Lectures: \"The correct analogy for the mind is not a vessel that needs filling, but wood that needs igniting - no more - and then it motivates one towards originality and instills the desire for truth.\" Alternate translation, from the Loeb Classical Library edition, 1927: \"For the mind does not require filling like a bottle, but rather, like wood, it only requires kindling to create in it an impulse to think independently and an ardent desire for the truth.\" Often quoted as, \"The mind is not a vessel to be filled but a fire to be kindled.\" Variants of the quote that are correctly attributed to Plutarch but which substitute \"education\" for \"the mind\" date back at least as far as the 1960s, as seen in the 1968 book Vision and Image by James Johnson Sweeney, p. 119. Variants with \"education\" are also sometimes misattributed to William Butler Yeats, as in the 1993 book The Harper Book of Quotations (third edition), p. 138. In the previously-mentioned Vision and Image, the misquote of Plutarch involving \"education\" (which has exactly the same wording as the quote attributed to Yeats in The Harper Book of Quotations) is immediately preceded by a different quote from Yeats (\"Culture does not consist in acquiring opinions but in getting rid of them\"), so it's possible this is the source of the confusion-see the snippets here and here. The misattribution may also be related to a statement about Plato's views made by Benjamin Jowett in the introduction to his translation of Plato's Republic (in which all the main ideas were attributed to Socrates, as in all of Plato's works), on p. cci of the third edition (1888): \"Education is represented by him, not as the filling of a vessel, but as the turning the eye of the soul towards the light.\" Jowett seems to be loosely paraphrasing a statement Plato attributes to Socrates in a dialogue with Glaucon, in sections 518b-518c of book 7 of The Republic, where Socrates says: \"education is not in reality what some people proclaim it to be in their professions. What they aver is that they can put true knowledge into a soul that does not possess it, as if they were inserting vision into blind eyes... But our present argument indicates that the true analogy for this indwelling power in the soul and the instrument whereby each of us apprehends is that of an eye that could not be converted to the light from the darkness except by turning the whole body.\" Further discussion of the history of this quote can be found in this entry from the \"Quote Investigator\" website."
+    },
+    {
+      "t": "By all means, marry. If you get a good wife, you'll become happy; if you get a bad one, you'll become a philosopher.",
+      "why": "Misattributed",
+      "note": "Origin unknown. Attributed to Sydney Smith in Speaker's Handbook of Epigrams and Witticisms (1955) by Herbert Prochnow, p. 190. Variant reported in Why Are You Single? (1949) by Hilda Holland, p. 49: «When asked by a young man whether to marry, Socrates is said to have replied: \"By all means, marry. If you will get for yourself a good wife, you will be happy forever after; and if by chance you will get a common scold like my Xanthippe-why then you will become a philosopher.\"» Google books shows another variant from a collection of 1935 issues of The Golden Book Magazine: \"Marry by all means. If you get a good wife you will become very happy; if you get a bad one you will become a philosopher-and that is good for every man!\" Some further investigation shows this was from the July 1935 issue, p. 97, but no source is given there beyond the attribution to Socrates."
+    },
+    {
+      "t": "The greatest way to live with honour in this world is to be what we pretend to be.",
+      "why": "Misattributed",
+      "note": "No findable citation to Socrates. Found ascribed to Socrates in Stephen Covey (1992), Principle Centered Leadership (1990) p. 51."
+    },
+    {
+      "t": "As for me all I know is that I know nothing.",
+      "why": "Misattributed",
+      "note": "See All I know is that I know nothing on Wikipedia for a detailed account of the origins of this attribution. μοι νυνὶ γέγονεν ἐκ τοῦ διαλόγου μηδὲν εἰδέναι· ὁπότε γὰρ τὸ δίκαιον μὴ οἶδα ὅ ἐστιν, σχολῇ εἴσομαι εἴτε ἀρετή τις οὖσα τυγχάνει εἴτε καὶ οὔ, καὶ πότερον ὁ ἔχων αὐτὸ οὐκ εὐδαίμων ἐστὶν ἢ εὐδαίμων. Hence the result of the discussion, as far as I'm concerned, is that I know nothing, for when I don't know what justice is, I'll hardly know whether it is a kind of virtue or not, or whether a person who has it is happy or unhappy. Republic, 354b-c (conclusion of book I), as translated by M.A. Grube in Republic (Grube Edition) (1992) revised by C.D.C. Reeve, p. 31 Confer Apology 21d (see above), Theaetetus 161b (see above) and Meno 80d1-3: \"So now I do not know what virtue is; perhaps you knew before you contacted me, but now you are certainly like one who does not know.\" Confer Cicero, Academica, Book I, section 1: \"ipse se nihil scire id unum sciat (\"He himself thinks he knows one thing, that he knows nothing\"). Often quoted as \"scio me nihil scire\" or \"scio me nescire.\" A variant is found in von Kues, De visione Dei, XIII, 146 (Werke, Walter de Gruyter, 1967, p. 312): \"...et hoc scio solum, quia scio me nescire... know alone, that (or because) I know, that I do not know.\" In the modern era, the Latin quote was back-translated to Greek as \"ἓν οἶδα ὅτι οὐδὲν οἶδα\", hèn oîda hóti oudèn oîda). Confer Diogenes Laertius, II.32 (see above)"
+    },
+    {
+      "t": "The greatest way to live with honor in this world is to be what we pretend to be.",
+      "why": "Misattributed",
+      "note": "No findable citation to Socrates. Found ascribed to Socrates in Stephen Covey (1992), Principle Centered Leadership (1990) p. 51."
+    },
+    {
+      "t": "True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.",
+      "why": "Misattributed",
+      "note": "Sometimes presented as a direct quote, this was actually Manuel J. Smith's own general description of Socrates' teachings in his 1974 book When I Say No, I Feel Guilty, on p. 65 of the 1975 edition."
+    },
+    {
+      "t": "The secret of change is to focus all of your energy, not on fighting the old, but on building the new.",
+      "why": "Misattributed",
+      "note": "This is actually a quotation from a character named Socrates in Way of the Peaceful Warrior: A Book that Changes Lives, by Dan Millman."
+    }
+  ],
+  "plato": [
+    {
+      "t": "Be kind, for everyone you meet is fighting a harder battle.",
+      "why": "Misattributed",
+      "note": "Attributed to Plato in No Ordinary Moments: A Peaceful Warrior's Guide to Daily Life (1992) by Dan Millman. It has also been wrongly attributed to Philo. It is a variant of the Christmas message \"Be pitiful, for every man is fighting a hard battle,\" written by the Scottish preacher Ian Maclaren (also known as John Watson) in 1897. Be Kind; Everyone You Meet is Fighting a Hard Battle. Plato? Philo of Alexandria?"
+    },
+    {
+      "t": "We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.",
+      "why": "Misattributed",
+      "note": "This quotation, often attributed on the Internet to Plato, cannot be found in any of Plato's writings, nor can it be found in any published work anywhere until recent years. If it really were a quotation by Plato, then some author in the recorded literature of the last several centuries would have mentioned that quote, but they did not. The sentiment isn't new, however. The ancient Roman Seneca, in his work on \"Morals,\" quoted an earlier Roman writer, Lucretius (who wrote about the year 50 B.C.), as saying \"we are as much afraid in the light as children in the dark.\" (Seneca was paraphrasing a longer passage by Lucretius from De Rerum Natura (On the Nature of Things), Book II, lines 56 et seq.)"
+    },
+    {
+      "t": "Only the dead have seen the end of war.",
+      "why": "Misattributed",
+      "note": "Attributed to Plato by General Douglas MacArthur, earliest source found is work of George Santayana who doesn't attribute it to anyone. Plato and his dialogues by Bernard SUZANNE, \"Frequently Asked Questions about Plato: Did Plato write \"Only the dead have seen the end of war\"?\""
+    },
+    {
+      "t": "Be kind for everyone you meet is fighting a hard battle.",
+      "why": "Misattributed",
+      "note": "Attributed to Plato in No Ordinary Moments: A Peaceful Warrior's Guide to Daily Life (1992) by Dan Millman. It has also been wrongly attributed to Philo. It is a variant of the Christmas message \"Be pitiful, for every man is fighting a hard battle,\" written by the Scottish preacher Ian Maclaren (also known as John Watson) in 1897. Be Kind; Everyone You Meet is Fighting a Hard Battle. Plato? Philo of Alexandria?"
+    }
+  ],
+  "aristotle": [
+    {
+      "t": "It is the mark of an educated mind to be able to entertain a thought without accepting it.",
+      "why": "Disputed",
+      "note": "Attributed to Aristotle in Lowell L. Bennion, Religion and the Pursuit of Truth, Deseret Book Company, 1959, p. 52, and in American Opinion, Volume 24, Robert Welch, Inc., 1981, p. 23. Possibly a discombobulation of the Nicomachean Ethics Book I, 1094b.24 quote above."
+    },
+    {
+      "t": "The aim of art is to represent not the outward appearance of things, but their inward significance.",
+      "why": "Misattributed",
+      "note": "Source: Will Durant, The Story of Philosophy: The Lives and Opinions of the World's Greatest Philosophers (1926), reprinted in Simon & Schuster/Pocket Books, 1991, ], Ch. II: Aristotle and Greek Science; part VI: Psychology and the Nature of Art: \"Artistic creation, says Aristotle, springs from the formative impulse and the craving for emotional expression. Essentially the form of art is an imitation of reality; it holds the mirror up to nature. There is in man a pleasure in imitation, apparently missing in lower animals. Yet the aim of art is to represent not the outward appearance of things, but their inward significance; for this, and not the external mannerism and detail, is their reality.\""
+    },
+    {
+      "t": "Happiness depends upon ourselves.",
+      "why": "Disputed",
+      "note": "An interpretative gloss of Aristotle's position in Nicomachean Ethics book 1 section 9, tacitly inserted by J. A. K. Thomson in his English translation The Ethics of Aristotle (1955). The original Greek at Book I 1099b.29, reads ὁμολογούμενα δὲ ταῦτ' ἂν εἴη καὶ τοῖς ἐν ἀρχῇ, which W. D. Ross translates fairly literally as nd this will be found to agree with what we said at the outset. Thomson's much freer translation renders the same passage thus: he conclusion that happiness depends upon ourselves is in harmony with what I said in the first of these lectures; the words \"that happiness depends upon ourselves\" were added by Thomson to clarify what \"the conclusion\" is, but they do not appear in the original Greek of Aristotle. Rackham's earlier English translation added a similar gloss, but averted confusion by confining it to a footnote."
+    },
+    {
+      "t": "Tis the mark of an educated mind to be able to entertain a thought without accepting it.",
+      "why": "Disputed",
+      "note": "Attributed to Aristotle in Lowell L. Bennion, Religion and the Pursuit of Truth, Deseret Book Company, 1959, p. 52, and in American Opinion, Volume 24, Robert Welch, Inc., 1981, p. 23. Possibly a discombobulation of the Nicomachean Ethics Book I, 1094b.24 quote above."
+    },
+    {
+      "t": "Tolerance and apathy are the last virtues of a dying society.",
+      "why": "Misattributed",
+      "note": "Not in any of Aristotle's extant works."
+    },
+    {
+      "t": "There is only one way to avoid criticism: do nothing, say nothing, and be nothing.",
+      "why": "Misattributed",
+      "note": "Source: Elbert Hubbard, Little Journeys to the Homes of American Statesmen (1898), p. 370: \"If you would escape moral and physical assassination, do nothing, say nothing, be nothing-court obscurity, for only in oblivion does safety lie.\" Other versions of the saying were repeated in several of Hubbard's later writings."
+    },
+    {
+      "t": "Excellence is an art won by training and habituation. We do not act rightly because we have virtue or excellence, but we rather have those because we have acted rightly. We are what we repeatedly do. Excellence, then, is not an act but a habit.",
+      "why": "Misattributed",
+      "note": "Variant: We are what we repeatedly do, therefore excellence is not an act, but a habit. Source: Will Durant, The Story of Philosophy: The Lives and Opinions of the World's Greatest Philosophers (1926), reprinted in Simon & Schuster/Pocket Books, 1991, ], Ch. II: Aristotle and Greek Science; part VII: Ethics and the Nature of Happiness: \"Excellence is an art won by training and habituation: we do not act rightly because we have virtue or excellence, but we rather have these because we have acted rightly; 'these virtues are formed in man by his doing the actions'; we are what we repeatedly do. Excellence, then, is not an act but a habit: 'the good of man is a working of the soul in the way of excellence in a complete life... for as it is not one swallow or one fine day that makes a spring, so it is not one day or a short time that makes a man blessed and happy'\" (p. 76). The quoted phrases within the quotation are from the Nicomachean Ethics, Book II, 4; Book I, 7. The misattribution is from taking Durant's summation of Aristotle's ideas as being the words of Aristotle himself."
+    },
+    {
+      "t": "The worst form of inequality is to try to make unequal things equal.",
+      "why": "Misattributed",
+      "note": "This quote has been misattributed to Aristotle for a long time. A translation of the \"Politics\" of Heinrich von Treitschke published in 1916 (Dugden and De Bille) refers to \"the time-honored truth, laid down by Aristotle, that the greatest wrong is to equalize the unequal.\" The wording presented above first appears in 1974 in an explanation of Aristotle's politics in Time magazine, before being condensed to an epigram as \"Aristotle's Axiom\" in Peter's People (1979) by Laurence J. Peter"
+    },
+    {
+      "t": "We live in deeds, not years; in thoughts, not breaths; in feelings, not in figures on a dial. We should count time by heart throbs. He most lives who thinks most, feels the noblest, acts the best.",
+      "why": "Misattributed",
+      "note": "This is actually from the poem \"We live in deeds...\" by Philip James Bailey. This explains the strange pattern of capitalization."
+    },
+    {
+      "t": "Suffering becomes beautiful when anyone bears great calamities with cheerfulness, not through insensibility but through greatness of mind.",
+      "why": "Misattributed",
+      "note": "Widely attributed since the mid to late 19th century, this apparently derives from a gloss or commentary on the following passage from Aristotle's Nicomachean Ethics (c. 325 BC), Book 1, Ch. XI (Bekker No. 1100b.13-14): ὅμως δὲ καὶ ἐν τούτοις διαλάμπει τὸ καλόν, ἐπειδὰν φέρῃ τις εὐκόλως πολλὰς καὶ μεγάλας ἀτυχίας, μὴ δι᾽ ἀναλγησίαν, ἀλλὰ γεννάδας ὢν καὶ μεγαλόψυχος. εἰ δ᾽ εἰσὶν αἱ ἐνέργειαι κύριαι τῆς ζωῆς, καθάπερ εἴπομεν, οὐδεὶς ἂν γένοιτο τῶν μακαρίων ἄθλιος But nevertheless, even in these, nobility of the soul is conspicuous, when a man bears and digests many and great misfortunes, not from insensibility, but because he is high spirited and magnanimous. But if the energies are the things that constitute the bliss or the misery of life, as we said, no happy man can ever become miserable. A New Translation of the Nicomachean Ethics of Aristotle (1835), 3rd. ed., Oxford: J. Vincent. p. 30 Nevertheless even under these the force of nobility shines out, when a man bears calmly many great disasters, not from insensibility, but because he is generous and of a great soul. Setting happiness then, as we do, not in the outward surroundings of man, but in his inward state, we may fairly say that no one who has attained to the bliss of virtue will ever justly become an object of pity or contempt. St. George William Joseph Stock, Lectures in the Lyceum or Aristotle's ethics for English readers (1897), p. 47"
+    },
+    {
+      "t": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+      "why": "Misattributed",
+      "note": "Variant: We are what we repeatedly do, therefore excellence is not an act, but a habit. Source: Will Durant, The Story of Philosophy: The Lives and Opinions of the World's Greatest Philosophers (1926), reprinted in Simon & Schuster/Pocket Books, 1991, ], Ch. II: Aristotle and Greek Science; part VII: Ethics and the Nature of Happiness: \"Excellence is an art won by training and habituation: we do not act rightly because we have virtue or excellence, but we rather have these because we have acted rightly; 'these virtues are formed in man by his doing the actions'; we are what we repeatedly do. Excellence, then, is not an act but a habit: 'the good of man is a working of the soul in the way of excellence in a complete life... for as it is not one swallow or one fine day that makes a spring, so it is not one day or a short time that makes a man blessed and happy'\" (p. 76). The quoted phrases within the quotation are from the Nicomachean Ethics, Book II, 4; Book I, 7. The misattribution is from taking Durant's summation of Aristotle's ideas as being the words of Aristotle himself."
+    }
+  ],
+  "francis-bacon": [
+    {
+      "t": "It is a sad fate for a man to die too well known to everybody else, and still unknown to himself.",
+      "why": "Misattributed",
+      "note": "A translation of chorus lines in a classical tragedy by Seneca the Younger, Thyestes, lines 401-403, appearing in Essays, Civil and Moral by Francis Bacon, part XI, Of Great Place. The original lines in latin are Illi mors gravis incubate/Qui notus nimis omnibus/Ignotus moritur sibi. Inaccurately attributed to Francis Bacon in Amazing Grace, a 2006 historical drama."
+    },
+    {
+      "t": "Imagination was given to man to compensate him for what he is not; a sense of humor to console him for what he is.",
+      "why": "Disputed",
+      "note": "Attributed to Bacon without citation of work in Geary's Guide to the World's Great Aphorists (2007) by James Geary, p. 112; this is sometimes attributed to others, also without citation of works, but is most often quoted as an anonymous aphorism, with no published sources yet located prior to The Deke Quarterly, Vol. 56, No. 3 (1938)"
+    }
+  ],
+  "rene-descartes": [
+    {
+      "t": "Doubt is the origin of wisdom.",
+      "why": "Misattributed",
+      "note": "The Latin version may be found in a footnote of the 1880 edition of \"Publilii Syri mimi Sententiae\"."
+    }
+  ],
+  "john-locke": [
+    {
+      "t": "We are like chameleons, we take our hue and the color of our moral character, from those who are around us.",
+      "why": "Misattributed",
+      "note": "Attributed to Locke on various quotes sites and on social media, this quotation is a false rendering of \"We are all a sort of chameleons, that still take a tincture from things near us: nor is it to be wondered at in children, who better understand what they see, than what they hear\" from Some Thoughts Concerning Education (1693)."
+    }
+  ],
+  "david-hume": [
+    {
+      "t": "Truth springs from argument amongst friends.",
+      "why": "Misattributed",
+      "note": null
+    }
+  ],
+  "immanuel-kant": [
+    {
+      "t": "Have patience awhile; slanders are not long-lived. Truth is the child of time; erelong she shall appear to vindicate thee.",
+      "why": "Misattributed",
+      "note": "This quote has been misattributed to Kant since the late 19th century, but it is actually from The Balm of Gilead by Joseph Hall (1646), the section \"Comfort from the short life of slander\"."
+    },
+    {
+      "t": "Experience without theory is blind, but theory without experience is mere intellectual play.",
+      "why": "Disputed",
+      "note": "This is declared to be \"an old Kantian maxim\" in General Systems Vol. 7-8 (1962)‎, p. 11, by the Society for the Advancement of General Systems Theory, but may simply be a paraphrase or summation of Kantian ideas. Kant's treatment of the transcendental logic in the First Critique contains a portion, of which this quote may be an ambiguously worded paraphrase. Kant, claiming that both reason and the senses are essential to the formation of our understanding of the world, writes: \"Without sensibility no object would be given to us, and without understanding none would be thought. Thoughts without content are empty, intuitions without concepts are blind (A51/B75)\"."
+    },
+    {
+      "t": "To be is to do.",
+      "why": "Misattributed",
+      "note": "This is usually cited as an ancient maxim, sometimes attributed to Socrates"
+    }
+  ],
+  "john-stuart-mill": [
+    {
+      "t": "I have learned to seek my happiness by limiting my desires, rather than in attempting to satisfy them.",
+      "why": "Disputed",
+      "note": "Attributed to John Stuart Mill in The Phrenological Journal and Science of Health, Vol. LXXXV (September 1887), p. 170"
+    }
+  ],
+  "bertrand-russell": [
+    {
+      "t": "Few people can be happy unless they hate some other person nation or creed.",
+      "why": "Disputed",
+      "note": "Attributed to Russell in Prochnow's Speakers Handbook of Epigrams and Witticisms (1955), p. 132"
+    },
+    {
+      "t": "In all affairs love religion politics or business it's a healthy idea now and then to hang a question mark on things you have long taken for granted.",
+      "why": "Disputed",
+      "note": "As quoted in The Reader's Digest, Vol. 37 (1940), p. 90; no specific source given."
+    },
+    {
+      "t": "One must care about a world one will not see.",
+      "why": "Disputed",
+      "note": "Attributed to Russell in The Wordsworth Dictionary of Quotations (1997), p. 450, and in Robertson's Dictionary of Quotations (1998), p. 362, but no specific source is given."
+    },
+    {
+      "t": "War does not determine who is right - only who is left.",
+      "why": "Disputed",
+      "note": "This has often been published as a quotation of Russell, when an author is given (e.g. in Quote Unquote - A HandBook of Quotation, 2005, p. 291), but without any sourced citations, and seems to have circulated as an anonymous proverb as early as 1932."
+    },
+    {
+      "t": "If there were in the world today any large number of people who desired their own happiness more than they desired the unhappiness of others, we could have a paradise in a few years.",
+      "why": "Disputed",
+      "note": "As quoted in Think, Vol. 27 (1961), p. 32"
+    },
+    {
+      "t": "The time you enjoy wasting is not wasted time.",
+      "why": "Misattributed",
+      "note": "From Marthe Troly-Curtin's Phrynette Married (1912). Misattributed to Bertrand Russell due to an ambiguous entry in Laurence J. Peter's Peter's Quotations: Ideas for Our Time (1977)"
+    },
+    {
+      "t": "None but a coward dares to boast that he has never known fear.",
+      "why": "Misattributed",
+      "note": "Attributed to Russell in M. Kumar Dictionary of Quotations, p. 76, but actually said by Marshal Lannes, according to The London Literary Gazette and Journal of Belles Lettres, Arts, Sciences (1824), p. 664"
+    },
+    {
+      "t": "I believe in using words, not fists. I believe in my outrage knowing people are living in boxes on the street. I believe in honesty. I believe in a good time. I believe in good food. I believe in sex.",
+      "why": "Disputed",
+      "note": "No known source; also attributed to Susan Sarandon."
+    }
+  ],
+  "ludwig-wittgenstein": [
+    {
+      "t": "The sole remaining task for philosophy is the analysis of language.",
+      "why": "Disputed",
+      "note": "Though this has been quoted extensively as if it were a statement of Wittgenstein, it was apparently first published in A Brief History of Time (1988) by Stephen Hawking, p. 175, where it is presented in quotation marks and thus easily interpreted to be a quotation, but could conceivably be Hawking paraphrasing or giving his own particular summation of Wittgenstein's ideas, as there seem to be no published sources of such a statement prior to this one. The full remark by Hawking reads::: Philosophers reduced the scope of their inquiries so much that Wittgenstein, the most famous philosopher of this century, said, \"The sole remaining task for philosophy is the analysis of language.\" What a comedown from the great tradition of philosophy from Aristotle to Kant!"
+    },
+    {
+      "t": "If we spoke a different language, we would perceive a somewhat different world.",
+      "why": "Misattributed",
+      "note": "This actually first appears in Recent Experiments in Psychology (1950) by Leland Whitney Crafts, Théodore Christian Schneirla, and Elsa Elizabeth Robinson, where it is expressed::: If we used a different vocabulary or if we spoke a different language, we would perceive a somewhat different world.:* Randy Allen Harris, in Rhetoric and Incommensurability (2005), p. 35, and an endnote on p. 138 indicates the misattribution seems to have originated in a misreading of quotes in Patterns Of Discovery: An Inquiry Into The Conceptual Foundations of Science (1958) by Norwood Russell Hanson, where an actual quotation of WIttgenstein on p. 184 is followed by one from the book on psychology."
+    }
+  ],
+  "carl-sagan": [
+    {
+      "t": "Somewhere, something incredible is waiting to be known.",
+      "why": "Misattributed",
+      "note": "This phrase was created by reporter Sharon Begley in the end of a 1977 Newsweek article with an extended profile of Carl Sagan. It was a final conclusion about Sagan's work and the topic of hypotethical extra-terrestrial life forms. \"Quote Investigator\""
+    },
+    {
+      "t": "If it can be destroyed by the truth, it deserves to be destroyed by the truth.",
+      "why": "Misattributed",
+      "note": "\"That which can be destroyed by the truth, should be.\" - P. C. Hodgell, in her 1994 novel Seeker's Mask."
+    },
+    {
+      "t": "We can judge our progress by the courage of our questions and the depth of our answers, our willingness to embrace what is true rather than what feels good.",
+      "why": "Misattributed",
+      "note": "By Art Koroma, from page 256 of Holy Axiom Truth Exposed... the Bible Is a Myth (2014) It appears President Barack Obama started this misattribution. I can find no reference to this quote on the Internet prior to his May 15, 2016 commencement address at Rutgers State University. https://obamawhitehouse.archives.gov/the-press-office/2016/05/15/remarks-president-commencement-address-rutgers-state-university-new"
+    },
+    {
+      "t": "Christianity may be good and Satanism evil. Under the Constitution, however, both are neutral. This is an important, but difficult, concept for many law enforcement officers to accept. They are paid to uphold the penal code, not the Ten Commandments... The fact is that far more crime and child abuse has been committed by zealots in the name of God, Jesus and Mohammed than has ever been committed in the name of Satan. Many people don't like that statement, but few can argue with it.",
+      "why": "Misattributed",
+      "note": "From the book The Demon-Haunted World Sagan quoting from Kenneth V. Lanning, FBI Behavioral Science Research Unit, from an article Satanic, Occult and Ritualistic Crime in The Police Chief, Oct 1989"
+    },
+    {
+      "t": "Absence of evidence is not evidence of absence.",
+      "why": "Misattributed",
+      "note": "Martin Rees - Sagan refers to this quote in The Demon-Haunted World (1995) (see above)"
+    },
+    {
+      "t": "Appeal to ignorance - the claim that whatever has not been proved false must be true, and vice versa (e.g. There is no compelling evidence that UFOs are not visiting the Earth; therefore UFOs exist - and there is intelligent life elsewhere in the universe. Or: There may be seventy kazillion other worlds, but not one is known to have the moral advancement of the Earth, so we're still central to the Universe.) This impatience with ambiguity can be criticized in the phrase: absence of evidence is not evidence of absence.",
+      "why": "Misattributed",
+      "note": "Martin Rees - Sagan refers to this quote in The Demon-Haunted World (1995) (see above)"
+    }
+  ],
+  "soren-kierkegaard": [
+    {
+      "t": "Life is not a problem to be solved, but a reality to be experienced.",
+      "why": "Misattributed",
+      "note": "Attributed to Kierkegaard in a number of books, the earliest located on Google Books being the 1976 book Jack Kerouac: Prophet of the New Romanticism by Robert A. Hipkiss, p. 83. In the 1948 The Hibbert Journal: Volumes 46-47 the quote is referred to as \"the famous Kierkegaardian slogan\" on p. 237, which may be intended to suggest the phrase is Kierkegaard-esque rather than being something written by Kierkegaard, while in the 1949 The Ampleforth Journal the quote is now described on p. 5 as \"Kierkegaard's famous slogan\". In reality this seems to be a slightly altered version of the quote \"The mystery of life is not a problem to be solved; it is a reality to be experienced\" which appeared in the 1928 book The Conquest of Illusion by Jacobus Johannes Leeuw, p. 9. An earlier analogue less similar in wording can be found in the 1922 book The General Problems of Psychology by Robert Mac Dougall, who writes on p. 160 that \"Religion does not offer a truth to be proved, but a reality to be experienced.\""
+    },
+    {
+      "t": "Once you label me you negate me.",
+      "why": "Disputed",
+      "note": "As attributed in Cosmopolitan, January 1974, p. 36. Variants: I am no part of a whole, I am not integrated, not included. To put me in this whole you imagine is to negate me. Attributed as part of Kierkegaard's response to Hegel in the article \"Existentialism: A Preface\" by Jean Wahl, in The New Republic, 30 September 1945. Though the statement is in quotes it may have been intended as a paraphrase of Kierkegaard's criticism of Hegel. The paragraph of Wahl's article containing these words was also quoted on p. 190 of the book A Kierkegaard Anthology edited by Robert Bretall (1946 edition); the book Kierkegaard's Relations to Hegel Reconsidered by Jon Stewart (2003), the first few pages of which are viewable here, mentions on p. 8 that Bretall's anthology \"has served as an introductory textbook for anglophone students of Kierkegaard for many years now.\" Put me in a System and you negate me-I am not just a mathematical symbol-I am. The Outsider (1956) by Colin Wilson, p. 20. The statement was prefaced by \"He declared\" but was not in quotes, so unclear if intended as a direct quote or a paraphrase, and it was part of a paragraph discussing Kierkegaard's response to Hegel, so may have been based on Wahl's article. Put a label on me and you negate me. Attributed to Kierkegaard in a letter from Marcia Jacobs to the New York Times Magazine, 15 October 1967, p. 16. Viewable on p. 241 of the online \"timesmachine\" here. Once you label me you negate me. As attributed in Journal of Marriage and Family Counseling, Vol. 2 (1976) by American Association of Marriage and Family Counselors, p. 33. When you label me, you negate me. As attributed in Inner Joy (1985) by Kory Bloomfield, p 169"
+    }
+  ],
+  "fyodor-dostoevsky": [
+    {
+      "t": "The darker the night, the brighter the stars, The deeper the grief, the closer is God!",
+      "why": "Misattributed",
+      "note": "Attributed to Dostoyevsky's Crime and Punishment in self-help books and on social media. The words are from an untitled poem (dated 1878) by the 19th century Russian poet Apollon Maykov. The full quatrain goes: \"Не говори, что нет спасенья, / Что ты в печалях изнемог: / Чем ночь темней, тем ярче звезды, / Чем глубже скорбь, тем ближе Бог.\""
+    }
+  ],
+  "friedrich-nietzsche": [
+    {
+      "t": "The individual has always had to struggle to keep from being overwhelmed by the tribe. If you try it, you will be lonely often, and sometimes frightened. But no price is too high to pay for the privilege of owning yourself.",
+      "why": "Misattributed",
+      "note": "Often misattributed to Nietzsche, and was actually said by Rudyard Kipling during a 1935 interview that was published in Reader's Digest in 1959."
+    },
+    {
+      "t": "No price is too high to pay for the privilege of owning yourself.",
+      "why": "Misattributed",
+      "note": "Often misattributed to Nietzsche, and was actually said by Rudyard Kipling during a 1935 interview that was published in Reader's Digest in 1959."
+    },
+    {
+      "t": "All I need is a sheet of paper and something to write with, and then I can turn the world upside down.",
+      "why": "Misattributed",
+      "note": "Commonly attributed to Nietzsche, but is most likely from Cornelia Funke's Inkheart trilogy."
+    },
+    {
+      "t": "A moral system valid for all is basically immoral.",
+      "why": "Misattributed",
+      "note": "Generally attributed to Nietzsche, this is a quotation from Curtis Cate's Friedrich Nietzsche: A Biography (2003) and is the author's interpretation of Nietzsche's Aphorism 221 (Beyond Good and Evil)"
+    },
+    {
+      "t": "All things are subject to interpretation. Whichever interpretation prevails at a given time is a function of power and not truth.",
+      "why": "Disputed",
+      "note": "Often attributed to Nietzsche especially on social media, but no citation is ever given. Dr Zuleyka Zevallos explains there is a similar quote on \"Notes\" (1888), translated in The Portable Nietzsche (edited by Walter Kaufmann) but it doesn't mentions power: https://socialscienceinsights.com/2015/01/20/all-things-are-subject-to-interpretation-whichever-interpretation-prevails-at-a-given-time-is-a-function-of-power/"
+    }
+  ],
+  "franz-kafka": [
+    {
+      "t": "Don't bend; don't water it down; don't try to make it logical; don't edit your own soul according to the fashion. Rather, follow your most intense obsessions mercilessly.",
+      "why": "Misattributed",
+      "note": "Attributed to Kafka by numerous sources, confirmed to be from Anne Rice."
+    },
+    {
+      "t": "One idiot is one idiot. Two idiots are two idiots. Ten thousand idiots are a political party.",
+      "why": "Misattributed",
+      "note": "Was written in a slightly different way by Leo Longanesi in Italian, above form has been attributed to Kafka without evidence."
+    }
+  ],
+  "albert-camus": [
+    {
+      "t": "Should I kill myself, or have a cup of coffee?",
+      "why": "Disputed",
+      "note": "There is no documented evidence that Camus ever wrote or said this, aside from Barry Schwartz's uncited mention in The Paradox of Choice. It is likely falsely attributed."
+    },
+    {
+      "t": "I think my life is of great importance, but I also think it is meaningless.",
+      "why": "Misattributed",
+      "note": "Attributed to Camus on social media, this sentence was taken from the Wikipedia article on Camus: \"In Le Mythe, dualism becomes a paradox: we value our own lives in spite of our mortality and in spite of the universe's silence. While we can live with a dualism (I can accept periods of unhappiness, because I know I will also experience happiness to come), we cannot live with the paradox (I think my life is of great importance, but I also think it is meaningless).\" Retrieved 16 July 2015, from https://en.wikipedia.org/wiki/Albert_Camus#Ideas_on_the_absurd"
+    },
+    {
+      "t": "Don't walk behind me I may not lead. Don't walk in front of me I may not follow. Just walk beside me and be my friend.",
+      "why": "Disputed",
+      "note": "Widely attributed, but likely apocryphal. Researchers have searched for this quote unsuccessfully in Camus' extant works."
+    },
+    {
+      "t": "The only way to deal with an unfree world is to become so absolutely free that your very existence is an act of rebellion.",
+      "why": "Disputed",
+      "note": "To be found on quotes sites, but always without citation."
+    }
+  ],
+  "the-buddha": [
+    {
+      "t": "The only real failure in life is not to be true to the best one knows.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "True love is born from understanding.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "May all that have life be delivered from suffering",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "Believe nothing, no matter where you read it, or who said it, no matter if I have said it, unless it agrees with your own reason and your own common sense.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "With our thoughts we make the world.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "Happiness comes when your work and words are of benefit to others.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "a dog is not considered a good dog because he is a good barker. a man is not considered a good man because he is a good talker.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "To force oneself to believe and to accept a thing without understanding is political, and not spiritual or intellectual.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "Doubt everything. Find your own light.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "Your purpose in life is to find your purpose and give your whole heart and soul to it",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "Peace comes from within. Do not seek it without.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "Live in joy, in love,even among those who hate.Live in joy, in health,even among the afflicted.Live in joy, in peace,even among the troubled.Look within, be still.Free from fear and attachment,know the sweet joy of the way.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "As you walk and eat and travel, be where you are. Otherwise you will miss most of your life.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "If you do not change direction, you may end up where you are heading",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "Just as a snake sheds its skin, we must shed our past over and over again.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "Like the moon, come out from behind the clouds! Shine.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "How wonderful! How wonderful! All things are perfect, exactly as they are.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "You only lose what you cling to.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "To live a pure unselfish life, one must count nothing as one's own in the midst of abundance.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "friendship is the only cure for hatred, the only guarantee of peace.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "Those who are free of resentful thoughts surely find peace.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "The only way to bring peace to the earth is to learn to make our own life peaceful.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "You, yourself, as much as anybody in the entire universe, deserve your love and affection.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "You can search throughout the entire universe for someone who is more deserving of your love and affection than you are yourself, and that person is not to be found anywhere. You yourself, as much as anybody in the entire universe deserve your love and affection.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "Whatever words we utter should be chosen with care for people will hear them and be influenced by them for good or ill.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "Work out your own salvation. Do not depend on others.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "Without health life is not life it is only a state of langour and suffering - an image of death.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "Even death is not to be feared by one who has lived wisely.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "To be idle is a short road to death and to be diligent is a way of life; foolish people are idle, wise people are diligent.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "Just as treasures are uncovered from the earth, so virtue appears from good deeds, and wisdom appears from a pure and peaceful mind. To walk safely through the maze of human life, one needs the light of wisdom and the guidance of virtue.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "Virtue is persecuted more by the wicked than it is loved by the good.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "There are only two mistakes one can make along the road to truth; not going all the way, and not starting.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "In a controversy the instant we feel anger we have already ceased striving for the truth, and have begun striving for ourselves.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "It is better to travel well than to arrive.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on them unless they act.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "You will not be punished for your anger, you will be punished by your anger.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "There is no path to happiness. Happiness is the path.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "An insincere and evil friend is more to be feared than a wild beast; a wild beast may wound your body, but an evil friend will wound your mind.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "He is able who thinks he is able.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "The mind is everything. What you think you become.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "In separateness lies the world's great misery, in compassion lies the world's true strength.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "Happiness comes when your work and words are of benefit to yourself and others.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "Just as a candle cannot burn without fire, men cannot live without a spiritual life.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "The way is not in the sky. The way is in the heart.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "The thought manifests as the word. The word manifests as the deed. The deed develops into habit. And the habit hardens into character.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "To live a pure unselfish life, one must count nothing as ones own in the midst of abundance.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "We are what we think. All that we are arises with our thoughts. With our thoughts, we make the world.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "Your work is to discover your world and then with all your heart give yourself to it.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "The foot feels the foot when it feels the ground.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "When you realize how perfect everything is you will tilt your head back and laugh at the sky.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "He who experiences the unity of life sees his own Self in all beings, and all beings in his own Self, and looks on everything with an impartial eye.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "In the sky, there is no distinction of east and west; people create distinctions out of their own minds and then believe them to be true.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "Every human being is the author of his own health or disease.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "Your body is precious. It is our vehicle for awakening. Treat it with care.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "Chaos is inherent in all compounded things. Strive on with diligence.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "No matter how hard the past, you can always begin again.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "Your work is to discover your work and then with all your heart to give yourself to it.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "If we could see the miracle of a single flower clearly, our whole life would change.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "You cannot travel the path until you have become the path itself.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "We are shaped by our thoughts; we become what we think. When the mind is pure, joy follows like a shadow that never leaves.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "Remembering a wrong is like carrying a burden on the mind.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "If you propose to speak, always ask yourself, is it true, is it necessary, is it kind.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "An idea that is developed and put into action is more important than an idea that exists only as an idea.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    },
+    {
+      "t": "What you are is what you have been. What you'll be is what you do now.",
+      "why": "fakebuddhaquotes",
+      "note": "Listed by fakebuddhaquotes.com as a fake or misattributed Buddha quote."
+    }
+  ],
+  "laozi": [
+    {
+      "t": "Life is a series of natural and spontaneous changes. Don't resist them - that only creates sorrow. Let reality be reality. Let things flow naturally forward in whatever way they like.",
+      "why": "Misattributed",
+      "note": "This quotation's origin is actually unknown, however it is not found in the Dao De Jing. 生命是一连串的自发的自然变化。逆流而动只会徒增伤悲。接受现实，万物自然循着规律发展。"
+    },
+    {
+      "t": "Be careful what you water your dreams with. Water them with worry and fear and you will produce weeds that choke the life from your dream. Water them with optimism and solutions and you will cultivate success. Always be on the lookout for ways to turn a problem into an opportunity for success. Always be on the lookout for ways to nurture your dream.",
+      "why": "Misattributed",
+      "note": "This is actually a quote from a 2004 book by Aileen Miga and Janice Hughes called Inspired Wealth: Financial Leadership for the 21st Century, page 44. The misattribution has been attested since at least 2006."
+    },
+    {
+      "t": "Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.",
+      "why": "Misattributed",
+      "note": "Attributed to Laozi in self-help books and on social media, this quotation is of unknown origin and date."
+    },
+    {
+      "t": "Being deeply loved by someone gives you strength while loving someone deeply gives you courage.",
+      "why": "Misattributed",
+      "note": "The earliest book the quote could be found is Lightning by Dean Koontz from 1988. He accredited it to Lao Tzu, giving no source."
+    },
+    {
+      "t": "An ant on the move does more than a dozing ox",
+      "why": "Misattributed",
+      "note": "This is actually a Mexican proverb"
+    },
+    {
+      "t": "Give a man a fish and you feed him for a day. Teach him how to fish and you feed him for a lifetime.",
+      "why": "Misattributed",
+      "note": "This quote's origin is actually unknown (see \"give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime\" on Wiktionary). This quotation has also been misattributed to Confucius and Guan Zhong."
+    }
+  ]
+}

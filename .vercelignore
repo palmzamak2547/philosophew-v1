@@ -1,0 +1,3 @@
+# The API is a Neon Function (neon deploy), never a Vercel one: without this, Vercel turned every file in api/ into a
+# function of its own, and /api/auth, /api/email and /api/inbound answered 500 instead of reaching the rewrite.
+api

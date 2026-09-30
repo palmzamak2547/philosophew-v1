@@ -1,0 +1,2638 @@
+{
+  "school": "socratic",
+  "authors": {
+    "socrates": {
+      "th": "โสกราตีส",
+      "era_th": "นักปรัชญากรีก ราว 470 ถึง 399 ปีก่อน ค.ศ.",
+      "bio_th": "ชาวเอเธนส์ที่ไม่เคยเขียนหนังสือสักเล่ม แต่เดินถามคำถามคนไปทั่วเมือง จนคนที่คิดว่าตัวเองรู้ต้องยอมรับว่าไม่รู้ และสุดท้ายถูกตัดสินประหารเพราะคำถามเหล่านั้น เรารู้จักคำพูดของเขาผ่านงานเขียนของลูกศิษย์อย่างเพลโตและเซโนฟอน",
+      "bio_en": "Athenian who wrote nothing and spent his life questioning anyone who claimed to know, until Athens put him to death for it in 399 BC. His words reach us through his students Plato and Xenophon.",
+      "works": [
+        "Plato, Apology",
+        "Plato, Crito",
+        "Plato, Phaedo",
+        "Xenophon, Memorabilia"
+      ]
+    },
+    "plato": {
+      "th": "เพลโต",
+      "era_th": "นักปรัชญากรีก ราว 427 ถึง 347 ปีก่อน ค.ศ.",
+      "bio_th": "ลูกศิษย์ของโสกราตีสที่เขียนบทสนทนาให้ครูของตัวเองเป็นตัวเอก แล้วต่อยอดเป็นปรัชญาของตัวเอง เช่นนิทานเรื่องคนในถ้ำที่เห็นแค่เงา เขาตั้งสำนักอะคาเดมีที่เอเธนส์ ซึ่งเป็นต้นแบบของมหาวิทยาลัยทุกแห่งในวันนี้",
+      "bio_en": "Student of Socrates who wrote dialogues starring his teacher and used them to build his own philosophy, including the allegory of the cave. He founded the Academy in Athens, the model for every university since.",
+      "works": [
+        "Republic",
+        "Apology",
+        "Phaedo",
+        "Symposium",
+        "Sophist",
+        "Phaedrus"
+      ]
+    },
+    "aristotle": {
+      "th": "อริสโตเติล",
+      "era_th": "นักปรัชญากรีก 384 ถึง 322 ปีก่อน ค.ศ.",
+      "bio_th": "ลูกศิษย์ของเพลโตและครูของอเล็กซานเดอร์มหาราช เขาเขียนแทบทุกเรื่อง ตั้งแต่ตรรกศาสตร์ ชีววิทยา ไปจนถึงจริยธรรมและการเมือง และเป็นคนแรกที่วางกฎของการใช้เหตุผลไว้อย่างเป็นระบบ",
+      "bio_en": "Plato's student and Alexander the Great's tutor, he wrote on almost everything from logic and biology to ethics and politics, and was the first to set out the rules of reasoning as a system.",
+      "works": [
+        "Nicomachean Ethics",
+        "Metaphysics",
+        "Rhetoric",
+        "On the Heavens",
+        "Politics"
+      ]
+    },
+    "michel-de-montaigne": {
+      "th": "มีแชล เดอ มงแตญ",
+      "era_th": "นักเขียนและนักคิดชาวฝรั่งเศส ค.ศ. 1533 ถึง 1592",
+      "bio_th": "ขุนนางฝรั่งเศสที่ถอยออกจากชีวิตการเมืองไปอยู่ในหอคอยห้องสมุด แล้วเขียนเรียงความสำรวจตัวเองอย่างตรงไปตรงมา จนงานของเขากลายเป็นต้นแบบของความเรียง คำถามประจำตัวของเขาคือ ผมรู้อะไรบ้าง",
+      "bio_en": "French nobleman who withdrew to a tower library and wrote frank, wandering essays about himself and everything else, inventing the essay as a form. His motto was a question: What do I know?",
+      "works": [
+        "Essays"
+      ]
+    },
+    "francis-bacon": {
+      "th": "ฟรานซิส เบคอน",
+      "era_th": "นักปรัชญาและรัฐบุรุษชาวอังกฤษ ค.ศ. 1561 ถึง 1626",
+      "bio_th": "นักการเมืองอังกฤษผู้ชวนให้คนเลิกเชื่อตามตำราเก่า แล้วหันมาทดลองและสังเกตธรรมชาติด้วยตัวเอง เขาเตือนไว้ตั้งแต่สี่ร้อยปีก่อนว่าใจคนชอบหาหลักฐานมายืนยันสิ่งที่ตัวเองเชื่ออยู่แล้ว",
+      "bio_en": "English statesman who urged people to stop trusting old books and start testing nature by experiment. Four centuries ago he warned that the mind hunts for evidence for what it already believes.",
+      "works": [
+        "Essays",
+        "The Advancement of Learning",
+        "Novum Organum"
+      ]
+    },
+    "rene-descartes": {
+      "th": "เรอเน เดการ์ต",
+      "era_th": "นักปรัชญาและนักคณิตศาสตร์ชาวฝรั่งเศส ค.ศ. 1596 ถึง 1650",
+      "bio_th": "นักคณิตศาสตร์ที่ตั้งใจสงสัยทุกอย่างที่เคยเชื่อ เพื่อดูว่ามีอะไรเหลือที่แน่นอนจริง ๆ บ้าง แล้วพบว่าอย่างน้อยการที่เขากำลังคิดอยู่นั้นสงสัยไม่ได้ เขาจึงถูกเรียกว่าบิดาแห่งปรัชญาสมัยใหม่",
+      "bio_en": "French mathematician who set out to doubt everything he had ever believed, to see what certainty was left, and found that his own thinking could not be doubted. He is called the father of modern philosophy.",
+      "works": [
+        "Discourse on Method",
+        "Meditations on First Philosophy",
+        "Principles of Philosophy"
+      ]
+    },
+    "baruch-spinoza": {
+      "th": "บารุค สปิโนซา",
+      "era_th": "นักปรัชญาชาวดัตช์ ค.ศ. 1632 ถึง 1677",
+      "bio_th": "ช่างเจียเลนส์ชาวอัมสเตอร์ดัมที่ถูกชุมชนของตัวเองขับไล่เพราะความคิดนอกกรอบ เขาใช้ชีวิตเรียบง่าย เขียนปรัชญาเป็นขั้นเป็นตอนเหมือนพิสูจน์เรขาคณิต และสอนว่าเราเป็นอิสระได้ด้วยการเข้าใจอารมณ์และเหตุของมัน",
+      "bio_en": "Amsterdam lens-grinder expelled by his own community for his ideas, who lived quietly and wrote philosophy laid out like geometry. He taught that we become free by understanding our emotions and their causes.",
+      "works": [
+        "Ethics",
+        "Theologico-Political Treatise"
+      ]
+    },
+    "john-locke": {
+      "th": "จอห์น ล็อก",
+      "era_th": "นักปรัชญาชาวอังกฤษ ค.ศ. 1632 ถึง 1704",
+      "bio_th": "หมอและนักปรัชญาชาวอังกฤษที่เสนอว่าจิตของเราเกิดมาเหมือนกระดาษเปล่า ความรู้ทั้งหมดมาจากประสบการณ์ ความคิดเรื่องเสรีภาพและสิทธิของเขากลายเป็นรากฐานของประชาธิปไตยสมัยใหม่",
+      "bio_en": "English physician and philosopher who argued that the mind starts as blank paper and that all knowledge comes from experience. His ideas on liberty and rights shaped modern democracy.",
+      "works": [
+        "An Essay Concerning Human Understanding",
+        "Two Treatises of Government"
+      ]
+    },
+    "david-hume": {
+      "th": "เดวิด ฮิวม์",
+      "era_th": "นักปรัชญาชาวสกอต ค.ศ. 1711 ถึง 1776",
+      "bio_th": "นักปรัชญาชาวสกอตผู้ช่างสงสัยที่สุดคนหนึ่ง เขาถามว่าเรารู้ได้อย่างไรว่าพรุ่งนี้พระอาทิตย์จะขึ้น และสอนให้เชื่ออะไรแค่เท่าที่หลักฐานมี ทั้งที่ช่างสงสัยขนาดนั้น เพื่อน ๆ กลับรู้จักเขาในฐานะคนอารมณ์ดีที่สุดในวง",
+      "bio_en": "Scottish philosopher and sceptic who asked how we can know the sun will rise tomorrow, and taught that belief should match the evidence. For all his doubt, friends knew him as the most good-humoured man in the room.",
+      "works": [
+        "A Treatise of Human Nature",
+        "An Enquiry Concerning Human Understanding"
+      ]
+    },
+    "immanuel-kant": {
+      "th": "อิมมานูเอล คานต์",
+      "era_th": "นักปรัชญาชาวเยอรมัน ค.ศ. 1724 ถึง 1804",
+      "bio_th": "ศาสตราจารย์ชาวปรัสเซียที่เล่ากันว่าตรงเวลาจนเพื่อนบ้านตั้งนาฬิกาตามเวลาที่เขาออกไปเดินเล่น เขาถามว่ามนุษย์รู้อะไรได้บ้างและควรทำอะไร แล้วเรียกร้องให้ทุกคนกล้าใช้เหตุผลของตัวเอง",
+      "bio_en": "Prussian professor, said to be so punctual that neighbours set their clocks by his daily walk, who asked what we can know and what we ought to do. His call to everyone: dare to use your own reason.",
+      "works": [
+        "Critique of Pure Reason",
+        "Groundwork of the Metaphysic of Morals",
+        "Critique of Practical Reason",
+        "What is Enlightenment?"
+      ]
+    },
+    "john-stuart-mill": {
+      "th": "จอห์น สจวร์ต มิลล์",
+      "era_th": "นักปรัชญาและนักเศรษฐศาสตร์ชาวอังกฤษ ค.ศ. 1806 ถึง 1873",
+      "bio_th": "เด็กอัจฉริยะที่พ่อสอนภาษากรีกตั้งแต่สามขวบ พออายุยี่สิบก็ป่วยซึมเศร้าหนัก และค้นพบว่าชีวิตต้องมีมากกว่าการคิดคำนวณ เขาเขียนปกป้องเสรีภาพในการคิดและการพูด รวมถึงสิทธิที่เท่าเทียมของผู้หญิง",
+      "bio_en": "A child prodigy taught Greek at three, who broke down at twenty and learned that life needs more than calculation. He wrote the classic defence of free thought and speech, and argued for women's equality.",
+      "works": [
+        "On Liberty",
+        "Utilitarianism",
+        "The Subjection of Women",
+        "Autobiography"
+      ]
+    },
+    "bertrand-russell": {
+      "th": "เบอร์ทรันด์ รัสเซลล์",
+      "era_th": "นักปรัชญาและนักคณิตศาสตร์ชาวอังกฤษ ค.ศ. 1872 ถึง 1970",
+      "bio_th": "นักตรรกศาสตร์ที่พยายามพิสูจน์ว่าคณิตศาสตร์ทั้งหมดมาจากตรรกะ และนักรณรงค์ต่อต้านสงครามที่เคยติดคุกเพราะจุดยืนนั้น เขาเขียนเรื่องยากให้อ่านง่าย จนได้รางวัลโนเบลสาขาวรรณกรรม",
+      "bio_en": "Logician who tried to derive all of mathematics from logic, and a peace campaigner jailed for opposing war. He wrote hard ideas in plain prose and won the Nobel Prize in Literature in 1950.",
+      "works": [
+        "The Problems of Philosophy",
+        "The Conquest of Happiness",
+        "A History of Western Philosophy",
+        "Unpopular Essays"
+      ]
+    },
+    "ludwig-wittgenstein": {
+      "th": "ลุดวิก วิตเกนสไตน์",
+      "era_th": "นักปรัชญาชาวออสเตรีย ค.ศ. 1889 ถึง 1951",
+      "bio_th": "ลูกเศรษฐีชาวเวียนนาที่ยกมรดกของตัวเองให้คนอื่นเกือบหมด เขาเชื่อว่าปัญหาปรัชญาหลายเรื่องเกิดจากการที่ภาษาหลอกเรา และเขียนหนังสือที่คนทั้งโลกยังถกเถียงกันไม่จบ",
+      "bio_en": "Son of a Viennese fortune who gave most of his inheritance away. He argued that many philosophical problems come from language tricking us, and wrote books readers still argue over.",
+      "works": [
+        "Tractatus Logico-Philosophicus",
+        "Philosophical Investigations",
+        "Culture and Value"
+      ]
+    },
+    "karl-popper": {
+      "th": "คาร์ล ป็อปเปอร์",
+      "era_th": "นักปรัชญาชาวออสเตรียสัญชาติอังกฤษ ค.ศ. 1902 ถึง 1994",
+      "bio_th": "ชาวเวียนนาที่หนีภัยนาซีไปอยู่นิวซีแลนด์และอังกฤษ เขาเสนอว่าความรู้ทางวิทยาศาสตร์ต้องเปิดให้พิสูจน์ได้ว่าผิดเสมอ และปกป้องสังคมเปิดที่ทุกคนวิจารณ์ผู้มีอำนาจได้",
+      "bio_en": "Viennese thinker who fled the Nazis to New Zealand and then Britain. He argued that real knowledge must always stay open to being proved wrong, and defended the open society where anyone may criticise those in power.",
+      "works": [
+        "The Logic of Scientific Discovery",
+        "The Open Society and Its Enemies",
+        "Conjectures and Refutations"
+      ]
+    },
+    "carl-sagan": {
+      "th": "คาร์ล เซแกน",
+      "era_th": "นักดาราศาสตร์ชาวอเมริกัน ค.ศ. 1934 ถึง 1996",
+      "bio_th": "นักดาราศาสตร์ที่พาคนทั้งโลกไปเที่ยวจักรวาลผ่านรายการโทรทัศน์ Cosmos และสอนวิธีจับเรื่องโกหกด้วยการคิดแบบวิทยาศาสตร์ เขาคือคนที่ขอให้ยานวอยเอเจอร์หันกล้องกลับมาถ่ายโลก จนได้ภาพจุดสีฟ้าซีด",
+      "bio_en": "Astronomer who took the world on a tour of the universe in the TV series Cosmos and taught a toolkit for spotting nonsense. He persuaded NASA to turn Voyager's camera back toward Earth for the Pale Blue Dot photo.",
+      "works": [
+        "Cosmos",
+        "The Demon-Haunted World",
+        "Broca's Brain",
+        "Pale Blue Dot"
+      ]
+    },
+    "richard-feynman": {
+      "th": "ริชาร์ด ไฟน์แมน",
+      "era_th": "นักฟิสิกส์ชาวอเมริกัน ค.ศ. 1918 ถึง 1988",
+      "bio_th": "นักฟิสิกส์รางวัลโนเบลที่ชอบตีกลองบองโก แอบไขตู้เซฟเล่น และอธิบายเรื่องยากให้เข้าใจง่าย ตอนสอบสวนอุบัติเหตุกระสวยอวกาศชาเลนเจอร์ เขาใช้แค่น้ำเย็นจัดแก้วเดียวสาธิตต่อหน้ากล้องว่ายางกันรั่วแข็งตัวเมื่อเจอความเย็น",
+      "bio_en": "Nobel-winning physicist who played bongos, cracked safes for fun and made hard ideas simple. On the Challenger inquiry he showed on live television, with a glass of ice water, how the rubber seals stiffened in the cold.",
+      "works": [
+        "Surely You're Joking, Mr. Feynman!",
+        "The Character of Physical Law",
+        "The Feynman Lectures on Physics"
+      ]
+    }
+  },
+  "quotes": [
+    {
+      "author": "socrates",
+      "en": "He knows nothing, and thinks that he knows; I neither know nor think that I know. In this latter particular, then, I seem to have slightly the advantage of him.",
+      "th": "เขาไม่รู้อะไรเลย แต่คิดว่าตัวเองรู้ ส่วนผมไม่รู้ และก็ไม่ได้คิดว่าตัวเองรู้ ผมจึงดูจะเหนือกว่าเขาอยู่นิดหนึ่งก็ตรงนี้เอง",
+      "orig": {
+        "lang": "grc",
+        "text": "οὗτος μὲν οἴεταί τι εἰδέναι οὐκ εἰδώς, ἐγὼ δέ, ὥσπερ οὖν οὐκ οἶδα, οὐδὲ οἴομαι"
+      },
+      "source": {
+        "work": "Plato, Apology",
+        "locator": "21d",
+        "translator": "Benjamin Jowett (1892)",
+        "url": "https://en.wikisource.org/wiki/The_Dialogues_of_Plato_(Jowett)/Apology"
+      },
+      "verify": "primary",
+      "tags": [
+        "knowledge",
+        "ego",
+        "truth"
+      ],
+      "mood": [
+        "confused"
+      ]
+    },
+    {
+      "author": "socrates",
+      "en": "The unexamined life is not worth living.",
+      "th": "ชีวิตที่ไม่เคยถูกตั้งคำถาม ไม่คุ้มค่าที่จะมีชีวิตอยู่",
+      "orig": {
+        "lang": "grc",
+        "text": "ὁ δὲ ἀνεξέταστος βίος οὐ βιωτὸς ἀνθρώπῳ"
+      },
+      "source": {
+        "work": "Plato, Apology",
+        "locator": "38a",
+        "translator": "Benjamin Jowett (1892)",
+        "url": "https://en.wikisource.org/wiki/The_Dialogues_of_Plato_(Jowett)/Apology"
+      },
+      "verify": "primary",
+      "tags": [
+        "self",
+        "meaning",
+        "reason"
+      ],
+      "mood": [
+        "lost",
+        "bored"
+      ]
+    },
+    {
+      "author": "socrates",
+      "en": "For the fear of death is indeed the pretence of wisdom, and not real wisdom, being a pretence of knowing the unknown.",
+      "th": "การกลัวความตายคือการแกล้งทำเป็นฉลาด ไม่ใช่ความฉลาดจริง เพราะเป็นการทำเหมือนรู้ ในเรื่องที่ไม่มีใครรู้",
+      "orig": {
+        "lang": "grc",
+        "text": "τὸ γάρ τοι θάνατον δεδιέναι, ὦ ἄνδρες, οὐδὲν ἄλλο ἐστὶν ἢ δοκεῖν σοφὸν εἶναι μὴ ὄντα"
+      },
+      "source": {
+        "work": "Plato, Apology",
+        "locator": "29a",
+        "translator": "Benjamin Jowett (1892)",
+        "url": "https://en.wikisource.org/wiki/The_Dialogues_of_Plato_(Jowett)/Apology"
+      },
+      "verify": "primary",
+      "tags": [
+        "death",
+        "fear",
+        "knowledge"
+      ],
+      "mood": [
+        "anxious"
+      ]
+    },
+    {
+      "author": "socrates",
+      "en": "Are you not ashamed of heaping up the greatest amount of money and honour and reputation, and caring so little about wisdom and truth and the greatest improvement of the soul, which you never regard or heed at all?",
+      "th": "คุณไม่อายบ้างหรือ ที่มัวแต่สะสมเงิน เกียรติ และชื่อเสียงให้มากที่สุด แต่แทบไม่สนใจปัญญา ความจริง และการทำจิตใจของตัวเองให้ดีขึ้นเลย",
+      "source": {
+        "work": "Plato, Apology",
+        "locator": "29d-e",
+        "translator": "Benjamin Jowett (1892)",
+        "url": "https://en.wikisource.org/wiki/The_Dialogues_of_Plato_(Jowett)/Apology"
+      },
+      "verify": "primary",
+      "tags": [
+        "desire",
+        "truth",
+        "virtue"
+      ],
+      "mood": [
+        "lost"
+      ]
+    },
+    {
+      "author": "socrates",
+      "en": "I am and always have been one of those natures who must be guided by reason, whatever the reason may be which upon reflection appears to me to be the best.",
+      "th": "ผมเป็นคนแบบนี้มาตลอด คือต้องทำตามเหตุผล เหตุผลไหนที่คิดทบทวนแล้วเห็นว่าดีที่สุด ผมก็ทำตามเหตุผลนั้น",
+      "source": {
+        "work": "Plato, Crito",
+        "locator": "46b",
+        "translator": "Benjamin Jowett (1892)",
+        "url": "https://en.wikisource.org/wiki/The_Dialogues_of_Plato_(Jowett)/Crito"
+      },
+      "verify": "primary",
+      "tags": [
+        "reason",
+        "choice"
+      ],
+      "mood": [
+        "confused",
+        "stress"
+      ]
+    },
+    {
+      "author": "socrates",
+      "en": "We must not regard what the many say of us: but what he, the one man who has understanding of just and unjust, will say, and what the truth will say.",
+      "th": "อย่าไปใส่ใจว่าคนส่วนใหญ่พูดถึงเราว่าอย่างไร ให้ใส่ใจว่าคนที่เข้าใจเรื่องถูกผิดจริง ๆ จะพูดว่าอะไร และความจริงจะพูดว่าอะไร",
+      "source": {
+        "work": "Plato, Crito",
+        "locator": "48a",
+        "translator": "Benjamin Jowett (1892)",
+        "url": "https://en.wikisource.org/wiki/The_Dialogues_of_Plato_(Jowett)/Crito"
+      },
+      "verify": "primary",
+      "tags": [
+        "truth",
+        "society"
+      ],
+      "mood": [
+        "anxious",
+        "stress"
+      ]
+    },
+    {
+      "author": "socrates",
+      "en": "I would ask you to be thinking of the truth and not of Socrates: agree with me, if I seem to you to be speaking the truth; or if not, withstand me might and main, that I may not deceive you as well as myself in my enthusiasm.",
+      "th": "ผมขอให้พวกคุณคิดถึงความจริง อย่าคิดถึงโสกราตีส ถ้าเห็นว่าผมพูดจริงก็เห็นด้วย ถ้าไม่ใช่ก็ค้านผมให้สุดแรง ผมจะได้ไม่เผลอหลอกทั้งพวกคุณและตัวเองเพราะความกระตือรือร้น",
+      "source": {
+        "work": "Plato, Phaedo",
+        "locator": "91c",
+        "translator": "Benjamin Jowett",
+        "url": "https://www.gutenberg.org/ebooks/1658"
+      },
+      "verify": "primary",
+      "tags": [
+        "truth",
+        "doubt",
+        "ego"
+      ],
+      "mood": [
+        "confused"
+      ]
+    },
+    {
+      "author": "socrates",
+      "en": "We shall be better and braver and less helpless if we think that we ought to enquire, than we should have been if we indulged in the idle fancy that there was no knowing and no use in seeking to know what we do not know.",
+      "th": "ถ้าเราเชื่อว่าควรค้นหาต่อไป เราจะเป็นคนที่ดีขึ้น กล้าขึ้น และไม่จนมุมง่าย ๆ ดีกว่าปลอบใจตัวเองว่าสิ่งที่ไม่รู้ ยังไงก็รู้ไม่ได้ และหาไปก็เปล่าประโยชน์",
+      "source": {
+        "work": "Plato, Meno",
+        "locator": "86b-c",
+        "translator": "Benjamin Jowett (1892)",
+        "url": "https://en.wikisource.org/wiki/The_Dialogues_of_Plato_(Jowett)/Meno"
+      },
+      "verify": "primary",
+      "tags": [
+        "knowledge",
+        "courage",
+        "hope"
+      ],
+      "mood": [
+        "stuck",
+        "lost"
+      ]
+    },
+    {
+      "author": "socrates",
+      "en": "I am one of those who are very willing to be refuted if I say anything which is not true, and very willing to refute any one else who says what is not true, and quite as ready to be refuted as to refute.",
+      "th": "ผมเป็นคนแบบที่ยินดีให้คนอื่นหักล้าง ถ้าผมพูดอะไรไม่จริง และก็ยินดีหักล้างใครก็ตามที่พูดไม่จริง จะเป็นฝ่ายถูกหักล้างหรือฝ่ายหักล้าง ผมก็พร้อมพอ ๆ กัน",
+      "source": {
+        "work": "Plato, Gorgias",
+        "locator": "458a",
+        "translator": "Benjamin Jowett",
+        "url": "https://www.gutenberg.org/ebooks/1672"
+      },
+      "verify": "primary",
+      "tags": [
+        "truth",
+        "ego",
+        "reason"
+      ],
+      "mood": [
+        "angry"
+      ]
+    },
+    {
+      "author": "socrates",
+      "en": "I would rather... that the whole world should be at odds with me, and oppose me, rather than that I myself should be at odds with myself, and contradict myself.",
+      "th": "ผมยอมให้ทั้งโลกเห็นต่างและต่อต้านผม ดีกว่าให้ตัวผมเองขัดแย้งกับตัวเอง และพูดกลับไปกลับมา",
+      "source": {
+        "work": "Plato, Gorgias",
+        "locator": "482c",
+        "translator": "Benjamin Jowett",
+        "url": "https://www.gutenberg.org/ebooks/1672"
+      },
+      "verify": "primary",
+      "tags": [
+        "self",
+        "truth",
+        "courage"
+      ],
+      "mood": [
+        "stress",
+        "anxious"
+      ]
+    },
+    {
+      "author": "socrates",
+      "en": "Say rather, beloved Agathon, that you cannot refute the truth; for Socrates is easily refuted.",
+      "th": "พูดให้ถูกสิ อากาธอน คุณหักล้างความจริงไม่ได้ต่างหาก ส่วนโสกราตีสน่ะ หักล้างง่ายจะตาย",
+      "source": {
+        "work": "Plato, Symposium",
+        "locator": "201c",
+        "translator": "Benjamin Jowett (1892)",
+        "url": "https://en.wikisource.org/wiki/The_Dialogues_of_Plato_(Jowett)/Symposium"
+      },
+      "verify": "primary",
+      "tags": [
+        "truth",
+        "humor",
+        "ego"
+      ],
+      "mood": [
+        "angry"
+      ]
+    },
+    {
+      "author": "socrates",
+      "en": "Knowledge is the food of the soul; and we must take care, my friend, that the Sophist does not deceive us when he praises what he sells, like the dealers wholesale or retail who sell the food of the body.",
+      "th": "ความรู้คืออาหารของจิตใจ เพราะฉะนั้นต้องระวังให้ดี อย่าให้คนขายความรู้หลอกเราตอนที่เขาโฆษณาของตัวเอง เหมือนพวกพ่อค้าที่ชมอาหารที่ตัวเองขาย",
+      "source": {
+        "work": "Plato, Protagoras",
+        "locator": "313c",
+        "translator": "Benjamin Jowett (1892)",
+        "url": "https://en.wikisource.org/wiki/The_Dialogues_of_Plato_(Jowett)/Protagoras"
+      },
+      "verify": "primary",
+      "tags": [
+        "knowledge",
+        "truth",
+        "society"
+      ],
+      "mood": [
+        "confused"
+      ]
+    },
+    {
+      "author": "socrates",
+      "en": "Wonder is the feeling of a philosopher, and philosophy begins in wonder.",
+      "th": "ความพิศวงคือความรู้สึกของนักปรัชญา และปรัชญาก็เริ่มต้นจากความพิศวงนี่เอง",
+      "orig": {
+        "lang": "grc",
+        "text": "μάλα γὰρ φιλοσόφου τοῦτο τὸ πάθος, τὸ θαυμάζειν. οὐ γὰρ ἄλλη ἀρχὴ φιλοσοφίας ἢ αὕτη"
+      },
+      "source": {
+        "work": "Plato, Theaetetus",
+        "locator": "155d",
+        "translator": "Benjamin Jowett",
+        "url": "https://www.gutenberg.org/ebooks/1726"
+      },
+      "verify": "primary",
+      "tags": [
+        "knowledge",
+        "reason"
+      ],
+      "mood": [
+        "bored"
+      ]
+    },
+    {
+      "author": "socrates",
+      "en": "For a man to be ignorant of himself, to imagine and suppose that he knows what he knows not, was... if not madness itself, yet something very like it.",
+      "th": "การไม่รู้จักตัวเอง แล้วยังนึกเอาเองว่ารู้ในสิ่งที่ไม่รู้ ต่อให้ยังไม่ถึงขั้นบ้า ก็ใกล้เคียงความบ้ามากแล้ว",
+      "source": {
+        "work": "Xenophon, Memorabilia",
+        "locator": "Book 3, chapter 9, 6",
+        "translator": "H. G. Dakyns (1897)",
+        "url": "https://www.gutenberg.org/ebooks/1177"
+      },
+      "verify": "primary",
+      "tags": [
+        "self",
+        "knowledge",
+        "ego"
+      ],
+      "mood": [
+        "confused"
+      ]
+    },
+    {
+      "author": "socrates",
+      "en": "Can a man be said, do you think, to know himself who knows his own name and nothing more?",
+      "th": "คุณคิดว่าคนที่รู้แค่ชื่อตัวเอง นอกนั้นไม่รู้อะไรเลย จะนับว่ารู้จักตัวเองแล้วได้ไหม",
+      "source": {
+        "work": "Xenophon, Memorabilia",
+        "locator": "Book 4, chapter 2, 25",
+        "translator": "H. G. Dakyns (1897)",
+        "url": "https://www.gutenberg.org/ebooks/1177"
+      },
+      "verify": "primary",
+      "tags": [
+        "self",
+        "knowledge"
+      ],
+      "mood": [
+        "lost"
+      ]
+    },
+    {
+      "author": "socrates",
+      "en": "There is, he said, only one good, that is, knowledge, and only one evil, that is, ignorance.",
+      "th": "สิ่งดีมีอยู่อย่างเดียวคือความรู้ และสิ่งเลวร้ายก็มีอยู่อย่างเดียวคือความไม่รู้",
+      "orig": {
+        "lang": "grc",
+        "text": "ἓν μόνον ἀγαθὸν εἶναι, τὴν ἐπιστήμην, καὶ ἓν μόνον κακόν, τὴν ἀμαθίαν"
+      },
+      "source": {
+        "work": "Diogenes Laertius, Lives of Eminent Philosophers",
+        "locator": "Book 2, 31",
+        "translator": "R. D. Hicks (1925)",
+        "url": "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_II"
+      },
+      "verify": "sourced",
+      "tags": [
+        "knowledge",
+        "virtue"
+      ],
+      "mood": []
+    },
+    {
+      "author": "plato",
+      "en": "Certain professors of education must be wrong when they say that they can put a knowledge into the soul which was not there before, like sight into blind eyes... the power and capacity of learning exists in the soul already.",
+      "th": "ครูบางคนเข้าใจผิดที่คิดว่าตัวเองยัดความรู้ใส่หัวคนได้ เหมือนใส่การมองเห็นให้ตาที่บอด ความจริงคือพลังที่จะเรียนรู้มีอยู่ในตัวเราอยู่แล้ว",
+      "source": {
+        "work": "Republic",
+        "locator": "Book 7, 518b-c",
+        "translator": "Benjamin Jowett",
+        "url": "https://en.wikisource.org/wiki/The_Republic_of_Plato/Book_7"
+      },
+      "verify": "primary",
+      "tags": [
+        "knowledge",
+        "self",
+        "mind"
+      ],
+      "mood": [
+        "stuck"
+      ]
+    },
+    {
+      "author": "plato",
+      "en": "Knowledge which is acquired under compulsion obtains no hold on the mind... do not use compulsion, but let early education be a sort of amusement.",
+      "th": "ความรู้ที่ได้มาเพราะถูกบังคับ ไม่เคยติดอยู่ในใจได้นาน อย่าใช้การบังคับ ให้การเรียนรู้ช่วงแรกเป็นเหมือนการเล่นสนุกจะดีกว่า",
+      "source": {
+        "work": "Republic",
+        "locator": "Book 7, 536e",
+        "translator": "Benjamin Jowett",
+        "url": "https://en.wikisource.org/wiki/The_Republic_of_Plato/Book_7"
+      },
+      "verify": "primary",
+      "tags": [
+        "knowledge",
+        "freedom",
+        "work"
+      ],
+      "mood": [
+        "tired",
+        "bored"
+      ]
+    },
+    {
+      "author": "plato",
+      "en": "A man is not to be reverenced more than the truth.",
+      "th": "ไม่ว่าใครก็ตาม ก็ไม่ควรได้รับความเคารพมากกว่าความจริง",
+      "orig": {
+        "lang": "grc",
+        "text": "οὐ γὰρ πρό γε τῆς ἀληθείας τιμητέος ἀνήρ"
+      },
+      "source": {
+        "work": "Republic",
+        "locator": "Book 10, 595c",
+        "translator": "Benjamin Jowett",
+        "url": "https://en.wikisource.org/wiki/The_Republic_of_Plato/Book_10"
+      },
+      "verify": "primary",
+      "tags": [
+        "truth",
+        "ego",
+        "courage"
+      ],
+      "mood": []
+    },
+    {
+      "author": "plato",
+      "en": "The worst part of the punishment is that he who refuses to rule is liable to be ruled by one who is worse than himself.",
+      "th": "บทลงโทษที่หนักที่สุดของคนที่ไม่ยอมเข้าไปมีส่วนดูแลบ้านเมือง คือต้องถูกปกครองโดยคนที่แย่กว่าตัวเอง",
+      "source": {
+        "work": "Republic",
+        "locator": "Book 1, 347c",
+        "translator": "Benjamin Jowett",
+        "url": "https://en.wikisource.org/wiki/The_Republic_of_Plato/Book_1"
+      },
+      "verify": "primary",
+      "tags": [
+        "society",
+        "responsibility",
+        "choice"
+      ],
+      "mood": [
+        "bored",
+        "angry"
+      ]
+    },
+    {
+      "author": "plato",
+      "en": "Any one, Theaetetus, who is able to advance even a little ought to be of good cheer, for what would he who is dispirited at a little progress do, if he were making none at all, or even undergoing a repulse? Such a faint heart, as the proverb says, will never take a city.",
+      "th": "ใครที่ก้าวหน้าได้แม้เพียงนิดเดียว ก็ควรมีกำลังใจเข้าไว้ คนที่ท้อทั้งที่ยังคืบหน้าได้นิดหน่อย ถ้าไม่คืบเลยหรือถูกตีกลับ เขาจะทำอย่างไร ใจที่ท้อง่ายแบบนั้น อย่างที่คำโบราณว่าไว้ ไม่มีวันตีเมืองไหนแตก",
+      "source": {
+        "work": "Sophist",
+        "locator": "261b",
+        "translator": "Benjamin Jowett",
+        "url": "https://www.gutenberg.org/ebooks/1735"
+      },
+      "verify": "primary",
+      "tags": [
+        "hope",
+        "failure",
+        "courage"
+      ],
+      "mood": [
+        "tired",
+        "stuck"
+      ]
+    },
+    {
+      "author": "plato",
+      "en": "To them, I said, the truth would be literally nothing but the shadows of the images.",
+      "th": "สำหรับคนที่ถูกล่ามอยู่ในถ้ำ ความจริงก็คือเงาของภาพเท่านั้นเอง",
+      "source": {
+        "work": "Republic",
+        "locator": "Book 7, 515c",
+        "translator": "Benjamin Jowett",
+        "url": "https://en.wikisource.org/wiki/The_Republic_of_Plato/Book_7"
+      },
+      "verify": "primary",
+      "tags": [
+        "truth",
+        "knowledge",
+        "society"
+      ],
+      "mood": [
+        "confused"
+      ]
+    },
+    {
+      "author": "plato",
+      "en": "You would not deny that those who have any true notion without intelligence are only like blind men who feel their way along the road?",
+      "th": "คุณคงไม่เถียงใช่ไหมว่า คนที่มีความเห็นถูกแต่ไม่เข้าใจว่าทำไมมันถึงถูก ก็ไม่ต่างจากคนตาบอดที่คลำทางไปตามถนน",
+      "source": {
+        "work": "Republic",
+        "locator": "Book 6, 506c",
+        "translator": "Benjamin Jowett",
+        "url": "https://en.wikisource.org/wiki/The_Republic_of_Plato/Book_6"
+      },
+      "verify": "primary",
+      "tags": [
+        "knowledge",
+        "truth",
+        "reason"
+      ],
+      "mood": [
+        "confused"
+      ]
+    },
+    {
+      "author": "plato",
+      "en": "When a person supposes that he knows, and does not know; this appears to be the great source of all the errors of the intellect.",
+      "th": "เวลาที่คนเราคิดว่าตัวเองรู้ ทั้งที่ไม่รู้ นี่แหละคือต้นตอใหญ่ของความผิดพลาดทางความคิดทั้งหมด",
+      "source": {
+        "work": "Sophist",
+        "locator": "229c",
+        "translator": "Benjamin Jowett",
+        "url": "https://www.gutenberg.org/ebooks/1735"
+      },
+      "verify": "primary",
+      "tags": [
+        "knowledge",
+        "ego",
+        "reason"
+      ],
+      "mood": [
+        "confused"
+      ]
+    },
+    {
+      "author": "plato",
+      "en": "Are not thought and speech the same, with this exception, that what is called thought is the unuttered conversation of the soul with herself?",
+      "th": "ความคิดกับคำพูดก็คือสิ่งเดียวกัน ต่างกันแค่ความคิดคือบทสนทนาเงียบ ๆ ที่ใจคุยกับตัวเอง ไม่ใช่หรือ",
+      "source": {
+        "work": "Sophist",
+        "locator": "263e",
+        "translator": "Benjamin Jowett",
+        "url": "https://www.gutenberg.org/ebooks/1735"
+      },
+      "verify": "primary",
+      "tags": [
+        "mind",
+        "language",
+        "self"
+      ],
+      "mood": [
+        "anxious"
+      ]
+    },
+    {
+      "author": "plato",
+      "en": "They will be hearers of many things and will have learned nothing; they will appear to be omniscient and will generally know nothing; they will be tiresome company, having the show of wisdom without the reality.",
+      "th": "พวกเขาจะได้ยินได้ฟังมาหลายเรื่อง แต่ไม่ได้เรียนรู้อะไรเลย ดูเหมือนรู้ไปหมดทุกอย่าง แต่ส่วนใหญ่ไม่รู้อะไรจริง แถมคบด้วยแล้วน่าเบื่อ เพราะมีแต่เปลือกของความรู้ ไม่มีเนื้อแท้",
+      "source": {
+        "work": "Phaedrus",
+        "locator": "275a-b",
+        "translator": "Benjamin Jowett",
+        "url": "https://www.gutenberg.org/ebooks/1636"
+      },
+      "verify": "primary",
+      "tags": [
+        "knowledge",
+        "truth",
+        "ego"
+      ],
+      "mood": [
+        "confused",
+        "bored"
+      ]
+    },
+    {
+      "author": "aristotle",
+      "en": "It is the mark of an educated man to look for precision in each class of things just so far as the nature of the subject admits.",
+      "th": "สัญญาณของคนมีการศึกษา คือการเรียกร้องความแม่นยำจากแต่ละเรื่อง เท่าที่ธรรมชาติของเรื่องนั้นจะให้ได้",
+      "orig": {
+        "lang": "grc",
+        "text": "πεπαιδευμένου γάρ ἐστιν ἐπὶ τοσοῦτον τἀκριβὲς ἐπιζητεῖν καθ᾽ ἕκαστον γένος, ἐφ᾽ ὅσον ἡ τοῦ πράγματος φύσις ἐπιδέχεται"
+      },
+      "source": {
+        "work": "Nicomachean Ethics",
+        "locator": "Book 1, 1094b",
+        "translator": "W. D. Ross",
+        "url": "https://classics.mit.edu/Aristotle/nicomachaen.1.i.html"
+      },
+      "verify": "primary",
+      "tags": [
+        "knowledge",
+        "reason"
+      ],
+      "mood": [
+        "overwhelmed"
+      ]
+    },
+    {
+      "author": "aristotle",
+      "en": "While both are dear, piety requires us to honour truth above our friends.",
+      "th": "แม้จะรักทั้งเพื่อนและความจริง แต่หน้าที่บอกให้เราเคารพความจริงมาก่อนเพื่อน",
+      "orig": {
+        "lang": "grc",
+        "text": "ἀμφοῖν γὰρ ὄντοιν φίλοιν ὅσιον προτιμᾶν τὴν ἀλήθειαν"
+      },
+      "source": {
+        "work": "Nicomachean Ethics",
+        "locator": "Book 1, 1096a",
+        "translator": "W. D. Ross",
+        "url": "https://classics.mit.edu/Aristotle/nicomachaen.1.i.html"
+      },
+      "verify": "primary",
+      "tags": [
+        "truth",
+        "friendship",
+        "courage"
+      ],
+      "mood": []
+    },
+    {
+      "author": "aristotle",
+      "en": "The life of money-making is one undertaken under compulsion, and wealth is evidently not the good we are seeking; for it is merely useful and for the sake of something else.",
+      "th": "การใช้ชีวิตเพื่อหาเงินเป็นสิ่งที่คนทำเพราะจำเป็น ไม่ใช่เพราะเลือก และความร่ำรวยก็ไม่ใช่สิ่งดีที่เราตามหาจริง ๆ เพราะมันเป็นแค่เครื่องมือ เอาไว้ใช้ไปสู่อย่างอื่น",
+      "source": {
+        "work": "Nicomachean Ethics",
+        "locator": "Book 1, 1096a",
+        "translator": "W. D. Ross",
+        "url": "https://classics.mit.edu/Aristotle/nicomachaen.1.i.html"
+      },
+      "verify": "primary",
+      "tags": [
+        "desire",
+        "meaning",
+        "work"
+      ],
+      "mood": [
+        "tired",
+        "lost"
+      ]
+    },
+    {
+      "author": "aristotle",
+      "en": "For one swallow does not make a summer, nor does one day; and so too one day, or a short time, does not make a man blessed and happy.",
+      "th": "นกนางแอ่นตัวเดียวไม่ได้ทำให้เป็นหน้าร้อน วันเดียวก็เช่นกัน วันเดียวหรือช่วงเวลาสั้น ๆ ไม่ได้ทำให้ใครมีชีวิตที่ดีและมีความสุขได้",
+      "orig": {
+        "lang": "grc",
+        "text": "μία γὰρ χελιδὼν ἔαρ οὐ ποιεῖ, οὐδὲ μία ἡμέρα"
+      },
+      "source": {
+        "work": "Nicomachean Ethics",
+        "locator": "Book 1, 1098a",
+        "translator": "W. D. Ross",
+        "url": "https://classics.mit.edu/Aristotle/nicomachaen.1.i.html"
+      },
+      "verify": "primary",
+      "tags": [
+        "happiness",
+        "time",
+        "virtue"
+      ],
+      "mood": [
+        "stuck",
+        "heartbroken"
+      ]
+    },
+    {
+      "author": "aristotle",
+      "en": "For the things we have to learn before we can do them, we learn by doing them, e.g. men become builders by building and lyre-players by playing the lyre; so too we become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.",
+      "th": "สิ่งที่ต้องเรียนก่อนจะทำเป็น เราเรียนรู้ได้ด้วยการลงมือทำ คนเป็นช่างก่อสร้างเพราะได้สร้าง เป็นนักดนตรีเพราะได้เล่น เราก็เป็นคนยุติธรรมเพราะทำสิ่งที่ยุติธรรม เป็นคนรู้จักประมาณเพราะทำอย่างรู้ประมาณ และเป็นคนกล้าเพราะทำสิ่งที่กล้า",
+      "source": {
+        "work": "Nicomachean Ethics",
+        "locator": "Book 2, 1103a",
+        "translator": "W. D. Ross",
+        "url": "https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html"
+      },
+      "verify": "primary",
+      "tags": [
+        "action",
+        "virtue",
+        "work"
+      ],
+      "mood": [
+        "stuck"
+      ]
+    },
+    {
+      "author": "aristotle",
+      "en": "Any one can get angry—that is easy... but to do this to the right person, to the right extent, at the right time, with the right motive, and in the right way, that is not for every one, nor is it easy.",
+      "th": "ใครก็โกรธได้ นั่นเรื่องง่าย แต่จะโกรธให้ถูกคน ถูกขนาด ถูกเวลา ด้วยเหตุผลที่ถูก และด้วยวิธีที่ถูก อันนี้ไม่ใช่ทุกคนจะทำได้ และไม่ง่ายเลย",
+      "orig": {
+        "lang": "grc",
+        "text": "τὸ μὲν ὀργισθῆναι παντὸς καὶ ῥᾴδιον... τὸ δ᾽ ᾧ καὶ ὅσον καὶ ὅτε καὶ οὗ ἕνεκα καὶ ὥς, οὐκέτι παντὸς οὐδὲ ῥᾴδιον"
+      },
+      "source": {
+        "work": "Nicomachean Ethics",
+        "locator": "Book 2, 1109a",
+        "translator": "W. D. Ross",
+        "url": "https://classics.mit.edu/Aristotle/nicomachaen.2.ii.html"
+      },
+      "verify": "primary",
+      "tags": [
+        "anger",
+        "emotion",
+        "reason"
+      ],
+      "mood": [
+        "angry"
+      ]
+    },
+    {
+      "author": "aristotle",
+      "en": "All men by nature desire to know.",
+      "th": "โดยธรรมชาติแล้ว มนุษย์ทุกคนอยากรู้",
+      "orig": {
+        "lang": "grc",
+        "text": "πάντες ἄνθρωποι τοῦ εἰδέναι ὀρέγονται φύσει"
+      },
+      "source": {
+        "work": "Metaphysics",
+        "locator": "Book 1, 980a",
+        "translator": "W. D. Ross",
+        "url": "https://classics.mit.edu/Aristotle/metaphysics.1.i.html"
+      },
+      "verify": "primary",
+      "tags": [
+        "knowledge",
+        "nature"
+      ],
+      "mood": [
+        "bored"
+      ]
+    },
+    {
+      "author": "aristotle",
+      "en": "To say of what is that it is not, or of what is not that it is, is false, while to say of what is that it is, and of what is not that it is not, is true.",
+      "th": "พูดว่าสิ่งที่มีอยู่ไม่มี หรือสิ่งที่ไม่มีมีอยู่ นั่นคือความเท็จ ส่วนพูดว่าสิ่งที่มีอยู่มี และสิ่งที่ไม่มีก็ไม่มี นั่นคือความจริง",
+      "orig": {
+        "lang": "grc",
+        "text": "τὸ μὲν γὰρ λέγειν τὸ ὂν μὴ εἶναι ἢ τὸ μὴ ὂν εἶναι ψεῦδος, τὸ δὲ τὸ ὂν εἶναι καὶ τὸ μὴ ὂν μὴ εἶναι ἀληθές"
+      },
+      "source": {
+        "work": "Metaphysics",
+        "locator": "Book 4, 1011b",
+        "translator": "W. D. Ross",
+        "url": "https://classics.mit.edu/Aristotle/metaphysics.4.iv.html"
+      },
+      "verify": "primary",
+      "tags": [
+        "truth",
+        "reason",
+        "language"
+      ],
+      "mood": [
+        "confused"
+      ]
+    },
+    {
+      "author": "aristotle",
+      "en": "The least initial deviation from the truth is multiplied later a thousandfold.",
+      "th": "ผิดจากความจริงไปนิดเดียวตอนเริ่ม พอไปถึงปลายทางจะกลายเป็นผิดไปเป็นพันเท่า",
+      "source": {
+        "work": "On the Heavens",
+        "locator": "Book 1, chapter 5 (271b)",
+        "translator": "J. L. Stocks (1922)",
+        "url": "https://classics.mit.edu/Aristotle/heavens.1.i.html"
+      },
+      "verify": "primary",
+      "tags": [
+        "truth",
+        "reason",
+        "change"
+      ],
+      "mood": []
+    },
+    {
+      "author": "aristotle",
+      "en": "It is absurd to hold that a man ought to be ashamed of being unable to defend himself with his limbs, but not of being unable to defend himself with speech and reason, when the use of rational speech is more distinctive of a human being than the use of his limbs.",
+      "th": "แปลกดีที่คนเราอายเวลาปกป้องตัวเองด้วยกำลังไม่ได้ แต่ไม่อายเวลาปกป้องตัวเองด้วยคำพูดและเหตุผลไม่ได้ ทั้งที่การพูดด้วยเหตุผลบ่งบอกความเป็นมนุษย์ได้มากกว่าการใช้แขนขาเสียอีก",
+      "source": {
+        "work": "Rhetoric",
+        "locator": "Book 1, 1355a-b",
+        "translator": "W. Rhys Roberts (1924)",
+        "url": "https://classics.mit.edu/Aristotle/rhetoric.1.i.html"
+      },
+      "verify": "primary",
+      "tags": [
+        "reason",
+        "language",
+        "courage"
+      ],
+      "mood": [
+        "anxious"
+      ]
+    },
+    {
+      "author": "aristotle",
+      "en": "To the question, What do people gain by telling lies? his answer was, Just this, that when they speak the truth they are not believed.",
+      "th": "มีคนถามว่าคนโกหกได้อะไร เขาตอบว่า ได้แค่นี้แหละ คือเวลาพูดความจริง ก็ไม่มีใครเชื่อ",
+      "source": {
+        "work": "Diogenes Laertius, Lives of Eminent Philosophers",
+        "locator": "Book 5, 17",
+        "translator": "R. D. Hicks (1925)",
+        "url": "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_V"
+      },
+      "verify": "sourced",
+      "tags": [
+        "truth",
+        "language"
+      ],
+      "mood": [
+        "heartbroken"
+      ]
+    },
+    {
+      "author": "aristotle",
+      "en": "The roots of education, he said, are bitter, but the fruit is sweet.",
+      "th": "รากของการศึกษานั้นขม แต่ผลของมันหวาน",
+      "source": {
+        "work": "Diogenes Laertius, Lives of Eminent Philosophers",
+        "locator": "Book 5, 18",
+        "translator": "R. D. Hicks (1925)",
+        "url": "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_V"
+      },
+      "verify": "sourced",
+      "tags": [
+        "knowledge",
+        "work",
+        "hope"
+      ],
+      "mood": [
+        "tired"
+      ]
+    },
+    {
+      "author": "michel-de-montaigne",
+      "en": "“What do I know?” as I bear it with the emblem of a balance.",
+      "th": "ผมรู้อะไรบ้าง คือคำถามที่ผมใช้เป็นคติประจำตัว คู่กับรูปตาชั่ง",
+      "source": {
+        "work": "Essays",
+        "locator": "Book 2, chapter 12 (Apology for Raimond Sebond)",
+        "translator": "Charles Cotton",
+        "url": "https://www.gutenberg.org/ebooks/3600"
+      },
+      "verify": "primary",
+      "tags": [
+        "doubt",
+        "knowledge",
+        "self"
+      ],
+      "mood": [
+        "confused"
+      ]
+    },
+    {
+      "author": "michel-de-montaigne",
+      "en": "Every one gives the title of barbarism to everything that is not in use in his own country. As, indeed, we have no other level of truth and reason than the example and idea of the opinions and customs of the place wherein we live.",
+      "th": "ใครก็มักเรียกสิ่งที่บ้านตัวเองไม่ทำกันว่าป่าเถื่อน เพราะเราไม่มีไม้บรรทัดอื่นไว้วัดความจริงและเหตุผล นอกจากความเห็นและธรรมเนียมของที่ที่เราอยู่",
+      "source": {
+        "work": "Essays",
+        "locator": "Book 1, chapter 30 (Of Cannibals)",
+        "translator": "Charles Cotton",
+        "url": "https://www.gutenberg.org/ebooks/3600"
+      },
+      "verify": "primary",
+      "tags": [
+        "society",
+        "truth",
+        "reason"
+      ],
+      "mood": [
+        "angry"
+      ]
+    },
+    {
+      "author": "michel-de-montaigne",
+      "en": "Nothing is so firmly believed, as what we least know; nor any people so confident, as those who entertain us with fables.",
+      "th": "ไม่มีอะไรที่คนเชื่ออย่างสนิทใจ เท่ากับเรื่องที่เรารู้น้อยที่สุด และไม่มีใครมั่นใจเท่ากับคนที่เอานิทานมาเล่าให้เราฟัง",
+      "source": {
+        "work": "Essays",
+        "locator": "Book 1, chapter 31 (That a man is soberly to judge of the divine ordinances)",
+        "translator": "Charles Cotton",
+        "url": "https://www.gutenberg.org/ebooks/3600"
+      },
+      "verify": "primary",
+      "tags": [
+        "doubt",
+        "knowledge",
+        "truth"
+      ],
+      "mood": [
+        "confused"
+      ]
+    },
+    {
+      "author": "michel-de-montaigne",
+      "en": "When I play with my cat who knows whether I do not make her more sport than she makes me?",
+      "th": "เวลาผมเล่นกับแมว ใครจะไปรู้ ว่าผมไม่ได้เป็นของเล่นให้มันสนุก มากกว่าที่มันเป็นของเล่นให้ผม",
+      "source": {
+        "work": "Essays",
+        "locator": "Book 2, chapter 12 (Apology for Raimond Sebond)",
+        "translator": "Charles Cotton",
+        "url": "https://www.gutenberg.org/ebooks/3600"
+      },
+      "verify": "primary",
+      "tags": [
+        "humor",
+        "ego",
+        "nature"
+      ],
+      "mood": [
+        "bored"
+      ]
+    },
+    {
+      "author": "michel-de-montaigne",
+      "en": "When any one contradicts me, he raises my attention, not my anger: I advance towards him who controverts, who instructs me; the cause of truth ought to be the common cause both of the one and the other.",
+      "th": "เวลามีคนแย้งผม เขาทำให้ผมตั้งใจฟังมากขึ้น ไม่ได้ทำให้ผมโกรธ ผมจะเดินเข้าหาคนที่เถียงผม เพราะเขากำลังสอนผม ความจริงควรเป็นเป้าหมายร่วมกันของทั้งสองฝ่าย",
+      "source": {
+        "work": "Essays",
+        "locator": "Book 3, chapter 8 (Of the Art of Conference)",
+        "translator": "Charles Cotton",
+        "url": "https://www.gutenberg.org/ebooks/3600"
+      },
+      "verify": "primary",
+      "tags": [
+        "truth",
+        "anger",
+        "ego"
+      ],
+      "mood": [
+        "angry"
+      ]
+    },
+    {
+      "author": "michel-de-montaigne",
+      "en": "We should rather examine, who is better learned, than who is more learned. We only labour to stuff the memory, and leave the conscience and the understanding unfurnished and void.",
+      "th": "เราควรดูว่าใครเรียนรู้ได้ดีกว่า ไม่ใช่ใครเรียนมามากกว่า แต่เรากลับมัวแต่ยัดข้อมูลใส่ความจำ แล้วปล่อยให้สำนึกและความเข้าใจว่างเปล่า",
+      "source": {
+        "work": "Essays",
+        "locator": "Book 1, chapter 24 (Of Pedantry)",
+        "translator": "Charles Cotton",
+        "url": "https://www.gutenberg.org/ebooks/3600"
+      },
+      "verify": "primary",
+      "tags": [
+        "knowledge",
+        "mind"
+      ],
+      "mood": [
+        "overwhelmed",
+        "tired"
+      ]
+    },
+    {
+      "author": "michel-de-montaigne",
+      "en": "Let him make him examine and thoroughly sift everything he reads, and lodge nothing in his fancy upon simple authority and upon trust.",
+      "th": "ครูต้องฝึกให้เด็กตรวจสอบและกลั่นกรองทุกอย่างที่อ่าน อย่าเก็บอะไรไว้ในหัว เพียงเพราะมีผู้มีอำนาจพูด หรือเพราะเชื่อใจเขา",
+      "source": {
+        "work": "Essays",
+        "locator": "Book 1, chapter 25 (Of the Education of Children)",
+        "translator": "Charles Cotton",
+        "url": "https://www.gutenberg.org/ebooks/3600"
+      },
+      "verify": "primary",
+      "tags": [
+        "doubt",
+        "knowledge",
+        "freedom"
+      ],
+      "mood": [
+        "confused"
+      ]
+    },
+    {
+      "author": "francis-bacon",
+      "en": "The human understanding, when any proposition has been once laid down... forces everything else to add fresh support and confirmation; and although most cogent and abundant instances may exist to the contrary, yet either does not observe or despises them.",
+      "th": "เมื่อความคิดของคนเราปักใจเชื่ออะไรไปแล้ว มันจะบังคับให้ทุกอย่างมาสนับสนุนความเชื่อนั้น ต่อให้มีหลักฐานแย้งที่หนักแน่นและมากมายแค่ไหน มันก็ไม่ยอมมอง หรือไม่ก็ปัดตกไป",
+      "source": {
+        "work": "Novum Organum",
+        "locator": "Book 1, aphorism 46",
+        "translator": "Joseph Devey (ed., 1902)",
+        "url": "https://www.gutenberg.org/ebooks/45988"
+      },
+      "verify": "primary",
+      "tags": [
+        "mind",
+        "truth",
+        "doubt"
+      ],
+      "mood": [
+        "confused",
+        "angry"
+      ]
+    },
+    {
+      "author": "francis-bacon",
+      "en": "The human understanding resembles not a dry light, but admits a tincture of the will and passions, which generate their own system accordingly; for man always believes more readily that which he prefers.",
+      "th": "ความคิดของคนเราไม่ใช่แสงที่ใสบริสุทธิ์ แต่มีความอยากและอารมณ์เจือปนอยู่ แล้วมันก็สร้างความเชื่อขึ้นมาตามนั้น คนเราจึงเชื่อสิ่งที่ตัวเองอยากให้จริงได้ง่ายกว่าเสมอ",
+      "source": {
+        "work": "Novum Organum",
+        "locator": "Book 1, aphorism 49",
+        "translator": "Joseph Devey (ed., 1902)",
+        "url": "https://www.gutenberg.org/ebooks/45988"
+      },
+      "verify": "primary",
+      "tags": [
+        "mind",
+        "desire",
+        "truth"
+      ],
+      "mood": [
+        "confused"
+      ]
+    },
+    {
+      "author": "francis-bacon",
+      "en": "If a man will begin with certainties, he shall end in doubts; but if he will be content to begin with doubts, he shall end in certainties.",
+      "th": "ถ้าเริ่มต้นด้วยความแน่ใจ สุดท้ายจะจบที่ความสงสัย แต่ถ้ายอมเริ่มต้นด้วยความสงสัย สุดท้ายจะได้ความแน่ใจ",
+      "source": {
+        "work": "The Advancement of Learning",
+        "locator": "Book 1, chapter 5, section 8",
+        "translator": null,
+        "url": "https://www.gutenberg.org/ebooks/5500"
+      },
+      "verify": "primary",
+      "tags": [
+        "doubt",
+        "knowledge",
+        "reason"
+      ],
+      "mood": [
+        "confused",
+        "anxious"
+      ]
+    },
+    {
+      "author": "francis-bacon",
+      "en": "Read not to contradict and confute; nor to believe and take for granted; nor to find talk and discourse; but to weigh and consider.",
+      "th": "อ่านหนังสือไม่ใช่เพื่อหาทางเถียงหรือหักล้าง ไม่ใช่เพื่อเชื่อตามทุกคำ และไม่ใช่เพื่อหาเรื่องไปคุย แต่อ่านเพื่อชั่งน้ำหนักและใคร่ครวญ",
+      "source": {
+        "work": "Essays",
+        "locator": "Of Studies",
+        "translator": null,
+        "url": "https://www.gutenberg.org/ebooks/575"
+      },
+      "verify": "primary",
+      "tags": [
+        "knowledge",
+        "reason",
+        "doubt"
+      ],
+      "mood": [
+        "overwhelmed"
+      ]
+    },
+    {
+      "author": "francis-bacon",
+      "en": "What is truth? said jesting Pilate, and would not stay for an answer.",
+      "th": "ความจริงคืออะไร ปีลาตถามแบบเล่น ๆ แล้วก็ไม่รอฟังคำตอบ",
+      "source": {
+        "work": "Essays",
+        "locator": "Of Truth",
+        "translator": null,
+        "url": "https://www.gutenberg.org/ebooks/575"
+      },
+      "verify": "primary",
+      "tags": [
+        "truth",
+        "humor",
+        "doubt"
+      ],
+      "mood": []
+    },
+    {
+      "author": "rene-descartes",
+      "en": "Good sense is... the most equally distributed; for every one thinks himself so abundantly provided with it, that those even who are the most difficult to satisfy in everything else, do not usually desire a larger measure of this quality than they already possess.",
+      "th": "วิจารณญาณคือสิ่งที่ถูกแจกให้คนอย่างเท่าเทียมที่สุดในโลก เพราะใคร ๆ ก็คิดว่าตัวเองมีมันเต็มเปี่ยมอยู่แล้ว ขนาดคนที่เรื่องมากที่สุดในทุกเรื่อง ยังไม่เคยอยากได้มันเพิ่มเลย",
+      "orig": {
+        "lang": "fr",
+        "text": "Le bon sens est la chose du monde la mieux partagée; car chacun pense en être si bien pourvu, que ceux même qui sont les plus difficiles à contenter en toute autre chose n'ont point coutume d'en désirer plus qu'ils en ont."
+      },
+      "source": {
+        "work": "Discourse on Method",
+        "locator": "Part 1",
+        "translator": "John Veitch (1850)",
+        "url": "https://www.gutenberg.org/ebooks/59"
+      },
+      "verify": "primary",
+      "tags": [
+        "humor",
+        "ego",
+        "reason"
+      ],
+      "mood": []
+    },
+    {
+      "author": "rene-descartes",
+      "en": "The first was never to accept anything for true which I did not clearly know to be such; that is to say, carefully to avoid precipitancy and prejudice.",
+      "th": "ข้อแรก อย่ายอมรับอะไรว่าจริง จนกว่าจะรู้ชัดแจ้งว่ามันจริง นั่นคือต้องระวังอย่าด่วนสรุป และอย่าปล่อยให้อคติพาไป",
+      "orig": {
+        "lang": "fr",
+        "text": "Le premier étoit de ne recevoir jamais aucune chose pour vraie que je ne la connusse évidemment être telle; c’est-à-dire, d’éviter soigneusement la précipitation et la prévention"
+      },
+      "source": {
+        "work": "Discourse on Method",
+        "locator": "Part 2",
+        "translator": "John Veitch (1850)",
+        "url": "https://www.gutenberg.org/ebooks/59"
+      },
+      "verify": "primary",
+      "tags": [
+        "truth",
+        "doubt",
+        "reason"
+      ],
+      "mood": [
+        "confused"
+      ]
+    },
+    {
+      "author": "rene-descartes",
+      "en": "The second, to divide each of the difficulties under examination into as many parts as possible, and as might be necessary for its adequate solution.",
+      "th": "ข้อสอง แบ่งปัญหาแต่ละเรื่องที่กำลังพิจารณาออกเป็นส่วนย่อยให้มากที่สุด เท่าที่จำเป็นต่อการแก้ปัญหานั้นให้ได้",
+      "source": {
+        "work": "Discourse on Method",
+        "locator": "Part 2",
+        "translator": "John Veitch (1850)",
+        "url": "https://www.gutenberg.org/ebooks/59"
+      },
+      "verify": "primary",
+      "tags": [
+        "reason",
+        "action",
+        "mind"
+      ],
+      "mood": [
+        "overwhelmed",
+        "stuck"
+      ]
+    },
+    {
+      "author": "rene-descartes",
+      "en": "This truth, I think, therefore I am (COGITO ERGO SUM), was so certain and of such evidence that no ground of doubt, however extravagant, could be alleged by the sceptics capable of shaking it.",
+      "th": "ความจริงที่ว่า ฉันคิด ฉันจึงมีอยู่ นั้นมั่นคงและชัดเจนเสียจน ต่อให้พวกนักสงสัยยกเหตุผลที่พิสดารแค่ไหนมาแย้ง ก็สั่นคลอนมันไม่ได้",
+      "orig": {
+        "lang": "fr",
+        "text": "je pense, donc je suis"
+      },
+      "source": {
+        "work": "Discourse on Method",
+        "locator": "Part 4",
+        "translator": "John Veitch (1850)",
+        "url": "https://www.gutenberg.org/ebooks/59"
+      },
+      "verify": "primary",
+      "tags": [
+        "doubt",
+        "self",
+        "truth"
+      ],
+      "mood": [
+        "lost"
+      ]
+    },
+    {
+      "author": "rene-descartes",
+      "en": "In order to seek truth, it is necessary once in the course of our life, to doubt, as far as possible, of all things.",
+      "th": "ถ้าอยากค้นหาความจริง ชีวิตนี้ต้องมีสักครั้ง ที่เราลองสงสัยทุกอย่างให้มากที่สุดเท่าที่จะสงสัยได้",
+      "source": {
+        "work": "Principles of Philosophy",
+        "locator": "Part 1, 1",
+        "translator": "John Veitch",
+        "url": "https://www.gutenberg.org/ebooks/4391"
+      },
+      "verify": "primary",
+      "tags": [
+        "doubt",
+        "truth",
+        "knowledge"
+      ],
+      "mood": [
+        "confused",
+        "lost"
+      ]
+    },
+    {
+      "author": "baruch-spinoza",
+      "en": "An emotion, which is a passion, ceases to be a passion, as soon as we form a clear and distinct idea thereof.",
+      "th": "อารมณ์ที่ครอบงำเราอยู่ จะหยุดครอบงำเรา ทันทีที่เรามองมันออกอย่างชัดเจน",
+      "orig": {
+        "lang": "la",
+        "text": "Affectus, qui passio est, desinit esse passio, simulatque ejus claram et distinctam formamus ideam."
+      },
+      "source": {
+        "work": "Ethics",
+        "locator": "Part 5, proposition 3",
+        "translator": "R. H. M. Elwes (1883)",
+        "url": "https://www.gutenberg.org/ebooks/3800"
+      },
+      "verify": "primary",
+      "tags": [
+        "emotion",
+        "mind",
+        "reason"
+      ],
+      "mood": [
+        "overwhelmed",
+        "anxious"
+      ]
+    },
+    {
+      "author": "baruch-spinoza",
+      "en": "All things excellent are as difficult as they are rare.",
+      "th": "สิ่งที่ยอดเยี่ยมทั้งหลาย ทำได้ยากพอ ๆ กับที่หาได้ยาก",
+      "orig": {
+        "lang": "la",
+        "text": "Sed omnia præclara tam difficilia quam rara sunt."
+      },
+      "source": {
+        "work": "Ethics",
+        "locator": "Part 5, proposition 42, note",
+        "translator": "R. H. M. Elwes (1883)",
+        "url": "https://www.gutenberg.org/ebooks/3800"
+      },
+      "verify": "primary",
+      "tags": [
+        "virtue",
+        "work",
+        "hope"
+      ],
+      "mood": [
+        "tired",
+        "stuck"
+      ]
+    },
+    {
+      "author": "baruch-spinoza",
+      "en": "Men think themselves free inasmuch as they are conscious of their volitions and desires, and never even dream, in their ignorance, of the causes which have disposed them so to wish and desire.",
+      "th": "คนเราคิดว่าตัวเองเป็นอิสระ เพราะรู้ตัวว่ากำลังอยากหรือตั้งใจจะทำอะไร แต่ไม่เคยแม้แต่จะฝันถึงเหตุที่ทำให้ตัวเองอยากแบบนั้นเลย",
+      "orig": {
+        "lang": "la",
+        "text": "homines se liberos esse opinentur, quandoquidem suarum volitionum suique appetitus sunt conscii, et de causis, a quibus disponuntur ad appetendum et volendum, quia earum sunt ignari nec per somnium cogitant"
+      },
+      "source": {
+        "work": "Ethics",
+        "locator": "Part 1, appendix",
+        "translator": "R. H. M. Elwes (1883)",
+        "url": "https://www.gutenberg.org/ebooks/3800"
+      },
+      "verify": "primary",
+      "tags": [
+        "freedom",
+        "desire",
+        "mind"
+      ],
+      "mood": [
+        "confused"
+      ]
+    },
+    {
+      "author": "john-locke",
+      "en": "Truth scarce ever yet carried it by vote anywhere at its first appearance: new opinions are always suspected, and usually opposed, without any other reason but because they are not already common.",
+      "th": "ความจริงแทบไม่เคยชนะโหวตที่ไหนเลยตอนที่มันเพิ่งปรากฏ ความคิดใหม่มักถูกสงสัยและถูกต่อต้าน โดยไม่มีเหตุผลอื่นนอกจากว่ามันยังไม่แพร่หลาย",
+      "source": {
+        "work": "An Essay Concerning Human Understanding",
+        "locator": "Epistle Dedicatory",
+        "translator": null,
+        "url": "https://www.gutenberg.org/ebooks/10615"
+      },
+      "verify": "primary",
+      "tags": [
+        "truth",
+        "society",
+        "change"
+      ],
+      "mood": [
+        "stuck"
+      ]
+    },
+    {
+      "author": "john-locke",
+      "en": "I have always thought the actions of men the best interpreters of their thoughts.",
+      "th": "ผมคิดมาตลอดว่า การกระทำของคนเรา คือสิ่งที่บอกได้ดีที่สุดว่าเขาคิดอะไรอยู่",
+      "source": {
+        "work": "An Essay Concerning Human Understanding",
+        "locator": "Book 1, chapter 3, section 3",
+        "translator": null,
+        "url": "https://www.gutenberg.org/ebooks/10615"
+      },
+      "verify": "primary",
+      "tags": [
+        "action",
+        "truth",
+        "self"
+      ],
+      "mood": [
+        "heartbroken"
+      ]
+    },
+    {
+      "author": "john-locke",
+      "en": "It is one thing to show a man that he is in an error, and another to put him in possession of truth.",
+      "th": "การชี้ให้คนเห็นว่าเขาคิดผิด เป็นเรื่องหนึ่ง แต่การทำให้เขาได้เข้าถึงความจริง เป็นอีกเรื่องหนึ่งเลย",
+      "source": {
+        "work": "An Essay Concerning Human Understanding",
+        "locator": "Book 4, chapter 7, section 11",
+        "translator": null,
+        "url": "https://www.gutenberg.org/ebooks/10616"
+      },
+      "verify": "primary",
+      "tags": [
+        "truth",
+        "knowledge",
+        "reason"
+      ],
+      "mood": [
+        "angry"
+      ]
+    },
+    {
+      "author": "david-hume",
+      "en": "A wise man, therefore, proportions his belief to the evidence.",
+      "th": "คนฉลาดจะเชื่ออะไรมากหรือน้อย ก็ตามน้ำหนักของหลักฐาน",
+      "source": {
+        "work": "An Enquiry Concerning Human Understanding",
+        "locator": "Section 10, part 1",
+        "translator": null,
+        "url": "https://www.gutenberg.org/ebooks/9662"
+      },
+      "verify": "primary",
+      "tags": [
+        "truth",
+        "reason",
+        "doubt"
+      ],
+      "mood": [
+        "confused"
+      ]
+    },
+    {
+      "author": "david-hume",
+      "en": "No testimony is sufficient to establish a miracle, unless the testimony be of such a kind, that its falsehood would be more miraculous, than the fact, which it endeavours to establish.",
+      "th": "ไม่มีคำบอกเล่าไหนหนักแน่นพอจะยืนยันปาฏิหาริย์ได้ เว้นแต่ว่าการที่คำบอกเล่านั้นเป็นเท็จ จะน่าอัศจรรย์ยิ่งกว่าเรื่องที่มันพยายามยืนยันเสียอีก",
+      "source": {
+        "work": "An Enquiry Concerning Human Understanding",
+        "locator": "Section 10, part 1",
+        "translator": null,
+        "url": "https://www.gutenberg.org/ebooks/9662"
+      },
+      "verify": "primary",
+      "tags": [
+        "truth",
+        "doubt",
+        "reason"
+      ],
+      "mood": []
+    },
+    {
+      "author": "david-hume",
+      "en": "Be a philosopher; but, amidst all your philosophy, be still a man.",
+      "th": "เป็นนักปรัชญาได้ แต่ถึงจะคิดลึกแค่ไหน ก็อย่าลืมเป็นคนธรรมดา",
+      "source": {
+        "work": "An Enquiry Concerning Human Understanding",
+        "locator": "Section 1",
+        "translator": null,
+        "url": "https://www.gutenberg.org/ebooks/9662"
+      },
+      "verify": "primary",
+      "tags": [
+        "reason",
+        "self",
+        "simplicity"
+      ],
+      "mood": [
+        "overwhelmed"
+      ]
+    },
+    {
+      "author": "david-hume",
+      "en": "Custom, then, is the great guide of human life.",
+      "th": "ความเคยชินนี่เอง คือสิ่งที่นำทางชีวิตมนุษย์มากที่สุด",
+      "source": {
+        "work": "An Enquiry Concerning Human Understanding",
+        "locator": "Section 5, part 1",
+        "translator": null,
+        "url": "https://www.gutenberg.org/ebooks/9662"
+      },
+      "verify": "primary",
+      "tags": [
+        "mind",
+        "nature",
+        "knowledge"
+      ],
+      "mood": [
+        "stuck"
+      ]
+    },
+    {
+      "author": "david-hume",
+      "en": "In general, there is a degree of doubt, and caution, and modesty, which, in all kinds of scrutiny and decision, ought for ever to accompany a just reasoner.",
+      "th": "โดยทั่วไปแล้ว คนที่ใช้เหตุผลอย่างเที่ยงธรรม ควรมีความสงสัย ความระมัดระวัง และความถ่อมตัวติดตัวไว้เสมอ ไม่ว่าจะตรวจสอบหรือตัดสินเรื่องอะไร",
+      "source": {
+        "work": "An Enquiry Concerning Human Understanding",
+        "locator": "Section 12, part 3",
+        "translator": null,
+        "url": "https://www.gutenberg.org/ebooks/9662"
+      },
+      "verify": "primary",
+      "tags": [
+        "doubt",
+        "reason",
+        "ego"
+      ],
+      "mood": []
+    },
+    {
+      "author": "david-hume",
+      "en": "Reason is, and ought only to be the slave of the passions, and can never pretend to any other office than to serve and obey them.",
+      "th": "เหตุผลเป็นทาสของอารมณ์ความปรารถนา และควรเป็นแค่นั้น มันอ้างไม่ได้เลยว่ามีหน้าที่อื่น นอกจากรับใช้และทำตามอารมณ์",
+      "source": {
+        "work": "A Treatise of Human Nature",
+        "locator": "Book 2, part 3, section 3",
+        "translator": null,
+        "url": "https://www.gutenberg.org/ebooks/4705"
+      },
+      "verify": "primary",
+      "tags": [
+        "reason",
+        "emotion",
+        "desire"
+      ],
+      "mood": [
+        "confused"
+      ]
+    },
+    {
+      "author": "david-hume",
+      "en": "For my part, when I enter most intimately into what I call myself, I always stumble on some particular perception or other, of heat or cold, light or shade, love or hatred, pain or pleasure. I never can catch myself at any time without a perception.",
+      "th": "ทุกครั้งที่ผมมองเข้าไปลึก ๆ ในสิ่งที่เรียกว่าตัวผม ผมก็เจอแต่ความรู้สึกอย่างใดอย่างหนึ่งเสมอ ร้อนหรือหนาว สว่างหรือมืด รักหรือเกลียด เจ็บหรือสุข ผมไม่เคยจับตัวเองได้สักครั้ง โดยไม่มีความรู้สึกอะไรติดมาด้วย",
+      "source": {
+        "work": "A Treatise of Human Nature",
+        "locator": "Book 1, part 4, section 6",
+        "translator": null,
+        "url": "https://www.gutenberg.org/ebooks/4705"
+      },
+      "verify": "primary",
+      "tags": [
+        "self",
+        "mind",
+        "ego"
+      ],
+      "mood": [
+        "lost"
+      ]
+    },
+    {
+      "author": "david-hume",
+      "en": "Generally speaking, the errors in religion are dangerous; those in philosophy only ridiculous.",
+      "th": "โดยทั่วไปแล้ว ความผิดพลาดทางศาสนานั้นอันตราย ส่วนความผิดพลาดทางปรัชญาก็แค่น่าขำ",
+      "source": {
+        "work": "A Treatise of Human Nature",
+        "locator": "Book 1, part 4, section 7",
+        "translator": null,
+        "url": "https://www.gutenberg.org/ebooks/4705"
+      },
+      "verify": "primary",
+      "tags": [
+        "humor",
+        "truth",
+        "reason"
+      ],
+      "mood": []
+    },
+    {
+      "author": "immanuel-kant",
+      "en": "Sapere aude! “Have courage to use your own reason!”—that is the motto of enlightenment.",
+      "th": "จงกล้าที่จะรู้ จงกล้าใช้เหตุผลของตัวเอง นี่คือคำขวัญของการเรืองปัญญา",
+      "orig": {
+        "lang": "de",
+        "text": "Sapere aude! Habe Mut, dich deines eigenen Verstandes zu bedienen! ist also der Wahlspruch der Aufklärung."
+      },
+      "source": {
+        "work": "An Answer to the Question: What is Enlightenment?",
+        "locator": "1784",
+        "translator": "Lewis White Beck",
+        "url": "https://en.wikisource.org/wiki/What_is_Enlightenment%3F"
+      },
+      "verify": "primary",
+      "tags": [
+        "courage",
+        "reason",
+        "freedom"
+      ],
+      "mood": [
+        "stuck",
+        "lost"
+      ]
+    },
+    {
+      "author": "immanuel-kant",
+      "en": "It is so easy not to be of age. If I have a book which understands for me, a pastor who has a conscience for me, a physician who decides my diet, and so forth, I need not trouble myself. I need not think, if I can only pay.",
+      "th": "การไม่ต้องโตนี่มันช่างสบาย ถ้ามีหนังสือที่เข้าใจแทนเรา มีนักบวชที่มีสำนึกแทนเรา มีหมอที่ตัดสินใจเรื่องอาหารแทนเรา เราก็ไม่ต้องลำบากอะไรเลย ไม่ต้องคิดด้วยซ้ำ ขอแค่มีเงินจ่ายก็พอ",
+      "orig": {
+        "lang": "de",
+        "text": "Es ist so bequem, unmündig zu sein. Habe ich ein Buch, das für mich Verstand hat, einen Seelsorger, der für mich Gewissen hat, einen Arzt, der für mich die Diät beurteilt usw., so brauche ich mich ja nicht selbst zu bemühen. Ich habe nicht nötig zu denken, wenn ich nur bezahlen kann"
+      },
+      "source": {
+        "work": "An Answer to the Question: What is Enlightenment?",
+        "locator": "1784",
+        "translator": "Lewis White Beck",
+        "url": "https://en.wikisource.org/wiki/What_is_Enlightenment%3F"
+      },
+      "verify": "primary",
+      "tags": [
+        "freedom",
+        "responsibility",
+        "reason"
+      ],
+      "mood": [
+        "stuck",
+        "tired"
+      ]
+    },
+    {
+      "author": "immanuel-kant",
+      "en": "Two things fill the mind with ever new and increasing admiration and awe, the oftener and the more steadily we reflect on them: the starry heavens above and the moral law within.",
+      "th": "มีสองสิ่งที่ยิ่งใคร่ครวญถึงบ่อยและนานเท่าไร ใจก็ยิ่งเปี่ยมด้วยความทึ่งและความยำเกรงที่ใหม่และมากขึ้นเรื่อย ๆ นั่นคือท้องฟ้าเต็มไปด้วยดวงดาวเหนือหัวเรา และกฎศีลธรรมภายในใจเรา",
+      "source": {
+        "work": "Critique of Practical Reason",
+        "locator": "Conclusion",
+        "translator": "T. K. Abbott",
+        "url": "https://www.gutenberg.org/ebooks/5683"
+      },
+      "verify": "primary",
+      "tags": [
+        "nature",
+        "virtue",
+        "mind"
+      ],
+      "mood": [
+        "lost",
+        "bored"
+      ]
+    },
+    {
+      "author": "immanuel-kant",
+      "en": "Morality is not properly the doctrine how we should make ourselves happy, but how we should become worthy of happiness.",
+      "th": "ศีลธรรมไม่ได้สอนว่าเราจะทำให้ตัวเองมีความสุขได้อย่างไร แต่สอนว่าเราจะเป็นคนที่คู่ควรกับความสุขได้อย่างไร",
+      "source": {
+        "work": "Critique of Practical Reason",
+        "locator": "Part 1, book 2, chapter 2, section 5",
+        "translator": "T. K. Abbott",
+        "url": "https://www.gutenberg.org/ebooks/5683"
+      },
+      "verify": "primary",
+      "tags": [
+        "virtue",
+        "happiness",
+        "meaning"
+      ],
+      "mood": [
+        "lost"
+      ]
+    },
+    {
+      "author": "immanuel-kant",
+      "en": "Act only on that maxim whereby thou canst at the same time will that it should become a universal law.",
+      "th": "จงทำตามหลักประจำใจที่คุณยินดีให้มันกลายเป็นกฎสากลสำหรับทุกคนเท่านั้น",
+      "source": {
+        "work": "Groundwork of the Metaphysic of Morals",
+        "locator": "Second Section",
+        "translator": "T. K. Abbott",
+        "url": "https://www.gutenberg.org/ebooks/5682"
+      },
+      "verify": "primary",
+      "tags": [
+        "virtue",
+        "reason",
+        "responsibility"
+      ],
+      "mood": [
+        "confused"
+      ]
+    },
+    {
+      "author": "immanuel-kant",
+      "en": "So act as to treat humanity, whether in thine own person or in that of any other, in every case as an end withal, never as means only.",
+      "th": "จงปฏิบัติต่อความเป็นมนุษย์ ทั้งในตัวคุณเองและในตัวคนอื่น ให้เป็นเป้าหมายในตัวมันเองเสมอ อย่าใช้เป็นแค่เครื่องมือ",
+      "source": {
+        "work": "Groundwork of the Metaphysic of Morals",
+        "locator": "Second Section",
+        "translator": "T. K. Abbott",
+        "url": "https://www.gutenberg.org/ebooks/5682"
+      },
+      "verify": "primary",
+      "tags": [
+        "virtue",
+        "society",
+        "responsibility"
+      ],
+      "mood": [
+        "angry"
+      ]
+    },
+    {
+      "author": "john-stuart-mill",
+      "en": "He who knows only his own side of the case, knows little of that.",
+      "th": "คนที่รู้แค่เหตุผลฝั่งตัวเอง ที่จริงก็รู้เรื่องฝั่งตัวเองน้อยมากเหมือนกัน",
+      "source": {
+        "work": "On Liberty",
+        "locator": "Chapter 2",
+        "translator": null,
+        "url": "https://www.gutenberg.org/ebooks/34901"
+      },
+      "verify": "primary",
+      "tags": [
+        "truth",
+        "reason",
+        "doubt"
+      ],
+      "mood": [
+        "angry"
+      ]
+    },
+    {
+      "author": "john-stuart-mill",
+      "en": "If all mankind minus one, were of one opinion, and only one person were of the contrary opinion, mankind would be no more justified in silencing that one person, than he, if he had the power, would be justified in silencing mankind.",
+      "th": "ถ้ามนุษย์ทั้งโลกคิดเหมือนกันหมด เหลือแค่คนเดียวที่คิดต่าง มนุษยชาติก็ไม่มีสิทธิ์ปิดปากคนคนนั้น พอ ๆ กับที่คนคนนั้นไม่มีสิทธิ์ปิดปากคนทั้งโลก ต่อให้เขามีอำนาจทำได้ก็ตาม",
+      "source": {
+        "work": "On Liberty",
+        "locator": "Chapter 2",
+        "translator": null,
+        "url": "https://www.gutenberg.org/ebooks/34901"
+      },
+      "verify": "primary",
+      "tags": [
+        "freedom",
+        "society",
+        "truth"
+      ],
+      "mood": [
+        "anxious"
+      ]
+    },
+    {
+      "author": "john-stuart-mill",
+      "en": "The fatal tendency of mankind to leave off thinking about a thing when it is no longer doubtful, is the cause of half their errors.",
+      "th": "นิสัยร้ายของมนุษย์ที่เลิกคิดถึงเรื่องไหนทันทีที่มันไม่มีข้อสงสัยแล้ว คือต้นเหตุของความผิดพลาดครึ่งหนึ่งของเรา",
+      "source": {
+        "work": "On Liberty",
+        "locator": "Chapter 2",
+        "translator": null,
+        "url": "https://www.gutenberg.org/ebooks/34901"
+      },
+      "verify": "primary",
+      "tags": [
+        "doubt",
+        "reason",
+        "mind"
+      ],
+      "mood": [
+        "bored"
+      ]
+    },
+    {
+      "author": "john-stuart-mill",
+      "en": "It is better to be a human being dissatisfied than a pig satisfied; better to be Socrates dissatisfied than a fool satisfied.",
+      "th": "เป็นมนุษย์ที่ไม่พอใจ ยังดีกว่าเป็นหมูที่พอใจ เป็นโสกราตีสที่ไม่พอใจ ยังดีกว่าเป็นคนโง่ที่พอใจ",
+      "source": {
+        "work": "Utilitarianism",
+        "locator": "Chapter 2",
+        "translator": null,
+        "url": "https://www.gutenberg.org/ebooks/11224"
+      },
+      "verify": "primary",
+      "tags": [
+        "happiness",
+        "knowledge",
+        "meaning"
+      ],
+      "mood": [
+        "bored",
+        "lost"
+      ]
+    },
+    {
+      "author": "john-stuart-mill",
+      "en": "Ask yourself whether you are happy, and you cease to be so.",
+      "th": "ลองถามตัวเองว่ามีความสุขไหม แล้วคุณจะหยุดมีความสุขทันที",
+      "source": {
+        "work": "Autobiography",
+        "locator": "Chapter 5",
+        "translator": null,
+        "url": "https://www.gutenberg.org/ebooks/10378"
+      },
+      "verify": "primary",
+      "tags": [
+        "happiness",
+        "mind",
+        "humor"
+      ],
+      "mood": [
+        "anxious",
+        "overwhelmed"
+      ]
+    },
+    {
+      "author": "bertrand-russell",
+      "en": "Is there any knowledge in the world which is so certain that no reasonable man could doubt it?",
+      "th": "มีความรู้อะไรในโลกนี้ไหม ที่แน่นอนเสียจนคนมีเหตุผลคนไหนก็สงสัยไม่ได้",
+      "source": {
+        "work": "The Problems of Philosophy",
+        "locator": "Chapter 1 (1912)",
+        "translator": null,
+        "url": "https://www.gutenberg.org/ebooks/5827"
+      },
+      "verify": "primary",
+      "tags": [
+        "knowledge",
+        "doubt",
+        "truth"
+      ],
+      "mood": [
+        "confused"
+      ]
+    },
+    {
+      "author": "bertrand-russell",
+      "en": "The man who has no tincture of philosophy goes through life imprisoned in the prejudices derived from common sense, from the habitual beliefs of his age or his nation, and from convictions which have grown up in his mind without the co-operation or consent of his deliberate reason.",
+      "th": "คนที่ไม่มีปรัชญาอยู่ในตัวเลยสักนิด จะใช้ชีวิตเหมือนถูกขังอยู่ในอคติ ทั้งอคติจากสามัญสำนึก จากความเชื่อที่คนยุคเดียวกันหรือชาติเดียวกันเชื่อตามกันมา และจากความเชื่อที่งอกขึ้นในหัว โดยที่เหตุผลของเขาไม่เคยได้ร่วมคิดหรือยินยอมเลย",
+      "source": {
+        "work": "The Problems of Philosophy",
+        "locator": "Chapter 15 (1912)",
+        "translator": null,
+        "url": "https://www.gutenberg.org/ebooks/5827"
+      },
+      "verify": "primary",
+      "tags": [
+        "freedom",
+        "reason",
+        "society"
+      ],
+      "mood": [
+        "stuck",
+        "bored"
+      ]
+    },
+    {
+      "author": "bertrand-russell",
+      "en": "Philosophy is to be studied, not for the sake of any definite answers to its questions, since no definite answers can, as a rule, be known to be true, but rather for the sake of the questions themselves.",
+      "th": "เราเรียนปรัชญาไม่ใช่เพื่อหาคำตอบตายตัว เพราะโดยทั่วไปไม่มีคำตอบตายตัวไหนที่รู้ได้แน่ว่าจริง แต่เราเรียนเพื่อตัวคำถามเองต่างหาก",
+      "source": {
+        "work": "The Problems of Philosophy",
+        "locator": "Chapter 15 (1912)",
+        "translator": null,
+        "url": "https://www.gutenberg.org/ebooks/5827"
+      },
+      "verify": "primary",
+      "tags": [
+        "knowledge",
+        "doubt",
+        "meaning"
+      ],
+      "mood": [
+        "lost",
+        "confused"
+      ]
+    },
+    {
+      "author": "bertrand-russell",
+      "en": "Men fear thought as they fear nothing else on earth—more than ruin, more even than death.",
+      "th": "มนุษย์กลัวการคิดยิ่งกว่ากลัวสิ่งใดในโลก มากกว่ากลัวความหายนะ มากกว่ากลัวแม้แต่ความตาย",
+      "source": {
+        "work": "Why Men Fight (Principles of Social Reconstruction)",
+        "locator": "Chapter 5, Education (1916)",
+        "translator": null,
+        "url": "https://www.gutenberg.org/ebooks/55610"
+      },
+      "verify": "primary",
+      "tags": [
+        "fear",
+        "mind",
+        "freedom"
+      ],
+      "mood": [
+        "anxious"
+      ]
+    },
+    {
+      "author": "bertrand-russell",
+      "en": "What is wanted is not the will to believe, but the wish to find out, which is its exact opposite.",
+      "th": "สิ่งที่เราต้องการไม่ใช่ความตั้งใจที่จะเชื่อ แต่คือความอยากรู้ความจริง ซึ่งเป็นสิ่งที่ตรงข้ามกันเลย",
+      "source": {
+        "work": "Free Thought and Official Propaganda",
+        "locator": "Conway Memorial Lecture (1922)",
+        "translator": null,
+        "url": "https://www.gutenberg.org/ebooks/44932"
+      },
+      "verify": "primary",
+      "tags": [
+        "truth",
+        "doubt",
+        "desire"
+      ],
+      "mood": [
+        "confused"
+      ]
+    },
+    {
+      "author": "bertrand-russell",
+      "en": "One of the symptoms of approaching nervous breakdown is the belief that one’s work is terribly important, and that to take a holiday would bring all kinds of disaster.",
+      "th": "อาการอย่างหนึ่งของคนที่ใกล้จะเครียดจนพัง คือความเชื่อว่างานของตัวเองสำคัญมาก และถ้าหยุดพักเมื่อไร หายนะสารพัดจะตามมา",
+      "source": {
+        "work": "The Conquest of Happiness",
+        "locator": "Chapter 5, Fatigue (1930)",
+        "translator": null,
+        "url": "https://www.gutenberg.org/ebooks/77894"
+      },
+      "verify": "primary",
+      "tags": [
+        "work",
+        "humor",
+        "ego"
+      ],
+      "mood": [
+        "stress",
+        "tired"
+      ]
+    },
+    {
+      "author": "bertrand-russell",
+      "en": "The fundamental cause of the trouble is that in the modern world the stupid are cocksure while the intelligent are full of doubt.",
+      "th": "ต้นเหตุของปัญหาคือ ในโลกยุคนี้ คนโง่มั่นใจเต็มร้อย ส่วนคนฉลาดกลับเต็มไปด้วยความสงสัย",
+      "source": {
+        "work": "The Triumph of Stupidity",
+        "locator": "1933 (collected in Mortals and Others)",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Bertrand_Russell"
+      },
+      "verify": "sourced",
+      "tags": [
+        "doubt",
+        "ego",
+        "society"
+      ],
+      "mood": [
+        "angry"
+      ]
+    },
+    {
+      "author": "bertrand-russell",
+      "en": "Man is a credulous animal, and must believe something; in the absence of good grounds for belief, he will be satisfied with bad ones.",
+      "th": "มนุษย์เป็นสัตว์ที่เชื่อง่าย และต้องเชื่ออะไรสักอย่าง ถ้าไม่มีเหตุผลดี ๆ ให้เชื่อ ก็จะพอใจกับเหตุผลแย่ ๆ แทน",
+      "source": {
+        "work": "Unpopular Essays",
+        "locator": "1950",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Bertrand_Russell"
+      },
+      "verify": "sourced",
+      "tags": [
+        "truth",
+        "mind",
+        "doubt"
+      ],
+      "mood": [
+        "confused"
+      ]
+    },
+    {
+      "author": "bertrand-russell",
+      "en": "Do not fear to be eccentric in opinion, for every opinion now accepted was once eccentric.",
+      "th": "อย่ากลัวที่จะมีความเห็นแปลกไปจากคนอื่น เพราะทุกความเห็นที่คนยอมรับกันวันนี้ ครั้งหนึ่งก็เคยถูกมองว่าแปลกมาก่อน",
+      "source": {
+        "work": "A Liberal Decalogue",
+        "locator": "New York Times Magazine, 16 December 1951",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Bertrand_Russell"
+      },
+      "verify": "sourced",
+      "tags": [
+        "courage",
+        "freedom",
+        "society"
+      ],
+      "mood": [
+        "stuck",
+        "anxious"
+      ]
+    },
+    {
+      "author": "bertrand-russell",
+      "en": "I am firm, you are obstinate, he is a pig-headed fool.",
+      "th": "ผมแค่หนักแน่น คุณดื้อ ส่วนเขาน่ะหัวรั้นโง่เง่า",
+      "source": {
+        "work": "The Brains Trust, BBC radio",
+        "locator": "1948",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Bertrand_Russell"
+      },
+      "verify": "sourced",
+      "tags": [
+        "humor",
+        "ego",
+        "language"
+      ],
+      "mood": [
+        "angry"
+      ]
+    },
+    {
+      "author": "ludwig-wittgenstein",
+      "en": "The limits of my language mean the limits of my world.",
+      "th": "ขอบเขตของภาษาของฉัน คือขอบเขตของโลกของฉัน",
+      "orig": {
+        "lang": "de",
+        "text": "Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt."
+      },
+      "source": {
+        "work": "Tractatus Logico-Philosophicus",
+        "locator": "5.6",
+        "translator": "C. K. Ogden (1922)",
+        "url": "https://www.gutenberg.org/ebooks/5740"
+      },
+      "verify": "primary",
+      "tags": [
+        "language",
+        "mind",
+        "knowledge"
+      ],
+      "mood": [
+        "stuck"
+      ]
+    },
+    {
+      "author": "ludwig-wittgenstein",
+      "en": "The object of philosophy is the logical clarification of thoughts. Philosophy is not a theory but an activity.",
+      "th": "เป้าหมายของปรัชญาคือการทำให้ความคิดชัดเจนด้วยตรรกะ ปรัชญาไม่ใช่ทฤษฎี แต่เป็นการลงมือทำ",
+      "orig": {
+        "lang": "de",
+        "text": "Der Zweck der Philosophie ist die logische Klärung der Gedanken. Die Philosophie ist keine Lehre, sondern eine Tätigkeit."
+      },
+      "source": {
+        "work": "Tractatus Logico-Philosophicus",
+        "locator": "4.112",
+        "translator": "C. K. Ogden (1922)",
+        "url": "https://www.gutenberg.org/ebooks/5740"
+      },
+      "verify": "primary",
+      "tags": [
+        "reason",
+        "language",
+        "action"
+      ],
+      "mood": [
+        "confused"
+      ]
+    },
+    {
+      "author": "ludwig-wittgenstein",
+      "en": "Whereof one cannot speak, thereof one must be silent.",
+      "th": "สิ่งใดที่พูดไม่ได้ ก็ต้องเงียบไว้",
+      "orig": {
+        "lang": "de",
+        "text": "Wovon man nicht sprechen kann, darüber muss man schweigen."
+      },
+      "source": {
+        "work": "Tractatus Logico-Philosophicus",
+        "locator": "7",
+        "translator": "C. K. Ogden (1922)",
+        "url": "https://www.gutenberg.org/ebooks/5740"
+      },
+      "verify": "primary",
+      "tags": [
+        "language",
+        "knowledge",
+        "truth"
+      ],
+      "mood": []
+    },
+    {
+      "author": "ludwig-wittgenstein",
+      "en": "Nothing is so difficult as not deceiving oneself.",
+      "th": "ไม่มีอะไรยากเท่ากับการไม่หลอกตัวเอง",
+      "source": {
+        "work": "Culture and Value",
+        "locator": "p. 34e",
+        "translator": "Peter Winch (1980)",
+        "url": "https://en.wikiquote.org/wiki/Ludwig_Wittgenstein"
+      },
+      "verify": "sourced",
+      "tags": [
+        "truth",
+        "self",
+        "ego"
+      ],
+      "mood": [
+        "confused",
+        "heartbroken"
+      ]
+    },
+    {
+      "author": "ludwig-wittgenstein",
+      "en": "If people did not sometimes do silly things, nothing intelligent would ever get done.",
+      "th": "ถ้าคนเราไม่เคยทำเรื่องโง่ ๆ บ้างเลย ก็คงไม่มีเรื่องฉลาด ๆ เกิดขึ้นสักเรื่อง",
+      "source": {
+        "work": "Culture and Value",
+        "locator": "p. 50e",
+        "translator": "Peter Winch (1980)",
+        "url": "https://en.wikiquote.org/wiki/Ludwig_Wittgenstein"
+      },
+      "verify": "sourced",
+      "tags": [
+        "failure",
+        "humor",
+        "action"
+      ],
+      "mood": [
+        "stuck",
+        "anxious"
+      ]
+    },
+    {
+      "author": "karl-popper",
+      "en": "Unlimited tolerance must lead to the disappearance of tolerance. If we extend unlimited tolerance even to those who are intolerant, if we are not prepared to defend a tolerant society against the onslaught of the intolerant, then the tolerant will be destroyed, and tolerance with them.",
+      "th": "ความอดทนอดกลั้นที่ไม่มีขีดจำกัด จะนำไปสู่การสูญสิ้นของความอดทนอดกลั้นเอง ถ้าเราอดทนแม้แต่กับคนที่ไม่ยอมอดทนต่อใคร และไม่พร้อมจะปกป้องสังคมที่อดทนอดกลั้นจากการโจมตีของคนเหล่านั้น คนที่อดทนจะถูกทำลาย และความอดทนก็จะหายไปพร้อมกัน",
+      "source": {
+        "work": "The Open Society and Its Enemies",
+        "locator": "Vol. 1, chapter 7, note 4 (1945)",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Karl_Popper"
+      },
+      "verify": "sourced",
+      "tags": [
+        "society",
+        "freedom",
+        "responsibility"
+      ],
+      "mood": [
+        "angry"
+      ]
+    },
+    {
+      "author": "karl-popper",
+      "en": "Whenever a theory appears to you as the only possible one, take this as a sign that you have neither understood the theory nor the problem which it was intended to solve.",
+      "th": "เมื่อไรที่ทฤษฎีไหนดูเหมือนเป็นคำอธิบายเดียวที่เป็นไปได้ ให้ถือว่าเป็นสัญญาณว่าคุณยังไม่เข้าใจทั้งตัวทฤษฎี และปัญหาที่มันพยายามจะแก้",
+      "source": {
+        "work": "Objective Knowledge",
+        "locator": "1972",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Karl_Popper"
+      },
+      "verify": "sourced",
+      "tags": [
+        "doubt",
+        "knowledge",
+        "reason"
+      ],
+      "mood": [
+        "confused"
+      ]
+    },
+    {
+      "author": "karl-popper",
+      "en": "Our knowledge can be only finite, while our ignorance must necessarily be infinite.",
+      "th": "ความรู้ของเรามีขอบเขตจำกัดเสมอ ส่วนความไม่รู้ของเรานั้นไม่มีที่สิ้นสุด",
+      "source": {
+        "work": "Conjectures and Refutations",
+        "locator": "1963",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Karl_Popper"
+      },
+      "verify": "sourced",
+      "tags": [
+        "knowledge",
+        "doubt",
+        "ego"
+      ],
+      "mood": [
+        "overwhelmed"
+      ]
+    },
+    {
+      "author": "karl-popper",
+      "en": "Always remember that it is impossible to speak in such a way that you cannot be misunderstood: there will always be some who misunderstand you.",
+      "th": "จำไว้เสมอว่า ไม่มีทางพูดให้ไม่มีใครเข้าใจผิดได้เลย ยังไงก็จะมีบางคนที่เข้าใจคุณผิดอยู่ดี",
+      "source": {
+        "work": "Unended Quest",
+        "locator": "1976",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Karl_Popper"
+      },
+      "verify": "sourced",
+      "tags": [
+        "language",
+        "society"
+      ],
+      "mood": [
+        "anxious",
+        "stress"
+      ]
+    },
+    {
+      "author": "carl-sagan",
+      "en": "One of the saddest lessons of history is this: If we’ve been bamboozled long enough, we tend to reject any evidence of the bamboozle. We’re no longer interested in finding out the truth. The bamboozle has captured us.",
+      "th": "บทเรียนที่น่าเศร้าที่สุดบทหนึ่งของประวัติศาสตร์คือ ถ้าเราถูกหลอกมานานพอ เราจะปฏิเสธทุกหลักฐานที่บอกว่าเราถูกหลอก เราไม่สนใจจะหาความจริงอีกแล้ว เพราะการหลอกลวงนั้นจับเราไว้ได้เรียบร้อย",
+      "source": {
+        "work": "The Demon-Haunted World",
+        "locator": "Chapter 13, Obsessed with Reality (1995)",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Carl_Sagan"
+      },
+      "verify": "sourced",
+      "tags": [
+        "truth",
+        "doubt",
+        "ego"
+      ],
+      "mood": [
+        "heartbroken",
+        "confused"
+      ]
+    },
+    {
+      "author": "carl-sagan",
+      "en": "I believe that the extraordinary should certainly be pursued. But extraordinary claims require extraordinary evidence.",
+      "th": "ผมเชื่อว่าเรื่องที่ไม่ธรรมดาควรค่าแก่การค้นหาแน่นอน แต่คำกล่าวอ้างที่ไม่ธรรมดา ก็ต้องมีหลักฐานที่ไม่ธรรมดาด้วย",
+      "source": {
+        "work": "Broca's Brain",
+        "locator": "Chapter 5 (1979)",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Carl_Sagan"
+      },
+      "verify": "sourced",
+      "tags": [
+        "truth",
+        "doubt",
+        "knowledge"
+      ],
+      "mood": [
+        "confused"
+      ]
+    },
+    {
+      "author": "carl-sagan",
+      "en": "For me, it is far better to grasp the Universe as it really is than to persist in delusion, however satisfying and reassuring.",
+      "th": "สำหรับผม การเข้าใจจักรวาลอย่างที่มันเป็นจริง ดีกว่าการจมอยู่กับภาพลวงตาเยอะเลย ต่อให้ภาพลวงนั้นจะน่าพอใจหรือทำให้อุ่นใจแค่ไหนก็ตาม",
+      "source": {
+        "work": "The Demon-Haunted World",
+        "locator": "Chapter 1 (1995)",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Carl_Sagan"
+      },
+      "verify": "sourced",
+      "tags": [
+        "truth",
+        "courage",
+        "knowledge"
+      ],
+      "mood": [
+        "heartbroken",
+        "anxious"
+      ]
+    },
+    {
+      "author": "carl-sagan",
+      "en": "At the heart of science is an essential balance between two seemingly contradictory attitudes - an openness to new ideas, no matter how bizarre or counterintuitive, and the most ruthlessly skeptical scrutiny of all ideas, old and new.",
+      "th": "หัวใจของวิทยาศาสตร์คือความสมดุลระหว่างสองท่าทีที่ดูขัดกัน คือเปิดใจรับความคิดใหม่ ไม่ว่ามันจะแปลกหรือสวนความรู้สึกแค่ไหน และตรวจสอบทุกความคิดอย่างไม่ไว้หน้า ทั้งความคิดเก่าและความคิดใหม่",
+      "source": {
+        "work": "The Demon-Haunted World",
+        "locator": "Chapter 17 (1995)",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Carl_Sagan"
+      },
+      "verify": "sourced",
+      "tags": [
+        "doubt",
+        "reason",
+        "knowledge"
+      ],
+      "mood": []
+    },
+    {
+      "author": "carl-sagan",
+      "en": "What counts is not what sounds plausible, not what we would like to believe, not what one or two witnesses claim, but only what is supported by hard evidence rigorously and skeptically examined.",
+      "th": "สิ่งที่มีน้ำหนักไม่ใช่เรื่องที่ฟังดูเข้าเค้า ไม่ใช่เรื่องที่เราอยากเชื่อ ไม่ใช่สิ่งที่พยานหนึ่งสองคนยืนยัน แต่คือสิ่งที่มีหลักฐานหนักแน่น ซึ่งผ่านการตรวจสอบอย่างเข้มงวดและช่างสงสัยแล้วเท่านั้น",
+      "source": {
+        "work": "Cosmos: A Personal Voyage",
+        "locator": "Episode 12, Encyclopaedia Galactica (1990 edition)",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Carl_Sagan"
+      },
+      "verify": "sourced",
+      "tags": [
+        "truth",
+        "doubt",
+        "reason"
+      ],
+      "mood": [
+        "confused"
+      ]
+    },
+    {
+      "author": "carl-sagan",
+      "en": "If you wish to make an apple pie from scratch, you must first invent the universe.",
+      "th": "ถ้าอยากทำพายแอปเปิลแบบเริ่มจากศูนย์จริง ๆ คุณต้องสร้างจักรวาลขึ้นมาก่อน",
+      "source": {
+        "work": "Cosmos",
+        "locator": "p. 218 (1980)",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Carl_Sagan"
+      },
+      "verify": "sourced",
+      "tags": [
+        "humor",
+        "nature",
+        "knowledge"
+      ],
+      "mood": [
+        "bored"
+      ]
+    },
+    {
+      "author": "richard-feynman",
+      "en": "The first principle is that you must not fool yourself — and you are the easiest person to fool.",
+      "th": "หลักข้อแรกคือ อย่าหลอกตัวเอง และคนที่หลอกง่ายที่สุดก็คือตัวคุณเองนั่นแหละ",
+      "source": {
+        "work": "Cargo Cult Science",
+        "locator": "Caltech commencement address (1974)",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Richard_Feynman"
+      },
+      "verify": "sourced",
+      "tags": [
+        "truth",
+        "self",
+        "doubt"
+      ],
+      "mood": [
+        "confused"
+      ]
+    },
+    {
+      "author": "richard-feynman",
+      "en": "For a successful technology, reality must take precedence over public relations, for nature cannot be fooled.",
+      "th": "เทคโนโลยีจะสำเร็จได้ ความจริงต้องมาก่อนการประชาสัมพันธ์ เพราะธรรมชาติไม่มีวันถูกหลอก",
+      "source": {
+        "work": "Report of the Presidential Commission on the Space Shuttle Challenger Accident",
+        "locator": "Appendix F (1986)",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Richard_Feynman"
+      },
+      "verify": "sourced",
+      "tags": [
+        "truth",
+        "nature",
+        "responsibility"
+      ],
+      "mood": []
+    },
+    {
+      "author": "richard-feynman",
+      "en": "I learned very early the difference between knowing the name of something and knowing something.",
+      "th": "ผมเรียนรู้ตั้งแต่เด็กว่า การรู้ชื่อของอะไรสักอย่าง กับการรู้จักสิ่งนั้นจริง ๆ นั้นต่างกันมาก",
+      "source": {
+        "work": "What Do You Care What Other People Think?",
+        "locator": "The Making of a Scientist, p. 14 (1988)",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Richard_Feynman"
+      },
+      "verify": "sourced",
+      "tags": [
+        "knowledge",
+        "language",
+        "truth"
+      ],
+      "mood": [
+        "confused"
+      ]
+    },
+    {
+      "author": "richard-feynman",
+      "en": "I can live with doubt, and uncertainty, and not knowing. I think it’s much more interesting to live not knowing than to have answers which might be wrong.",
+      "th": "ผมอยู่กับความสงสัย ความไม่แน่นอน และการไม่รู้ได้ ผมว่าการใช้ชีวิตแบบยังไม่รู้ น่าสนใจกว่าการมีคำตอบที่อาจจะผิดเยอะเลย",
+      "source": {
+        "work": "The Pleasure of Finding Things Out",
+        "locator": "BBC Horizon interview (1981)",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Richard_Feynman"
+      },
+      "verify": "sourced",
+      "tags": [
+        "doubt",
+        "knowledge",
+        "courage"
+      ],
+      "mood": [
+        "anxious",
+        "lost"
+      ]
+    },
+    {
+      "author": "richard-feynman",
+      "en": "What I cannot create, I do not understand.",
+      "th": "อะไรที่ผมสร้างขึ้นเองไม่ได้ แปลว่าผมยังไม่เข้าใจมัน",
+      "source": {
+        "work": "Blackboard at Caltech",
+        "locator": "February 1988",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Richard_Feynman"
+      },
+      "verify": "sourced",
+      "tags": [
+        "knowledge",
+        "action",
+        "work"
+      ],
+      "mood": [
+        "stuck"
+      ]
+    },
+    {
+      "author": "richard-feynman",
+      "en": "You have no responsibility to live up to what other people think you ought to accomplish.",
+      "th": "คุณไม่มีหน้าที่ต้องเป็นอย่างที่คนอื่นคิดว่าคุณควรจะทำได้",
+      "source": {
+        "work": "Surely You’re Joking, Mr. Feynman!",
+        "locator": "The Dignified Professor, p. 172 (1985)",
+        "translator": null,
+        "url": "https://en.wikiquote.org/wiki/Richard_Feynman"
+      },
+      "verify": "sourced",
+      "tags": [
+        "freedom",
+        "self",
+        "work"
+      ],
+      "mood": [
+        "stress",
+        "anxious"
+      ]
+    }
+  ],
+  "prompts_th": [
+    "ความเชื่อไหนของคุณที่ไม่เคยถูกตั้งคำถามเลย ถ้าลองถามตอนนี้ มันจะยังยืนอยู่ได้ไหม",
+    "วันนี้มีเรื่องไหนที่คุณเชื่อ เพียงเพราะได้ยินคนพูดซ้ำหลายครั้ง",
+    "ถ้าต้องอธิบายให้คนที่คิดต่างฟังว่าทำไมคุณถึงเชื่อแบบนี้ คุณจะยกเหตุผลอะไร และเหตุผลนั้นหนักแน่นแค่ไหน",
+    "มีเรื่องไหนที่คุณคิดว่าตัวเองรู้ดี แต่ถ้าให้อธิบายทีละขั้นจริง ๆ อาจติดขัด",
+    "หลักฐานแบบไหนที่จะทำให้คุณยอมเปลี่ยนใจ ในเรื่องที่คุณมั่นใจที่สุดตอนนี้",
+    "ครั้งล่าสุดที่คุณยอมรับว่าตัวเองคิดผิดคือเมื่อไร และรู้สึกอย่างไร",
+    "ข่าวหรือโพสต์ล่าสุดที่ทำให้คุณโกรธ คุณได้ตรวจสอบก่อนเชื่อหรือก่อนแชร์ไหม",
+    "มีเรื่องไหนที่คุณอยากให้เป็นจริงมาก จนอาจมองข้ามหลักฐานที่แย้ง",
+    "ถ้าเพื่อนสนิทเห็นต่างจากคุณ คุณฟังเหตุผลของเขาจนจบก่อนตอบได้ไหม",
+    "คำไหนที่คุณใช้บ่อยจนไม่เคยถามว่ามันหมายถึงอะไรจริง ๆ เช่น ความสำเร็จ หรือความสุข",
+    "อะไรที่คุณทำอยู่ทุกวันเพียงเพราะเคยชิน ถ้าเริ่มใหม่ได้ คุณยังจะเลือกทำแบบเดิมไหม",
+    "ถ้าคนที่คุณไม่ชอบพูดสิ่งเดียวกับคนที่คุณชื่นชม คุณจะให้น้ำหนักกับคำพูดนั้นเท่ากันไหม",
+    "ความกังวลเรื่องไหนของคุณที่ตั้งอยู่บนการเดา มากกว่าข้อเท็จจริง",
+    "วันนี้คุณได้เรียนรู้อะไรที่ทำให้รู้ตัวว่ายังมีอีกมากที่คุณไม่รู้",
+    "ถ้าแบ่งปัญหาที่หนักใจที่สุดตอนนี้ออกเป็นชิ้นเล็ก ๆ ชิ้นแรกที่ลงมือได้เลยคืออะไร",
+    "นอกจากชื่อและงานที่ทำ คุณรู้จักตัวเองแค่ไหน ลองนึกถึงสามสิ่งที่คุณให้คุณค่าจริง ๆ",
+    "มีความเห็นไหนที่คุณเก็บไว้เพราะกลัวคนอื่นมองว่าแปลก ถ้ามันมีเหตุผลรองรับ อะไรทำให้ยังไม่กล้าพูด",
+    "ถ้าคำตอบที่คุณมั่นใจวันนี้ผิด คุณจะรู้ได้อย่างไร"
+  ],
+  "prompts_en": [
+    "Which of your beliefs have you never questioned, and would it survive the question today?",
+    "What did you believe today only because you heard it said many times?",
+    "If you had to explain your view to someone who disagrees, what reasons would you give, and how strong are they?",
+    "What do you think you understand well, but would struggle to explain step by step?",
+    "What evidence would change your mind about the thing you are most sure of right now?",
+    "When did you last admit you were wrong, and how did it feel?",
+    "Did you check the last post that made you angry before you believed it or shared it?",
+    "What do you want to be true so badly that you might overlook the evidence against it?",
+    "When a close friend disagrees with you, can you hear their reasons out before you reply?",
+    "Which word do you use every day without asking what it really means, like success or happiness?",
+    "What do you do every day only out of habit, and would you choose it again if you started fresh?",
+    "If someone you dislike said the same thing as someone you admire, would you give it the same weight?",
+    "Which of your worries rests on a guess rather than a fact?",
+    "What did you learn today that showed you how much you still do not know?",
+    "If you broke your heaviest problem into small pieces, which piece could you start on right now?",
+    "Beyond your name and your job, how well do you know yourself, and what three things do you truly value?",
+    "Which opinion do you keep to yourself for fear of seeming odd, and if it has good reasons behind it, what stops you from saying it?",
+    "If the answer you are sure of today turned out to be wrong, how would you find out?"
+  ],
+  "misattributed": [
+    {
+      "author": "socrates",
+      "en": "The only true wisdom is in knowing you know nothing.",
+      "th": "ปัญญาที่แท้จริงมีอยู่อย่างเดียว คือการรู้ว่าตัวเองไม่รู้อะไรเลย",
+      "why_th": "เป็นสำนวนสรุปความยุคหลัง ในคำแก้ต่างที่เพลโตบันทึกไว้ โสกราตีสพูดแค่ว่าเขาไม่ได้คิดว่าตัวเองรู้ในสิ่งที่ไม่รู้ ไม่ได้บอกว่าตัวเองไม่รู้อะไรเลย",
+      "real_source": "Later paraphrase of Plato, Apology 21d; the wording is not in Plato or Xenophon",
+      "url": "https://en.wikiquote.org/wiki/Socrates#Misattributed"
+    },
+    {
+      "author": "socrates",
+      "en": "The secret of change is to focus all of your energy, not on fighting the old, but on building the new.",
+      "th": "เคล็ดลับของการเปลี่ยนแปลง คือทุ่มพลังทั้งหมดไปกับการสร้างสิ่งใหม่ ไม่ใช่การต่อสู้กับสิ่งเก่า",
+      "why_th": "มาจากนิยายพัฒนาตัวเองเรื่อง Way of the Peaceful Warrior ของแดน มิลแมน ปี 1980 ซึ่งมีตัวละครชื่อโสกราตีส ไม่ใช่โสกราตีสตัวจริง",
+      "real_source": "Dan Millman, Way of the Peaceful Warrior (1980), spoken by a character called Socrates",
+      "url": "https://en.wikiquote.org/wiki/Socrates#Misattributed"
+    },
+    {
+      "author": "socrates",
+      "en": "Education is the kindling of a flame, not the filling of a vessel.",
+      "th": "การศึกษาคือการจุดไฟ ไม่ใช่การเติมของใส่ภาชนะ",
+      "why_th": "ไม่พบในงานของเพลโตหรือเซโนฟอน สำนวนนี้เพิ่งโผล่ในทศวรรษ 1990 และน่าจะดัดแปลงมาจากพลูทาร์กที่เขียนว่าจิตใจไม่ใช่ภาชนะที่ต้องเติมให้เต็ม แต่เป็นฟืนที่ต้องจุดให้ติด",
+      "real_source": "No ancient source; appears in the 1990s, loosely echoing Plutarch, On Listening to Lectures",
+      "url": "https://en.wikiquote.org/wiki/Socrates#Misattributed"
+    },
+    {
+      "author": "plato",
+      "en": "Be kind, for everyone you meet is fighting a hard battle.",
+      "th": "จงใจดีกับทุกคน เพราะทุกคนที่คุณพบกำลังต่อสู้กับเรื่องหนักของตัวเองอยู่",
+      "why_th": "ไม่มีในงานของเพลโต ต้นเค้ามาจากข้อความอวยพรคริสต์มาสปี 1897 ของเอียน แมคลาเรน นักเทศน์ชาวสกอต ที่ว่าจงมีเมตตา เพราะทุกคนกำลังต่อสู้อย่างหนัก",
+      "real_source": "Ian Maclaren (John Watson), Christmas message, 1897",
+      "url": "https://en.wikiquote.org/wiki/Plato#Misattributed"
+    },
+    {
+      "author": "plato",
+      "en": "Only the dead have seen the end of war.",
+      "th": "มีแต่คนตายเท่านั้นที่ได้เห็นจุดจบของสงคราม",
+      "why_th": "ไม่พบในงานของเพลโต ข้อความที่เก่าที่สุดอยู่ในหนังสือของจอร์จ ซานตายานา ปี 1922 ซึ่งไม่ได้อ้างว่าเป็นคำของใคร ภายหลังนายพลแมกอาเธอร์ยกให้เป็นของเพลโต",
+      "real_source": "George Santayana, Soliloquies in England (1922)",
+      "url": "https://en.wikiquote.org/wiki/Plato#Misattributed"
+    },
+    {
+      "author": "aristotle",
+      "en": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+      "th": "เราคือสิ่งที่เราทำซ้ำ ๆ ความเป็นเลิศจึงไม่ใช่การกระทำครั้งเดียว แต่เป็นนิสัย",
+      "why_th": "เป็นประโยคที่วิล ดูแรนต์ เขียนสรุปความคิดของอริสโตเติลไว้ในหนังสือ The Story of Philosophy ปี 1926 ไม่ใช่คำของอริสโตเติลเอง",
+      "real_source": "Will Durant, The Story of Philosophy (1926), summarising Nicomachean Ethics Book 2",
+      "url": "https://en.wikiquote.org/wiki/Aristotle#Misattributed"
+    },
+    {
+      "author": "aristotle",
+      "en": "It is the mark of an educated mind to be able to entertain a thought without accepting it.",
+      "th": "สัญญาณของจิตที่ได้รับการศึกษา คือการคิดตามความคิดหนึ่งได้ โดยไม่ต้องเชื่อมัน",
+      "why_th": "ไม่พบในงานของอริสโตเติล ถูกอ้างครั้งแรกในหนังสือของโลเวลล์ เบนเนียน ปี 1959 ส่วนประโยคที่อริสโตเติลเขียนจริงพูดถึงการเรียกร้องความแม่นยำให้พอดีกับเรื่อง",
+      "real_source": "Lowell L. Bennion, Religion and the Pursuit of Truth (1959), p. 52",
+      "url": "https://en.wikiquote.org/wiki/Aristotle#Disputed"
+    },
+    {
+      "author": "immanuel-kant",
+      "en": "Experience without theory is blind, but theory without experience is mere intellectual play.",
+      "th": "ประสบการณ์ที่ไม่มีทฤษฎีนั้นมืดบอด แต่ทฤษฎีที่ไม่มีประสบการณ์ก็เป็นแค่เกมทางความคิด",
+      "why_th": "ไม่พบในงานของคานต์ ถูกเรียกว่าคติเก่าของคานต์ครั้งแรกในวารสารปี 1962 น่าจะดัดแปลงจากประโยคจริงที่ว่า ความคิดที่ไม่มีเนื้อหาก็ว่างเปล่า การรับรู้ที่ไม่มีความคิดรวบยอดก็มืดบอด",
+      "real_source": "First called 'an old Kantian maxim' in General Systems (1962); compare Critique of Pure Reason A51/B75",
+      "url": "https://en.wikiquote.org/wiki/Immanuel_Kant#Disputed"
+    },
+    {
+      "author": "bertrand-russell",
+      "en": "The time you enjoy wasting is not wasted time.",
+      "th": "เวลาที่คุณสนุกกับการผลาญทิ้ง ไม่ใช่เวลาที่เสียเปล่า",
+      "why_th": "มาจากนิยายเรื่อง Phrynette Married ปี 1912 ของมาร์ต ทรอลี เคอร์แต็ง แล้วถูกเข้าใจผิดว่าเป็นของรัสเซลล์ เพราะหนังสือรวมคำคมเล่มหนึ่งปี 1977 จัดวางไว้กำกวม",
+      "real_source": "Marthe Troly-Curtin, Phrynette Married (1912); misattributed via Peter's Quotations (1977)",
+      "url": "https://en.wikiquote.org/wiki/Bertrand_Russell#Misattributed"
+    },
+    {
+      "author": "bertrand-russell",
+      "en": "The whole problem with the world is that fools and fanatics are always so certain of themselves, but wiser people so full of doubts.",
+      "th": "ปัญหาทั้งหมดของโลกคือ คนโง่และพวกคลั่งมั่นใจในตัวเองเสมอ แต่คนที่ฉลาดกว่ากลับเต็มไปด้วยความสงสัย",
+      "why_th": "เป็นสำนวนที่คนแต่งใหม่จนเพี้ยน ประโยคจริงของรัสเซลล์ในบทความปี 1933 บอกว่า ในโลกยุคนี้ คนโง่มั่นใจเต็มร้อย ส่วนคนฉลาดเต็มไปด้วยความสงสัย",
+      "real_source": "Popular rewording of Russell, The Triumph of Stupidity (1933)",
+      "url": "https://en.wikiquote.org/wiki/Bertrand_Russell"
+    },
+    {
+      "author": "carl-sagan",
+      "en": "Somewhere, something incredible is waiting to be known.",
+      "th": "ที่ไหนสักแห่ง มีบางสิ่งที่น่าทึ่งกำลังรอให้เราได้รู้",
+      "why_th": "เป็นประโยคที่ชารอน เบกลีย์ นักข่าวนิตยสาร Newsweek เขียนปิดท้ายบทความเกี่ยวกับเซแกนในปี 1977 ไม่ใช่คำพูดของเซแกนเอง",
+      "real_source": "Sharon Begley, Newsweek (1977), closing line of a profile of Sagan",
+      "url": "https://en.wikiquote.org/wiki/Carl_Sagan#Misattributed"
+    },
+    {
+      "author": "richard-feynman",
+      "en": "Shut up and calculate!",
+      "th": "หุบปากแล้วคำนวณไปเถอะ",
+      "why_th": "ไม่พบว่าไฟน์แมนเคยพูด เดวิด เมอร์มิน นักฟิสิกส์ เป็นคนเขียนประโยคนี้เองในนิตยสาร Physics Today ปี 1989 เพื่อสรุปทัศนะหนึ่งต่อกลศาสตร์ควอนตัม",
+      "real_source": "N. David Mermin, Physics Today (April 1989), p. 9",
+      "url": "https://en.wikiquote.org/wiki/Richard_Feynman#Disputed_and/or_attributed"
+    }
+  ]
+}

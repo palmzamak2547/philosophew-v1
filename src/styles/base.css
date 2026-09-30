@@ -1,0 +1,276 @@
+/* ============ Philosophew design tokens ============ */
+:root {
+  --paper: #F3EDE2;
+  --paper-2: #E8DFCF;
+  --card: #FBF8F2;
+  --ink: #1A1714;
+  --ink-2: #4B443C;
+  --ink-3: #6F665C; /* 4.8:1 on paper, 5.3 on cards */
+  --line: rgb(26 23 20 / 0.12);
+  --line-2: rgb(26 23 20 / 0.22);
+  --ember: #FF5B22; /* flames, icons, text on dark */
+  --ember-2: #FFB23F;
+  --ember-deep: #C63D0C; /* ember fills under white labels (5.2:1) */
+  --ember-ink: #A9330A; /* small ember text on paper (5.7:1) */
+  --ultra: #2437D8;
+  --ok: #2F7D5B;
+  --bad: #C23A2B;
+  --scrim: rgb(14 12 10 / 0.55);
+
+  --s-bg: var(--paper);
+  --s-bg2: var(--paper-2);
+  --s-ink: var(--ink);
+  --s-accent: var(--ember);
+  --s-accent2: var(--ultra);
+  --s-glow: #FFFFFF;
+
+  --f-display: "Fraunces", "Noto Serif Thai", Georgia, serif;
+  --f-quote: "Fraunces", "Trirong", Georgia, serif;
+  --f-ui: "Bricolage Grotesque", "Anuphan", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --f-hand: "Sriracha", "Anuphan", cursive;
+
+  --r-s: 12px;
+  --r: 18px;
+  --r-l: 28px;
+  --ease: cubic-bezier(0.16, 1, 0.3, 1);
+  --spring: cubic-bezier(0.34, 1.56, 0.64, 1);
+  --safe-t: env(safe-area-inset-top, 0px);
+  --safe-b: env(safe-area-inset-bottom, 0px);
+  --head-h: 60px;
+  --grain: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='160' height='160'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='3' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 .9 0'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>");
+  --nav-h: 68px;
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #0F0E13;
+    --paper-2: #17161D;
+    --card: #1D1C23;
+    --ink: #F2ECE0;
+    --ink-2: #C3BBAE;
+    --ink-3: #9A9285; /* 5.3:1 on the dark paper */
+    --ember-ink: var(--ember);
+    --line: rgb(242 236 224 / 0.12);
+    --line-2: rgb(242 236 224 / 0.22);
+    --scrim: rgb(4 4 8 / 0.62);
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #0F0E13;
+  --paper-2: #17161D;
+  --card: #1D1C23;
+  --ink: #F2ECE0;
+  --ink-2: #C3BBAE;
+  --ink-3: #9A9285;
+  --ember-ink: var(--ember);
+  --line: rgb(242 236 224 / 0.12);
+  --line-2: rgb(242 236 224 / 0.22);
+  --scrim: rgb(4 4 8 / 0.62);
+  color-scheme: dark;
+}
+
+/* A school room retunes the whole palette, so cards, sheets and chrome stay readable on its colours. */
+:root[data-school][data-dark="0"] {
+  --ink: var(--s-ink);
+  --ink-2: color-mix(in oklab, var(--s-ink) 80%, var(--s-bg));
+  --ink-3: color-mix(in oklab, var(--s-ink) 70%, var(--s-bg)); /* 4.5:1 or better on every room's colours (58% gave 3.5 to 4.3) */
+  --paper: var(--s-bg);
+  --paper-2: var(--s-bg2);
+  --card: color-mix(in oklab, #fff 58%, var(--s-bg));
+  --line: color-mix(in oklab, var(--s-ink) 13%, transparent);
+  --line-2: color-mix(in oklab, var(--s-ink) 24%, transparent);
+  color-scheme: light;
+}
+:root[data-school][data-dark="1"] {
+  --ink: var(--s-ink);
+  --ink-2: color-mix(in oklab, var(--s-ink) 82%, var(--s-bg));
+  --ink-3: color-mix(in oklab, var(--s-ink) 74%, var(--s-bg));
+  --paper: var(--s-bg);
+  --paper-2: var(--s-bg2);
+  --card: color-mix(in oklab, #000 30%, var(--s-bg));
+  --line: color-mix(in oklab, var(--s-ink) 16%, transparent);
+  --line-2: color-mix(in oklab, var(--s-ink) 28%, transparent);
+  color-scheme: dark;
+}
+
+/* ============ Reset ============ */
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; font-synthesis: none; } /* never a faked bold or slanted Thai: only faces we ship */
+/* a day that opens with the lamp starts dark, so the first paint never flashes paper */
+html.will-ritual, html.will-ritual body { background: #090706; }
+body {
+  margin: 0;
+  min-height: 100dvh;
+  background: var(--s-bg);
+  color: var(--s-ink);
+  font: 400 16px/1.6 var(--f-ui);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  transition: background-color 0.9s var(--ease), color 0.6s var(--ease);
+  overflow-x: hidden;
+  -webkit-tap-highlight-color: transparent;
+}
+img, svg, canvas { display: block; max-width: 100%; }
+button, input, textarea, select { font: inherit; color: inherit; }
+button { cursor: pointer; background: none; border: 0; padding: 0; }
+a { color: inherit; }
+h1, h2, h3, p { margin: 0; }
+::selection { background: color-mix(in oklab, var(--s-accent) 40%, transparent); }
+:focus-visible { outline: 2.5px solid var(--s-accent); outline-offset: 3px; border-radius: 8px; }
+[hidden] { display: none !important; }
+/* Thai phrases (src/core/thai.ts): held on one line only once measured to fit */
+.ph--keep { white-space: nowrap; }
+.nobr { white-space: nowrap; } /* a short name that must read whole (CC BY-SA 3.0) */
+.nb { white-space: nowrap; } /* a joined Thai run, where the engine ignores word joiners (src/core/thai.ts) */
+.sr { position: absolute !important; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+/* ============ Stage layers ============ */
+#gl { position: fixed; inset: 0; z-index: 0; }
+#gl canvas { width: 100% !important; height: 100% !important; touch-action: none; }
+#app { position: relative; z-index: 1; min-height: 100dvh; }
+/* Screens over the 3D stage let clicks through except on their own controls. The app layer itself must let
+   them through too, or its own box catches every gesture meant for the machine; its bars and toasts still catch. */
+#app:has(> #screen.passthrough) { pointer-events: none; }
+#app:has(> #screen.passthrough) > :not(#screen, .grain) { pointer-events: auto; }
+.passthrough { pointer-events: none; }
+.passthrough :where(a, button, input, textarea, select, label, [data-interactive], .card, .sheet, .panel) { pointer-events: auto; }
+
+/* film grain: analog warmth over everything, never blocks input */
+.grain {
+  position: fixed; inset: -50%; z-index: 60; pointer-events: none; opacity: 0.07;
+  background-image: var(--grain);
+  animation: grain 1.2s steps(4) infinite;
+  mix-blend-mode: multiply;
+}
+:root[data-theme="dark"] .grain { mix-blend-mode: screen; opacity: 0.05; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .grain { mix-blend-mode: screen; opacity: 0.05; } }
+@keyframes grain { 0% { transform: translate(0, 0); } 25% { transform: translate(-3%, 2%); } 50% { transform: translate(2%, -3%); } 75% { transform: translate(-2%, -1%); } 100% { transform: translate(1%, 3%); } }
+
+/* ============ Type ============ */
+.display { font: 800 clamp(34px, 8.5vw, 76px)/1.08 var(--f-display); letter-spacing: -0.02em; font-optical-sizing: auto; }
+.display:lang(th), .display .th { letter-spacing: 0; line-height: 1.3; }
+.h1 { font: 800 clamp(28px, 6vw, 44px)/1.3 var(--f-display); letter-spacing: -0.01em; }
+/* no block ends on a lone word (inherited by everything; typing keeps plain wrapping) */
+body { text-wrap: pretty; }
+input, textarea { text-wrap: wrap; }
+/* centred blocks share their words out evenly, so a name or a word never sits alone under a long line */
+.empty, .room__bottom, .qcard__face, .reveal__coach, .nofire, .levelup, .ritual__head, .ritual__hint, .ritual__brand,
+.notes__none, .ccard, .me__about, .about__hero, .row-actions .btn, .shelf__go { text-wrap: balance; }
+/* a display word never breaks mid-word: fitWide (src/core/thai.ts) steps the size down instead */
+.h1, .h2, .display, .hall__title, .person__name, .room__name { text-wrap: balance; }
+.h2 { font: 700 clamp(20px, 4.2vw, 26px)/1.38 var(--f-display); }
+.label { font: 600 12px/1.3 var(--f-ui); letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-3); }
+.label:lang(th), .label.th { letter-spacing: 0; text-transform: none; font-size: 13px; }
+.muted { color: var(--ink-3); }
+/* the prerendered page, kept while the lamp stands (src/ui/shell.ts): readable, never painted over the lamp */
+.pre.pre--kept { position: absolute !important; width: 1px !important; height: 1px !important; margin: 0 !important; padding: 0 !important; overflow: hidden !important; clip-path: inset(50%) !important; white-space: nowrap !important; visibility: visible !important; animation: none !important; }
+.hand { font-family: var(--f-hand); }
+.num { font-variant-numeric: tabular-nums; }
+.italic-en { font: italic 400 1em/1.45 var(--f-quote); }
+
+/* ============ Buttons: tactile, press down like a real key ============ */
+.btn {
+  --b: var(--ink);
+  --t: var(--paper);
+  --d: color-mix(in oklab, var(--b) 60%, black);
+  display: inline-flex; align-items: center; justify-content: center; gap: 10px;
+  min-height: 52px; padding: 0 26px; border-radius: 999px;
+  background: var(--b); color: var(--t);
+  font: 650 16px/1 var(--f-ui);
+  box-shadow: 0 5px 0 0 var(--d), 0 14px 24px -12px rgb(0 0 0 / 0.45);
+  transform: translateY(0);
+  transition: transform 0.12s var(--ease), box-shadow 0.12s var(--ease), background-color 0.3s, opacity 0.2s;
+  user-select: none; -webkit-user-select: none; touch-action: manipulation;
+  white-space: nowrap; text-decoration: none;
+}
+.btn:hover { transform: translateY(-1px); box-shadow: 0 6px 0 0 var(--d), 0 18px 28px -12px rgb(0 0 0 / 0.45); }
+.btn:active, .btn.is-down { transform: translateY(4px); box-shadow: 0 1px 0 0 var(--d), 0 6px 12px -8px rgb(0 0 0 / 0.4); }
+.btn[disabled], .btn[aria-disabled="true"] { opacity: 0.45; pointer-events: none; }
+/* a school's accent, deepened just enough that white type on it reads at 4.5:1 or better */
+.btn--accent { --b: color-mix(in oklab, var(--s-accent) 86%, black); --t: #fff; }
+.btn--ember { --b: var(--ember-deep); --t: #fff; }
+.btn--light { --b: var(--card); --t: var(--ink); --d: color-mix(in oklab, var(--card) 70%, black); }
+.btn--ghost {
+  background: transparent; color: currentColor; box-shadow: inset 0 0 0 1.5px currentColor;
+  min-height: 46px; padding: 0 20px;
+}
+.btn--ghost:hover, .btn--ghost:active { transform: none; box-shadow: inset 0 0 0 1.5px currentColor; background: color-mix(in oklab, currentColor 8%, transparent); }
+.btn--sm { min-height: 40px; padding: 0 16px; font-size: 14px; }
+.btn--xl { min-height: 64px; padding: 0 34px; font-size: 19px; font-weight: 700; }
+.btn--icon { width: 44px; min-height: 44px; padding: 0; }
+.btn svg { width: 20px; height: 20px; flex: none; }
+
+.icon-btn {
+  display: inline-grid; place-items: center; width: 44px; height: 44px; border-radius: 999px;
+  color: currentColor; transition: background-color 0.2s, transform 0.15s;
+}
+.icon-btn:hover { background: color-mix(in oklab, currentColor 10%, transparent); }
+.icon-btn:active { transform: scale(0.94); }
+.icon-btn svg { width: 22px; height: 22px; }
+
+.chip {
+  display: inline-flex; align-items: center; gap: 8px; min-height: 40px; padding: 0 16px; border-radius: 999px;
+  border: 1.5px solid color-mix(in oklab, currentColor 22%, transparent);
+  background: color-mix(in oklab, var(--card) 55%, transparent);
+  font: 500 15px/1.2 var(--f-ui); white-space: nowrap;
+  transition: background-color 0.2s, border-color 0.2s, transform 0.15s, color 0.2s;
+  -webkit-backdrop-filter: blur(8px); backdrop-filter: blur(8px);
+}
+.chip:hover { border-color: currentColor; }
+.chip:active { transform: scale(0.97); }
+.chip[aria-pressed="true"], .chip.is-on { background: var(--s-ink); color: var(--s-bg); border-color: var(--s-ink); }
+
+.tag { display: inline-flex; align-items: center; gap: 6px; padding: 4px 10px; border-radius: 999px; font: 600 12px/1.2 var(--f-ui); background: color-mix(in oklab, currentColor 10%, transparent); }
+
+/* ============ Panels, sheets, toasts ============ */
+.panel {
+  background: color-mix(in oklab, var(--card) 86%, transparent);
+  border: 1px solid var(--line);
+  border-radius: var(--r);
+  -webkit-backdrop-filter: blur(14px) saturate(1.2); backdrop-filter: blur(14px) saturate(1.2);
+}
+
+.scrim { position: fixed; inset: 0; z-index: 55; background: var(--scrim); -webkit-backdrop-filter: blur(6px); backdrop-filter: blur(6px); opacity: 0; transition: opacity 0.35s var(--ease); }
+.scrim.is-in { opacity: 1; }
+
+.sheet {
+  position: fixed; left: 0; right: 0; bottom: 0; z-index: 56;
+  max-height: min(88dvh, 760px); overflow: auto; overscroll-behavior: contain;
+  background: var(--card); color: var(--ink);
+  border-radius: var(--r-l) var(--r-l) 0 0;
+  padding: 10px 20px calc(24px + var(--safe-b));
+  box-shadow: 0 -20px 60px -20px rgb(0 0 0 / 0.35);
+  transform: translateY(104%); transition: transform 0.45s var(--ease);
+}
+.sheet.is-in { transform: translateY(0); }
+.sheet__grip { width: 44px; height: 5px; border-radius: 9px; background: var(--line-2); margin: 0 auto 14px; }
+@media (min-width: 720px) {
+  .sheet { left: 50%; right: auto; bottom: 50%; width: min(560px, 92vw); border-radius: var(--r-l); transform: translate(-50%, 60%) scale(0.96); opacity: 0; transition: transform 0.4s var(--ease), opacity 0.3s; }
+  .sheet.is-in { transform: translate(-50%, 50%) scale(1); opacity: 1; }
+  .sheet__grip { display: none; }
+}
+
+.toasts { position: fixed; left: 50%; top: calc(var(--safe-t) + 70px); z-index: 70; transform: translateX(-50%); display: grid; gap: 8px; pointer-events: none; width: min(92vw, 420px); }
+/* in the hall a message stands in the machine's space (src/ui/hall.ts sets these): never over the words or the row of
+   feelings, and it lets every touch through to the machine. Over a card it keeps its place under the banner. */
+html:not(.has-reveal) .toasts { left: var(--toast-x, 50%); top: var(--toast-top, calc(var(--safe-t) + 70px)); width: min(92vw, 420px, var(--toast-w, 420px)); }
+.toast__lines { display: grid; gap: 4px; } /* one line per message of the same moment */
+.toast {
+  display: flex; align-items: center; gap: 12px; padding: 12px 16px; border-radius: 16px;
+  background: var(--ink); color: var(--paper); font: 500 15px/1.4 var(--f-ui);
+  box-shadow: 0 16px 40px -16px rgb(0 0 0 / 0.5);
+  animation: toast-in 0.5s var(--spring) both;
+}
+.toast svg { width: 22px; height: 22px; flex: none; }
+.toast.is-out { animation: toast-out 0.35s var(--ease) both; }
+@keyframes toast-in { from { opacity: 0; transform: translateY(-14px) scale(0.96); } }
+@keyframes toast-out { to { opacity: 0; transform: translateY(-10px) scale(0.98); } }
+
+/* ============ Motion preferences ============ */
+@media (prefers-reduced-motion: reduce) {
+  /* decorative only; progress, reveals and feedback keep a short fade so information still arrives */
+  .grain { animation: none; }
+  .deco-motion { animation: none !important; }
+}

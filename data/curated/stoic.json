@@ -1,0 +1,2391 @@
+{
+  "school": "stoic",
+  "authors": {
+    "marcus-aurelius": {
+      "th": "มาร์คัส ออเรลิอัส",
+      "era_th": "จักรพรรดิโรมัน ค.ศ. 121 ถึง 180",
+      "bio_th": "จักรพรรดิโรมันที่ต้องรับมือทั้งสงคราม โรคระบาด และการเมือง แต่ยังเขียนบันทึกส่วนตัวไว้เตือนตัวเองให้ใจนิ่งและทำหน้าที่ต่อไป บันทึกนั้นคือ Meditations ที่คนเครียดทั่วโลกยังหยิบมาอ่านจนถึงวันนี้",
+      "bio_en": "Roman emperor who ruled through war and plague and wrote private notes to himself, in Greek, on staying calm and doing his duty. Those notes, the Meditations, are still read by anyone trying to steady their mind.",
+      "works": [
+        "Meditations"
+      ]
+    },
+    "seneca": {
+      "th": "เซเนกา",
+      "era_th": "นักปรัชญาและนักการเมืองโรมัน ราว 4 ปีก่อน ค.ศ. ถึง ค.ศ. 65",
+      "bio_th": "นักปรัชญาโรมันที่เป็นทั้งนักเขียนบทละครและที่ปรึกษาของจักรพรรดิเนโร เขาเขียนจดหมายถึงเพื่อนชื่อลูซิลิอุสและความเรียงอีกหลายเล่มเรื่องเวลา ความกลัว และความโกรธ ด้วยภาษาที่อ่านง่ายเหมือนพี่ที่คอยเตือนสติ",
+      "bio_en": "Roman statesman, playwright and adviser to Nero whose letters to his friend Lucilius and short essays turn Stoicism into practical advice on time, fear and anger.",
+      "works": [
+        "Moral Letters to Lucilius",
+        "On the Shortness of Life",
+        "On Anger",
+        "On Providence",
+        "On Tranquility of Mind",
+        "On the Happy Life"
+      ]
+    },
+    "epictetus": {
+      "th": "เอพิกเตตัส",
+      "era_th": "นักปรัชญากรีก ราว ค.ศ. 50 ถึง 135",
+      "bio_th": "เกิดเป็นทาสและขาพิการ แต่ได้เป็นอิสระและกลายเป็นครูปรัชญาชื่อดัง คำสอนหลักของเขาคือแยกให้ออกว่าอะไรอยู่ในมือเรา อะไรไม่ใช่ ซึ่งเป็นหัวใจของการรับมือความเครียดแบบสโตอิก",
+      "bio_en": "Born a slave and lame, he won his freedom and became the most influential Stoic teacher of his day. His core lesson, to separate what is up to us from what is not, is the backbone of Stoic stress management.",
+      "works": [
+        "Discourses",
+        "Enchiridion"
+      ]
+    },
+    "musonius-rufus": {
+      "th": "มูโซเนียส รูฟัส",
+      "era_th": "นักปรัชญาโรมัน ราว ค.ศ. 30 ถึง 100",
+      "bio_th": "ครูของเอพิกเตตัสที่ถูกผู้มีอำนาจเนรเทศหลายครั้ง เขาสอนว่าปรัชญาต้องฝึกด้วยการใช้ชีวิตจริง และเชื่อว่าผู้หญิงควรได้เรียนปรัชญาเหมือนผู้ชาย ซึ่งล้ำมากสำหรับยุคนั้น",
+      "bio_en": "Roman Stoic, teacher of Epictetus, exiled more than once. He taught that philosophy is trained through daily practice and argued that women should study it too.",
+      "works": [
+        "Lectures (recorded by a student)"
+      ]
+    },
+    "zeno-of-citium": {
+      "th": "ซีโนแห่งซิเทียม",
+      "era_th": "นักปรัชญากรีก ราว 334 ถึง 262 ปีก่อน ค.ศ.",
+      "bio_th": "ผู้ก่อตั้งสำนักสโตอิก เดิมเป็นพ่อค้าที่เรือแตกระหว่างทางไปเอเธนส์ แล้วได้เจอหนังสือเกี่ยวกับโสกราตีสในร้านหนังสือ ความพังครั้งนั้นเลยกลายเป็นจุดเริ่มของปรัชญาที่ช่วยคนรับมือกับชีวิตมาสองพันกว่าปี",
+      "bio_en": "Founder of Stoicism. A merchant shipwrecked on the way to Athens, he found a book about Socrates in a bookshop and began teaching in the Painted Porch (Stoa), which gave the school its name.",
+      "works": [
+        "Republic (lost)"
+      ]
+    },
+    "cleanthes": {
+      "th": "คลีแอนธีส",
+      "era_th": "นักปรัชญากรีก ราว 330 ถึง 230 ปีก่อน ค.ศ.",
+      "bio_th": "อดีตนักมวยที่กลางคืนรับจ้างตักน้ำรดสวนเพื่อจะได้เรียนปรัชญาตอนกลางวัน โดนเพื่อนล้อว่าเป็นลา เขาตอบว่าก็มีแต่ลาตัวนี้ที่แบกคำสอนของซีโนไหว และสุดท้ายก็ได้เป็นหัวหน้าสำนักสโตอิกต่อจากซีโน",
+      "bio_en": "A former boxer who drew water at night so he could study by day, Cleanthes shrugged off being called 'the ass' and succeeded Zeno as head of the Stoa. His Hymn to Zeus is one of the longest texts to survive from the early Stoics.",
+      "works": [
+        "Hymn to Zeus"
+      ]
+    },
+    "chrysippus": {
+      "th": "ไครซิปปัส",
+      "era_th": "นักปรัชญากรีก ราว 279 ถึง 206 ปีก่อน ค.ศ.",
+      "bio_th": "อดีตนักวิ่งระยะไกลที่กลายเป็นสมองของสำนักสโตอิก เขียนหนังสือกว่า 700 เล่ม จนคนยุคนั้นพูดกันว่าถ้าไม่มีไครซิปปัส ก็ไม่มีสโตอิก",
+      "bio_en": "A former long-distance runner who became the great systematiser of Stoicism, credited with over 700 books. Ancient writers said that without Chrysippus there would have been no Stoa.",
+      "works": [
+        "On Fate (fragments)",
+        "On Providence (fragments)"
+      ]
+    },
+    "cicero": {
+      "th": "ซิเซโร",
+      "era_th": "นักการเมืองและนักปรัชญาโรมัน 106 ถึง 43 ปีก่อน ค.ศ.",
+      "bio_th": "นักพูดและนักการเมืองคนดังที่สุดของโรม ช่วงที่ชีวิตพังทั้งเรื่องการเมืองและการเสียลูกสาว เขาหันมาเขียนปรัชญาเพื่อพยุงใจตัวเอง และทำให้แนวคิดสโตอิกเป็นที่รู้จักในโลกละติน",
+      "bio_en": "Rome's greatest orator, who turned to philosophy after political defeat and the death of his daughter. His dialogues carried Stoic ideas about emotion, duty and friendship into Latin.",
+      "works": [
+        "Tusculan Disputations",
+        "On Duties",
+        "On Friendship",
+        "On Old Age"
+      ]
+    }
+  },
+  "quotes": [
+    {
+      "author": "marcus-aurelius",
+      "en": "Begin the morning by saying to thyself, I shall meet with the busybody, the ungrateful, arrogant, deceitful, envious, unsocial.",
+      "th": "ตื่นเช้ามา บอกตัวเองไว้ก่อนเลยว่า วันนี้จะต้องเจอคนชอบยุ่งเรื่องชาวบ้าน คนไม่รู้คุณ คนหยิ่ง คนเจ้าเล่ห์ คนขี้อิจฉา และคนเห็นแก่ตัว",
+      "source": {
+        "work": "Meditations",
+        "locator": "Book 2, 1",
+        "translator": "George Long (1862)",
+        "url": "https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_II"
+      },
+      "verify": "primary",
+      "tags": [
+        "society",
+        "anger"
+      ],
+      "mood": [
+        "stress",
+        "angry"
+      ]
+    },
+    {
+      "author": "marcus-aurelius",
+      "en": "Remember how long thou hast been putting off these things... a limit of time is fixed for thee, which if thou dost not use for clearing away the clouds from thy mind, it will go and thou wilt go, and it will never return.",
+      "th": "ลองนึกดูว่าเธอผัดวันประกันพรุ่งมานานแค่ไหนแล้ว เวลาของเธอมีขีดจำกัด ถ้าไม่ใช้มันปัดเมฆหมอกในใจให้โล่ง เวลาก็จะผ่านไป ตัวเธอก็จะผ่านไป และมันจะไม่หวนกลับมาอีก",
+      "source": {
+        "work": "Meditations",
+        "locator": "Book 2, 4",
+        "translator": "George Long (1862)",
+        "url": "https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_II"
+      },
+      "verify": "primary",
+      "tags": [
+        "time",
+        "action"
+      ],
+      "mood": [
+        "stuck"
+      ]
+    },
+    {
+      "author": "marcus-aurelius",
+      "en": "The present is the only thing of which a man can be deprived, if it is true that this is the only thing which he has, and that a man cannot lose a thing if he has it not.",
+      "th": "สิ่งเดียวที่ใครจะพรากไปจากเราได้คือปัจจุบัน เพราะมันเป็นสิ่งเดียวที่เรามีจริง ๆ และไม่มีใครเสียสิ่งที่ตัวเองไม่เคยมี",
+      "source": {
+        "work": "Meditations",
+        "locator": "Book 2, 14",
+        "translator": "George Long (1862)",
+        "url": "https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_II"
+      },
+      "verify": "primary",
+      "tags": [
+        "present",
+        "time"
+      ],
+      "mood": [
+        "anxious"
+      ]
+    },
+    {
+      "author": "marcus-aurelius",
+      "en": "Men seek retreats for themselves, houses in the country, sea-shores, and mountains... it is in thy power whenever thou shalt choose to retire into thyself. For nowhere either with more quiet or more freedom from trouble does a man retire than into his own soul.",
+      "th": "คนเราชอบหาที่หลีกหนีไปพัก บ้านต่างจังหวัด ชายทะเล ภูเขา แต่เธอหลบเข้าไปในใจตัวเองได้ทุกเมื่อที่ต้องการ ไม่มีที่ไหนสงบและปลอดเรื่องวุ่นวายได้เท่าใจของตัวเองอีกแล้ว",
+      "source": {
+        "work": "Meditations",
+        "locator": "Book 4, 3",
+        "translator": "George Long (1862)",
+        "url": "https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_IV"
+      },
+      "verify": "primary",
+      "tags": [
+        "mind",
+        "solitude"
+      ],
+      "mood": [
+        "stress",
+        "overwhelmed"
+      ]
+    },
+    {
+      "author": "marcus-aurelius",
+      "en": "Take away thy opinion, and then there is taken away the complaint, “I have been harmed.” Take away the complaint, “I have been harmed,” and the harm is taken away.",
+      "th": "ทิ้งการตีความของเธอไป เสียงในหัวที่บอกว่าฉันโดนทำร้ายก็จะเงียบลง พอเสียงนั้นเงียบ ความเจ็บก็หายไปด้วย",
+      "orig": {
+        "lang": "grc",
+        "text": "Ἆρον τὴν ὑπόληψιν, ἦρται τὸ βέβλαμμαι, ἆρον τὸ βέβλαμμαι, ἦρται ἡ βλάβη."
+      },
+      "source": {
+        "work": "Meditations",
+        "locator": "Book 4, 7",
+        "translator": "George Long (1862)",
+        "url": "https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_IV"
+      },
+      "verify": "primary",
+      "tags": [
+        "mind",
+        "suffering",
+        "emotion"
+      ],
+      "mood": [
+        "heartbroken",
+        "angry"
+      ]
+    },
+    {
+      "author": "marcus-aurelius",
+      "en": "Do not act as if thou wert going to live ten thousand years. Death hangs over thee. While thou livest, while it is in thy power, be good.",
+      "th": "อย่าใช้ชีวิตเหมือนจะอยู่ได้อีกหมื่นปี ความตายห้อยอยู่เหนือหัวเธอเสมอ ตอนที่ยังมีชีวิต ตอนที่ยังทำได้ เป็นคนดีเสียตั้งแต่ตอนนี้",
+      "orig": {
+        "lang": "grc",
+        "text": "Μὴ ὡς μύρια μέλλων ἔτη ζῆν. τὸ χρεὼν ἐπήρτηται. ἕως ζῇς, ἕως ἔξεστιν, ἀγαθὸς γενοῦ."
+      },
+      "source": {
+        "work": "Meditations",
+        "locator": "Book 4, 17",
+        "translator": "George Long (1862)",
+        "url": "https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_IV"
+      },
+      "verify": "primary",
+      "tags": [
+        "death",
+        "time",
+        "virtue"
+      ],
+      "mood": [
+        "stuck"
+      ]
+    },
+    {
+      "author": "marcus-aurelius",
+      "en": "How much trouble he avoids who does not look to see what his neighbor says or does or thinks, but only to what he does himself, that it may be just and pure.",
+      "th": "คนที่ไม่คอยส่องว่าคนอื่นพูดอะไร ทำอะไร คิดอะไร แต่ดูแค่ว่าตัวเองทำถูกต้องและบริสุทธิ์ใจหรือยัง จะรอดพ้นเรื่องปวดหัวไปได้อีกเยอะ",
+      "orig": {
+        "lang": "grc",
+        "text": "Ὅσην εὐσχολίαν κερδαίνει ὁ μὴ βλέπων τί ὁ πλησίον εἶπεν ἢ ἔπραξεν ἢ διενοήθη, ἀλλὰ μόνον τί αὐτὸς ποιεῖ, ἵνα αὐτὸ τοῦτο δίκαιον ᾖ καὶ ὅσιον."
+      },
+      "source": {
+        "work": "Meditations",
+        "locator": "Book 4, 18",
+        "translator": "George Long (1862)",
+        "url": "https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_IV"
+      },
+      "verify": "primary",
+      "tags": [
+        "society",
+        "self"
+      ],
+      "mood": [
+        "anxious",
+        "stress"
+      ]
+    },
+    {
+      "author": "marcus-aurelius",
+      "en": "For the greatest part of what we say and do being unnecessary, if a man takes this away, he will have more leisure and less uneasiness. Accordingly, on every occasion a man should ask himself, Is this one of the unnecessary things?",
+      "th": "สิ่งที่เราพูดและทำส่วนใหญ่ไม่จำเป็นเลย ตัดมันออกไป แล้วเราจะมีเวลาว่างมากขึ้นและกังวลน้อยลง ก่อนทำอะไรให้ถามตัวเองทุกครั้งว่า อันนี้จำเป็นไหม",
+      "source": {
+        "work": "Meditations",
+        "locator": "Book 4, 24",
+        "translator": "George Long (1862)",
+        "url": "https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_IV"
+      },
+      "verify": "primary",
+      "tags": [
+        "simplicity",
+        "mind"
+      ],
+      "mood": [
+        "overwhelmed",
+        "stress"
+      ]
+    },
+    {
+      "author": "marcus-aurelius",
+      "en": "Be like the promontory against which the waves continually break, but it stands firm and tames the fury of the water around it.",
+      "th": "เป็นให้ได้อย่างโขดหินริมทะเล คลื่นซัดใส่ไม่หยุด แต่มันยังยืนนิ่ง จนน้ำที่บ้าคลั่งรอบตัวต้องสงบลงเอง",
+      "orig": {
+        "lang": "grc",
+        "text": "Ὅμοιον εἶναι τῇ ἄκρᾳ, ᾗ διηνεκῶς τὰ κύματα προσρήσσεται, ἡ δὲ ἕστηκε καὶ περὶ αὐτὴν κοιμίζεται τὰ φλεγμήναντα τοῦ ὕδατος."
+      },
+      "source": {
+        "work": "Meditations",
+        "locator": "Book 4, 49",
+        "translator": "George Long (1862)",
+        "url": "https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_IV"
+      },
+      "verify": "primary",
+      "tags": [
+        "courage",
+        "emotion"
+      ],
+      "mood": [
+        "stress",
+        "overwhelmed"
+      ]
+    },
+    {
+      "author": "marcus-aurelius",
+      "en": "In the morning when thou risest unwillingly, let this thought be present—I am rising to the work of a human being... Or have I been made for this, to lie in the bed-clothes and keep myself warm?",
+      "th": "เช้าไหนที่ไม่อยากลุกจากเตียง ให้คิดไว้ว่า ฉันกำลังลุกไปทำงานของมนุษย์คนหนึ่ง หรือฉันเกิดมาเพื่อนอนซุกผ้าห่มให้อุ่นสบายแค่นั้น",
+      "source": {
+        "work": "Meditations",
+        "locator": "Book 5, 1",
+        "translator": "George Long (1862)",
+        "url": "https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_V"
+      },
+      "verify": "primary",
+      "tags": [
+        "work",
+        "action"
+      ],
+      "mood": [
+        "tired",
+        "stuck"
+      ]
+    },
+    {
+      "author": "marcus-aurelius",
+      "en": "Be not disgusted, nor discouraged, nor dissatisfied, if thou dost not succeed in doing everything according to right principles, but when thou hast failed, return back again.",
+      "th": "ถ้าทำได้ไม่ดีทุกเรื่องอย่างที่ตั้งใจ ก็อย่าเพิ่งหงุดหงิด อย่าท้อ อย่าผิดหวังในตัวเอง พลาดเมื่อไรก็แค่กลับมาเริ่มใหม่",
+      "source": {
+        "work": "Meditations",
+        "locator": "Book 5, 9",
+        "translator": "George Long (1862)",
+        "url": "https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_V"
+      },
+      "verify": "primary",
+      "tags": [
+        "failure",
+        "hope"
+      ],
+      "mood": [
+        "stuck",
+        "tired"
+      ]
+    },
+    {
+      "author": "marcus-aurelius",
+      "en": "Such as are thy habitual thoughts, such also will be the character of thy mind; for the soul is dyed by the thoughts.",
+      "th": "เธอคิดอะไรเป็นประจำ ใจเธอก็จะเป็นแบบนั้น เพราะใจถูกย้อมด้วยความคิด",
+      "source": {
+        "work": "Meditations",
+        "locator": "Book 5, 16",
+        "translator": "George Long (1862)",
+        "url": "https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_V"
+      },
+      "verify": "primary",
+      "tags": [
+        "mind",
+        "self"
+      ],
+      "mood": [
+        "lost"
+      ]
+    },
+    {
+      "author": "marcus-aurelius",
+      "en": "The mind converts and changes every hindrance to its activity into an aid; and so that which is a hindrance is made a furtherance to an act; and that which is an obstacle on the road helps us on this road.",
+      "th": "ใจเปลี่ยนทุกอุปสรรคให้เป็นตัวช่วยได้ สิ่งที่ขัดขวางจะกลายเป็นแรงส่ง และสิ่งที่ขวางทางอยู่ ก็จะช่วยพาเราไปต่อบนทางนั้นเอง",
+      "source": {
+        "work": "Meditations",
+        "locator": "Book 5, 20",
+        "translator": "George Long (1862)",
+        "url": "https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_V"
+      },
+      "verify": "primary",
+      "tags": [
+        "failure",
+        "courage",
+        "mind"
+      ],
+      "mood": [
+        "stuck"
+      ]
+    },
+    {
+      "author": "marcus-aurelius",
+      "en": "The best way of avenging thyself is not to become like the wrong-doer.",
+      "th": "วิธีแก้แค้นที่ดีที่สุด คือไม่กลายเป็นคนแบบเดียวกับคนที่ทำร้ายเรา",
+      "orig": {
+        "lang": "grc",
+        "text": "Ἄριστος τρόπος τοῦ ἀμύνεσθαι τὸ μὴ ἐξομοιοῦσθαι."
+      },
+      "source": {
+        "work": "Meditations",
+        "locator": "Book 6, 6",
+        "translator": "George Long (1862)",
+        "url": "https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_VI"
+      },
+      "verify": "primary",
+      "tags": [
+        "anger",
+        "virtue"
+      ],
+      "mood": [
+        "angry",
+        "heartbroken"
+      ]
+    },
+    {
+      "author": "marcus-aurelius",
+      "en": "When thou hast been compelled by circumstances to be disturbed in a manner, quickly return to thyself, and do not continue out of tune longer than the compulsion lasts; for thou wilt have more mastery over the harmony by continually recurring to it.",
+      "th": "เมื่อเรื่องรอบตัวทำให้ใจเสียศูนย์ ให้รีบกลับมาหาตัวเอง อย่าปล่อยให้ใจเพี้ยนคีย์นานกว่าที่จำเป็น ยิ่งกลับมาบ่อย เธอก็ยิ่งคุมจังหวะของใจได้ดีขึ้น",
+      "source": {
+        "work": "Meditations",
+        "locator": "Book 6, 11",
+        "translator": "George Long (1862)",
+        "url": "https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_VI"
+      },
+      "verify": "primary",
+      "tags": [
+        "emotion",
+        "mind",
+        "control"
+      ],
+      "mood": [
+        "stress",
+        "anxious"
+      ]
+    },
+    {
+      "author": "marcus-aurelius",
+      "en": "Neither must we value the clapping of tongues; for the praise which comes from the many is a clapping of tongues.",
+      "th": "อย่าไปให้ค่ากับคำชมของคนหมู่มาก เพราะมันก็แค่เสียงลิ้นกระทบกันเท่านั้น",
+      "source": {
+        "work": "Meditations",
+        "locator": "Book 6, 16",
+        "translator": "George Long (1862)",
+        "url": "https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_VI"
+      },
+      "verify": "primary",
+      "tags": [
+        "ego",
+        "society"
+      ],
+      "mood": [
+        "anxious"
+      ]
+    },
+    {
+      "author": "marcus-aurelius",
+      "en": "To recover thy life is in thy power. Look at things again as thou didst use to look at them; for in this consists the recovery of thy life.",
+      "th": "การได้ชีวิตคืนมาอยู่ในมือเธอเอง ลองกลับไปมองสิ่งต่าง ๆ แบบที่เคยมอง แค่นั้นก็คือการได้ชีวิตคืนมาแล้ว",
+      "source": {
+        "work": "Meditations",
+        "locator": "Book 7, 2",
+        "translator": "George Long (1862)",
+        "url": "https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_VII"
+      },
+      "verify": "primary",
+      "tags": [
+        "hope",
+        "mind",
+        "change"
+      ],
+      "mood": [
+        "lost",
+        "stuck"
+      ]
+    },
+    {
+      "author": "marcus-aurelius",
+      "en": "Be not ashamed to be helped; for it is thy business to do thy duty like a soldier in the assault on a town. How then, if being lame thou canst not mount up on the battlements alone, but with the help of another it is possible?",
+      "th": "อย่าอายที่จะให้คนอื่นช่วย หน้าที่ของเธอคือทำงานให้ลุล่วง เหมือนทหารที่ต้องปีนกำแพงเมือง ถ้าขาเจ็บปีนเองไม่ไหว แต่มีคนช่วยแล้วขึ้นได้ จะอายไปทำไม",
+      "source": {
+        "work": "Meditations",
+        "locator": "Book 7, 7",
+        "translator": "George Long (1862)",
+        "url": "https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_VII"
+      },
+      "verify": "primary",
+      "tags": [
+        "friendship",
+        "courage"
+      ],
+      "mood": [
+        "overwhelmed",
+        "tired"
+      ]
+    },
+    {
+      "author": "marcus-aurelius",
+      "en": "Let not future things disturb thee, for thou wilt come to them, if it shall be necessary, having with thee the same reason which now thou usest for present things.",
+      "th": "อย่าให้เรื่องในอนาคตมากวนใจ ถ้าวันนั้นมาถึงจริง เธอจะไปถึงพร้อมสติปัญญาชุดเดียวกับที่ใช้รับมือเรื่องวันนี้",
+      "orig": {
+        "lang": "grc",
+        "text": "Τὰ μέλλοντα μὴ ταρασσέτω, ἥξεις γὰρ ἐπ’ αὐτά, ἐὰν δεήσῃ, φέρων τὸν αὐτὸν λόγον ᾧ νῦν πρὸς τὰ παρόντα χρᾷ."
+      },
+      "source": {
+        "work": "Meditations",
+        "locator": "Book 7, 8",
+        "translator": "George Long (1862)",
+        "url": "https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_VII"
+      },
+      "verify": "primary",
+      "tags": [
+        "fear",
+        "time",
+        "reason"
+      ],
+      "mood": [
+        "anxious"
+      ]
+    },
+    {
+      "author": "marcus-aurelius",
+      "en": "Look within. Within is the fountain of good, and it will ever bubble up, if thou wilt ever dig.",
+      "th": "มองเข้าไปข้างใน ข้างในมีน้ำพุแห่งความดี มันจะผุดขึ้นมาไม่หยุด ถ้าเธอหมั่นขุดไม่หยุด",
+      "orig": {
+        "lang": "grc",
+        "text": "Ἔνδον σκάπτε, ἔνδον ἡ πηγὴ τοῦ ἀγαθοῦ καὶ ἀεὶ ἀναβλύειν δυναμένη, ἐὰν ἀεὶ σκάπτῃς."
+      },
+      "source": {
+        "work": "Meditations",
+        "locator": "Book 7, 59",
+        "translator": "George Long (1862)",
+        "url": "https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_VII"
+      },
+      "verify": "primary",
+      "tags": [
+        "self",
+        "hope"
+      ],
+      "mood": [
+        "lost"
+      ]
+    },
+    {
+      "author": "marcus-aurelius",
+      "en": "The art of life is more like the wrestler's art than the dancer's, in respect of this, that it should stand ready and firm to meet onsets which are sudden and unexpected.",
+      "th": "ศิลปะของการใช้ชีวิตเหมือนมวยปล้ำมากกว่าการเต้นรำ เพราะต้องยืนให้มั่นและพร้อมรับแรงปะทะที่มาแบบไม่ทันตั้งตัว",
+      "source": {
+        "work": "Meditations",
+        "locator": "Book 7, 61",
+        "translator": "George Long (1862)",
+        "url": "https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_VII"
+      },
+      "verify": "primary",
+      "tags": [
+        "courage",
+        "change"
+      ],
+      "mood": [
+        "overwhelmed"
+      ]
+    },
+    {
+      "author": "marcus-aurelius",
+      "en": "Very little indeed is necessary for living a happy life.",
+      "th": "ชีวิตที่มีความสุข ต้องการแค่ไม่กี่อย่างจริง ๆ",
+      "source": {
+        "work": "Meditations",
+        "locator": "Book 7, 67",
+        "translator": "George Long (1862)",
+        "url": "https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_VII"
+      },
+      "verify": "primary",
+      "tags": [
+        "happiness",
+        "simplicity"
+      ],
+      "mood": [
+        "lost"
+      ]
+    },
+    {
+      "author": "marcus-aurelius",
+      "en": "Do not disturb thyself by thinking of the whole of thy life. Let not thy thoughts at once embrace all the various troubles which thou mayest expect to befall thee: but on every occasion ask thyself, What is there in this which is intolerable and past bearing?",
+      "th": "อย่าเอาทั้งชีวิตมาคิดรวดเดียว อย่าแบกปัญหาทุกอย่างที่อาจเกิดขึ้นไว้พร้อมกัน เจอเรื่องไหน ให้ถามตัวเองแค่ว่า เรื่องนี้หนักเกินทนตรงไหน",
+      "source": {
+        "work": "Meditations",
+        "locator": "Book 8, 36",
+        "translator": "George Long (1862)",
+        "url": "https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_VIII"
+      },
+      "verify": "primary",
+      "tags": [
+        "present",
+        "mind"
+      ],
+      "mood": [
+        "overwhelmed",
+        "anxious"
+      ]
+    },
+    {
+      "author": "marcus-aurelius",
+      "en": "If thou art pained by any external thing, it is not this thing that disturbs thee, but thy own judgment about it. And it is in thy power to wipe out this judgment now.",
+      "th": "ถ้ามีอะไรข้างนอกทำให้เธอเจ็บ สิ่งที่รบกวนเธอไม่ใช่ตัวมัน แต่เป็นการตัดสินของเธอเองต่างหาก และเธอลบการตัดสินนั้นทิ้งได้ตั้งแต่ตอนนี้",
+      "orig": {
+        "lang": "grc",
+        "text": "Εἰ μὲν διά τι τῶν ἐκτὸς λυπῇ, οὐκ ἐκεῖνό σοι ἐνοχλεῖ, ἀλλὰ τὸ σὸν περὶ αὐτοῦ κρῖμα, τοῦτο δὲ ἤδη ἐξαλεῖψαι ἐπὶ σοί ἐστιν."
+      },
+      "source": {
+        "work": "Meditations",
+        "locator": "Book 8, 47",
+        "translator": "George Long (1862)",
+        "url": "https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_VIII"
+      },
+      "verify": "primary",
+      "tags": [
+        "control",
+        "mind"
+      ],
+      "mood": [
+        "stress",
+        "heartbroken"
+      ]
+    },
+    {
+      "author": "marcus-aurelius",
+      "en": "A cucumber is bitter—Throw it away.—There are briers in the road—Turn aside from them.—This is enough. Do not add, And why were such things made in the world?",
+      "th": "แตงกวาขม ก็ทิ้งไป ทางมีหนาม ก็เดินอ้อม แค่นี้พอแล้ว ไม่ต้องถามต่อว่า ทำไมโลกนี้ต้องมีของแบบนี้ด้วย",
+      "orig": {
+        "lang": "grc",
+        "text": "Σίκυος πικρός; ἄφες. βάτοι ἐν τῇ ὁδῷ; ἔκκλινον. ἀρκεῖ, μὴ προσεπείπῃς, τί δὲ καὶ ἐγένετο ταῦτα ἐν τῷ κόσμῳ;"
+      },
+      "source": {
+        "work": "Meditations",
+        "locator": "Book 8, 50",
+        "translator": "George Long (1862)",
+        "url": "https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_VIII"
+      },
+      "verify": "primary",
+      "tags": [
+        "simplicity",
+        "mind",
+        "humor"
+      ],
+      "mood": [
+        "confused",
+        "stress"
+      ]
+    },
+    {
+      "author": "marcus-aurelius",
+      "en": "Men exist for the sake of one another. Teach them then, or bear with them.",
+      "th": "คนเราเกิดมาเพื่อกันและกัน ถ้าสอนเขาได้ก็สอน ถ้าสอนไม่ได้ก็อดทนกับเขา",
+      "source": {
+        "work": "Meditations",
+        "locator": "Book 8, 59",
+        "translator": "George Long (1862)",
+        "url": "https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_VIII"
+      },
+      "verify": "primary",
+      "tags": [
+        "society",
+        "anger"
+      ],
+      "mood": [
+        "angry"
+      ]
+    },
+    {
+      "author": "marcus-aurelius",
+      "en": "Loss is nothing else than change.",
+      "th": "การสูญเสีย ก็คือความเปลี่ยนแปลงอย่างหนึ่งเท่านั้น",
+      "orig": {
+        "lang": "grc",
+        "text": "Ἡ ἀποβολὴ οὐδὲν ἄλλο ἐστὶν ἢ μεταβολή."
+      },
+      "source": {
+        "work": "Meditations",
+        "locator": "Book 9, 35",
+        "translator": "George Long (1862)",
+        "url": "https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_IX"
+      },
+      "verify": "primary",
+      "tags": [
+        "change",
+        "suffering"
+      ],
+      "mood": [
+        "heartbroken"
+      ]
+    },
+    {
+      "author": "marcus-aurelius",
+      "en": "No longer talk at all about the kind of man that a good man ought to be, but be such.",
+      "th": "เลิกพูดได้แล้วว่าคนดีต้องเป็นแบบไหน เป็นให้ดูเลย",
+      "orig": {
+        "lang": "grc",
+        "text": "Μηκέθ’ ὅλως περὶ τοῦ οἷόν τινα εἶναι τὸν ἀγαθὸν ἄνδρα διαλέγεσθαι, ἀλλὰ εἶναι τοιοῦτον."
+      },
+      "source": {
+        "work": "Meditations",
+        "locator": "Book 10, 16",
+        "translator": "George Long (1862)",
+        "url": "https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_X"
+      },
+      "verify": "primary",
+      "tags": [
+        "action",
+        "virtue"
+      ],
+      "mood": [
+        "stuck"
+      ]
+    },
+    {
+      "author": "marcus-aurelius",
+      "en": "Consider how much more pain is brought on us by the anger and vexation caused by such acts than by the acts themselves, at which we are angry and vexed.",
+      "th": "ลองคิดดู ความโกรธและความหงุดหงิดที่เรามีต่อการกระทำของใคร ทำให้เราเจ็บมากกว่าตัวการกระทำนั้นเสียอีก",
+      "source": {
+        "work": "Meditations",
+        "locator": "Book 11, 18",
+        "translator": "George Long (1862)",
+        "url": "https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_XI"
+      },
+      "verify": "primary",
+      "tags": [
+        "anger",
+        "suffering"
+      ],
+      "mood": [
+        "angry"
+      ]
+    },
+    {
+      "author": "marcus-aurelius",
+      "en": "I have often wondered how it is that every man loves himself more than all the rest of men, but yet sets less value on his own opinion of himself than on the opinion of others.",
+      "th": "ฉันสงสัยมานานแล้ว ทำไมทุกคนรักตัวเองมากกว่าใคร แต่กลับให้ค่ากับสิ่งที่คนอื่นคิดเกี่ยวกับเรา มากกว่าสิ่งที่เราคิดเกี่ยวกับตัวเอง",
+      "orig": {
+        "lang": "grc",
+        "text": "Πολλάκις ἐθαύμασα πῶς ἑαυτὸν μὲν ἕκαστος μᾶλλον πάντων φιλεῖ, τὴν δὲ ἑαυτοῦ περὶ αὑτοῦ ὑπόληψιν ἐν ἐλάττονι λόγῳ τίθεται ἢ τὴν τῶν ἄλλων."
+      },
+      "source": {
+        "work": "Meditations",
+        "locator": "Book 12, 4",
+        "translator": "George Long (1862)",
+        "url": "https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_XII"
+      },
+      "verify": "primary",
+      "tags": [
+        "self",
+        "society",
+        "ego"
+      ],
+      "mood": [
+        "anxious"
+      ]
+    },
+    {
+      "author": "marcus-aurelius",
+      "en": "If it is not right, do not do it: if it is not true, do not say it.",
+      "th": "ถ้าไม่ถูก อย่าทำ ถ้าไม่จริง อย่าพูด",
+      "orig": {
+        "lang": "grc",
+        "text": "Εἰ μὴ καθήκει, μὴ πράξῃς, εἰ μὴ ἀληθές ἐστι, μὴ εἴπῃς."
+      },
+      "source": {
+        "work": "Meditations",
+        "locator": "Book 12, 17",
+        "translator": "George Long (1862)",
+        "url": "https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus/Book_XII"
+      },
+      "verify": "primary",
+      "tags": [
+        "virtue",
+        "truth"
+      ],
+      "mood": [
+        "confused"
+      ]
+    },
+    {
+      "author": "seneca",
+      "en": "Nothing, Lucilius, is ours, except time.",
+      "th": "ไม่มีอะไรเป็นของเราจริง ๆ เลย นอกจากเวลา",
+      "orig": {
+        "lang": "la",
+        "text": "Omnia, Lucili, aliena sunt, tempus tantum nostrum est."
+      },
+      "source": {
+        "work": "Moral Letters to Lucilius",
+        "locator": "Letter 1, 3",
+        "translator": "Richard Mott Gummere (1917)",
+        "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_1"
+      },
+      "verify": "primary",
+      "tags": [
+        "time"
+      ],
+      "mood": [
+        "bored"
+      ]
+    },
+    {
+      "author": "seneca",
+      "en": "Everywhere means nowhere. When a person spends all his time in foreign travel, he ends by having many acquaintances, but no friends.",
+      "th": "อยู่ทุกที่ ก็เท่ากับไม่ได้อยู่ที่ไหนเลย คนที่เอาแต่ตระเวนไปทั่ว สุดท้ายจะมีคนรู้จักเต็มไปหมด แต่ไม่มีเพื่อนสักคน",
+      "orig": {
+        "lang": "la",
+        "text": "Nusquam est qui ubique est. Vitam in peregrinatione exigentibus hoc evenit, ut multa hospitia habeant, nullas amicitias."
+      },
+      "source": {
+        "work": "Moral Letters to Lucilius",
+        "locator": "Letter 2, 2",
+        "translator": "Richard Mott Gummere (1917)",
+        "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_2"
+      },
+      "verify": "primary",
+      "tags": [
+        "present",
+        "friendship",
+        "simplicity"
+      ],
+      "mood": [
+        "lost",
+        "overwhelmed"
+      ]
+    },
+    {
+      "author": "seneca",
+      "en": "It is not the man who has too little, but the man who craves more, that is poor.",
+      "th": "คนจนไม่ใช่คนที่มีน้อย แต่คือคนที่อยากได้ไม่รู้จักพอ",
+      "orig": {
+        "lang": "la",
+        "text": "Non qui parum habet, sed qui plus cupit, pauper est."
+      },
+      "source": {
+        "work": "Moral Letters to Lucilius",
+        "locator": "Letter 2, 6",
+        "translator": "Richard Mott Gummere (1917)",
+        "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_2"
+      },
+      "verify": "primary",
+      "tags": [
+        "desire",
+        "happiness"
+      ],
+      "mood": []
+    },
+    {
+      "author": "seneca",
+      "en": "Associate with those who will make a better man of you. Welcome those whom you yourself can improve. The process is mutual; for men learn while they teach.",
+      "th": "คบคนที่ทำให้คุณดีขึ้น และเปิดใจรับคนที่คุณช่วยให้ดีขึ้นได้ มันเป็นทางสองทาง เพราะเวลาเราสอนใคร เราก็ได้เรียนไปด้วย",
+      "orig": {
+        "lang": "la",
+        "text": "cum his versare qui te meliorem facturi sunt, illos admitte quos tu potes facere meliores. Mutuo ista fiunt, et homines dum docent discunt."
+      },
+      "source": {
+        "work": "Moral Letters to Lucilius",
+        "locator": "Letter 7, 8",
+        "translator": "Richard Mott Gummere (1917)",
+        "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_7"
+      },
+      "verify": "primary",
+      "tags": [
+        "friendship",
+        "knowledge"
+      ],
+      "mood": [
+        "lost"
+      ]
+    },
+    {
+      "author": "seneca",
+      "en": "There are more things, Lucilius, likely to frighten us than there are to crush us; we suffer more often in imagination than in reality.",
+      "th": "สิ่งที่ทำให้เรากลัว มีมากกว่าสิ่งที่ทำร้ายเราได้จริง เราทุกข์เพราะจินตนาการ บ่อยกว่าเพราะเรื่องจริง",
+      "orig": {
+        "lang": "la",
+        "text": "Plura sunt, Lucili, quae nos terrent quam quae premunt, et saepius opinione quam re laboramus."
+      },
+      "source": {
+        "work": "Moral Letters to Lucilius",
+        "locator": "Letter 13, 4",
+        "translator": "Richard Mott Gummere (1917)",
+        "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_13"
+      },
+      "verify": "primary",
+      "tags": [
+        "fear",
+        "mind",
+        "suffering"
+      ],
+      "mood": [
+        "anxious",
+        "stress"
+      ]
+    },
+    {
+      "author": "seneca",
+      "en": "Some things torment us more than they ought; some torment us before they ought; and some torment us when they ought not to torment us at all. We are in the habit of exaggerating, or imagining, or anticipating, sorrow.",
+      "th": "บางเรื่องทรมานเรามากเกินกว่าที่ควร บางเรื่องทรมานเราก่อนเวลา บางเรื่องไม่ควรทรมานเราเลยด้วยซ้ำ เราชอบขยายความทุกข์ แต่งมันขึ้นมาเอง หรือไม่ก็ทุกข์ล่วงหน้า",
+      "source": {
+        "work": "Moral Letters to Lucilius",
+        "locator": "Letter 13, 5",
+        "translator": "Richard Mott Gummere (1917)",
+        "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_13"
+      },
+      "verify": "primary",
+      "tags": [
+        "fear",
+        "suffering",
+        "mind"
+      ],
+      "mood": [
+        "anxious",
+        "overwhelmed"
+      ]
+    },
+    {
+      "author": "seneca",
+      "en": "Set aside a certain number of days, during which you shall be content with the scantiest and cheapest fare, with coarse and rough dress, saying to yourself the while: “Is this the condition that I feared?”",
+      "th": "ลองกันเวลาไว้สักช่วง กินแต่ของถูกที่สุด ใส่แต่เสื้อผ้าเก่า ๆ หยาบ ๆ แล้วถามตัวเองไปด้วยว่า นี่น่ะหรือ สภาพที่ฉันกลัวนักกลัวหนา",
+      "source": {
+        "work": "Moral Letters to Lucilius",
+        "locator": "Letter 18, 5",
+        "translator": "Richard Mott Gummere (1917)",
+        "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_18"
+      },
+      "verify": "primary",
+      "tags": [
+        "fear",
+        "simplicity",
+        "courage"
+      ],
+      "mood": [
+        "anxious"
+      ]
+    },
+    {
+      "author": "seneca",
+      "en": "Philosophy teaches us to act, not to speak; it exacts of every man that he should live according to his own standards, that his life should not be out of harmony with his words.",
+      "th": "ปรัชญาสอนให้ลงมือ ไม่ใช่สอนให้พูด มันเรียกร้องให้ทุกคนใช้ชีวิตตามมาตรฐานที่ตัวเองตั้งไว้ และให้ชีวิตไปในทางเดียวกับคำพูด",
+      "orig": {
+        "lang": "la",
+        "text": "facere docet philosophia, non dicere, et hoc exigit, ut ad legem suam quisque vivat, ne orationi vita dissentiat"
+      },
+      "source": {
+        "work": "Moral Letters to Lucilius",
+        "locator": "Letter 20, 2",
+        "translator": "Richard Mott Gummere (1917)",
+        "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_20"
+      },
+      "verify": "primary",
+      "tags": [
+        "action",
+        "virtue"
+      ],
+      "mood": [
+        "stuck"
+      ]
+    },
+    {
+      "author": "seneca",
+      "en": "You need a change of soul rather than a change of climate... your faults will follow you whithersoever you travel.",
+      "th": "สิ่งที่ต้องเปลี่ยนคือข้างในตัวคุณ ไม่ใช่บรรยากาศรอบตัว หนีไปไกลแค่ไหน นิสัยเสียของคุณก็ตามไปทุกที่",
+      "orig": {
+        "lang": "la",
+        "text": "Animum debes mutare, non caelum... sequentur te quocumque perveneris vitia."
+      },
+      "source": {
+        "work": "Moral Letters to Lucilius",
+        "locator": "Letter 28, 1",
+        "translator": "Richard Mott Gummere (1917)",
+        "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_28"
+      },
+      "verify": "primary",
+      "tags": [
+        "change",
+        "self"
+      ],
+      "mood": [
+        "lost",
+        "stuck"
+      ]
+    },
+    {
+      "author": "seneca",
+      "en": "Show me a man who is not a slave; one is a slave to lust, another to greed, another to ambition, and all men are slaves to fear.",
+      "th": "ลองหาคนที่ไม่ได้เป็นทาสให้ดูสักคน บางคนเป็นทาสความใคร่ บางคนเป็นทาสความโลภ บางคนเป็นทาสความทะเยอทะยาน และทุกคนเป็นทาสความกลัว",
+      "orig": {
+        "lang": "la",
+        "text": "Ostende quis non sit: alius libidini servit, alius avaritiae, alius ambitioni, omnes timori."
+      },
+      "source": {
+        "work": "Moral Letters to Lucilius",
+        "locator": "Letter 47, 17",
+        "translator": "Richard Mott Gummere (1917)",
+        "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_47"
+      },
+      "verify": "primary",
+      "tags": [
+        "freedom",
+        "fear",
+        "desire"
+      ],
+      "mood": []
+    },
+    {
+      "author": "seneca",
+      "en": "All outdoors may be bedlam, provided that there is no disturbance within, provided that fear is not wrangling with desire in my breast.",
+      "th": "ข้างนอกจะวุ่นวายแค่ไหนก็ได้ ขอแค่ข้างในไม่วุ่นวาย ขอแค่ในใจไม่มีความกลัวกับความอยากทะเลาะกันอยู่",
+      "source": {
+        "work": "Moral Letters to Lucilius",
+        "locator": "Letter 56, 5",
+        "translator": "Richard Mott Gummere (1917)",
+        "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_56"
+      },
+      "verify": "primary",
+      "tags": [
+        "mind",
+        "fear",
+        "desire"
+      ],
+      "mood": [
+        "stress",
+        "overwhelmed"
+      ]
+    },
+    {
+      "author": "seneca",
+      "en": "You need not suppose that the soul is at peace when the body is still. Sometimes quiet means disquiet.",
+      "th": "อย่าคิดว่าตัวนิ่งแล้วใจจะสงบ บางครั้งความเงียบนั่นแหละคือความว้าวุ่น",
+      "source": {
+        "work": "Moral Letters to Lucilius",
+        "locator": "Letter 56, 8",
+        "translator": "Richard Mott Gummere (1917)",
+        "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_56"
+      },
+      "verify": "primary",
+      "tags": [
+        "mind",
+        "solitude"
+      ],
+      "mood": [
+        "anxious",
+        "tired"
+      ]
+    },
+    {
+      "author": "seneca",
+      "en": "Let us greedily enjoy our friends, because we do not know how long this privilege will be ours.",
+      "th": "อยู่กับเพื่อนให้เต็มที่ เพราะเราไม่รู้เลยว่าจะได้มีกันแบบนี้ไปอีกนานแค่ไหน",
+      "source": {
+        "work": "Moral Letters to Lucilius",
+        "locator": "Letter 63, 8",
+        "translator": "Richard Mott Gummere (1917)",
+        "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_63"
+      },
+      "verify": "primary",
+      "tags": [
+        "friendship",
+        "time",
+        "present"
+      ],
+      "mood": [
+        "lost"
+      ]
+    },
+    {
+      "author": "seneca",
+      "en": "Our plans miscarry because they have no aim. When a man does not know what harbour he is making for, no wind is the right wind.",
+      "th": "แผนพังเพราะไม่มีเป้าหมาย ถ้าไม่รู้ว่าจะไปท่าเรือไหน ลมทิศไหนก็ไม่ใช่ลมที่ใช่",
+      "orig": {
+        "lang": "la",
+        "text": "errant consilia nostra, quia non habent quo derigantur; ignoranti quem portum petat nullus suus ventus est."
+      },
+      "source": {
+        "work": "Moral Letters to Lucilius",
+        "locator": "Letter 71, 3",
+        "translator": "Richard Mott Gummere (1920)",
+        "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_71"
+      },
+      "verify": "primary",
+      "tags": [
+        "meaning",
+        "choice"
+      ],
+      "mood": [
+        "lost",
+        "confused"
+      ]
+    },
+    {
+      "author": "seneca",
+      "en": "Sometimes it is an act of bravery even to live.",
+      "th": "บางครั้ง แค่ยังมีชีวิตอยู่ต่อไป ก็นับเป็นความกล้าหาญแล้ว",
+      "orig": {
+        "lang": "la",
+        "text": "aliquando enim et vivere fortiter facere est."
+      },
+      "source": {
+        "work": "Moral Letters to Lucilius",
+        "locator": "Letter 78, 2",
+        "translator": "Richard Mott Gummere (1920)",
+        "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_78"
+      },
+      "verify": "primary",
+      "tags": [
+        "courage",
+        "suffering"
+      ],
+      "mood": [
+        "tired",
+        "overwhelmed"
+      ]
+    },
+    {
+      "author": "seneca",
+      "en": "Two elements must therefore be rooted out once for all—the fear of future suffering, and the recollection of past suffering; since the latter no longer concerns me, and the former concerns me not yet.",
+      "th": "มีสองอย่างที่ต้องถอนรากทิ้งให้หมด คือความกลัวทุกข์ที่ยังไม่มา กับการนึกถึงทุกข์ที่ผ่านไปแล้ว อย่างหลังไม่เกี่ยวกับผมแล้ว ส่วนอย่างแรกก็ยังไม่ใช่เรื่องของผมตอนนี้",
+      "source": {
+        "work": "Moral Letters to Lucilius",
+        "locator": "Letter 78, 14",
+        "translator": "Richard Mott Gummere (1920)",
+        "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_78"
+      },
+      "verify": "primary",
+      "tags": [
+        "fear",
+        "time",
+        "present"
+      ],
+      "mood": [
+        "anxious"
+      ]
+    },
+    {
+      "author": "seneca",
+      "en": "He suffers more than is necessary, who suffers before it is necessary.",
+      "th": "คนที่ทุกข์ล่วงหน้า คือคนที่ทุกข์มากเกินกว่าที่ต้องทุกข์",
+      "orig": {
+        "lang": "la",
+        "text": "Plus dolet quam necesse est qui ante dolet quam necesse est."
+      },
+      "source": {
+        "work": "Moral Letters to Lucilius",
+        "locator": "Letter 98, 8",
+        "translator": "Richard Mott Gummere (1925)",
+        "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_98"
+      },
+      "verify": "primary",
+      "tags": [
+        "fear",
+        "suffering"
+      ],
+      "mood": [
+        "anxious"
+      ]
+    },
+    {
+      "author": "seneca",
+      "en": "Begin at once to live, and count each separate day as a separate life.",
+      "th": "เริ่มใช้ชีวิตเดี๋ยวนี้เลย และนับแต่ละวันให้เป็นหนึ่งชีวิต",
+      "orig": {
+        "lang": "la",
+        "text": "propera, Lucili mi, vivere, et singulos dies singulas vitas puta."
+      },
+      "source": {
+        "work": "Moral Letters to Lucilius",
+        "locator": "Letter 101, 10",
+        "translator": "Richard Mott Gummere (1925)",
+        "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_101"
+      },
+      "verify": "primary",
+      "tags": [
+        "present",
+        "time",
+        "action"
+      ],
+      "mood": [
+        "stuck"
+      ]
+    },
+    {
+      "author": "seneca",
+      "en": "Our lack of confidence is not the result of difficulty; the difficulty comes from our lack of confidence.",
+      "th": "ไม่ใช่เพราะเรื่องมันยากเราถึงไม่กล้า แต่เพราะเราไม่กล้า เรื่องมันถึงดูยาก",
+      "orig": {
+        "lang": "la",
+        "text": "Non quia difficilia sunt non audemus, sed quia non audemus difficilia sunt."
+      },
+      "source": {
+        "work": "Moral Letters to Lucilius",
+        "locator": "Letter 104, 26",
+        "translator": "Richard Mott Gummere (1925)",
+        "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_104"
+      },
+      "verify": "primary",
+      "tags": [
+        "courage",
+        "fear",
+        "action"
+      ],
+      "mood": [
+        "stuck",
+        "anxious"
+      ]
+    },
+    {
+      "author": "seneca",
+      "en": "Whatever happens, assume that it was bound to happen, and do not be willing to rail at Nature. That which you cannot reform, it is best to endure.",
+      "th": "อะไรเกิดขึ้นแล้ว ให้ถือว่ามันต้องเกิด อย่าไปก่นด่าธรรมชาติ อะไรที่แก้ไม่ได้ อดทนกับมันคือทางที่ดีที่สุด",
+      "orig": {
+        "lang": "la",
+        "text": "quaecumque fiunt debuisse fieri putet nec velit obiurgare naturam. Optimum est pati quod emendare non possis"
+      },
+      "source": {
+        "work": "Moral Letters to Lucilius",
+        "locator": "Letter 107, 9",
+        "translator": "Richard Mott Gummere (1925)",
+        "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_107"
+      },
+      "verify": "primary",
+      "tags": [
+        "control",
+        "nature"
+      ],
+      "mood": [
+        "stress"
+      ]
+    },
+    {
+      "author": "seneca",
+      "en": "We do not receive a short life, but we make it a short one, and we are not poor in days, but wasteful of them.",
+      "th": "ชีวิตที่เราได้มาไม่ได้สั้น เราทำให้มันสั้นเอง เราไม่ได้ขาดแคลนวันเวลา เราแค่ใช้มันทิ้งขว้าง",
+      "orig": {
+        "lang": "la",
+        "text": "non accipimus brevem vitam sed fecimus, nec inopes eius sed prodigi sumus."
+      },
+      "source": {
+        "work": "On the Shortness of Life",
+        "locator": "Chapter 1",
+        "translator": "Aubrey Stewart (1900)",
+        "url": "https://www.gutenberg.org/ebooks/64576"
+      },
+      "verify": "primary",
+      "tags": [
+        "time"
+      ],
+      "mood": [
+        "bored",
+        "stuck"
+      ]
+    },
+    {
+      "author": "seneca",
+      "en": "Postponement is the greatest waste of life: it wrings day after day from us, and takes away the present by promising something hereafter: there is no such obstacle to true living as waiting, which loses to-day while it is depending on the morrow.",
+      "th": "การผัดวันคือการผลาญชีวิตที่ร้ายที่สุด มันขโมยวันไปทีละวัน และพรากปัจจุบันไปด้วยคำสัญญาถึงวันข้างหน้า ไม่มีอะไรขวางการใช้ชีวิตจริง ๆ ได้เท่าการรอ ที่ทิ้งวันนี้ไปเพื่อฝากชีวิตไว้กับพรุ่งนี้",
+      "orig": {
+        "lang": "la",
+        "text": "maxima porro vitae iactura dilatio est: illa primum quemque extrahit diem, illa eripit praesentia dum ulteriora promittit. Maximum vivendi impedimentum est exspectatio, quae pendet ex crastino, perdit hodiernum."
+      },
+      "source": {
+        "work": "On the Shortness of Life",
+        "locator": "Chapter 9",
+        "translator": "Aubrey Stewart (1900)",
+        "url": "https://www.gutenberg.org/ebooks/64576"
+      },
+      "verify": "primary",
+      "tags": [
+        "time",
+        "present",
+        "action"
+      ],
+      "mood": [
+        "stuck"
+      ]
+    },
+    {
+      "author": "seneca",
+      "en": "The greatest remedy for anger is delay... if it delays, it will come to an end.",
+      "th": "ยาแก้โกรธที่ดีที่สุดคือการรอ ถ้าความโกรธยอมรอ มันจะจบลงเอง",
+      "orig": {
+        "lang": "la",
+        "text": "Maximum remedium irae mora est... desinet, si expectat."
+      },
+      "source": {
+        "work": "On Anger",
+        "locator": "Book 2, chapter 29",
+        "translator": "Aubrey Stewart (1900)",
+        "url": "https://en.wikisource.org/wiki/Of_Anger/Book_II"
+      },
+      "verify": "primary",
+      "tags": [
+        "anger",
+        "emotion",
+        "time"
+      ],
+      "mood": [
+        "angry"
+      ]
+    },
+    {
+      "author": "seneca",
+      "en": "If any one is angry with you, meet his anger by returning benefits for it: a quarrel which is only taken up on one side falls to the ground: it takes two men to fight.",
+      "th": "ถ้ามีใครโกรธคุณ ให้ตอบกลับด้วยน้ำใจ การทะเลาะที่มีแค่ฝ่ายเดียวจะล้มพับไปเอง เพราะต้องมีสองคนถึงจะตีกันได้",
+      "orig": {
+        "lang": "la",
+        "text": "Irascetur aliquis: tu contra beneficiis provoca; cadit statim simultas ab altera parte deserta; nisi paria non pugnant."
+      },
+      "source": {
+        "work": "On Anger",
+        "locator": "Book 2, chapter 34",
+        "translator": "Aubrey Stewart (1900)",
+        "url": "https://en.wikisource.org/wiki/Of_Anger/Book_II"
+      },
+      "verify": "primary",
+      "tags": [
+        "anger",
+        "society"
+      ],
+      "mood": [
+        "angry"
+      ]
+    },
+    {
+      "author": "seneca",
+      "en": "I pass the whole day in review before myself, and repeat all that I have said and done: I conceal nothing from myself, and omit nothing: for why should I be afraid of any of my shortcomings, when it is in my power to say, “I pardon you this time: see that you never do that any more”?",
+      "th": "ผมทบทวนทั้งวันกับตัวเอง ย้อนดูทุกคำที่พูดและทุกอย่างที่ทำ ไม่ปิดบังและไม่ข้ามอะไรเลย แล้วจะกลัวข้อผิดพลาดของตัวเองไปทำไม ในเมื่อผมบอกตัวเองได้ว่า ครั้งนี้ยกโทษให้ แต่คราวหน้าอย่าทำอีก",
+      "orig": {
+        "lang": "la",
+        "text": "totum diem meum scrutor factaque ac dicta mea remetior; nihil mihi ipse abscondo, nihil transeo. Quare enim quicquam ex erroribus meis timeam, cum possim dicere: vide ne istud amplius facias, nunc tibi ignosco."
+      },
+      "source": {
+        "work": "On Anger",
+        "locator": "Book 3, chapter 36",
+        "translator": "Aubrey Stewart (1900)",
+        "url": "https://en.wikisource.org/wiki/Of_Anger/Book_III"
+      },
+      "verify": "primary",
+      "tags": [
+        "self",
+        "failure",
+        "mind"
+      ],
+      "mood": [
+        "stress"
+      ]
+    },
+    {
+      "author": "seneca",
+      "en": "I think you unhappy because you never have been unhappy: you have passed through your life without meeting an antagonist: no one will know your powers, not even you yourself.",
+      "th": "ผมว่าคุณน่าสงสาร เพราะคุณไม่เคยลำบากเลย คุณใช้ชีวิตมาโดยไม่เคยเจอคู่ต่อสู้ ไม่มีใครรู้ว่าคุณแข็งแกร่งแค่ไหน แม้แต่ตัวคุณเอง",
+      "orig": {
+        "lang": "la",
+        "text": "miserum te iudico, quod numquam fuisti miser. Transisti sine adversario vitam; nemo sciet quid potueris, ne tu quidem ipse."
+      },
+      "source": {
+        "work": "On Providence",
+        "locator": "Chapter 4",
+        "translator": "Aubrey Stewart (1900)",
+        "url": "https://en.wikisource.org/wiki/Of_Providence"
+      },
+      "verify": "primary",
+      "tags": [
+        "courage",
+        "failure",
+        "self"
+      ],
+      "mood": [
+        "stress"
+      ]
+    },
+    {
+      "author": "seneca",
+      "en": "Fire tries gold, misfortune tries brave men.",
+      "th": "ไฟพิสูจน์ทอง ความลำบากพิสูจน์คนกล้า",
+      "orig": {
+        "lang": "la",
+        "text": "Ignis aurum probat, miseria fortes viros."
+      },
+      "source": {
+        "work": "On Providence",
+        "locator": "Chapter 5",
+        "translator": "Aubrey Stewart (1900)",
+        "url": "https://en.wikisource.org/wiki/Of_Providence"
+      },
+      "verify": "primary",
+      "tags": [
+        "courage",
+        "suffering"
+      ],
+      "mood": [
+        "stress"
+      ]
+    },
+    {
+      "author": "seneca",
+      "en": "Men's minds ought to have relaxation: they rise up better and more vigorous after rest.",
+      "th": "ใจคนเราต้องได้พักบ้าง พักแล้วจะลุกขึ้นมาได้ดีกว่าเดิม และมีไฟกว่าเดิม",
+      "orig": {
+        "lang": "la",
+        "text": "Danda est animis remissio: meliores acrioresque requieti surgent."
+      },
+      "source": {
+        "work": "On Tranquility of Mind",
+        "locator": "Chapter 17",
+        "translator": "Aubrey Stewart (1900)",
+        "url": "https://en.wikisource.org/wiki/Of_Peace_of_Mind"
+      },
+      "verify": "primary",
+      "tags": [
+        "mind",
+        "work"
+      ],
+      "mood": [
+        "tired"
+      ]
+    },
+    {
+      "author": "seneca",
+      "en": "We never can be at our ease if we imagine that every one who looks at us is weighing our real value... life is neither happy nor safe when one always has to wear a mask.",
+      "th": "เราไม่มีวันสบายใจได้ ถ้าคิดว่าใครมองมาก็กำลังตีราคาเราอยู่ และชีวิตที่ต้องใส่หน้ากากตลอดเวลา ไม่มีทั้งความสุขและความปลอดภัย",
+      "source": {
+        "work": "On Tranquility of Mind",
+        "locator": "Chapter 17",
+        "translator": "Aubrey Stewart (1900)",
+        "url": "https://en.wikisource.org/wiki/Of_Peace_of_Mind"
+      },
+      "verify": "primary",
+      "tags": [
+        "society",
+        "self",
+        "freedom"
+      ],
+      "mood": [
+        "anxious"
+      ]
+    },
+    {
+      "author": "seneca",
+      "en": "Solitude will cure us when we are sick of crowds, and crowds will cure us when we are sick of solitude.",
+      "th": "ความสันโดษรักษาเราตอนเบื่อผู้คน และผู้คนก็รักษาเราตอนเบื่อความสันโดษ",
+      "orig": {
+        "lang": "la",
+        "text": "odium turbae sanabit solitudo, taedium solitudinis turba."
+      },
+      "source": {
+        "work": "On Tranquility of Mind",
+        "locator": "Chapter 17",
+        "translator": "Aubrey Stewart (1900)",
+        "url": "https://en.wikisource.org/wiki/Of_Peace_of_Mind"
+      },
+      "verify": "primary",
+      "tags": [
+        "solitude",
+        "society"
+      ],
+      "mood": [
+        "bored",
+        "tired"
+      ]
+    },
+    {
+      "author": "seneca",
+      "en": "Wherever there is a human being, there is an opportunity for a benefit.",
+      "th": "ที่ไหนมีคน ที่นั่นมีโอกาสให้ทำดี",
+      "orig": {
+        "lang": "la",
+        "text": "ubicumque homo est, ibi benefici locus est."
+      },
+      "source": {
+        "work": "On the Happy Life",
+        "locator": "Chapter 24",
+        "translator": "Aubrey Stewart (1900)",
+        "url": "https://www.gutenberg.org/ebooks/64576"
+      },
+      "verify": "primary",
+      "tags": [
+        "society",
+        "virtue"
+      ],
+      "mood": [
+        "lost",
+        "bored"
+      ]
+    },
+    {
+      "author": "epictetus",
+      "en": "Of things some are in our power, and others are not. In our power are opinion, movement towards a thing, desire, aversion; and in a word, whatever are our own acts: not in our power are the body, property, reputation, offices, and in a word, whatever are not our own acts.",
+      "th": "บางอย่างอยู่ในมือเรา บางอย่างไม่ใช่ ที่อยู่ในมือเรา คือความคิด แรงจูงใจ ความอยาก และความไม่อยาก พูดง่าย ๆ คือทุกอย่างที่เป็นการกระทำของเราเอง ที่ไม่อยู่ในมือเรา คือร่างกาย ทรัพย์สิน ชื่อเสียง ตำแหน่ง พูดง่าย ๆ คือทุกอย่างที่ไม่ใช่การกระทำของเรา",
+      "source": {
+        "work": "Enchiridion",
+        "locator": "Chapter 1",
+        "translator": "George Long (1877)",
+        "url": "https://en.wikisource.org/wiki/The_Discourses_of_Epictetus;_with_the_Encheiridion_and_Fragments/The_Encheiridion_or_Manual"
+      },
+      "verify": "primary",
+      "tags": [
+        "control",
+        "freedom",
+        "mind"
+      ],
+      "mood": [
+        "stress",
+        "overwhelmed"
+      ]
+    },
+    {
+      "author": "epictetus",
+      "en": "Men are disturbed not by the things which happen, but by the opinions about the things.",
+      "th": "สิ่งที่ทำให้คนเราทุกข์ใจ ไม่ใช่เรื่องที่เกิดขึ้น แต่คือความคิดที่เรามีต่อเรื่องนั้น",
+      "orig": {
+        "lang": "grc",
+        "text": "Ταράσσει τοὺς ἀνθρώπους οὐ τὰ πράγματα, ἀλλὰ τὰ περὶ τῶν πραγμάτων δόγματα."
+      },
+      "source": {
+        "work": "Enchiridion",
+        "locator": "Chapter 5",
+        "translator": "George Long (1877)",
+        "url": "https://en.wikisource.org/wiki/The_Discourses_of_Epictetus;_with_the_Encheiridion_and_Fragments/The_Encheiridion_or_Manual"
+      },
+      "verify": "primary",
+      "tags": [
+        "mind",
+        "emotion",
+        "control"
+      ],
+      "mood": [
+        "stress",
+        "anxious"
+      ]
+    },
+    {
+      "author": "epictetus",
+      "en": "It is the act of an ill-instructed man to blame others for his own bad condition; it is the act of one who has begun to be instructed, to lay the blame on himself; and of one whose instruction is completed, neither to blame another, nor himself.",
+      "th": "คนที่ยังไม่ได้เรียนรู้ จะโทษคนอื่นเวลาชีวิตตัวเองย่ำแย่ คนที่เริ่มเรียนรู้ จะโทษตัวเอง ส่วนคนที่เรียนรู้มาจนสุดทาง จะไม่โทษใครเลย ทั้งคนอื่นและตัวเอง",
+      "source": {
+        "work": "Enchiridion",
+        "locator": "Chapter 5",
+        "translator": "George Long (1877)",
+        "url": "https://en.wikisource.org/wiki/The_Discourses_of_Epictetus;_with_the_Encheiridion_and_Fragments/The_Encheiridion_or_Manual"
+      },
+      "verify": "primary",
+      "tags": [
+        "responsibility",
+        "self"
+      ],
+      "mood": [
+        "angry"
+      ]
+    },
+    {
+      "author": "epictetus",
+      "en": "Seek not that the things which happen should happen as you wish; but wish the things which happen to be as they are, and you will have a tranquil flow of life.",
+      "th": "อย่าหวังให้ทุกอย่างเป็นไปตามใจ ให้เต็มใจรับทุกอย่างอย่างที่มันเป็น แล้วชีวิตจะไหลไปอย่างสงบ",
+      "orig": {
+        "lang": "grc",
+        "text": "Μὴ ζήτει τὰ γινόμενα γίνεσθαι ὡς θέλεις, ἀλλὰ θέλε τὰ γινόμενα ὡς γίνεται καὶ εὐροήσεις."
+      },
+      "source": {
+        "work": "Enchiridion",
+        "locator": "Chapter 8",
+        "translator": "George Long (1877)",
+        "url": "https://en.wikisource.org/wiki/The_Discourses_of_Epictetus;_with_the_Encheiridion_and_Fragments/The_Encheiridion_or_Manual"
+      },
+      "verify": "primary",
+      "tags": [
+        "control",
+        "desire",
+        "happiness"
+      ],
+      "mood": [
+        "stress"
+      ]
+    },
+    {
+      "author": "epictetus",
+      "en": "Never say about any thing, I have lost it, but say I have restored it.",
+      "th": "อย่าพูดถึงอะไรก็ตามว่าฉันสูญเสียมันไป ให้พูดว่าฉันคืนมันไปแล้ว",
+      "orig": {
+        "lang": "grc",
+        "text": "Μηδέποτε ἐπὶ μηδενὸς εἴπῃς ὅτι ἀπώλεσα αὐτό, ἀλλ’ ὅτι ἀπέδωκα."
+      },
+      "source": {
+        "work": "Enchiridion",
+        "locator": "Chapter 11",
+        "translator": "George Long (1877)",
+        "url": "https://en.wikisource.org/wiki/The_Discourses_of_Epictetus;_with_the_Encheiridion_and_Fragments/The_Encheiridion_or_Manual"
+      },
+      "verify": "primary",
+      "tags": [
+        "change",
+        "suffering"
+      ],
+      "mood": [
+        "heartbroken"
+      ]
+    },
+    {
+      "author": "epictetus",
+      "en": "Begin then from little things. Is the oil spilled? Is a little wine stolen? Say on the occasion, at such price is sold freedom from perturbation; at such price is sold tranquillity, but nothing is got for nothing.",
+      "th": "เริ่มจากเรื่องเล็ก ๆ ก่อน น้ำมันหก ไวน์หายไปนิดหน่อย ให้บอกตัวเองว่า นี่คือราคาของใจที่ไม่หวั่นไหว นี่คือราคาของความสงบ ของดีไม่มีใครได้มาฟรี ๆ",
+      "source": {
+        "work": "Enchiridion",
+        "locator": "Chapter 12",
+        "translator": "George Long (1877)",
+        "url": "https://en.wikisource.org/wiki/The_Discourses_of_Epictetus;_with_the_Encheiridion_and_Fragments/The_Encheiridion_or_Manual"
+      },
+      "verify": "primary",
+      "tags": [
+        "emotion",
+        "simplicity"
+      ],
+      "mood": [
+        "stress",
+        "angry"
+      ]
+    },
+    {
+      "author": "epictetus",
+      "en": "If you would improve, submit to be considered without sense and foolish with respect to externals.",
+      "th": "ถ้าอยากเป็นคนที่ดีขึ้น ต้องยอมให้คนอื่นมองว่าเราเชยและไม่ประสีประสาในเรื่องนอกตัว",
+      "source": {
+        "work": "Enchiridion",
+        "locator": "Chapter 13",
+        "translator": "George Long (1877)",
+        "url": "https://en.wikisource.org/wiki/The_Discourses_of_Epictetus;_with_the_Encheiridion_and_Fragments/The_Encheiridion_or_Manual"
+      },
+      "verify": "primary",
+      "tags": [
+        "self",
+        "society",
+        "ego"
+      ],
+      "mood": [
+        "anxious"
+      ]
+    },
+    {
+      "author": "epictetus",
+      "en": "Remember that thou art an actor in a play, of such a kind as the teacher may choose... For this is your duty, to act well the part that is given to you; but to select the part, belongs to another.",
+      "th": "จำไว้ว่าเราเป็นนักแสดงในละครที่คนอื่นเป็นคนเลือกเรื่อง หน้าที่ของเราคือเล่นบทที่ได้รับมาให้ดีที่สุด ส่วนการเลือกบท เป็นเรื่องของคนอื่น",
+      "source": {
+        "work": "Enchiridion",
+        "locator": "Chapter 17",
+        "translator": "George Long (1877)",
+        "url": "https://en.wikisource.org/wiki/The_Discourses_of_Epictetus;_with_the_Encheiridion_and_Fragments/The_Encheiridion_or_Manual"
+      },
+      "verify": "primary",
+      "tags": [
+        "responsibility",
+        "control"
+      ],
+      "mood": [
+        "lost"
+      ]
+    },
+    {
+      "author": "epictetus",
+      "en": "Remember that it is not he who reviles you or strikes you, who insults you, but it is your opinion about these things as being insulting. When then a man irritates you, you must know that it is your own opinion which has irritated you.",
+      "th": "คนที่ด่าหรือตีคุณ ไม่ได้เป็นคนดูถูกคุณหรอก สิ่งที่ดูถูกคุณคือความคิดของคุณเอง ที่ตีความว่ามันเป็นการดูถูก เวลามีใครทำให้คุณหงุดหงิด ให้รู้ไว้ว่าความคิดของคุณเองนั่นแหละที่ทำให้หงุดหงิด",
+      "source": {
+        "work": "Enchiridion",
+        "locator": "Chapter 20",
+        "translator": "George Long (1877)",
+        "url": "https://en.wikisource.org/wiki/The_Discourses_of_Epictetus;_with_the_Encheiridion_and_Fragments/The_Encheiridion_or_Manual"
+      },
+      "verify": "primary",
+      "tags": [
+        "anger",
+        "mind"
+      ],
+      "mood": [
+        "angry"
+      ]
+    },
+    {
+      "author": "epictetus",
+      "en": "Let not these thoughts afflict you, I shall live unhonoured and be nobody nowhere... how will you be nobody nowhere, when you ought to be somebody in those things only which are in your power, in which indeed it is permitted to you to be a man of the greatest worth?",
+      "th": "อย่าปล่อยให้ความคิดว่า ฉันคงไม่มีใครเห็นค่า คงเป็นแค่คนธรรมดาที่ไม่มีตัวตน มาทำร้ายใจ คุณจะไม่มีตัวตนได้อย่างไร ในเมื่อคุณควรมีตัวตนแค่ในเรื่องที่อยู่ในมือคุณ และในเรื่องพวกนั้น คุณเป็นคนที่มีค่าที่สุดได้เสมอ",
+      "source": {
+        "work": "Enchiridion",
+        "locator": "Chapter 24",
+        "translator": "George Long (1877)",
+        "url": "https://en.wikisource.org/wiki/The_Discourses_of_Epictetus;_with_the_Encheiridion_and_Fragments/The_Encheiridion_or_Manual"
+      },
+      "verify": "primary",
+      "tags": [
+        "self",
+        "ego",
+        "control"
+      ],
+      "mood": [
+        "lost",
+        "anxious"
+      ]
+    },
+    {
+      "author": "epictetus",
+      "en": "If a man has reported to you, that a certain person speaks ill of you, do not make any defence to what has been told you: but reply, The man did not know the rest of my faults, for he would not have mentioned these only.",
+      "th": "ถ้ามีคนมาบอกว่าใครนินทาคุณ ไม่ต้องแก้ตัว แค่ตอบไปว่า เขาคงไม่รู้ข้อเสียอื่น ๆ ของฉันล่ะสิ ไม่อย่างนั้นคงไม่พูดถึงแค่นี้",
+      "source": {
+        "work": "Enchiridion",
+        "locator": "Chapter 33",
+        "translator": "George Long (1877)",
+        "url": "https://en.wikisource.org/wiki/The_Discourses_of_Epictetus;_with_the_Encheiridion_and_Fragments/The_Encheiridion_or_Manual"
+      },
+      "verify": "primary",
+      "tags": [
+        "ego",
+        "humor",
+        "society"
+      ],
+      "mood": [
+        "angry",
+        "anxious"
+      ]
+    },
+    {
+      "author": "epictetus",
+      "en": "These reasonings do not cohere: I am richer than you, therefore I am better than you; I am more eloquent than you, therefore I am better than you... But you are neither possession nor speech.",
+      "th": "รวยกว่าเลยดีกว่า พูดเก่งกว่าเลยดีกว่า ตรรกะแบบนี้ใช้ไม่ได้ เพราะตัวคุณไม่ใช่ทั้งทรัพย์สินและฝีปาก",
+      "source": {
+        "work": "Enchiridion",
+        "locator": "Chapter 44",
+        "translator": "George Long (1877)",
+        "url": "https://en.wikisource.org/wiki/The_Discourses_of_Epictetus;_with_the_Encheiridion_and_Fragments/The_Encheiridion_or_Manual"
+      },
+      "verify": "primary",
+      "tags": [
+        "ego",
+        "reason"
+      ],
+      "mood": [
+        "anxious"
+      ]
+    },
+    {
+      "author": "epictetus",
+      "en": "Even sheep do not vomit up their grass and show to the shepherds how much they have eaten; but when they have internally digested the pasture, they produce externally wool and milk. Do you also show not your theorems... but show the acts which come from their digestion.",
+      "th": "แกะไม่ได้สำรอกหญ้าออกมาอวดคนเลี้ยงว่ากินไปเท่าไร มันย่อยข้างในเงียบ ๆ แล้วให้ขนกับนมออกมาข้างนอก คุณก็เหมือนกัน อย่าเอาทฤษฎีไปอวดใคร ให้เขาเห็นการกระทำที่เกิดจากสิ่งที่คุณย่อยมาแล้ว",
+      "source": {
+        "work": "Enchiridion",
+        "locator": "Chapter 46",
+        "translator": "George Long (1877)",
+        "url": "https://en.wikisource.org/wiki/The_Discourses_of_Epictetus;_with_the_Encheiridion_and_Fragments/The_Encheiridion_or_Manual"
+      },
+      "verify": "primary",
+      "tags": [
+        "action",
+        "ego",
+        "knowledge"
+      ],
+      "mood": []
+    },
+    {
+      "author": "epictetus",
+      "en": "You are no longer a youth, but already a full-grown man. If then you are negligent and slothful, and are continually making procrastination after procrastination, and proposal after proposal... you will not know that you are not making improvement.",
+      "th": "คุณไม่ใช่เด็กแล้ว คุณโตเป็นผู้ใหญ่แล้ว ถ้ายังขี้เกียจ ยังผัดไปเรื่อย ๆ ตั้งใจแล้วตั้งใจอีก คุณจะไม่ทันรู้ตัวเลยว่าตัวเองไม่ได้ก้าวไปไหน",
+      "source": {
+        "work": "Enchiridion",
+        "locator": "Chapter 51 (Long: 50)",
+        "translator": "George Long (1877)",
+        "url": "https://en.wikisource.org/wiki/The_Discourses_of_Epictetus;_with_the_Encheiridion_and_Fragments/The_Encheiridion_or_Manual"
+      },
+      "verify": "primary",
+      "tags": [
+        "action",
+        "time",
+        "responsibility"
+      ],
+      "mood": [
+        "stuck"
+      ]
+    },
+    {
+      "author": "epictetus",
+      "en": "I must die. Must I then die lamenting? I must be put in chains. Must I then also lament? I must go into exile. Does any man then hinder me from going with smiles and cheerfulness and contentment?",
+      "th": "ฉันต้องตาย แล้วต้องตายไปพร้อมเสียงคร่ำครวญด้วยหรือ ฉันต้องถูกล่ามโซ่ แล้วต้องคร่ำครวญด้วยหรือ ฉันต้องถูกเนรเทศ แล้วมีใครห้ามฉันไปพร้อมรอยยิ้มและใจที่พอใจได้บ้าง",
+      "source": {
+        "work": "Discourses",
+        "locator": "Book 1, chapter 1",
+        "translator": "George Long (1877)",
+        "url": "https://en.wikisource.org/wiki/The_Discourses_of_Epictetus;_with_the_Encheiridion_and_Fragments/Book_1/Chapter_1"
+      },
+      "verify": "primary",
+      "tags": [
+        "control",
+        "death",
+        "freedom"
+      ],
+      "mood": [
+        "stress"
+      ]
+    },
+    {
+      "author": "epictetus",
+      "en": "Nothing great... is produced suddenly, since not even the grape or the fig is. If you say to me now that you want a fig, I will answer to you that it requires time: let it flower first, then put forth fruit, and then ripen.",
+      "th": "ไม่มีอะไรยิ่งใหญ่ที่เกิดขึ้นในชั่วข้ามคืน แม้แต่องุ่นหรือมะเดื่อก็ไม่ใช่ ถ้าคุณบอกว่าอยากได้มะเดื่อเดี๋ยวนี้ ฉันจะบอกว่ามันต้องใช้เวลา ให้มันออกดอกก่อน แล้วค่อยติดผล แล้วค่อยสุก",
+      "source": {
+        "work": "Discourses",
+        "locator": "Book 1, chapter 15",
+        "translator": "George Long (1877)",
+        "url": "https://en.wikisource.org/wiki/The_Discourses_of_Epictetus;_with_the_Encheiridion_and_Fragments/Book_1/Chapter_15"
+      },
+      "verify": "primary",
+      "tags": [
+        "time",
+        "hope",
+        "change"
+      ],
+      "mood": [
+        "stuck",
+        "anxious"
+      ]
+    },
+    {
+      "author": "epictetus",
+      "en": "It is circumstances which show what men are. Therefore when a difficulty falls upon you, remember that God, like a trainer of wrestlers, has matched you with a rough young man. For what purpose?... That you may become an Olympic conqueror; but it is not accomplished without sweat.",
+      "th": "สถานการณ์ยาก ๆ คือสิ่งที่เผยว่าคนคนหนึ่งเป็นอย่างไร เวลาเจอเรื่องยาก ให้คิดว่าพระเจ้าเหมือนโค้ชมวยปล้ำที่จับคุณคู่กับคู่ซ้อมหนุ่มที่แข็งแรงและดุดัน เพื่ออะไรน่ะหรือ ก็เพื่อให้คุณได้เป็นแชมป์โอลิมปิก แต่มันไม่มีทางสำเร็จได้โดยไม่เสียเหงื่อ",
+      "source": {
+        "work": "Discourses",
+        "locator": "Book 1, chapter 24",
+        "translator": "George Long (1877)",
+        "url": "https://en.wikisource.org/wiki/The_Discourses_of_Epictetus;_with_the_Encheiridion_and_Fragments/Book_1/Chapter_24"
+      },
+      "verify": "primary",
+      "tags": [
+        "courage",
+        "failure",
+        "work"
+      ],
+      "mood": [
+        "stress",
+        "overwhelmed"
+      ]
+    },
+    {
+      "author": "epictetus",
+      "en": "When I see a man anxious, I say, What does this man want? ... a lute player when he is singing by himself has no anxiety, but when he enters the theatre, he is anxious... for he not only wishes to sing well, but also to obtain applause: but this is not in his power.",
+      "th": "เวลาเห็นใครกังวล ฉันจะถามว่าเขาอยากได้อะไร นักดนตรีร้องเพลงอยู่คนเดียวไม่เคยกังวล แต่พอขึ้นเวทีกลับกังวล เพราะเขาไม่ได้อยากแค่ร้องให้ดี แต่อยากได้เสียงปรบมือด้วย และเสียงปรบมือไม่ได้อยู่ในมือเขา",
+      "source": {
+        "work": "Discourses",
+        "locator": "Book 2, chapter 13",
+        "translator": "George Long (1877)",
+        "url": "https://en.wikisource.org/wiki/The_Discourses_of_Epictetus;_with_the_Encheiridion_and_Fragments/Book_2/Chapter_13"
+      },
+      "verify": "primary",
+      "tags": [
+        "fear",
+        "control",
+        "desire"
+      ],
+      "mood": [
+        "anxious"
+      ]
+    },
+    {
+      "author": "epictetus",
+      "en": "What is the first business of him who philosophizes? To throw away self-conceit. For it is impossible for a man to begin to learn that which he thinks that he knows.",
+      "th": "งานแรกของคนที่อยากเรียนปรัชญาคืออะไร คือทิ้งความคิดว่าตัวเองรู้ดีไปก่อน เพราะไม่มีใครเริ่มเรียนสิ่งที่ตัวเองคิดว่ารู้อยู่แล้วได้",
+      "source": {
+        "work": "Discourses",
+        "locator": "Book 2, chapter 17",
+        "translator": "George Long (1877)",
+        "url": "https://en.wikisource.org/wiki/The_Discourses_of_Epictetus;_with_the_Encheiridion_and_Fragments/Book_2/Chapter_17"
+      },
+      "verify": "primary",
+      "tags": [
+        "ego",
+        "knowledge"
+      ],
+      "mood": [
+        "confused"
+      ]
+    },
+    {
+      "author": "epictetus",
+      "en": "If you would be a good reader, read; if a writer, write... Generally then if you would make any thing a habit, do it; if you would not make it a habit, do not do it, but accustom yourself to do something else in place of it.",
+      "th": "อยากอ่านเก่งก็อ่าน อยากเขียนเก่งก็เขียน สรุปง่าย ๆ อยากให้อะไรเป็นนิสัยก็ลงมือทำมัน ไม่อยากให้อะไรเป็นนิสัยก็อย่าทำ แล้วหัดทำอย่างอื่นแทน",
+      "source": {
+        "work": "Discourses",
+        "locator": "Book 2, chapter 18",
+        "translator": "George Long (1877)",
+        "url": "https://en.wikisource.org/wiki/The_Discourses_of_Epictetus;_with_the_Encheiridion_and_Fragments/Book_2/Chapter_18"
+      },
+      "verify": "primary",
+      "tags": [
+        "action",
+        "work",
+        "change"
+      ],
+      "mood": [
+        "stuck"
+      ]
+    },
+    {
+      "author": "epictetus",
+      "en": "If then you wish not to be of an angry temper, do not feed the habit: throw nothing on it which will increase it: at first keep quiet, and count the days on which you have not been angry. I used to be in passion every day; now every second day; then every third, then every fourth.",
+      "th": "ถ้าไม่อยากเป็นคนขี้โมโห ก็อย่าป้อนอาหารให้นิสัยนี้ อย่าเติมเชื้อให้มัน ช่วงแรกแค่นิ่งไว้ แล้วนับวันที่ไม่ได้โกรธ เมื่อก่อนโกรธทุกวัน ตอนนี้วันเว้นวัน แล้วก็เว้นสองวัน เว้นสามวัน",
+      "source": {
+        "work": "Discourses",
+        "locator": "Book 2, chapter 18",
+        "translator": "George Long (1877)",
+        "url": "https://en.wikisource.org/wiki/The_Discourses_of_Epictetus;_with_the_Encheiridion_and_Fragments/Book_2/Chapter_18"
+      },
+      "verify": "primary",
+      "tags": [
+        "anger",
+        "change",
+        "emotion"
+      ],
+      "mood": [
+        "angry"
+      ]
+    },
+    {
+      "author": "epictetus",
+      "en": "Be not hurried away by the rapidity of the appearance, but say, Appearances, wait for me a little: let me see who you are, and what you are about: let me put you to the test.",
+      "th": "อย่าปล่อยให้ภาพที่แวบขึ้นมาในหัวพาคุณวิ่งเตลิดไป ให้บอกมันว่า เดี๋ยวก่อน ขอดูหน่อยว่าเป็นใคร มาทำอะไร ขอลองพิสูจน์ดูก่อน",
+      "source": {
+        "work": "Discourses",
+        "locator": "Book 2, chapter 18",
+        "translator": "George Long (1877)",
+        "url": "https://en.wikisource.org/wiki/The_Discourses_of_Epictetus;_with_the_Encheiridion_and_Fragments/Book_2/Chapter_18"
+      },
+      "verify": "primary",
+      "tags": [
+        "mind",
+        "emotion",
+        "reason"
+      ],
+      "mood": [
+        "anxious"
+      ]
+    },
+    {
+      "author": "epictetus",
+      "en": "First say to yourself who you wish to be: then do accordingly what you are doing.",
+      "th": "บอกตัวเองก่อนว่าอยากเป็นคนแบบไหน แล้วทำทุกอย่างให้สอดคล้องกับคำตอบนั้น",
+      "orig": {
+        "lang": "grc",
+        "text": "Τίς εἶναι θέλεις, σαυτῷ πρῶτον εἰπέ, εἶθ’ οὕτως ποίει ἃ ποιεῖς."
+      },
+      "source": {
+        "work": "Discourses",
+        "locator": "Book 3, chapter 23",
+        "translator": "George Long (1877)",
+        "url": "https://en.wikisource.org/wiki/The_Discourses_of_Epictetus;_with_the_Encheiridion_and_Fragments/Book_3/Chapter_23"
+      },
+      "verify": "primary",
+      "tags": [
+        "choice",
+        "action",
+        "self"
+      ],
+      "mood": [
+        "lost"
+      ]
+    },
+    {
+      "author": "epictetus",
+      "en": "Freedom is acquired not by the full possession of the things which are desired, but by removing the desire.",
+      "th": "อิสรภาพไม่ได้มาจากการได้ทุกอย่างที่อยาก แต่มาจากการเลิกอยาก",
+      "source": {
+        "work": "Discourses",
+        "locator": "Book 4, chapter 1",
+        "translator": "George Long (1877)",
+        "url": "https://en.wikisource.org/wiki/The_Discourses_of_Epictetus;_with_the_Encheiridion_and_Fragments/Book_4/Chapter_1"
+      },
+      "verify": "primary",
+      "tags": [
+        "freedom",
+        "desire"
+      ],
+      "mood": []
+    },
+    {
+      "author": "musonius-rufus",
+      "en": "If you have leisure to praise me, I am speaking to no purpose.",
+      "th": "ถ้าฟังผมแล้วคุณยังว่างพอจะมานั่งชมผม แปลว่าที่ผมพูดไปไม่ได้ผลอะไรเลย",
+      "source": {
+        "work": "Epictetus, Discourses (reporting Musonius)",
+        "locator": "Book 3, chapter 23",
+        "translator": "George Long (1877)",
+        "url": "https://en.wikisource.org/wiki/The_Discourses_of_Epictetus;_with_the_Encheiridion_and_Fragments/Book_3/Chapter_23"
+      },
+      "verify": "sourced",
+      "tags": [
+        "action",
+        "ego"
+      ],
+      "mood": []
+    },
+    {
+      "author": "musonius-rufus",
+      "en": "As a stone, if you cast it upwards, will be brought down to the earth by its own nature, so the man whose mind is naturally good, the more you repel him, the more he turns towards that to which he is naturally inclined.",
+      "th": "โยนก้อนหินขึ้นฟ้าไปแค่ไหน มันก็ตกกลับลงพื้นตามธรรมชาติ คนที่พื้นฐานจิตใจดีก็เหมือนกัน ยิ่งถูกผลักไสออกไป ก็ยิ่งหันกลับมาหาสิ่งที่ใจเขาโน้มเอียงไป",
+      "source": {
+        "work": "Epictetus, Discourses (reporting Musonius)",
+        "locator": "Book 3, chapter 6",
+        "translator": "George Long (1877)",
+        "url": "https://en.wikisource.org/wiki/The_Discourses_of_Epictetus;_with_the_Encheiridion_and_Fragments/Book_3/Chapter_6"
+      },
+      "verify": "sourced",
+      "tags": [
+        "nature",
+        "self",
+        "courage"
+      ],
+      "mood": [
+        "stuck"
+      ]
+    },
+    {
+      "author": "musonius-rufus",
+      "en": "Thrasea used to say, I would rather be killed to-day than banished to-morrow. What then did Rufus say to him? If you choose death as the heavier misfortune, how great is the folly of your choice? But if, as the lighter, who has given you the choice?",
+      "th": "ธราเซียเคยพูดว่า ขอถูกฆ่าวันนี้ดีกว่าถูกเนรเทศพรุ่งนี้ มูโซเนียสถามกลับว่า ถ้าเลือกความตายเพราะคิดว่ามันหนักกว่า ก็เป็นการเลือกที่โง่มาก แต่ถ้าเลือกเพราะคิดว่ามันเบากว่า แล้วใครให้คุณเป็นคนเลือกล่ะ",
+      "source": {
+        "work": "Epictetus, Discourses (reporting Musonius)",
+        "locator": "Book 1, chapter 1",
+        "translator": "George Long (1877)",
+        "url": "https://en.wikisource.org/wiki/The_Discourses_of_Epictetus;_with_the_Encheiridion_and_Fragments/Book_1/Chapter_1"
+      },
+      "verify": "sourced",
+      "tags": [
+        "control",
+        "choice"
+      ],
+      "mood": [
+        "stress"
+      ]
+    },
+    {
+      "author": "musonius-rufus",
+      "en": "If you do something good with toil, the toil passes, but the good remains; if you do something shameful with pleasure, the pleasure passes, but the shame remains.",
+      "th": "ทำเรื่องดีแม้จะเหนื่อย ความเหนื่อยก็ผ่านไป แต่ความดียังอยู่ ทำเรื่องน่าอายแม้จะสนุก ความสนุกก็ผ่านไป แต่ความอายยังอยู่",
+      "orig": {
+        "lang": "grc",
+        "text": "Ἄν τι πράξεις καλὸν μετὰ πόνου, ὁ μὲν πόνος οἴχεται, τὸ δὲ καλὸν μένει, ἄν τι ποιήσεις αἰσχρὸν μετὰ ἡδονῆς, τὸ μὲν ἡδὺ οἴχεται, τὸ δὲ αἰσχρὸν μένει."
+      },
+      "source": {
+        "work": "Aulus Gellius, Attic Nights (quoting Musonius)",
+        "locator": "Book 16, 1.2",
+        "translator": null,
+        "url": "https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Gellius/16*.html"
+      },
+      "verify": "sourced",
+      "tags": [
+        "virtue",
+        "work",
+        "desire"
+      ],
+      "mood": [
+        "tired"
+      ]
+    },
+    {
+      "author": "cicero",
+      "en": "Philosophy is certainly the medicine of the soul, whose assistance we do not seek from abroad, as in bodily disorders, but we ourselves are bound to exert our utmost energy and power in order to effect our cure.",
+      "th": "ปรัชญาคือยารักษาใจ ยานี้ไม่ต้องไปหาจากที่อื่นเหมือนเวลาป่วยกาย แต่เราต้องทุ่มแรงทั้งหมดที่มีเพื่อรักษาตัวเองให้หาย",
+      "orig": {
+        "lang": "la",
+        "text": "Est profecto animi medicina, philosophia; cuius auxilium non ut in corporis morbis petendum est foris, omnibusque opibus viribus, ut nosmet ipsi nobis mederi possimus, elaborandum est."
+      },
+      "source": {
+        "work": "Tusculan Disputations",
+        "locator": "Book 3, chapter 3 (section 6)",
+        "translator": "Charles Duke Yonge (1877)",
+        "url": "https://www.gutenberg.org/ebooks/14988"
+      },
+      "verify": "primary",
+      "tags": [
+        "mind",
+        "responsibility",
+        "suffering"
+      ],
+      "mood": [
+        "tired",
+        "overwhelmed"
+      ]
+    },
+    {
+      "author": "cicero",
+      "en": "It takes a brave and resolute spirit not to be disconcerted in times of difficulty or ruffled and thrown off one's feet, as the saying is, but to keep one's presence of mind and one's self-possession and not to swerve from the path of reason.",
+      "th": "ต้องใช้ใจที่กล้าและหนักแน่น ถึงจะไม่ลนลานเวลาเจอเรื่องยาก ไม่เสียหลักจนล้ม แต่ยังมีสติ คุมตัวเองได้ และไม่หลุดออกจากทางของเหตุผล",
+      "source": {
+        "work": "On Duties (De Officiis)",
+        "locator": "Book 1, 80",
+        "translator": "Walter Miller (1913)",
+        "url": "https://www.gutenberg.org/ebooks/47001"
+      },
+      "verify": "primary",
+      "tags": [
+        "courage",
+        "reason",
+        "emotion"
+      ],
+      "mood": [
+        "stress"
+      ]
+    },
+    {
+      "author": "cicero",
+      "en": "Such friendship enhances prosperity, and relieves adversity of its burden by halving and sharing it.",
+      "th": "มิตรภาพแท้ทำให้วันที่ดีสดใสขึ้น และทำให้วันที่แย่เบาลง เพราะมีคนช่วยแบ่งไปครึ่งหนึ่ง",
+      "orig": {
+        "lang": "la",
+        "text": "Nam et secundas res splendidiores facit amicitia et adversas partiens communicansque leviores."
+      },
+      "source": {
+        "work": "On Friendship (Laelius de Amicitia)",
+        "locator": "Chapter 6 (section 22)",
+        "translator": "Evelyn S. Shuckburgh",
+        "url": "https://www.gutenberg.org/ebooks/2808"
+      },
+      "verify": "primary",
+      "tags": [
+        "friendship",
+        "happiness"
+      ],
+      "mood": [
+        "heartbroken",
+        "lost"
+      ]
+    },
+    {
+      "author": "cicero",
+      "en": "Enjoy that blessing when you have it; when it is gone, don't wish it back... The course of life is fixed, and nature admits of its being run but in one way, and only once; and to each part of our life there is something specially seasonable.",
+      "th": "มีสิ่งดีอยู่ตอนนี้ก็ใช้มันให้เต็มที่ พอมันผ่านไปก็อย่าโหยหา ชีวิตมีเส้นทางของมัน วิ่งได้ทางเดียวและครั้งเดียว และแต่ละช่วงวัยก็มีสิ่งที่เหมาะกับช่วงนั้นของมันเอง",
+      "orig": {
+        "lang": "la",
+        "text": "isto bono utare, dum adsit, cum absit, ne requiras... Cursus est certus aetatis et una via naturae, eaque simplex, suaque cuique parti aetatis tempestivitas est data"
+      },
+      "source": {
+        "work": "On Old Age (Cato Maior de Senectute)",
+        "locator": "Chapter 10 (section 33)",
+        "translator": "Evelyn S. Shuckburgh",
+        "url": "https://www.gutenberg.org/ebooks/2808"
+      },
+      "verify": "primary",
+      "tags": [
+        "time",
+        "present",
+        "change"
+      ],
+      "mood": [
+        "lost"
+      ]
+    },
+    {
+      "author": "zeno-of-citium",
+      "en": "I made a prosperous voyage when I suffered shipwreck.",
+      "th": "เรือแตกครั้งนั้น กลายเป็นการเดินทางที่โชคดีที่สุดของฉัน",
+      "source": {
+        "work": "Diogenes Laertius, Lives of Eminent Philosophers",
+        "locator": "Book 7, 4",
+        "translator": "R. D. Hicks (1925)",
+        "url": "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_VII"
+      },
+      "verify": "sourced",
+      "tags": [
+        "failure",
+        "change",
+        "hope"
+      ],
+      "mood": [
+        "heartbroken",
+        "stuck"
+      ]
+    },
+    {
+      "author": "zeno-of-citium",
+      "en": "The reason why we have two ears and only one mouth is that we may listen the more and talk the less.",
+      "th": "เรามีสองหูแต่มีปากเดียว ก็เพื่อจะได้ฟังให้มากและพูดให้น้อย",
+      "source": {
+        "work": "Diogenes Laertius, Lives of Eminent Philosophers",
+        "locator": "Book 7, 23",
+        "translator": "R. D. Hicks (1925)",
+        "url": "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_VII"
+      },
+      "verify": "sourced",
+      "tags": [
+        "language",
+        "humor"
+      ],
+      "mood": []
+    },
+    {
+      "author": "zeno-of-citium",
+      "en": "Better to trip with the feet than with the tongue.",
+      "th": "เท้าพลาดยังดีกว่าพลั้งปาก",
+      "source": {
+        "work": "Diogenes Laertius, Lives of Eminent Philosophers",
+        "locator": "Book 7, 26",
+        "translator": "R. D. Hicks (1925)",
+        "url": "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_VII"
+      },
+      "verify": "sourced",
+      "tags": [
+        "language"
+      ],
+      "mood": [
+        "angry"
+      ]
+    },
+    {
+      "author": "cleanthes",
+      "en": "Each his own way, yet knowing not the truth, / Some in unlovely striving for renown, / Some bent on lawless gains, on pleasure some, / Working their own undoings self-deceived.",
+      "th": "ต่างคนต่างเดินไปตามทางของตัวเองโดยไม่รู้ความจริง บ้างดิ้นรนไล่ตามชื่อเสียงอย่างน่าเกลียด บ้างจ้องแต่ผลประโยชน์ที่ไม่ชอบธรรม บ้างหมกมุ่นกับความสุขสบาย แล้วก็ทำลายตัวเองทั้งที่หลอกตัวเองอยู่",
+      "source": {
+        "work": "Hymn to Zeus",
+        "locator": "Lines 26 to 30",
+        "translator": "E. H. Blakeney (1921)",
+        "url": "https://en.wikisource.org/wiki/The_Hymn_of_Cleanthes"
+      },
+      "verify": "primary",
+      "tags": [
+        "desire",
+        "ego",
+        "truth"
+      ],
+      "mood": [
+        "lost"
+      ]
+    },
+    {
+      "author": "cleanthes",
+      "en": "Lead me, O Zeus, and thou O Destiny, / The way that I am bid by you to go: / To follow I am ready. If I choose not, / I make myself a wretch, and still must follow.",
+      "th": "นำทางฉันไปเถิด ซูสและโชคชะตา ไปตามทางที่ท่านกำหนดไว้ ฉันพร้อมจะเดินตาม ถ้าฉันไม่ยอม ก็แค่ทำให้ตัวเองทุกข์ และสุดท้ายก็ต้องเดินตามอยู่ดี",
+      "orig": {
+        "lang": "grc",
+        "text": "ἄγου δέ μ’, ὦ Ζεῦ, καὶ σύ γ’ ἡ Πεπρωμένη, ὅποι ποθ’ ὑμῖν εἰμι διατεταγμένος, ὡς ἕψομαί γ’ ἄοκνος, ἢν δέ γε μὴ θέλω, κακὸς γενόμενος, οὐδὲν ἧττον ἕψομαι."
+      },
+      "source": {
+        "work": "Quoted in Epictetus, Enchiridion",
+        "locator": "Chapter 53 (Long: 52)",
+        "translator": "George Long (1877)",
+        "url": "https://en.wikisource.org/wiki/The_Discourses_of_Epictetus;_with_the_Encheiridion_and_Fragments/The_Encheiridion_or_Manual"
+      },
+      "verify": "sourced",
+      "tags": [
+        "control",
+        "choice",
+        "nature"
+      ],
+      "mood": [
+        "stress"
+      ]
+    },
+    {
+      "author": "chrysippus",
+      "en": "If I had followed the multitude, I should not have studied philosophy.",
+      "th": "ถ้าฉันเดินตามคนส่วนใหญ่ ฉันคงไม่ได้มาเรียนปรัชญาหรอก",
+      "orig": {
+        "lang": "grc",
+        "text": "εἰ τοῖς πολλοῖς προσεῖχον, οὐκ ἂν ἐφιλοσόφησα."
+      },
+      "source": {
+        "work": "Diogenes Laertius, Lives of Eminent Philosophers",
+        "locator": "Book 7, 182",
+        "translator": "R. D. Hicks (1925)",
+        "url": "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_VII"
+      },
+      "verify": "sourced",
+      "tags": [
+        "society",
+        "choice",
+        "freedom"
+      ],
+      "mood": [
+        "lost"
+      ]
+    },
+    {
+      "author": "chrysippus",
+      "en": "When a man enters the foot-race... it is his duty to put forth all his strength and strive with all his might to win; but he ought never with his foot to trip, or with his hand to foul a competitor.",
+      "th": "คนที่ลงวิ่งแข่ง ต้องทุ่มสุดแรงเพื่อให้ชนะ แต่ไม่ควรเอาเท้าขัดขา หรือใช้มือผลักคู่แข่งเลย",
+      "source": {
+        "work": "Quoted in Cicero, On Duties",
+        "locator": "Book 3, 42",
+        "translator": "Walter Miller (1913)",
+        "url": "https://www.gutenberg.org/ebooks/47001"
+      },
+      "verify": "sourced",
+      "tags": [
+        "virtue",
+        "work",
+        "society"
+      ],
+      "mood": [
+        "stress"
+      ]
+    },
+    {
+      "author": "chrysippus",
+      "en": "Just as a dog, supposing him attached to a car, if indeed he is disposed to follow, both is drawn, or follows voluntarily... but if he may not be disposed to follow, he will altogether be coerced to do so.",
+      "th": "เหมือนหมาที่ถูกผูกไว้กับเกวียน ถ้ามันเต็มใจตาม มันก็ได้เดินตามไปเอง แต่ถ้าไม่ยอมตาม มันก็ถูกลากไปอยู่ดี",
+      "source": {
+        "work": "Reported in Hippolytus, Refutation of All Heresies",
+        "locator": "Book 1, chapter 18",
+        "translator": "J. H. MacMahon (1886)",
+        "url": "https://en.wikisource.org/wiki/Ante-Nicene_Fathers/Volume_V/Hippolytus/The_Refutation_of_All_Heresies/Book_I/Part_20"
+      },
+      "verify": "sourced",
+      "tags": [
+        "control",
+        "freedom",
+        "choice"
+      ],
+      "mood": [
+        "stuck"
+      ]
+    }
+  ],
+  "prompts_th": [
+    "ถ้าแบ่งเรื่องที่กวนใจวันนี้เป็นสองกอง กองที่อยู่ในมือคุณกับกองที่ไม่ใช่ กองไหนหนักกว่ากัน",
+    "สิ่งที่คุณกลัวที่สุดตอนนี้ เกิดขึ้นจริงแล้ว หรือยังอยู่แค่ในหัว",
+    "ถ้าเรื่องแย่ที่สุดที่กลัวเกิดขึ้นจริง คุณจะรับมืออย่างไร และมันแย่อย่างที่คิดไว้จริงไหม",
+    "ความโกรธครั้งล่าสุดของคุณ มาจากสิ่งที่เขาทำ หรือมาจากสิ่งที่คุณตีความว่าเขาทำ",
+    "ถ้ารอสักสิบนาทีก่อนตอบข้อความที่ทำให้โกรธ คุณคิดว่าคำตอบจะเปลี่ยนไปไหม",
+    "วันนี้คุณใช้เวลาไปกับการส่องชีวิตคนอื่นนานแค่ไหน และได้อะไรกลับมาบ้าง",
+    "ความเห็นของใครที่คุณให้ค่ามากกว่าความเห็นของตัวเอง และเพราะอะไร",
+    "มีงานไหนที่คุณผัดมาหลายวันแล้ว ถ้าลงมือแค่ห้านาทีวันนี้ จะเริ่มจากตรงไหน",
+    "ความลำบากที่เจออยู่ตอนนี้ กำลังฝึกให้คุณเก่งขึ้นเรื่องอะไร",
+    "ถ้าเพื่อนสนิทเจอเรื่องเดียวกับคุณ คุณจะบอกเขาว่าอะไร แล้วทำไมไม่บอกตัวเองแบบนั้นบ้าง",
+    "วันนี้คุณทำอะไรไปบ้างที่ตรงกับคนที่อยากเป็น และอะไรที่สวนทาง",
+    "ของที่คุณอยากได้มากตอนนี้ ถ้าได้มาแล้ว ชีวิตจะเปลี่ยนไปจริงหรือ",
+    "มีเรื่องไหนในอดีตที่คุณยังแบกไว้ ทั้งที่มันจบไปแล้ว",
+    "ถ้าคืนนี้ทบทวนวันของตัวเอง คุณจะให้อภัยตัวเองเรื่องอะไร และพรุ่งนี้จะทำอะไรให้ดีขึ้น",
+    "คุณได้พักจริง ๆ ครั้งล่าสุดเมื่อไร แบบที่ไม่ต้องรู้สึกผิด",
+    "ช่วงนี้มีใครที่ทำให้คุณเป็นคนที่ดีขึ้น และคุณได้อยู่กับเขามากพอไหม",
+    "มีเรื่องไหนที่คุณควรขอให้ใครช่วย แต่ยังลังเลอยู่ อะไรทำให้ลังเล",
+    "ถ้าไม่มีใครเห็นหรือกดไลก์ คุณยังอยากทำสิ่งที่ทำอยู่ไหม",
+    "ถ้ารู้ว่าเวลาเหลือไม่มาก เรื่องที่กังวลอยู่ตอนนี้ยังสำคัญเท่าเดิมไหม",
+    "มีเรื่องไหนที่คุณฝืนให้เป็นไปตามใจ ทั้งที่ปล่อยให้มันเป็นอย่างที่เป็นก็ได้"
+  ],
+  "misattributed": [
+    {
+      "author": "marcus-aurelius",
+      "en": "You have power over your mind – not outside events. Realize this, and you will find strength.",
+      "th": "คุณมีอำนาจเหนือจิตใจตัวเอง ไม่ใช่เหนือเหตุการณ์ภายนอก เข้าใจข้อนี้แล้วคุณจะพบความเข้มแข็ง",
+      "why_th": "ประโยคนี้ไม่มีในบันทึกของมาร์คัสฉบับแปลใดเลย แต่เป็นสำนวนสรุปความยุคใหม่ที่เริ่มพบในหนังสือพัฒนาตัวเองราวปี 2006",
+      "real_source": "Modern paraphrase, not found in any translation of the Meditations (in print by 2006)",
+      "url": "https://en.wikiquote.org/wiki/Marcus_Aurelius#Misattributed"
+    },
+    {
+      "author": "marcus-aurelius",
+      "en": "Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.",
+      "th": "ทุกอย่างที่เราได้ยินเป็นแค่ความเห็น ไม่ใช่ข้อเท็จจริง ทุกอย่างที่เราเห็นเป็นแค่มุมมอง ไม่ใช่ความจริง",
+      "why_th": "ใน Meditations ไม่มีประโยคนี้ และแม้มาร์คัสจะพูดเรื่องความเห็นอยู่บ่อย ก็ไม่เคยพูดคู่กับเรื่องมุมมองแบบนี้",
+      "real_source": "Modern internet quote with no source in the Meditations",
+      "url": "https://en.wikiquote.org/wiki/Marcus_Aurelius#Misattributed"
+    },
+    {
+      "author": "marcus-aurelius",
+      "en": "When you arise in the morning, think of what a precious privilege it is to be alive – to breathe, to think, to enjoy, to love.",
+      "th": "ตื่นเช้ามา ให้คิดว่าการได้มีชีวิตอยู่เป็นสิทธิพิเศษที่ล้ำค่าแค่ไหน ได้หายใจ ได้คิด ได้สนุก ได้รัก",
+      "why_th": "ประโยคนี้มาจากเอลเบิร์ต ฮับบาร์ด นักเขียนชาวอเมริกันในนิตยสาร The Fra ต้นศตวรรษที่ 20 ไม่ใช่มาร์คัส",
+      "real_source": "Elbert Hubbard, The Fra, vol. 12, no. 6, p. 171",
+      "url": "https://en.wikiquote.org/wiki/Marcus_Aurelius#Misattributed"
+    },
+    {
+      "author": "marcus-aurelius",
+      "en": "Live a good life. If there are gods and they are just, then they will not care how devout you have been, but will welcome you based on the virtues you have lived by...",
+      "th": "ใช้ชีวิตให้ดี ถ้ามีเทพเจ้าและเทพเจ้ายุติธรรม ท่านจะไม่สนว่าคุณเคร่งศาสนาแค่ไหน แต่จะต้อนรับคุณจากความดีที่คุณทำมา",
+      "why_th": "ไม่พบในงานเขียนใดของมาร์คัสและไม่มีฉบับตีพิมพ์ก่อนปี 2009 จึงน่าจะเกิดและแพร่ต่อกันในอินเทอร์เน็ต",
+      "real_source": "Internet-era text with no printed source before 2009",
+      "url": "https://en.wikiquote.org/wiki/Marcus_Aurelius#Misattributed"
+    },
+    {
+      "author": "seneca",
+      "en": "Luck is what happens when preparation meets opportunity.",
+      "th": "โชคคือสิ่งที่เกิดขึ้นเมื่อการเตรียมตัวมาเจอกับโอกาส",
+      "why_th": "ไม่พบในงานของเซเนกา แต่รูปแบบแรก ๆ ปรากฏแบบไม่ระบุผู้พูดในนิตยสาร The Youth’s Companion ปี 1912 และเพิ่งถูกโยงกับเซเนกาในทศวรรษ 1990",
+      "real_source": "Anonymous saying; an early form appears in The Youth's Companion (1912); credited to Seneca only from the 1990s",
+      "url": "https://en.wikiquote.org/wiki/Seneca_the_Younger#Disputed"
+    },
+    {
+      "author": "seneca",
+      "en": "If you wish to be loved, love.",
+      "th": "อยากให้ใครรัก ก็รักเขาก่อน",
+      "why_th": "เซเนกายกประโยคนี้มาจากเฮคาทอน นักปรัชญาสโตอิกอีกคน และเขาก็บอกชื่อเจ้าของไว้เองในจดหมายฉบับที่ 9",
+      "real_source": "Hecato of Rhodes, quoted by name in Seneca, Moral Letters 9.6",
+      "url": "https://en.wikiquote.org/wiki/Seneca_the_Younger#Misattributed"
+    },
+    {
+      "author": "epictetus",
+      "en": "Don't explain your philosophy. Embody it.",
+      "th": "ไม่ต้องอธิบายปรัชญาของคุณ ใช้ชีวิตให้เป็นมันเลย",
+      "why_th": "เป็นการสรุปความยุคใหม่ราวปี 2016 จากคู่มือเอนคิริดิออนบทที่ 46 ซึ่งของจริงยาวกว่านั้น และเปรียบว่าแกะไม่สำรอกหญ้าออกมาอวดคนเลี้ยง",
+      "real_source": "Modern summary (around 2016) of Enchiridion 46",
+      "url": "https://en.wikiquote.org/wiki/Epictetus#Misattributed"
+    },
+    {
+      "author": "epictetus",
+      "en": "You become what you give your attention to.",
+      "th": "คุณจะกลายเป็นสิ่งที่คุณให้ความสนใจ",
+      "why_th": "มาจากหนังสือ The Art of Living ปี 1995 ของชารอน เลเบลล์ ที่เล่าเอพิกเตตัสใหม่ด้วยถ้อยคำของเธอเอง",
+      "real_source": "Sharon Lebell, The Art of Living (1995), pp. 52-53",
+      "url": "https://en.wikiquote.org/wiki/Epictetus#Misattributed"
+    },
+    {
+      "author": "epictetus",
+      "en": "The greater the difficulty, the more glory in surmounting it. Skilful pilots gain their reputation from storms and tempests.",
+      "th": "ยิ่งยาก ยิ่งน่าภูมิใจเมื่อผ่านไปได้ นักเดินเรือฝีมือดีสร้างชื่อจากพายุ",
+      "why_th": "ประโยคนี้มาจากความเรียงของชาร์ล เดอ แซ็งเตฟเรอมง ที่เขียนปกป้องเอพิคิวรัส ฉบับภาษาอังกฤษปี 1712 ไม่ใช่เอพิกเตตัส",
+      "real_source": "Charles de Saint-Évremond, essay in vindication of Epicurus (English edition, 1712)",
+      "url": "https://en.wikiquote.org/wiki/Epictetus#Misattributed"
+    },
+    {
+      "author": "zeno-of-citium",
+      "en": "Man conquers the world by conquering himself.",
+      "th": "มนุษย์พิชิตโลกได้ ด้วยการพิชิตตัวเอง",
+      "why_th": "ไม่พบในบันทึกโบราณเรื่องซีโนเลย เริ่มถูกอ้างว่าเป็นของเขาในโซเชียลมีเดียราวปี 2015 ส่วนความคิดคล้ายกันมีในงานของเพลโตและในธรรมบท",
+      "real_source": "Social-media attribution since about 2015; similar ideas in Plato, Laws 626e, and Dhammapada 103",
+      "url": "https://en.wikiquote.org/wiki/Zeno_of_Citium#Misattributed"
+    }
+  ]
+}

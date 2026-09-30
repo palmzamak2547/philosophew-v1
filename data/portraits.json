@@ -1,0 +1,1351 @@
+{
+  "marcus-aurelius": {
+    "qid": "Q1430",
+    "th_label": "จักรพรรดิมาร์กุส เอาเรลิอุส",
+    "born": 121,
+    "died": 180,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/Marcus_Aurelius",
+    "wiki_th": "https://th.wikipedia.org/wiki/%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%94%E0%B8%B4%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%81%E0%B8%B8%E0%B8%AA_%E0%B9%80%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%A3%E0%B8%A5%E0%B8%B4%E0%B8%AD%E0%B8%B8%E0%B8%AA",
+    "portrait": {
+      "file": "/portraits/marcus-aurelius.webp",
+      "thumb": "/portraits/marcus-aurelius-thumb.webp",
+      "kind": "bust",
+      "title": "File:Marcus Aurelius Louvre MR561 n02.jpg",
+      "artist": "Marie-Lan Nguyen",
+      "license": "CC BY 2.5",
+      "license_url": "https://creativecommons.org/licenses/by/2.5",
+      "attribution_required": true,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AMarcus_Aurelius_Louvre_MR561_n02.jpg"
+    }
+  },
+  "seneca": {
+    "qid": "Q2054",
+    "th_label": "แซแนกา",
+    "born": -4,
+    "died": 65,
+    "circa": true,
+    "wiki_en": "https://en.wikipedia.org/wiki/Seneca_the_Younger",
+    "wiki_th": "https://th.wikipedia.org/wiki/%E0%B9%81%E0%B8%8B%E0%B9%81%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%A5%E0%B8%B9%E0%B8%81",
+    "portrait": {
+      "file": "/portraits/seneca.webp",
+      "thumb": "/portraits/seneca-thumb.webp",
+      "kind": "bust",
+      "title": "File:Duble herma of Socrates and Seneca Antikensammlung Berlin 07.jpg",
+      "artist": "Calidius",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution_required": true,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ADuble_herma_of_Socrates_and_Seneca_Antikensammlung_Berlin_07.jpg"
+    }
+  },
+  "epictetus": {
+    "qid": "Q183144",
+    "th_label": null,
+    "born": 50,
+    "died": 138,
+    "circa": true,
+    "wiki_en": "https://en.wikipedia.org/wiki/Epictetus",
+    "wiki_th": null,
+    "portrait": {
+      "file": "/portraits/epictetus.webp",
+      "thumb": "/portraits/epictetus-thumb.webp",
+      "kind": "engraving",
+      "title": "File:Epictetus - Henri Bonnart engraving c. 1700.png",
+      "artist": "Henri Bonnart",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution_required": false,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AEpictetus_-_Henri_Bonnart_engraving_c._1700.png"
+    }
+  },
+  "musonius-rufus": {
+    "qid": "Q381874",
+    "th_label": null,
+    "born": 25,
+    "died": 95,
+    "circa": true,
+    "wiki_en": "https://en.wikipedia.org/wiki/Gaius_Musonius_Rufus",
+    "wiki_th": null,
+    "portrait": {
+      "file": "/portraits/musonius-rufus.webp",
+      "thumb": "/portraits/musonius-rufus-thumb.webp",
+      "kind": "papyrus",
+      "title": "File:Gaius Musonius Rufus.JPG",
+      "artist": "The Rendel Harris Papyri, 1936",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution_required": false,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AGaius_Musonius_Rufus.JPG",
+      "note": "No likeness of Musonius Rufus survives, and no early modern print pictures him, so the frame shows his own words instead: a column of his Discourse 15 (whether every child born should be raised) on a papyrus roll copied in the 3rd century AD, P.Harr. I 1 (Cadbury Research Library, University of Birmingham; DCLP/Trismegistos 61603, LDAB 2752). It supplies lines 18 to 27 of the discourse, where the older editions break off (Cora Lutz, Musonius Rufus, 1947, note to Discourse 15). The Commons file is a photograph of plate 1 of J. Enoch Powell (ed.), The Rendel Harris Papyri of Woodbrooke College, Birmingham (Cambridge, 1936): a faithful copy of a flat ancient document, public domain."
+    }
+  },
+  "zeno-of-citium": {
+    "qid": "Q171303",
+    "th_label": "เซโนแห่งซิเทียม",
+    "born": -334,
+    "died": -263,
+    "circa": true,
+    "wiki_en": "https://en.wikipedia.org/wiki/Zeno_of_Citium",
+    "wiki_th": "https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%8B%E0%B9%82%E0%B8%99%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%8B%E0%B8%B4%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B8%A2%E0%B8%A1",
+    "portrait": {
+      "file": "/portraits/zeno-of-citium.webp",
+      "thumb": "/portraits/zeno-of-citium-thumb.webp",
+      "kind": "bust",
+      "title": "File:Paolo Monti - Servizio fotografico (Napoli, 1969) - BEIC 6353768.jpg",
+      "artist": "Paolo Monti",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution_required": true,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3APaolo_Monti_-_Servizio_fotografico_(Napoli%2C_1969)_-_BEIC_6353768.jpg"
+    }
+  },
+  "cleanthes": {
+    "qid": "Q310149",
+    "th_label": null,
+    "born": -331,
+    "died": -232,
+    "circa": true,
+    "wiki_en": "https://en.wikipedia.org/wiki/Cleanthes",
+    "wiki_th": null,
+    "portrait": {
+      "file": "/portraits/cleanthes.webp",
+      "thumb": "/portraits/cleanthes-thumb.webp",
+      "kind": "bust",
+      "title": "File:Cleanthes Ny Carlsberg Glyptotek IN 1795.jpg",
+      "artist": "Marie-Lan Nguyen",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "attribution_required": true,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ACleanthes_Ny_Carlsberg_Glyptotek_IN_1795.jpg",
+      "note": "The identification is a suggestion: the Commons description says Thuri Lorenz has proposed that this portrait type, earlier taken for Hippocrates, might more correctly be identified as the Stoic Cleanthes (Roman copy of a Greek original of the 3rd century BC, Ny Carlsberg Glyptotek IN 1795). No surer likeness of Cleanthes is known. Photo: Marie-Lan Nguyen, 2017, CC BY 4.0 (the bust itself is public domain)."
+    }
+  },
+  "chrysippus": {
+    "qid": "Q211411",
+    "th_label": null,
+    "born": -281,
+    "died": -208,
+    "circa": true,
+    "wiki_en": "https://en.wikipedia.org/wiki/Chrysippus",
+    "wiki_th": null,
+    "portrait": {
+      "file": "/portraits/chrysippus.webp",
+      "thumb": "/portraits/chrysippus-thumb.webp",
+      "kind": "bust",
+      "title": "File:Chrysippos BM 1846.jpg",
+      "artist": "Unknown artist",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution_required": false,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AChrysippos_BM_1846.jpg"
+    }
+  },
+  "cicero": {
+    "qid": "Q1541",
+    "th_label": "กิแกโร",
+    "born": -106,
+    "died": -43,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/Cicero",
+    "wiki_th": "https://th.wikipedia.org/wiki/%E0%B8%8B%E0%B8%B4%E0%B9%80%E0%B8%8B%E0%B9%82%E0%B8%A3",
+    "portrait": {
+      "file": "/portraits/cicero.webp",
+      "thumb": "/portraits/cicero-thumb.webp",
+      "kind": "bust",
+      "title": "File:Bust of Cicero (1st-cent. BC) - Palazzo Nuovo - Musei Capitolini - Rome 2016.jpg",
+      "artist": "José Luiz",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution_required": true,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ABust_of_Cicero_(1st-cent._BC)_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg"
+    }
+  },
+  "socrates": {
+    "qid": "Q913",
+    "th_label": "โสกราตีส",
+    "born": -470,
+    "died": -399,
+    "circa": true,
+    "wiki_en": "https://en.wikipedia.org/wiki/Socrates",
+    "wiki_th": "https://th.wikipedia.org/wiki/%E0%B9%82%E0%B8%AA%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B8%95%E0%B8%B5%E0%B8%AA",
+    "portrait": {
+      "file": "/portraits/socrates.webp",
+      "thumb": "/portraits/socrates-thumb.webp",
+      "kind": "bust",
+      "title": "File:Socrates Pio-Clementino Inv314.jpg",
+      "artist": "Marie-Lan Nguyen",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution_required": false,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASocrates_Pio-Clementino_Inv314.jpg",
+      "note": "Photo of the Socrates bust in the Vatican Museums (Museo Pio-Clementino, Inv. 314) by Marie-Lan Nguyen (User:Jastrow), 2006, released by her into the public domain ({{PD-self}}); the bust is a Roman marble, public domain. Replaces File:Socrates Louvre.jpg, whose photo (Eric Gaba, 2005) is CC BY-SA 2.5."
+    }
+  },
+  "plato": {
+    "qid": "Q859",
+    "th_label": "เพลโต",
+    "born": -427,
+    "died": -347,
+    "circa": true,
+    "wiki_en": "https://en.wikipedia.org/wiki/Plato",
+    "wiki_th": "https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B9%82%E0%B8%95",
+    "portrait": {
+      "file": "/portraits/plato.webp",
+      "thumb": "/portraits/plato-thumb.webp",
+      "kind": "bust",
+      "title": "File:Plato Silanion Musei Capitolini MC1377.jpg",
+      "artist": "Marie-Lan Nguyen",
+      "license": "CC BY 2.5",
+      "license_url": "https://creativecommons.org/licenses/by/2.5",
+      "attribution_required": true,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3APlato_Silanion_Musei_Capitolini_MC1377.jpg"
+    }
+  },
+  "aristotle": {
+    "qid": "Q868",
+    "th_label": "อาริสโตเติล",
+    "born": -384,
+    "died": -322,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/Aristotle",
+    "wiki_th": "https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%AA%E0%B9%82%E0%B8%95%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B8%A5",
+    "portrait": {
+      "file": "/portraits/aristotle.webp",
+      "thumb": "/portraits/aristotle-thumb.webp",
+      "kind": "bust",
+      "title": "File:Aristotle Altemps Inv8575.jpg",
+      "artist": "After Lysippos",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution_required": false,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AAristotle_Altemps_Inv8575.jpg"
+    }
+  },
+  "michel-de-montaigne": {
+    "qid": "Q41568",
+    "th_label": null,
+    "born": 1533,
+    "died": 1592,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/Michel_de_Montaigne",
+    "wiki_th": null,
+    "portrait": {
+      "file": "/portraits/michel-de-montaigne.webp",
+      "thumb": "/portraits/michel-de-montaigne-thumb.webp",
+      "kind": "painting",
+      "title": "File:Montaigne-Dumonstier.jpg",
+      "artist": "anonymous",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution_required": false,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AMontaigne-Dumonstier.jpg"
+    }
+  },
+  "francis-bacon": {
+    "qid": "Q37388",
+    "th_label": "ฟรานซิส เบคอน",
+    "born": 1561,
+    "died": 1626,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/Francis_Bacon",
+    "wiki_th": "https://th.wikipedia.org/wiki/%E0%B8%9F%E0%B8%A3%E0%B8%B2%E0%B8%99%E0%B8%8B%E0%B8%B4%E0%B8%AA_%E0%B9%80%E0%B8%9A%E0%B8%84%E0%B8%AD%E0%B8%99",
+    "portrait": {
+      "file": "/portraits/francis-bacon.webp",
+      "thumb": "/portraits/francis-bacon-thumb.webp",
+      "kind": "painting",
+      "title": "File:Somer Francis Bacon.jpg",
+      "artist": "Paul van Somer I / Formerly attributed to Frans Pourbus the Younger",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution_required": false,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASomer_Francis_Bacon.jpg"
+    }
+  },
+  "rene-descartes": {
+    "qid": "Q9191",
+    "th_label": "เรอเน เดการ์ต",
+    "born": 1596,
+    "died": 1650,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes",
+    "wiki_th": "https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%A3%E0%B8%AD%E0%B9%80%E0%B8%99_%E0%B9%80%E0%B8%94%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95",
+    "portrait": {
+      "file": "/portraits/rene-descartes.webp",
+      "thumb": "/portraits/rene-descartes-thumb.webp",
+      "kind": "painting",
+      "title": "File:Frans Hals - Portret van René Descartes.jpg",
+      "artist": "After Frans Hals",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution_required": false,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AFrans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg"
+    }
+  },
+  "baruch-spinoza": {
+    "qid": "Q35802",
+    "th_label": "บารุค สปิโนซา",
+    "born": 1632,
+    "died": 1677,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/Baruch_Spinoza",
+    "wiki_th": "https://th.wikipedia.org/wiki/%E0%B8%9A%E0%B8%B2%E0%B8%A3%E0%B8%B8%E0%B8%84_%E0%B8%AA%E0%B8%9B%E0%B8%B4%E0%B9%82%E0%B8%99%E0%B8%8B%E0%B8%B2",
+    "portrait": {
+      "file": "/portraits/baruch-spinoza.webp",
+      "thumb": "/portraits/baruch-spinoza-thumb.webp",
+      "kind": "painting",
+      "title": "File:Spinoza.jpg",
+      "artist": "anonymous",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution_required": false,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASpinoza.jpg"
+    }
+  },
+  "john-locke": {
+    "qid": "Q9353",
+    "th_label": "จอห์น ล็อก",
+    "born": 1632,
+    "died": 1704,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/John_Locke",
+    "wiki_th": "https://th.wikipedia.org/wiki/%E0%B8%88%E0%B8%AD%E0%B8%AB%E0%B9%8C%E0%B8%99_%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%81",
+    "portrait": {
+      "file": "/portraits/john-locke.webp",
+      "thumb": "/portraits/john-locke-thumb.webp",
+      "kind": "painting",
+      "title": "File:JohnLocke.png",
+      "artist": "Godfrey Kneller",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution_required": false,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AJohnLocke.png"
+    }
+  },
+  "david-hume": {
+    "qid": "Q37160",
+    "th_label": "เดวิด ฮูม",
+    "born": 1711,
+    "died": 1776,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/David_Hume",
+    "wiki_th": "https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%94%E0%B8%A7%E0%B8%B4%E0%B8%94_%E0%B8%AE%E0%B8%B9%E0%B8%A1",
+    "portrait": {
+      "file": "/portraits/david-hume.webp",
+      "thumb": "/portraits/david-hume-thumb.webp",
+      "kind": "painting",
+      "title": "File:David Hume Ramsay.jpg",
+      "artist": "Allan Ramsay",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution_required": false,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ADavid_Hume_Ramsay.jpg"
+    }
+  },
+  "immanuel-kant": {
+    "qid": "Q9312",
+    "th_label": "อิมมานูเอล คานต์",
+    "born": 1724,
+    "died": 1804,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/Immanuel_Kant",
+    "wiki_th": "https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%B4%E0%B8%A1%E0%B8%A1%E0%B8%B2%E0%B8%99%E0%B8%B9%E0%B9%80%E0%B8%AD%E0%B8%A5_%E0%B8%84%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C",
+    "portrait": {
+      "file": "/portraits/immanuel-kant.webp",
+      "thumb": "/portraits/immanuel-kant-thumb.webp",
+      "kind": "painting",
+      "title": "File:Immanuel Kant - Gemaelde 2.jpg",
+      "artist": "Becker",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution_required": false,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AImmanuel_Kant_-_Gemaelde_2.jpg"
+    }
+  },
+  "john-stuart-mill": {
+    "qid": "Q50020",
+    "th_label": "จอห์น สจ๊วต มิลล์",
+    "born": 1806,
+    "died": 1873,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/John_Stuart_Mill",
+    "wiki_th": "https://th.wikipedia.org/wiki/%E0%B8%88%E0%B8%AD%E0%B8%AB%E0%B9%8C%E0%B8%99_%E0%B8%AA%E0%B8%97%E0%B8%B4%E0%B8%A7%E0%B9%80%E0%B8%A7%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%95_%E0%B8%A1%E0%B8%B4%E0%B8%A5%E0%B8%A5%E0%B9%8C",
+    "portrait": {
+      "file": "/portraits/john-stuart-mill.webp",
+      "thumb": "/portraits/john-stuart-mill-thumb.webp",
+      "kind": "photo",
+      "title": "File:John Stuart Mill by London Stereoscopic Company, c1870.jpg",
+      "artist": "London Stereoscopic Company",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution_required": false,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AJohn_Stuart_Mill_by_London_Stereoscopic_Company%2C_c1870.jpg"
+    }
+  },
+  "bertrand-russell": {
+    "qid": "Q33760",
+    "th_label": "เบอร์ทรันด์ รัสเซลล์",
+    "born": 1872,
+    "died": 1970,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/Bertrand_Russell",
+    "wiki_th": "https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B9%8C_%E0%B8%A3%E0%B8%B1%E0%B8%AA%E0%B9%80%E0%B8%8B%E0%B8%A5%E0%B8%A5%E0%B9%8C",
+    "portrait": {
+      "file": "/portraits/bertrand-russell.webp",
+      "thumb": "/portraits/bertrand-russell-thumb.webp",
+      "kind": "photo",
+      "title": "File:Bertrand Russell transparent bg.png",
+      "artist": "Honourable Bertrand Russell.jpg: Photographer not identified derivative work: Conquistador",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution_required": false,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ABertrand_Russell_transparent_bg.png"
+    }
+  },
+  "ludwig-wittgenstein": {
+    "qid": "Q9391",
+    "th_label": "ลุดวิจ วิทท์เกนชไตน์",
+    "born": 1889,
+    "died": 1951,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/Ludwig_Wittgenstein",
+    "wiki_th": "https://th.wikipedia.org/wiki/%E0%B8%A5%E0%B8%B9%E0%B8%97%E0%B8%A7%E0%B8%B4%E0%B8%8A_%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%8A%E0%B9%84%E0%B8%95%E0%B8%99%E0%B9%8C",
+    "portrait": {
+      "file": "/portraits/ludwig-wittgenstein.webp",
+      "thumb": "/portraits/ludwig-wittgenstein-thumb.webp",
+      "kind": "photo",
+      "title": "File:Ludwig Wittgenstein.jpg",
+      "artist": "Moritz Nähr",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution_required": false,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ALudwig_Wittgenstein.jpg"
+    }
+  },
+  "karl-popper": {
+    "qid": "Q81244",
+    "th_label": null,
+    "born": 1902,
+    "died": 1994,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/Karl_Popper",
+    "wiki_th": null,
+    "portrait": {
+      "file": "/portraits/karl-popper.webp",
+      "thumb": "/portraits/karl-popper-thumb.webp",
+      "kind": "photo",
+      "title": "File:Karl Popper.jpg",
+      "artist": "Franz Barta",
+      "license": "No restrictions",
+      "license_url": "https://www.flickr.com/commons/usage/",
+      "attribution_required": false,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AKarl_Popper.jpg"
+    }
+  },
+  "carl-sagan": {
+    "qid": "Q410",
+    "th_label": "คาร์ล เซแกน",
+    "born": 1934,
+    "died": 1996,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/Carl_Sagan",
+    "wiki_th": "https://th.wikipedia.org/wiki/%E0%B8%84%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%A5_%E0%B9%80%E0%B8%8B%E0%B9%81%E0%B8%81%E0%B8%99",
+    "portrait": {
+      "file": "/portraits/carl-sagan.webp",
+      "thumb": "/portraits/carl-sagan-thumb.webp",
+      "kind": "photo",
+      "title": "File:Carl Sagan Planetary Society.JPG",
+      "artist": "NASA/JPL",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution_required": false,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ACarl_Sagan_Planetary_Society.JPG"
+    }
+  },
+  "richard-feynman": {
+    "qid": "Q39246",
+    "th_label": "ริชาร์ด ไฟน์แมน",
+    "born": 1918,
+    "died": 1988,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/Richard_Feynman",
+    "wiki_th": "https://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%94_%E0%B9%84%E0%B8%9F%E0%B8%99%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99",
+    "portrait": {
+      "file": "/portraits/richard-feynman.webp",
+      "thumb": "/portraits/richard-feynman-thumb.webp",
+      "kind": "photo",
+      "title": "File:RichardFeynman-PaineMansionWoods1984 copyrightTamikoThiel bw.jpg",
+      "artist": "Tamiko Thiel (1984)",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution_required": true,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ARichardFeynman-PaineMansionWoods1984_copyrightTamikoThiel_bw.jpg",
+      "artist_note": "Copyright Tamiko Thiel 1984"
+    }
+  },
+  "blaise-pascal": {
+    "qid": "Q1290",
+    "th_label": "แบลซ ปัสกาล",
+    "born": 1623,
+    "died": 1662,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/Blaise_Pascal",
+    "wiki_th": "https://th.wikipedia.org/wiki/%E0%B9%81%E0%B8%9A%E0%B8%A5%E0%B8%8B_%E0%B8%9B%E0%B8%B1%E0%B8%AA%E0%B8%81%E0%B8%B2%E0%B8%A5",
+    "portrait": {
+      "file": "/portraits/blaise-pascal.webp",
+      "thumb": "/portraits/blaise-pascal-thumb.webp",
+      "kind": "engraving",
+      "title": "File:FR-631136102 GRA 6025 Portrait de Blaise Pascal par Edelinck (cropped).jpg",
+      "artist": "Gérard Edelinck",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution_required": true,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AFR-631136102_GRA_6025_Portrait_de_Blaise_Pascal_par_Edelinck_(cropped).jpg"
+    }
+  },
+  "soren-kierkegaard": {
+    "qid": "Q6512",
+    "th_label": "เซอร์เอิน เคียร์เกอกอร์",
+    "born": 1813,
+    "died": 1855,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard",
+    "wiki_th": "https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%8B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%AD%E0%B8%B4%E0%B8%99_%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%81%E0%B8%AD%E0%B8%81%E0%B8%AD%E0%B8%A3%E0%B9%8C",
+    "portrait": {
+      "file": "/portraits/soren-kierkegaard.webp",
+      "thumb": "/portraits/soren-kierkegaard-thumb.webp",
+      "kind": "painting",
+      "title": "File:Søren Kierkegaard (1813-1855) - (cropped).jpg",
+      "artist": "La Biblioteca Real de Dinamarca",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution_required": false,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AS%C3%B8ren_Kierkegaard_(1813-1855)_-_(cropped).jpg"
+    }
+  },
+  "fyodor-dostoevsky": {
+    "qid": "Q991",
+    "th_label": "ฟิโอดอร์ ดอสโตเยฟสกี",
+    "born": 1821,
+    "died": 1881,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/Fyodor_Dostoevsky",
+    "wiki_th": "https://th.wikipedia.org/wiki/%E0%B8%9F%E0%B8%B4%E0%B9%82%E0%B8%AD%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C_%E0%B8%94%E0%B8%AD%E0%B8%AA%E0%B9%82%E0%B8%95%E0%B9%80%E0%B8%A2%E0%B8%9F%E0%B8%AA%E0%B8%81%E0%B8%B5",
+    "portrait": {
+      "file": "/portraits/fyodor-dostoevsky.webp",
+      "thumb": "/portraits/fyodor-dostoevsky-thumb.webp",
+      "kind": "painting",
+      "title": "File:Vasily Perov - Портрет Ф.М.Достоевского - Google Art Project.jpg",
+      "artist": "Vasily Perov",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution_required": false,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AVasily_Perov_-_%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%A4.%D0%9C.%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_-_Google_Art_Project.jpg"
+    }
+  },
+  "friedrich-nietzsche": {
+    "qid": "Q9358",
+    "th_label": "ฟรีดริช นีทเชอ",
+    "born": 1844,
+    "died": 1900,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+    "wiki_th": "https://th.wikipedia.org/wiki/%E0%B8%9F%E0%B8%A3%E0%B8%B5%E0%B8%94%E0%B8%A3%E0%B8%B4%E0%B8%8A_%E0%B8%99%E0%B8%B5%E0%B8%97%E0%B9%80%E0%B8%8A%E0%B8%AD",
+    "portrait": {
+      "file": "/portraits/friedrich-nietzsche.webp",
+      "thumb": "/portraits/friedrich-nietzsche-thumb.webp",
+      "kind": "photo",
+      "title": "File:Nietzsche187a.jpg",
+      "artist": "Friedrich Hermann Hartmann",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution_required": false,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ANietzsche187a.jpg"
+    }
+  },
+  "rainer-maria-rilke": {
+    "qid": "Q76483",
+    "th_label": "ไรเนอร์ มารีอา ริลเคอ",
+    "born": 1875,
+    "died": 1926,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/Rainer_Maria_Rilke",
+    "wiki_th": "https://th.wikipedia.org/wiki/%E0%B9%84%E0%B8%A3%E0%B9%80%E0%B8%99%E0%B8%AD%E0%B8%A3%E0%B9%8C_%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%AD%E0%B8%B2_%E0%B8%A3%E0%B8%B4%E0%B8%A5%E0%B9%80%E0%B8%84%E0%B8%AD",
+    "portrait": {
+      "file": "/portraits/rainer-maria-rilke.webp",
+      "thumb": "/portraits/rainer-maria-rilke-thumb.webp",
+      "kind": "photo",
+      "title": "File:Rainer Maria Rilke 1900.jpg",
+      "artist": "Unknown author",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution_required": false,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ARainer_Maria_Rilke_1900.jpg"
+    }
+  },
+  "miguel-de-unamuno": {
+    "qid": "Q185085",
+    "th_label": null,
+    "born": 1864,
+    "died": 1936,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/Miguel_de_Unamuno",
+    "wiki_th": null,
+    "portrait": {
+      "file": "/portraits/miguel-de-unamuno.webp",
+      "thumb": "/portraits/miguel-de-unamuno-thumb.webp",
+      "kind": "photo",
+      "title": "File:Miguel de Unamuno Meurisse 1925.jpg",
+      "artist": "Agence de presse Meurisse",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution_required": false,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AMiguel_de_Unamuno_Meurisse_1925.jpg"
+    }
+  },
+  "martin-buber": {
+    "qid": "Q84423",
+    "th_label": null,
+    "born": 1878,
+    "died": 1965,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/Martin_Buber",
+    "wiki_th": null,
+    "portrait": {
+      "file": "/portraits/martin-buber.webp",
+      "thumb": "/portraits/martin-buber-thumb.webp",
+      "kind": "photo",
+      "title": "File:Martin Buber portrait.jpg",
+      "artist": null,
+      "license": "Public domain",
+      "license_url": null,
+      "attribution_required": false,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AMartin_Buber_portrait.jpg"
+    }
+  },
+  "karl-jaspers": {
+    "qid": "Q76509",
+    "th_label": null,
+    "born": 1883,
+    "died": 1969,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/Karl_Jaspers",
+    "wiki_th": null,
+    "portrait": {
+      "file": "/portraits/karl-jaspers.webp",
+      "thumb": "/portraits/karl-jaspers-thumb.webp",
+      "kind": "photo",
+      "title": "File:Karl Jaspers 1946.jpg",
+      "artist": "Unknown (Mondadori Publishers)",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution_required": false,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AKarl_Jaspers_1946.jpg"
+    }
+  },
+  "jose-ortega-y-gasset": {
+    "qid": "Q153020",
+    "th_label": null,
+    "born": 1883,
+    "died": 1955,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/Jos%C3%A9_Ortega_y_Gasset",
+    "wiki_th": null,
+    "portrait": {
+      "file": "/portraits/jose-ortega-y-gasset.webp",
+      "thumb": "/portraits/jose-ortega-y-gasset-thumb.webp",
+      "kind": "photo",
+      "title": "File:José Ortega y Gasset (cropped).jpg",
+      "artist": "SAS Scandinavian Airlines",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution_required": false,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AJos%C3%A9_Ortega_y_Gasset_(cropped).jpg"
+    }
+  },
+  "martin-heidegger": {
+    "qid": "Q48301",
+    "th_label": "มาร์ทีน ไฮเด็กเกอร์",
+    "born": 1889,
+    "died": 1976,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/Martin_Heidegger",
+    "wiki_th": "https://th.wikipedia.org/wiki/%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B8%99_%E0%B9%84%E0%B8%AE%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81%E0%B9%80%E0%B8%81%E0%B8%AD%E0%B8%A3%E0%B9%8C",
+    "portrait": {
+      "file": "/portraits/martin-heidegger.webp",
+      "thumb": "/portraits/martin-heidegger-thumb.webp",
+      "kind": "photo",
+      "title": "File:Heidegger 2 (1960).jpg",
+      "artist": "Willy Pragher",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution_required": true,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AHeidegger_2_(1960).jpg"
+    }
+  },
+  "paul-tillich": {
+    "qid": "Q60104",
+    "th_label": null,
+    "born": 1886,
+    "died": 1965,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/Paul_Tillich",
+    "wiki_th": null,
+    "portrait": {
+      "file": "/portraits/paul-tillich.webp",
+      "thumb": "/portraits/paul-tillich-thumb.webp",
+      "kind": "photo",
+      "title": "The Forester 1957 (Lake Forest College yearbook), p. 44",
+      "artist": "The Forester, Lake Forest College, 1957",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution_required": false,
+      "source_page": "https://archive.org/details/forester1957lake/page/n47/mode/1up",
+      "note": "Studio portrait of about 1955, photographer not credited, printed without any copyright notice in The Forester 1957, the yearbook \"Published by the Students of Lake Forest College\" (Lake Forest, Illinois), p. 44, captioned \"Dr. Paul J. Tillich, prominent theologian gave Bross Foundation lectures\" (Internet Archive item forester1957lake, page n47; no notice anywhere in the volume). The same photograph had been printed in The Chaplain, vol. 13 no. 2, April 1956, p. 11 (General Commission on Chaplains and Armed Forces Personnel, Washington, D.C.) under that issue's notice, and that copyright was never renewed: renewal was due in 1984, and the US Copyright Office public records (https://publicrecords.copyright.gov, every renewal since 1978) list no renewal by the General Commission, none for any photograph of Tillich, and none for Kegley and Bretall's The Theology of Paul Tillich (1952), the one earlier book that may have carried it (searched 2026-09-29). Public domain in the US. Replaces File:Tillich Park Bust.jpg, a photo of James Rosati's 1967 bronze bust, which is still in copyright."
+    }
+  },
+  "jean-paul-sartre": {
+    "qid": "Q9364",
+    "th_label": "ฌ็อง-ปอล ซาทร์",
+    "born": 1905,
+    "died": 1980,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/Jean-Paul_Sartre",
+    "wiki_th": "https://th.wikipedia.org/wiki/%E0%B8%8C%E0%B9%87%E0%B8%AD%E0%B8%87-%E0%B8%9B%E0%B8%AD%E0%B8%A5_%E0%B8%8B%E0%B8%B2%E0%B8%97%E0%B8%A3%E0%B9%8C",
+    "portrait": {
+      "file": "/portraits/jean-paul-sartre.webp",
+      "thumb": "/portraits/jean-paul-sartre-thumb.webp",
+      "kind": "photo",
+      "title": "File:Jean Paul Sartre 1967.jpg",
+      "artist": "T1980",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "attribution_required": true,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AJean_Paul_Sartre_1967.jpg",
+      "artist_note": "User:T1980"
+    }
+  },
+  "simone-de-beauvoir": {
+    "qid": "Q7197",
+    "th_label": "ซีมอน เดอ โบวัวร์",
+    "born": 1908,
+    "died": 1986,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/Simone_de_Beauvoir",
+    "wiki_th": "https://th.wikipedia.org/wiki/%E0%B8%8B%E0%B8%B5%E0%B8%A1%E0%B8%AD%E0%B8%99_%E0%B9%80%E0%B8%94%E0%B8%AD_%E0%B9%82%E0%B8%9A%E0%B8%A7%E0%B8%B1%E0%B8%A7%E0%B8%A3%E0%B9%8C",
+    "portrait": {
+      "file": "/portraits/simone-de-beauvoir.webp",
+      "thumb": "/portraits/simone-de-beauvoir-thumb.webp",
+      "kind": "photo",
+      "title": "File:Simone de Beauvoir2.png",
+      "artist": "Moshe Milner",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution_required": true,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASimone_de_Beauvoir2.png"
+    }
+  },
+  "viktor-frankl": {
+    "qid": "Q154723",
+    "th_label": null,
+    "born": 1905,
+    "died": 1997,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/Viktor_Frankl",
+    "wiki_th": null,
+    "portrait": {
+      "file": "/portraits/viktor-frankl.webp",
+      "thumb": "/portraits/viktor-frankl-thumb.webp",
+      "kind": "photo",
+      "title": "File:Viktor Frankl2.jpg",
+      "artist": "Prof. Dr. Franz Vesely",
+      "license": "CC BY-SA 3.0 de",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "attribution_required": true,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AViktor_Frankl2.jpg"
+    }
+  },
+  "diogenes": {
+    "qid": "Q59180",
+    "th_label": "ไดออจะนีซ",
+    "born": -412,
+    "died": -323,
+    "circa": true,
+    "wiki_en": "https://en.wikipedia.org/wiki/Diogenes",
+    "wiki_th": "https://th.wikipedia.org/wiki/%E0%B9%84%E0%B8%94%E0%B8%AD%E0%B8%AD%E0%B8%88%E0%B8%B0%E0%B8%99%E0%B8%B5%E0%B8%8B",
+    "portrait": {
+      "file": "/portraits/diogenes.webp",
+      "thumb": "/portraits/diogenes-thumb.webp",
+      "kind": "statue",
+      "title": "File:Diogenes-statue-Sinop-enhanced.jpg",
+      "artist": "Tony f, derivative work by Singinglemon",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "attribution_required": true,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ADiogenes-statue-Sinop-enhanced.jpg",
+      "artist_note": "Diogenes-statue-Sinop.JPG: Tony f derivative work: Singinglemon (talk)"
+    }
+  },
+  "arthur-schopenhauer": {
+    "qid": "Q38193",
+    "th_label": "อาร์ทัวร์ โชเพินเฮาเออร์",
+    "born": 1788,
+    "died": 1860,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/Arthur_Schopenhauer",
+    "wiki_th": "https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B1%E0%B8%A7%E0%B8%A3%E0%B9%8C_%E0%B9%82%E0%B8%8A%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%AE%E0%B8%B2%E0%B9%80%E0%B8%AD%E0%B8%AD%E0%B8%A3%E0%B9%8C",
+    "portrait": {
+      "file": "/portraits/arthur-schopenhauer.webp",
+      "thumb": "/portraits/arthur-schopenhauer-thumb.webp",
+      "kind": "photo",
+      "title": "File:Arthur Schopenhauer by J Schäfer, 1859b.jpg",
+      "artist": "Johann Schäfer",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution_required": false,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AArthur_Schopenhauer_by_J_Sch%C3%A4fer%2C_1859b.jpg"
+    }
+  },
+  "max-stirner": {
+    "qid": "Q76725",
+    "th_label": null,
+    "born": 1806,
+    "died": 1856,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/Max_Stirner",
+    "wiki_th": null,
+    "portrait": {
+      "file": "/portraits/max-stirner.webp",
+      "thumb": "/portraits/max-stirner-thumb.webp",
+      "kind": "painting",
+      "title": "File:Friedrich Engels - Die Freien (1842)-1.1 V01-1.2 raw RGASPI (Stirner cropped).jpg",
+      "artist": "Friedrich Engels",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution_required": false,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AFriedrich_Engels_-_Die_Freien_(1842)-1.1_V01-1.2_raw_RGASPI_(Stirner_cropped).jpg"
+    }
+  },
+  "franz-kafka": {
+    "qid": "Q905",
+    "th_label": "ฟรันทซ์ คัฟคา",
+    "born": 1883,
+    "died": 1924,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/Franz_Kafka",
+    "wiki_th": "https://th.wikipedia.org/wiki/%E0%B8%9F%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%8B%E0%B9%8C_%E0%B8%84%E0%B8%B1%E0%B8%9F%E0%B8%84%E0%B8%B2",
+    "portrait": {
+      "file": "/portraits/franz-kafka.webp",
+      "thumb": "/portraits/franz-kafka-thumb.webp",
+      "kind": "photo",
+      "title": "File:Kafka1906 cropped.jpg",
+      "artist": "Atelier Jacobi: Sigismund Jacobi (1860–1935)",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution_required": false,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AKafka1906_cropped.jpg"
+    }
+  },
+  "albert-camus": {
+    "qid": "Q34670",
+    "th_label": "อาลแบร์ กามูว์",
+    "born": 1913,
+    "died": 1960,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/Albert_Camus",
+    "wiki_th": "https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%B2%E0%B8%A5%E0%B9%81%E0%B8%9A%E0%B8%A3%E0%B9%8C_%E0%B8%81%E0%B8%B2%E0%B8%A1%E0%B8%B9%E0%B8%A7%E0%B9%8C",
+    "portrait": {
+      "file": "/portraits/albert-camus.webp",
+      "thumb": "/portraits/albert-camus-thumb.webp",
+      "kind": "photo",
+      "title": "File:Albert Camus, gagnant de prix Nobel, portrait en buste, posé au bureau, faisant face à gauche, cigarette de tabagisme.jpg",
+      "artist": "Photograph by United Press International",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution_required": false,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AAlbert_Camus%2C_gagnant_de_prix_Nobel%2C_portrait_en_buste%2C_pos%C3%A9_au_bureau%2C_faisant_face_%C3%A0_gauche%2C_cigarette_de_tabagisme.jpg"
+    }
+  },
+  "samuel-beckett": {
+    "qid": "Q37327",
+    "th_label": "ซามูเอล เบ็คเค็ทท์",
+    "born": 1906,
+    "died": 1989,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/Samuel_Beckett",
+    "wiki_th": "https://th.wikipedia.org/wiki/%E0%B8%8B%E0%B8%B2%E0%B8%A1%E0%B8%B9%E0%B9%80%E0%B8%AD%E0%B8%A5_%E0%B9%80%E0%B8%9A%E0%B9%87%E0%B8%84%E0%B9%80%E0%B8%84%E0%B9%87%E0%B8%97%E0%B8%97%E0%B9%8C",
+    "portrait": {
+      "file": "/portraits/samuel-beckett.webp",
+      "thumb": "/portraits/samuel-beckett-thumb.webp",
+      "kind": "photo",
+      "title": "File:Samuel Beckett, Pic, 1 (cropped).jpg",
+      "artist": "Roger Pic",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution_required": false,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASamuel_Beckett%2C_Pic%2C_1_(cropped).jpg"
+    }
+  },
+  "eugene-ionesco": {
+    "qid": "Q46706",
+    "th_label": null,
+    "born": 1909,
+    "died": 1994,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/Eug%C3%A8ne_Ionesco",
+    "wiki_th": null,
+    "portrait": {
+      "file": "/portraits/eugene-ionesco.webp",
+      "thumb": "/portraits/eugene-ionesco-thumb.webp",
+      "kind": "photo",
+      "title": "File:Eugene Ionesco 03.jpg",
+      "artist": "Gorupdebesanez",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution_required": true,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AEugene_Ionesco_03.jpg"
+    }
+  },
+  "emil-cioran": {
+    "qid": "Q193405",
+    "th_label": null,
+    "born": 1911,
+    "died": 1995,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/Emil_Cioran",
+    "wiki_th": null,
+    "portrait": {
+      "file": "/portraits/emil-cioran.webp",
+      "thumb": "/portraits/emil-cioran-thumb.webp",
+      "kind": "photo",
+      "title": "File:Cioran in Romania.jpg",
+      "artist": "Keystone agency photographer",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution_required": false,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ACioran_in_Romania.jpg",
+      "artist_note": "Photographer of Keyston agency/Getty Images before Rivarol Premium. Photo taken in the last years of Cioran's life-in-Romania, before his definitive transference in France (1947); first publication 1955-1960s; for Romanian law the artistic and non-artistic photo realized before 1956, or between the years 1956-1996, have their copyright expired."
+    }
+  },
+  "kurt-vonnegut": {
+    "qid": "Q49074",
+    "th_label": "เคิร์ต วอนเนกัต",
+    "born": 1922,
+    "died": 2007,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/Kurt_Vonnegut",
+    "wiki_th": null,
+    "portrait": {
+      "file": "/portraits/kurt-vonnegut.webp",
+      "thumb": "/portraits/kurt-vonnegut-thumb.webp",
+      "kind": "photo",
+      "title": "File:Kurt Vonnegut by Bernard Gotfryd (1965).jpg",
+      "artist": "Bernard Gotfryd / Adam Cuerden",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution_required": false,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AKurt_Vonnegut_by_Bernard_Gotfryd_(1965).jpg"
+    }
+  },
+  "thomas-nagel": {
+    "qid": "Q350239",
+    "th_label": null,
+    "born": 1937,
+    "died": null,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/Thomas_Nagel",
+    "wiki_th": null,
+    "portrait": {
+      "file": "/portraits/thomas-nagel.webp",
+      "thumb": "/portraits/thomas-nagel-thumb.webp",
+      "kind": "photo",
+      "title": "File:Thomas Nagel teaching Ethics.JPG",
+      "artist": "Jmd442",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution_required": true,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AThomas_Nagel_teaching_Ethics.JPG",
+      "artist_note": "en:User:Jmd442"
+    }
+  },
+  "douglas-adams": {
+    "qid": "Q42",
+    "th_label": "ดักลัส แอดัมส์",
+    "born": 1952,
+    "died": 2001,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/Douglas_Adams",
+    "wiki_th": "https://th.wikipedia.org/wiki/%E0%B8%94%E0%B8%B1%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%AA_%E0%B8%AD%E0%B8%94%E0%B8%B1%E0%B8%A1%E0%B8%AA%E0%B9%8C",
+    "portrait": {
+      "file": "/portraits/douglas-adams.webp",
+      "thumb": "/portraits/douglas-adams-thumb.webp",
+      "kind": "photo",
+      "title": "File:Douglas adams portrait.jpg",
+      "artist": "Michael Hughes",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "attribution_required": true,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ADouglas_adams_portrait.jpg"
+    }
+  },
+  "the-buddha": {
+    "qid": "Q9441",
+    "th_label": "พระโคตมพุทธเจ้า",
+    "born": null,
+    "died": null,
+    "circa": true,
+    "wiki_en": "https://en.wikipedia.org/wiki/The_Buddha",
+    "wiki_th": "https://th.wikipedia.org/wiki/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A1%E0%B8%9E%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2",
+    "portrait": {
+      "file": null,
+      "thumb": null,
+      "kind": "symbol",
+      "title": null,
+      "artist": null,
+      "license": null,
+      "license_url": null,
+      "attribution_required": false,
+      "source_page": null
+    }
+  },
+  "laozi": {
+    "qid": "Q9333",
+    "th_label": "เล่าจื๊อ",
+    "born": -604,
+    "died": -500,
+    "circa": true,
+    "wiki_en": "https://en.wikipedia.org/wiki/Laozi",
+    "wiki_th": "https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%88%E0%B8%B7%E0%B9%8A%E0%B8%AD",
+    "portrait": {
+      "file": "/portraits/laozi.webp",
+      "thumb": "/portraits/laozi-thumb.webp",
+      "kind": "painting",
+      "title": "File:Zhang Lu-Laozi Riding an Ox (cropped).jpg",
+      "artist": "Zhang Lu",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution_required": false,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AZhang_Lu-Laozi_Riding_an_Ox_(cropped).jpg"
+    }
+  },
+  "zhuangzi": {
+    "qid": "Q47739",
+    "th_label": "จวงจื่อ",
+    "born": -369,
+    "died": -288,
+    "circa": true,
+    "wiki_en": "https://en.wikipedia.org/wiki/Zhuang_Zhou",
+    "wiki_th": "https://th.wikipedia.org/wiki/%E0%B8%88%E0%B8%BA%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B8%88%E0%B8%B7%E0%B9%88%E0%B8%AD",
+    "portrait": {
+      "file": "/portraits/zhuangzi.webp",
+      "thumb": "/portraits/zhuangzi-thumb.webp",
+      "kind": "painting",
+      "title": "File:Zhuangzi.png",
+      "artist": "Unknown author",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution_required": false,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AZhuangzi.png"
+    }
+  },
+  "liezi": {
+    "qid": "Q2984064",
+    "th_label": null,
+    "born": null,
+    "died": null,
+    "circa": true,
+    "wiki_en": "https://en.wikipedia.org/wiki/Lie_Yukou",
+    "wiki_th": null,
+    "portrait": {
+      "file": "/portraits/liezi.webp",
+      "thumb": "/portraits/liezi-thumb.webp",
+      "kind": "painting",
+      "title": "File:Album of 18 Daoist Paintings - 7.jpg",
+      "artist": "Zhang Lu",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution_required": false,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AAlbum_of_18_Daoist_Paintings_-_7.jpg"
+    }
+  },
+  "nagarjuna": {
+    "qid": "Q171195",
+    "th_label": "นาคารชุนะ",
+    "born": 150,
+    "died": 250,
+    "circa": true,
+    "wiki_en": "https://en.wikipedia.org/wiki/Nagarjuna",
+    "wiki_th": "https://th.wikipedia.org/wiki/%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%A3%E0%B8%8A%E0%B8%B8%E0%B8%99%E0%B8%B0",
+    "portrait": {
+      "file": "/portraits/nagarjuna.webp",
+      "thumb": "/portraits/nagarjuna-thumb.webp",
+      "kind": "statue",
+      "title": "File:Nagarjuna at Samye Ling Monastery.JPG",
+      "artist": null,
+      "license": "Copyrighted free use",
+      "license_url": null,
+      "attribution_required": false,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ANagarjuna_at_Samye_Ling_Monastery.JPG"
+    }
+  },
+  "shantideva": {
+    "qid": "Q445460",
+    "th_label": "ศานติเทวะ",
+    "born": 685,
+    "died": 763,
+    "circa": true,
+    "wiki_en": "https://en.wikipedia.org/wiki/Shantideva",
+    "wiki_th": "https://th.wikipedia.org/wiki/%E0%B8%A8%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B8%B4%E0%B9%80%E0%B8%97%E0%B8%A7%E0%B8%B0",
+    "portrait": {
+      "file": "/portraits/shantideva.webp",
+      "thumb": "/portraits/shantideva-thumb.webp",
+      "kind": "painting",
+      "title": "File:Shantideva(1).gif",
+      "artist": "Original uploader was Baodo at vi.wikipedia",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution_required": false,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AShantideva(1).gif"
+    }
+  },
+  "bodhidharma": {
+    "qid": "Q187172",
+    "th_label": "พระโพธิธรรม",
+    "born": 483,
+    "died": 540,
+    "circa": true,
+    "wiki_en": "https://en.wikipedia.org/wiki/Bodhidharma",
+    "wiki_th": "https://th.wikipedia.org/wiki/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1",
+    "portrait": {
+      "file": "/portraits/bodhidharma.webp",
+      "thumb": "/portraits/bodhidharma-thumb.webp",
+      "kind": "painting",
+      "title": "File:BodhidharmaYoshitoshi1887.jpg",
+      "artist": "Yoshitoshi",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution_required": false,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ABodhidharmaYoshitoshi1887.jpg"
+    }
+  },
+  "huineng": {
+    "qid": "Q345012",
+    "th_label": "ฮุ่ยเหนิง",
+    "born": 638,
+    "died": 713,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/Huineng",
+    "wiki_th": "https://th.wikipedia.org/wiki/%E0%B8%AE%E0%B8%B8%E0%B9%88%E0%B8%A2%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B4%E0%B8%87",
+    "portrait": {
+      "file": "/portraits/huineng.webp",
+      "thumb": "/portraits/huineng-thumb.webp",
+      "kind": "painting",
+      "title": "File:Huineng.jpg",
+      "artist": null,
+      "license": "Public domain",
+      "license_url": null,
+      "attribution_required": false,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AHuineng.jpg"
+    }
+  },
+  "linji": {
+    "qid": "Q326950",
+    "th_label": null,
+    "born": null,
+    "died": 866,
+    "circa": true,
+    "wiki_en": "https://en.wikipedia.org/wiki/Linji_Yixuan",
+    "wiki_th": null,
+    "portrait": {
+      "file": "/portraits/linji.webp",
+      "thumb": "/portraits/linji-thumb.webp",
+      "kind": "painting",
+      "title": "File:RinzaiGigen.jpg",
+      "artist": "曾我蛇足 Soga Jasoku (fl. c. 1300)",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution_required": false,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ARinzaiGigen.jpg"
+    }
+  },
+  "dogen": {
+    "qid": "Q318064",
+    "th_label": null,
+    "born": 1200,
+    "died": 1253,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/D%C5%8Dgen",
+    "wiki_th": null,
+    "portrait": {
+      "file": "/portraits/dogen.webp",
+      "thumb": "/portraits/dogen-thumb.webp",
+      "kind": "painting",
+      "title": "File:Dogen.jpg",
+      "artist": "Shii",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution_required": false,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ADogen.jpg"
+    }
+  },
+  "matsuo-basho": {
+    "qid": "Q5676",
+    "th_label": "มะสึโอะ บะโช",
+    "born": 1644,
+    "died": 1694,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/Matsuo_Bash%C5%8D",
+    "wiki_th": "https://th.wikipedia.org/wiki/%E0%B8%A1%E0%B8%B1%E0%B8%95%E0%B8%AA%E0%B8%B6%E0%B9%82%E0%B8%AD%E0%B8%B0_%E0%B8%9A%E0%B8%B2%E0%B9%82%E0%B8%8A",
+    "portrait": {
+      "file": "/portraits/matsuo-basho.webp",
+      "thumb": "/portraits/matsuo-basho-thumb.webp",
+      "kind": "painting",
+      "title": "File:Basho by Buson.jpg",
+      "artist": "unknown",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution_required": false,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ABasho_by_Buson.jpg"
+    }
+  },
+  "ryokan": {
+    "qid": "Q5338269",
+    "th_label": null,
+    "born": 1758,
+    "died": 1831,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/Ry%C5%8Dkan",
+    "wiki_th": null,
+    "portrait": {
+      "file": "/portraits/ryokan.webp",
+      "thumb": "/portraits/ryokan-thumb.webp",
+      "kind": "painting",
+      "title": "File:RYOKAN PORTRAITE.JPG",
+      "artist": "Ryōkan",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution_required": false,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ARYOKAN_PORTRAITE.JPG"
+    }
+  },
+  "hakuin": {
+    "qid": "Q177059",
+    "th_label": null,
+    "born": 1686,
+    "died": 1769,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/Hakuin_Ekaku",
+    "wiki_th": null,
+    "portrait": {
+      "file": "/portraits/hakuin.webp",
+      "thumb": "/portraits/hakuin-thumb.webp",
+      "kind": "painting",
+      "title": "File:Zen-Master-Hakuin-Ekaku-Self-Portrait-1767.png",
+      "artist": "Hakuin Ekaku (self-portrait)",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution_required": false,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AZen-Master-Hakuin-Ekaku-Self-Portrait-1767.png"
+    }
+  },
+  "shunryu-suzuki": {
+    "qid": "Q572599",
+    "th_label": null,
+    "born": 1904,
+    "died": 1971,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/Shunry%C5%AB_Suzuki",
+    "wiki_th": null,
+    "portrait": {
+      "file": "/portraits/shunryu-suzuki.webp",
+      "thumb": "/portraits/shunryu-suzuki-thumb.webp",
+      "kind": "photo",
+      "title": "File:Shunryu Suzuki at Zen Mountain Center (cropped).png",
+      "artist": "Tim Buckley, Lynn Good, or Robert Boni",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution_required": false,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AShunryu_Suzuki_at_Zen_Mountain_Center_(cropped).png"
+    }
+  },
+  "thich-nhat-hanh": {
+    "qid": "Q310913",
+    "th_label": "ทิก เญิ้ต หั่ญ",
+    "born": 1926,
+    "died": 2022,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/Th%C3%ADch_Nh%E1%BA%A5t_H%E1%BA%A1nh",
+    "wiki_th": "https://th.wikipedia.org/wiki/%E0%B8%97%E0%B8%B4%E0%B8%81_%E0%B9%80%E0%B8%8D%E0%B8%B4%E0%B9%89%E0%B8%95_%E0%B8%AB%E0%B8%B1%E0%B9%88%E0%B8%8D",
+    "portrait": {
+      "file": "/portraits/thich-nhat-hanh.webp",
+      "thumb": "/portraits/thich-nhat-hanh-thumb.webp",
+      "kind": "photo",
+      "title": "File:Thich Nhat Hanh 12 (cropped).jpg",
+      "artist": "Duc (pixiduc) from Paris, France.",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "attribution_required": true,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AThich_Nhat_Hanh_12_(cropped).jpg"
+    }
+  },
+  "ajahn-chah": {
+    "qid": "Q411930",
+    "th_label": "อาจารย์ชา",
+    "born": 1918,
+    "died": 1992,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/Ajahn_Chah",
+    "wiki_th": "https://th.wikipedia.org/wiki/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B9%80%E0%B8%96%E0%B8%A3_(%E0%B8%8A%E0%B8%B2_%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%97%E0%B8%BA%E0%B9%82%E0%B8%97)",
+    "portrait": {
+      "file": null,
+      "thumb": null,
+      "kind": "symbol",
+      "title": null,
+      "artist": null,
+      "license": null,
+      "license_url": null,
+      "attribution_required": false,
+      "source_page": null
+    }
+  },
+  "buddhadasa": {
+    "qid": "Q714446",
+    "th_label": "พระธรรมโกศาจารย์",
+    "born": 1906,
+    "died": 1993,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/Ajahn_Buddhadasa",
+    "wiki_th": "https://th.wikipedia.org/wiki/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B9%82%E0%B8%81%E0%B8%A8%E0%B8%B2%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%A2%E0%B9%8C_(%E0%B9%80%E0%B8%87%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%A1_%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%BA%E0%B8%97%E0%B8%9B%E0%B8%8D%E0%B8%BA%E0%B9%82%E0%B8%8D)",
+    "portrait": {
+      "file": "/portraits/buddhadasa.webp",
+      "thumb": "/portraits/buddhadasa-thumb.webp",
+      "kind": "photo",
+      "title": "File:BuddhadasaAsiti60.jpg",
+      "artist": "Unknown author",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution_required": true,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ABuddhadasaAsiti60.jpg"
+    }
+  },
+  "alan-watts": {
+    "qid": "Q354867",
+    "th_label": null,
+    "born": 1915,
+    "died": 1973,
+    "circa": false,
+    "wiki_en": "https://en.wikipedia.org/wiki/Alan_Watts",
+    "wiki_th": null,
+    "portrait": {
+      "file": "/portraits/alan-watts.webp",
+      "thumb": "/portraits/alan-watts-thumb.webp",
+      "kind": "photo",
+      "title": "File:Alan Watts UVM 15 June 1958 Hon. D.D (cropped).jpg",
+      "artist": "The University of Vermont Alumni Magazine vol. 39 no. 01, p. 22.",
+      "license": "Public domain",
+      "license_url": null,
+      "attribution_required": false,
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AAlan_Watts_UVM_15_June_1958_Hon._D.D_(cropped).jpg"
+    }
+  }
+}
