@@ -24,6 +24,16 @@ Thai first, English one tap away. No account needed to&nbsp;play.</sub></p>
 
 <br>
 
+<h3 align="center">หว่าน<br><sub>Sow: Philosophew 1.0 is open source</sub></h3>
+
+https://github.com/user-attachments/assets/70802488-4848-4688-96a5-7d5258b0ce8b
+
+<p align="center"><sub>เปิดโค้ดก็เหมือน&NoBreak;หว่านเมล็ด เราไม่ได้&NoBreak;เก็บไว้กับตัว แต่หว่าน&NoBreak;ออกไปให้&NoBreak;คนอื่น&NoBreak;ปลูกต่อ<br>
+Opening the code is sowing seed: scattered for others to&nbsp;grow.<br>
+Vincent van Gogh, <i>The Sower</i> (1888, public domain). The bust on the card: Marie-Lan Nguyen, CC BY&nbsp;2.5.</sub></p>
+
+<br>
+
 <h3 align="center">หายใจ<br><sub>Breathe</sub></h3>
 
 <p align="center">
