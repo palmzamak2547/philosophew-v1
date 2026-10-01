@@ -4,6 +4,7 @@
 #   python scripts/thai-words.py && node scripts/thai-words.mjs      (needs: pip install pythainlp)
 import glob, json, os, re, sys
 from pythainlp.tokenize import word_tokenize
+from pythainlp.corpus.common import thai_words
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.stdout.reconfigure(encoding='utf-8')
@@ -24,13 +25,20 @@ for f in glob.glob(os.path.join(ROOT, 'src', '**', '*.ts'), recursive=True):
     texts += re.findall(r"'([^'\n]*[ก-๛][^'\n]*)'|`([^`]*[ก-๛][^`]*)`", open(f, encoding='utf-8').read()) and \
         [a or b for a, b in re.findall(r"'([^'\n]*[ก-๛][^'\n]*)'|`([^`]*[ก-๛][^`]*)`", open(f, encoding='utf-8').read())]
 
-words = set()
+# Also each space-free chunk of text in its dictionary words, marked as in the dictionary or not, for step 2 to find
+# the words a browser splits in context (เป็นก|วี) though it keeps them whole alone.
+DICT = thai_words()
+words, chunks = set(), {}
 for t in texts:
     for run in THAI.findall(t):
         for w in word_tokenize(run, engine='newmm', keep_whitespace=False):
             if len(w) >= 4 and THAI.fullmatch(w):
                 words.add(w)
+    for chunk in t.split():
+        if THAI.search(chunk) and chunk not in chunks:
+            chunks[chunk] = [[w, w in DICT] for w in word_tokenize(chunk, engine='newmm', keep_whitespace=False)]
 out = os.path.join(ROOT, 'work', 'thai-candidates.json')
 os.makedirs(os.path.dirname(out), exist_ok=True)
-json.dump(sorted(words), open(out, 'w', encoding='utf-8'), ensure_ascii=False)
-print(f'{len(texts)} Thai texts, {len(words)} dictionary words of 4+ letters -> work/thai-candidates.json')
+json.dump({'words': sorted(words), 'chunks': list(chunks.items())}, open(out, 'w', encoding='utf-8'), ensure_ascii=False)
+json.dump(sorted(DICT), open(os.path.join(ROOT, 'work', 'thai-dict.json'), 'w', encoding='utf-8'), ensure_ascii=False)
+print(f'{len(texts)} Thai texts, {len(words)} dictionary words of 4+ letters, {len(chunks)} chunks -> work/thai-candidates.json')

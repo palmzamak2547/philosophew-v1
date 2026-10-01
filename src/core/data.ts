@@ -1,4 +1,5 @@
 import { protect } from './thai';
+import { HELD } from '../content/names';
 import type { SchoolId } from '../content/schools';
 import { t } from './i18n';
 
@@ -54,6 +55,8 @@ function getJson<T>(url: string): Promise<T> {
   }
   return p;
 }
+
+protect(HELD, true); // names and terms no dictionary knows (src/content/names.ts)
 
 // every part of every Thai name is protected from line breaks inside it (src/core/thai.ts)
 export const loadAuthors = () => getJson<Record<string, Author>>('/data/authors.json').then((all) => {

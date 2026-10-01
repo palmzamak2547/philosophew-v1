@@ -10,43 +10,71 @@ const GLUE = /^(ๆ|ฯ|หรอก|นะ|ครับ|ค่ะ|คะ|จ้
 const TAIL = /^([ก-ฮ]{1,2}[ิุ]?์|[ก-ฮ][่-๋]?$|[ะาำๅัิ-ฺ็-๎])/;
 const HEAD = /[เแโใไั็]$/; // a leading vowel, or ั and ็ that need the consonant after them
 // words that never end a line: they belong with what follows (ของ|จักรวาล, และ|นั่นแหละ, สิ่งที่|เลือก)
-// and the prefixes that make a word of what follows (การ|กระทำ, ความ|สุข, ผู้|คน, นัก|ปรัชญา)
-const NEXT = /^(และ|หรือ|แต่|ซึ่ง|ของ|กับ|ใน|ที่|จาก|ถึง|แห่ง|เพื่อ|โดย|ว่า|การ|ความ|ผู้|นัก)$/;
+// and the prefixes that make a word of what follows (การ|กระทำ, ความ|สุข, ผู้|คน, นัก|ปรัชญา, พระ|เรวตะ)
+const NEXT = /^(และ|หรือ|แต่|ซึ่ง|ของ|กับ|ใน|ที่|จาก|ถึง|แห่ง|เพื่อ|โดย|ว่า|การ|ความ|ผู้|นัก|พระ)$/;
 const OPEN = /^[(\[“‘"']+$/; // an opening quote or bracket belongs to the word after it
 const seg = typeof Intl !== 'undefined' && 'Segmenter' in Intl ? new Intl.Segmenter('th', { granularity: 'word' }) : null;
+const letters = seg && new Intl.Segmenter('th', { granularity: 'grapheme' });
 const JOIN = '\u2060'; // word joiner: no break here even when the phrase has to wrap
-const names = new Set<string>();
+const names = new Set<string>(); // never broken inside
+const whole = new Set<string>(); // also cut out as one piece before the text around them is segmented
 
-/** Words that must never break inside (Thai name parts: transliterations the dictionary does not know). */
-export function protect(words: Iterable<string>) {
-  for (const w of words) if (w.length >= 3 && /[ก-๛]/.test(w)) names.add(w);
+/**
+ * Words that must never break inside (Thai name parts: transliterations the dictionary does not know). A particle
+ * (เดอ, ฟอน) is left out: it already keeps the name after it. Names of five letters or more, and any passed with
+ * `whole`, are cut out before the text around them is segmented; a shorter one can be a piece of an ordinary word
+ * (the ล็อก of Locke in บล็อก, the ติช of Thich in ปฏิวัติชาว), so it only holds its own pieces together.
+ */
+export function protect(words: Iterable<string>, all = false) {
+  for (const w of words) if (w.length >= 3 && /[ก-๛]/.test(w) && !/^(เดอ|ฟอน|ฟาน|แวน)$/.test(w)) {
+    names.add(w);
+    if (all || w.length >= 5) whole.add(w);
+  }
 }
 
-// words a Thai dictionary keeps whole but the browser's splits (เศร้า|หมอง): public/data/thai-words.json, built
-// by scripts/thai-words.py and .mjs from every Thai line the app shows
-const known = new Set<string>();
+// words a Thai dictionary keeps whole but a browser splits, alone (เศร้า|หมอง) or beside the words around them
+// (เป็นก|วี, จา|กอะ|ไร): public/data/thai-words.json, built by scripts/thai-words.py and .mjs from every Thai line the
+// app shows. Held wherever they occur, whatever pieces the browser cut them into.
+const known = new Map<string, string[]>(); // by their first two letters
 /** Dictionary words to hold together; loaded after startup, then the page is set again (retypeset). */
-export function protectWords(words: Iterable<string>) { for (const w of words) known.add(w); }
+export function protectWords(words: Iterable<string>) {
+  for (const w of words) if (w.length >= 2) { const k = w.slice(0, 2), l = known.get(k); if (l) l.push(w); else known.set(k, [w]); }
+}
 
 /** Words of one phrase, joined where a line must not break. */
 export function wordsOf(phrase: string): string[] {
   if (!seg) return [phrase];
-  const held: [number, number][] = [];
-  for (const n of names) for (let k = phrase.indexOf(n); k >= 0; k = phrase.indexOf(n, k + n.length)) held.push([k, k + n.length]);
-  const segs = [...seg.segment(phrase)];
-  // a run of up to five pieces that spells a known word stays together (a Set lookup per run: fast on long pages)
-  const hold = new Set<number>();
-  if (known.size) for (let i = 0; i < segs.length - 1; i++) {
-    let w = segs[i].segment;
-    for (let j = i + 1; j < Math.min(segs.length, i + 5); j++) {
-      w += segs[j].segment;
-      if (known.has(w)) for (let k = i + 1; k <= j; k++) hold.add(k);
-    }
+  // a name is one piece, and the text on either side of it is segmented on its own: the dictionary has never seen the
+  // name, and its guess at one also broke the words beside it (ริลเคอรู้|สึก, กามูกำ|ลัง, ขอ|งอัตถิภาวนิยม)
+  const found: [number, number][] = [], held: [number, number][] = [];
+  for (const n of names) for (let k = phrase.indexOf(n); k >= 0; k = phrase.indexOf(n, k + 1)) (whole.has(n) ? found : held).push([k, k + n.length]);
+  found.sort((a, b) => a[0] - b[0] || b[1] - a[1]); // leftmost first, then the longest
+  const segs: { segment: string; index: number }[] = [];
+  let at = 0;
+  const cut = (to: number) => { for (const s of to > at ? seg.segment(phrase.slice(at, to)) : []) segs.push({ segment: s.segment, index: at + s.index }); };
+  // the name's own letters are joined too: the browser breaks the line by its own dictionary, which would split the name
+  // (เห็นโก|โดต์) wherever no joiner stands
+  const joined = (s: string) => [...letters!.segment(s)].map((g) => g.segment).join(JOIN);
+  for (const [a, b] of found) if (a >= at) { cut(a); segs.push({ segment: joined(phrase.slice(a, b)), index: a }); at = b; }
+  cut(phrase.length);
+  // a known word stays whole (a Map lookup per letter: fast on long pages). Longest first; one that overlaps words already
+  // held joins them only while together they stay about a word long (บอก and กว่า in มาบอกว่า), or two would chain into a
+  // stretch no line may break: ตามใจความทะเยอทะยาน is ตามใจ and ความทะเยอทะยาน, not ใจความ as well.
+  const hits: [number, number][] = [], spans: [number, number][] = [];
+  for (let i = 0; known.size && i < phrase.length - 1; i++) for (const w of known.get(phrase.slice(i, i + 2)) || []) if (phrase.startsWith(w, i)) hits.push([i, i + w.length]);
+  hits.sort((a, b) => b[1] - b[0] - (a[1] - a[0]));
+  for (const [a, b] of hits) {
+    const over = spans.filter(([c, d]) => a < d && c < b);
+    const lo = Math.min(a, ...over.map((s) => s[0])), hi = Math.max(b, ...over.map((s) => s[1]));
+    if (over.length && hi - lo > 10) continue;
+    for (const s of over) spans.splice(spans.indexOf(s), 1);
+    spans.push([lo, hi]);
   }
+  held.push(...spans);
   const out: string[] = [];
   let prev = '';
-  segs.forEach(({ segment, index }, i) => {
-    const glue = out.length && (GLUE.test(segment) || TAIL.test(segment) || OPEN.test(prev) || HEAD.test(prev) || NEXT.test(prev) || hold.has(i) || held.some(([a, b]) => index > a && index < b));
+  segs.forEach(({ segment, index }) => {
+    const glue = out.length && (GLUE.test(segment) || TAIL.test(segment) || OPEN.test(prev) || HEAD.test(prev) || NEXT.test(prev) || held.some(([a, b]) => index > a && index < b));
     if (glue) out[out.length - 1] += JOIN + segment;
     else out.push(segment);
     prev = segment;
@@ -58,6 +86,7 @@ export function wordsOf(phrase: string): string[] {
 // The space stays (it is how Thai writes ๆ) but becomes one no line may break at. A particle may close a quotation or
 // a sentence (ใจเย็นๆ นะ”): the marks after it are still its own, or Firefox opened the last line with นะ”.
 const LEAN = /^([ๆฯ]|(หรอก|นะ|ครับ|ค่ะ|คะ|จ้ะ|จ๊ะ|เถอะ|ล่ะ|สิ|เลย|ด้วย|ไหม|มั้ย|เอง|แหละ|น่ะ)[”"’'.!?…)\]]*$)/;
+const LEAD = /^[^ \t\n\r]{0,13}(คือ|ว่า)$/; // a short phrase that introduces the next: ใจความคือ, เขาสรุปว่า
 const lean = (text: string) => text.replace(/[ \t\n\r]+(\S+)/g, (m, word: string) => (LEAN.test(word) ? '\u00a0' + word : m));
 
 // a number keeps its unit (12 วัน) and its label (Best: 14); initials and particles keep the name they belong to
@@ -85,6 +114,9 @@ export function phrases(text: string, opts: { words?: boolean } = {}): Html[] {
   // (a word-by-word entrance keeps the tie only: its words are boxes of their own, and a space between two would vanish)
   const most = opts.words ? 22 : 32;
   if (n >= 5 && /^\s+$/.test(chunks[n - 2]) && !THAI.test(a + z) && (a + z).length <= most) chunks.splice(n - 3, 3, a + ((a + z).length <= 22 ? NB : ' ') + z);
+  // a short lead-in (ใจความคือ, เขาจึงถามต่อว่า) never ends a line alone: it keeps the phrase it introduces, which
+  // otherwise, held whole, left it on a line of its own
+  if (!opts.words) for (let k = 0; k + 2 < chunks.length; k++) if (LEAD.test(chunks[k]) && /^\s+$/.test(chunks[k + 1])) chunks.splice(k, 3, chunks[k] + NB + chunks[k + 2]), k--;
   return chunks.map((chunk) => {
     if (/^\s+$/.test(chunk)) return html` `;
     const ws = wordsOf(chunk);
